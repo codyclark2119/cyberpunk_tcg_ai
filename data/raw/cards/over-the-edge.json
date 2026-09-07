@@ -1,0 +1,99 @@
+{
+  "artist": "Roberto Ricci",
+  "card_type": "Program",
+  "classifications": [
+    "Merc"
+  ],
+  "color": "Red",
+  "cost": 3,
+  "display_name": "Over the Edge",
+  "external_id": "cb-over-the-edge",
+  "flavor_text": null,
+  "id": "144c3559-3518-4c01-b9e6-af42b7166661",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/f1cf4133-45ef-4de5-abfc-757de1613731/render-mpvmc1b2.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Over the Edge",
+  "power": null,
+  "print_number": "034",
+  "printing_id": "f1cf4133-45ef-4de5-abfc-757de1613731",
+  "printings": [
+    {
+      "artist": "Roberto Ricci",
+      "collector_number": "034",
+      "finish": null,
+      "id": "f1cf4133-45ef-4de5-abfc-757de1613731",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/f1cf4133-45ef-4de5-abfc-757de1613731/render-mpvmc1b2.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/f1cf4133-45ef-4de5-abfc-757de1613731/render-mpvmc1b2.webp"
+    },
+    {
+      "artist": "Roberto Ricci",
+      "collector_number": "\u03b2034",
+      "finish": null,
+      "id": "6213bf57-92d7-4a64-8d80-948ba53b8d80",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/6213bf57-92d7-4a64-8d80-948ba53b8d80/render-mpvk55fl.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/6213bf57-92d7-4a64-8d80-948ba53b8d80/render-mpvk55fl.webp"
+    },
+    {
+      "artist": "Roberto Ricci",
+      "collector_number": "10",
+      "finish": null,
+      "id": "9e5a152e-6105-44a4-8db0-9cbf6cda2252",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/9e5a152e-6105-44a4-8db0-9cbf6cda2252/render-mpwbyqow.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "embracingpowerretailstarterdeck",
+        "name": "Embracing Power \u2014 Retail Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/9e5a152e-6105-44a4-8db0-9cbf6cda2252/render-mpwbyqow.webp"
+    },
+    {
+      "artist": "Roberto Ricci",
+      "collector_number": "\u03b2010",
+      "finish": null,
+      "id": "de9b7361-6d1c-4a27-bcfb-50ec7a78e518",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/de9b7361-6d1c-4a27-bcfb-50ec7a78e518/render-mpwbnkb0.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "embracingpowerbetastarterdeck",
+        "name": "Embracing Power \u2014 Beta Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/de9b7361-6d1c-4a27-bcfb-50ec7a78e518/render-mpwbnkb0.webp"
+    },
+    {
+      "artist": "Roberto Ricci",
+      "collector_number": "007",
+      "finish": null,
+      "id": "cf48d5e6-21d2-4d17-a731-5dc9091c6cd1",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/cf48d5e6-21d2-4d17-a731-5dc9091c6cd1/render-mqf82fxe.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "arasakademodeck",
+        "name": "Arasaka Demo Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/cf48d5e6-21d2-4d17-a731-5dc9091c6cd1/render-mqf82fxe.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Common",
+  "rules_text": "Defeat a Unit with power equal to or less than the value of a friendly d20.",
+  "selected_printing_id": "f1cf4133-45ef-4de5-abfc-757de1613731",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "over-the-edge",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/f1cf4133-45ef-4de5-abfc-757de1613731/render-mpvmc1b2.webp",
+  "subname": null
+}

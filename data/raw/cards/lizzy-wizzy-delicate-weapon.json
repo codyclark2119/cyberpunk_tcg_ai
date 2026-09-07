@@ -1,0 +1,60 @@
+{
+  "artist": "CD Projekt Red",
+  "card_type": "Unit",
+  "classifications": [
+    "Rocker"
+  ],
+  "color": "Blue",
+  "cost": 5,
+  "display_name": "Lizzy Wizzy: Delicate Weapon",
+  "external_id": "cb-lizzy-wizzy-delicate-weapon",
+  "flavor_text": null,
+  "id": "6b078eff-4cef-4beb-a299-ed388a72ce45",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7072a2d2-ec4f-4575-909e-15a107dfef79/render-mpvm9lt7.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Lizzy Wizzy",
+  "power": 2,
+  "print_number": "117",
+  "printing_id": "7072a2d2-ec4f-4575-909e-15a107dfef79",
+  "printings": [
+    {
+      "artist": "CD Projekt Red",
+      "collector_number": "117",
+      "finish": null,
+      "id": "7072a2d2-ec4f-4575-909e-15a107dfef79",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7072a2d2-ec4f-4575-909e-15a107dfef79/render-mpvm9lt7.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7072a2d2-ec4f-4575-909e-15a107dfef79/render-mpvm9lt7.webp"
+    },
+    {
+      "artist": "CD Projekt Red",
+      "collector_number": "\u03b2117",
+      "finish": null,
+      "id": "929b5e98-ab82-4e36-bb72-a00a223ded77",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/929b5e98-ab82-4e36-bb72-a00a223ded77/render-mpv4smzn.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/929b5e98-ab82-4e36-bb72-a00a223ded77/render-mpv4smzn.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Rare",
+  "rules_text": "{Play} You may play a Program with cost 3 or less from your hand or trash for free. Bottom-deck it after you play it.\n{Blocker}",
+  "selected_printing_id": "7072a2d2-ec4f-4575-909e-15a107dfef79",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "lizzy-wizzy-delicate-weapon",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7072a2d2-ec4f-4575-909e-15a107dfef79/render-mpvm9lt7.webp",
+  "subname": "Delicate Weapon"
+}

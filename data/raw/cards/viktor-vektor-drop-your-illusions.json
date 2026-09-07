@@ -1,0 +1,60 @@
+{
+  "artist": "TOPDOG Entertainment",
+  "card_type": "Unit",
+  "classifications": [
+    "Ripperdoc"
+  ],
+  "color": "Yellow",
+  "cost": 5,
+  "display_name": "Viktor Vektor: Drop Your Illusions",
+  "external_id": "cb-viktor-vektor-drop-your-illusions",
+  "flavor_text": null,
+  "id": "92d23553-8b0d-49cd-8cbe-6f00b3377298",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2285cd3a-7010-4ba4-b23a-ba40aba296f9/render-mpvlny5c.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Viktor Vektor",
+  "power": 5,
+  "print_number": "057",
+  "printing_id": "2285cd3a-7010-4ba4-b23a-ba40aba296f9",
+  "printings": [
+    {
+      "artist": "TOPDOG Entertainment",
+      "collector_number": "057",
+      "finish": null,
+      "id": "2285cd3a-7010-4ba4-b23a-ba40aba296f9",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2285cd3a-7010-4ba4-b23a-ba40aba296f9/render-mpvlny5c.webp",
+      "rarity": "Epic",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2285cd3a-7010-4ba4-b23a-ba40aba296f9/render-mpvlny5c.webp"
+    },
+    {
+      "artist": "TOPDOG Entertainment",
+      "collector_number": "\u03b2057",
+      "finish": null,
+      "id": "ade4a2d5-df74-44fe-ab5f-222dc6e2ce27",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/ade4a2d5-df74-44fe-ab5f-222dc6e2ce27/render-mpv4ubex.webp",
+      "rarity": "Epic",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/ade4a2d5-df74-44fe-ab5f-222dc6e2ce27/render-mpv4ubex.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Epic",
+  "rules_text": "Play your first CYBERWARE Gear each turn for -3 \u20ac$, to a minimum of 1 \u20ac$.",
+  "selected_printing_id": "2285cd3a-7010-4ba4-b23a-ba40aba296f9",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "viktor-vektor-drop-your-illusions",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2285cd3a-7010-4ba4-b23a-ba40aba296f9/render-mpvlny5c.webp",
+  "subname": "Drop Your Illusions"
+}

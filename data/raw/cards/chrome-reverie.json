@@ -1,0 +1,60 @@
+{
+  "artist": "ADIA",
+  "card_type": "Program",
+  "classifications": [
+    "Braindance"
+  ],
+  "color": "Blue",
+  "cost": 3,
+  "display_name": "Chrome Reverie",
+  "external_id": "cb-chrome-reverie",
+  "flavor_text": null,
+  "id": "19f34c9b-a24a-43be-bd9f-62c37435e994",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3f0319b8-e315-4e71-85b7-147a5b8ceba5/render-mpvmbh1k.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Chrome Reverie",
+  "power": null,
+  "print_number": "131",
+  "printing_id": "3f0319b8-e315-4e71-85b7-147a5b8ceba5",
+  "printings": [
+    {
+      "artist": "ADIA",
+      "collector_number": "131",
+      "finish": null,
+      "id": "3f0319b8-e315-4e71-85b7-147a5b8ceba5",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3f0319b8-e315-4e71-85b7-147a5b8ceba5/render-mpvmbh1k.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3f0319b8-e315-4e71-85b7-147a5b8ceba5/render-mpvmbh1k.webp"
+    },
+    {
+      "artist": "ADIA",
+      "collector_number": "\u03b2131",
+      "finish": null,
+      "id": "0be394e3-ce41-4f16-a95b-33ec951bf43c",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0be394e3-ce41-4f16-a95b-33ec951bf43c/render-mpvk6evl.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0be394e3-ce41-4f16-a95b-33ec951bf43c/render-mpvk6evl.webp"
+    }
+  ],
+  "ram": 1,
+  "rarity": "Common",
+  "rules_text": "A rival Unit can't attack until your next turn. If you control a min Gig, you may Call a Legend for free. (You can only Call a Legend once per turn.)",
+  "selected_printing_id": "3f0319b8-e315-4e71-85b7-147a5b8ceba5",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "chrome-reverie",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3f0319b8-e315-4e71-85b7-147a5b8ceba5/render-mpvmbh1k.webp",
+  "subname": null
+}

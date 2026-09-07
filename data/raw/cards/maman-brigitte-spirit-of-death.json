@@ -1,0 +1,62 @@
+{
+  "artist": "TOPDOG Entertainment",
+  "card_type": "Unit",
+  "classifications": [
+    "Mystic",
+    "Netrunner",
+    "Voodoo Boys"
+  ],
+  "color": "Blue",
+  "cost": 5,
+  "display_name": "Maman Brigitte: Spirit of Death",
+  "external_id": "cb-maman-brigitte-spirit-of-death",
+  "flavor_text": null,
+  "id": "5380dea3-4d21-445b-af02-487b45d40395",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/8a7131eb-e1dd-46d6-84f6-2de315aee975/render-mpvm66w6.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Maman Brigitte",
+  "power": 3,
+  "print_number": "118",
+  "printing_id": "8a7131eb-e1dd-46d6-84f6-2de315aee975",
+  "printings": [
+    {
+      "artist": "TOPDOG Entertainment",
+      "collector_number": "118",
+      "finish": null,
+      "id": "8a7131eb-e1dd-46d6-84f6-2de315aee975",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/8a7131eb-e1dd-46d6-84f6-2de315aee975/render-mpvm66w6.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/8a7131eb-e1dd-46d6-84f6-2de315aee975/render-mpvm66w6.webp"
+    },
+    {
+      "artist": "TOPDOG Entertainment",
+      "collector_number": "\u03b2118",
+      "finish": null,
+      "id": "220bef49-2e98-4bc6-b023-5bb8f492b29b",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/220bef49-2e98-4bc6-b023-5bb8f492b29b/render-mpv4pquy.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/220bef49-2e98-4bc6-b023-5bb8f492b29b/render-mpv4pquy.webp"
+    }
+  ],
+  "ram": 4,
+  "rarity": "Uncommon",
+  "rules_text": "{Play} You may discard 2 Programs. If you do, bottom-deck a rival unequipped Unit.",
+  "selected_printing_id": "8a7131eb-e1dd-46d6-84f6-2de315aee975",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "maman-brigitte-spirit-of-death",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/8a7131eb-e1dd-46d6-84f6-2de315aee975/render-mpvm66w6.webp",
+  "subname": "Spirit of Death"
+}

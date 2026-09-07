@@ -1,0 +1,75 @@
+{
+  "artist": "\u0141ukasz Poller",
+  "card_type": "Legend",
+  "classifications": [
+    "Maine's Crew",
+    "Merc",
+    "Netrunner"
+  ],
+  "color": "Blue",
+  "cost": 5,
+  "display_name": "Sasha Yakovleva: Won't Let You Down",
+  "external_id": "cb-sasha-yakovleva-won-t-let-you-down",
+  "flavor_text": null,
+  "id": "e2dc863c-5bc9-4ad7-9138-2d5b966ed901",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2647f881-5a7e-4ffb-b231-6574dc531f43/render-mpvmpbjg.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Sasha Yakovleva",
+  "power": 0,
+  "print_number": "109",
+  "printing_id": "2647f881-5a7e-4ffb-b231-6574dc531f43",
+  "printings": [
+    {
+      "artist": "\u0141ukasz Poller",
+      "collector_number": "109",
+      "finish": null,
+      "id": "2647f881-5a7e-4ffb-b231-6574dc531f43",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2647f881-5a7e-4ffb-b231-6574dc531f43/render-mpvmpbjg.webp",
+      "rarity": "Secret",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2647f881-5a7e-4ffb-b231-6574dc531f43/render-mpvmpbjg.webp"
+    },
+    {
+      "artist": "\u0141ukasz Poller",
+      "collector_number": "\u03b2109",
+      "finish": null,
+      "id": "fa80313c-9aeb-4ae8-ad81-35b3f45fcbfe",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/fa80313c-9aeb-4ae8-ad81-35b3f45fcbfe/render-mpv40c01.webp",
+      "rarity": "Secret",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/fa80313c-9aeb-4ae8-ad81-35b3f45fcbfe/render-mpv40c01.webp"
+    },
+    {
+      "artist": "Divebound Studio",
+      "collector_number": "\u03b2169",
+      "finish": null,
+      "id": "146d6391-3b35-4e74-b270-cef69d8f2a91",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/146d6391-3b35-4e74-b270-cef69d8f2a91/render-mpxm0b8d.webp",
+      "rarity": "Iconic Secret",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/146d6391-3b35-4e74-b270-cef69d8f2a91/render-mpxm0b8d.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Secret",
+  "rules_text": "{Go Solo}\n{Attack} Reveal the top card of your deck and add it to your hand. This Unit gains power equal to that card's cost this turn.\n{Defeated} A Rival discards 1.",
+  "selected_printing_id": "2647f881-5a7e-4ffb-b231-6574dc531f43",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "sasha-yakovleva-won-t-let-you-down",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2647f881-5a7e-4ffb-b231-6574dc531f43/render-mpvmpbjg.webp",
+  "subname": "Won't Let You Down"
+}

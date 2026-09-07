@@ -1,0 +1,87 @@
+{
+  "artist": "ADIA",
+  "card_type": "Gear",
+  "classifications": [
+    "Arasaka",
+    "Cyberware"
+  ],
+  "color": "Red",
+  "cost": 2,
+  "display_name": "Arasaka Emergency Radioport",
+  "external_id": "cb-arasaka-emergency-radioport",
+  "flavor_text": null,
+  "id": "5233bacc-f39f-4383-8e25-57ef634735ca",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/d2da65d5-fdaf-44f4-a692-a5672d2c1cca/render-mpvmwsoe.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Arasaka Emergency Radioport",
+  "power": 2,
+  "print_number": "023",
+  "printing_id": "d2da65d5-fdaf-44f4-a692-a5672d2c1cca",
+  "printings": [
+    {
+      "artist": "ADIA",
+      "collector_number": "023",
+      "finish": null,
+      "id": "d2da65d5-fdaf-44f4-a692-a5672d2c1cca",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/d2da65d5-fdaf-44f4-a692-a5672d2c1cca/render-mpvmwsoe.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/d2da65d5-fdaf-44f4-a692-a5672d2c1cca/render-mpvmwsoe.webp"
+    },
+    {
+      "artist": "ADIA",
+      "collector_number": "\u03b2023",
+      "finish": null,
+      "id": "7ff6a088-1720-45b6-a3cf-30709415df5e",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7ff6a088-1720-45b6-a3cf-30709415df5e/render-mpvjtyik.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7ff6a088-1720-45b6-a3cf-30709415df5e/render-mpvjtyik.webp"
+    },
+    {
+      "artist": "ADIA",
+      "collector_number": "006",
+      "finish": null,
+      "id": "49c919ef-61d7-47d3-b855-1d4d7c0f783f",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/49c919ef-61d7-47d3-b855-1d4d7c0f783f/render-mpwbvexo.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "embracingpowerretailstarterdeck",
+        "name": "Embracing Power \u2014 Retail Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/49c919ef-61d7-47d3-b855-1d4d7c0f783f/render-mpwbvexo.webp"
+    },
+    {
+      "artist": "ADIA",
+      "collector_number": "\u03b2006",
+      "finish": null,
+      "id": "be0d995d-84fc-41c3-bed6-1875caf85fc7",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/be0d995d-84fc-41c3-bed6-1875caf85fc7/render-mpwbkzux.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "embracingpowerbetastarterdeck",
+        "name": "Embracing Power \u2014 Beta Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/be0d995d-84fc-41c3-bed6-1875caf85fc7/render-mpwbkzux.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Common",
+  "rules_text": "(Equip to a friendly Unit or face-up Legend.)\nWhen this Unit or Legend is spent, you may look at a friendly face-down Legend. If that Legend is ARASAKA or has {Go Solo}, you may Call it for free. (You may only Call a Legend once per turn.)",
+  "selected_printing_id": "d2da65d5-fdaf-44f4-a692-a5672d2c1cca",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "arasaka-emergency-radioport",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/d2da65d5-fdaf-44f4-a692-a5672d2c1cca/render-mpvmwsoe.webp",
+  "subname": null
+}

@@ -1,0 +1,60 @@
+{
+  "artist": "ADIA",
+  "card_type": "Unit",
+  "classifications": [
+    "Mystic"
+  ],
+  "color": "Blue",
+  "cost": 3,
+  "display_name": "Misty Olszewski: Mender of Broken Spirits",
+  "external_id": "cb-misty-olszewski-mender-of-broken-spirits",
+  "flavor_text": null,
+  "id": "383abfb4-eedb-47c1-87f0-3ae4973c3619",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/17252514-02ba-4d0d-a9cc-3590cee528af/render-mpvm7tns.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Misty Olszewski",
+  "power": 0,
+  "print_number": "119",
+  "printing_id": "17252514-02ba-4d0d-a9cc-3590cee528af",
+  "printings": [
+    {
+      "artist": "ADIA",
+      "collector_number": "119",
+      "finish": null,
+      "id": "17252514-02ba-4d0d-a9cc-3590cee528af",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/17252514-02ba-4d0d-a9cc-3590cee528af/render-mpvm7tns.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/17252514-02ba-4d0d-a9cc-3590cee528af/render-mpvm7tns.webp"
+    },
+    {
+      "artist": "ADIA",
+      "collector_number": "\u03b2119",
+      "finish": null,
+      "id": "e4a8b8fc-fbc7-41ce-9f89-7538690b9c62",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e4a8b8fc-fbc7-41ce-9f89-7538690b9c62/render-mpv4pu0h.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e4a8b8fc-fbc7-41ce-9f89-7538690b9c62/render-mpv4pu0h.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Rare",
+  "rules_text": "This Unit can't attack.\nAt the end of your turn, choose a card type. Then, reveal the top card of your deck. If it's the chosen type, add it to your hand and ready 1 Eddie. Otherwise, trash it.\n(Card types include Unit, Gear, and Program.)",
+  "selected_printing_id": "17252514-02ba-4d0d-a9cc-3590cee528af",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "misty-olszewski-mender-of-broken-spirits",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/17252514-02ba-4d0d-a9cc-3590cee528af/render-mpvm7tns.webp",
+  "subname": "Mender of Broken Spirits"
+}

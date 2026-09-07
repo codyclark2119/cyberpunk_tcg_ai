@@ -1,0 +1,100 @@
+{
+  "artist": "Ivan Shavrin",
+  "card_type": "Gear",
+  "classifications": [
+    "Arasaka",
+    "Weapon"
+  ],
+  "color": "Red",
+  "cost": 2,
+  "display_name": "Satori: Sword of Saburo",
+  "external_id": "cb-satori-sword-of-saburo",
+  "flavor_text": null,
+  "id": "4670d02b-b97a-4771-bb7e-65bdc012530e",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/11a8fed4-5401-4cfc-901b-ab9b5b94d0ab/render-mpvmzfgs.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Satori",
+  "power": 2,
+  "print_number": "026",
+  "printing_id": "11a8fed4-5401-4cfc-901b-ab9b5b94d0ab",
+  "printings": [
+    {
+      "artist": "Ivan Shavrin",
+      "collector_number": "026",
+      "finish": null,
+      "id": "11a8fed4-5401-4cfc-901b-ab9b5b94d0ab",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/11a8fed4-5401-4cfc-901b-ab9b5b94d0ab/render-mpvmzfgs.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/11a8fed4-5401-4cfc-901b-ab9b5b94d0ab/render-mpvmzfgs.webp"
+    },
+    {
+      "artist": "Ivan Shavrin",
+      "collector_number": "\u03b2026",
+      "finish": null,
+      "id": "b12e1665-bf29-4b2c-b92d-865cff227a67",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/b12e1665-bf29-4b2c-b92d-865cff227a67/render-mpvjvw74.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/b12e1665-bf29-4b2c-b92d-865cff227a67/render-mpvjvw74.webp"
+    },
+    {
+      "artist": "Ivan Shavrin",
+      "collector_number": "008",
+      "finish": null,
+      "id": "0e0e7e20-eaf3-4dea-a177-cb54e01ffec6",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0e0e7e20-eaf3-4dea-a177-cb54e01ffec6/render-mpwbw1pc.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "embracingpowerretailstarterdeck",
+        "name": "Embracing Power \u2014 Retail Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0e0e7e20-eaf3-4dea-a177-cb54e01ffec6/render-mpwbw1pc.webp"
+    },
+    {
+      "artist": "Ivan Shavrin",
+      "collector_number": "\u03b2008",
+      "finish": null,
+      "id": "e9dba54d-79bf-4f33-bd67-ba026e371c03",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e9dba54d-79bf-4f33-bd67-ba026e371c03/render-mpwbmb33.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "embracingpowerbetastarterdeck",
+        "name": "Embracing Power \u2014 Beta Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e9dba54d-79bf-4f33-bd67-ba026e371c03/render-mpwbmb33.webp"
+    },
+    {
+      "artist": "Ivan Shavrin",
+      "collector_number": "005",
+      "finish": null,
+      "id": "3b656cec-684d-440b-9c76-0aa9a4a98b81",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3b656cec-684d-440b-9c76-0aa9a4a98b81/render-mqf825ky.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "arasakademodeck",
+        "name": "Arasaka Demo Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3b656cec-684d-440b-9c76-0aa9a4a98b81/render-mqf825ky.webp"
+    }
+  ],
+  "ram": 1,
+  "rarity": "Uncommon",
+  "rules_text": "(Equip to a friendly Unit or face-up Legend.)\nWhen this Unit wins a fight against a rival Unit, draw 1.",
+  "selected_printing_id": "11a8fed4-5401-4cfc-901b-ab9b5b94d0ab",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "satori-sword-of-saburo",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/11a8fed4-5401-4cfc-901b-ab9b5b94d0ab/render-mpvmzfgs.webp",
+  "subname": "Sword of Saburo"
+}

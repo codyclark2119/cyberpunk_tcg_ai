@@ -1,0 +1,60 @@
+{
+  "artist": "TOPDOG Entertainment",
+  "card_type": "Gear",
+  "classifications": [
+    "Weapon"
+  ],
+  "color": "Green",
+  "cost": 2,
+  "display_name": "Riot Shield",
+  "external_id": "cb-riot-shield",
+  "flavor_text": null,
+  "id": "7da95cf0-f749-439f-b40a-9d3057d2c995",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/ce570725-0de7-438a-a9c8-33074a7180ba/render-mpvn01qb.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Riot Shield",
+  "power": 1,
+  "print_number": "094",
+  "printing_id": "ce570725-0de7-438a-a9c8-33074a7180ba",
+  "printings": [
+    {
+      "artist": "TOPDOG Entertainment",
+      "collector_number": "094",
+      "finish": null,
+      "id": "ce570725-0de7-438a-a9c8-33074a7180ba",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/ce570725-0de7-438a-a9c8-33074a7180ba/render-mpvn01qb.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/ce570725-0de7-438a-a9c8-33074a7180ba/render-mpvn01qb.webp"
+    },
+    {
+      "artist": "TOPDOG Entertainment",
+      "collector_number": "\u03b2094",
+      "finish": null,
+      "id": "fa711a0e-06bb-429b-a43a-89c50fb9d590",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/fa711a0e-06bb-429b-a43a-89c50fb9d590/render-mpvjvwch.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/fa711a0e-06bb-429b-a43a-89c50fb9d590/render-mpvjvwch.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Uncommon",
+  "rules_text": "(Equip to a friendly Unit or face-up Legend.)\n{Blocker} (You may spend this Unit to redirect a rival Unit's attack to it instead.)\nRivals must pay +2 \u20ac$ to use {Go Solo}.",
+  "selected_printing_id": "ce570725-0de7-438a-a9c8-33074a7180ba",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "riot-shield",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/ce570725-0de7-438a-a9c8-33074a7180ba/render-mpvn01qb.webp",
+  "subname": null
+}

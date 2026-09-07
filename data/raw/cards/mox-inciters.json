@@ -1,0 +1,61 @@
+{
+  "artist": "Micha\u0142 Dziekan",
+  "card_type": "Unit",
+  "classifications": [
+    "Ganger",
+    "Mox"
+  ],
+  "color": "Blue",
+  "cost": 3,
+  "display_name": "Mox Inciters",
+  "external_id": "cb-mox-inciters",
+  "flavor_text": null,
+  "id": "ef77dd1f-3abd-4ce2-becc-97dd768a5022",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/354fd7d3-070d-4767-989c-5b3efbd9f30d/render-mpvlrgqe.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Mox Inciters",
+  "power": 2,
+  "print_number": "122",
+  "printing_id": "354fd7d3-070d-4767-989c-5b3efbd9f30d",
+  "printings": [
+    {
+      "artist": "Micha\u0142 Dziekan",
+      "collector_number": "122",
+      "finish": null,
+      "id": "354fd7d3-070d-4767-989c-5b3efbd9f30d",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/354fd7d3-070d-4767-989c-5b3efbd9f30d/render-mpvlrgqe.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/354fd7d3-070d-4767-989c-5b3efbd9f30d/render-mpvlrgqe.webp"
+    },
+    {
+      "artist": "Micha\u0142 Dziekan",
+      "collector_number": "\u03b2122",
+      "finish": null,
+      "id": "859345fa-c791-49dc-9258-505982b5adea",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/859345fa-c791-49dc-9258-505982b5adea/render-mpv4dx03.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/859345fa-c791-49dc-9258-505982b5adea/render-mpv4dx03.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Common",
+  "rules_text": "{Play} A rival Unit must attack next turn if it can.\n{Blocker} (You may spend this Unit to redirect a rival Unit's attack to it instead.)",
+  "selected_printing_id": "354fd7d3-070d-4767-989c-5b3efbd9f30d",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "mox-inciters",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/354fd7d3-070d-4767-989c-5b3efbd9f30d/render-mpvlrgqe.webp",
+  "subname": null
+}

@@ -1,0 +1,74 @@
+{
+  "artist": "Mooncolony",
+  "card_type": "Legend",
+  "classifications": [
+    "Fixer",
+    "Tyger Claws"
+  ],
+  "color": "Blue",
+  "cost": null,
+  "display_name": "Wakako Okada: Peace and Harmony",
+  "external_id": "cb-wakako-okada-peace-and-harmony",
+  "flavor_text": null,
+  "id": "99f5e311-8dfd-42a9-abd0-2e50ac68679e",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/8f7a7d0b-5935-4732-a9ba-76b19467d5a0/render-mpvmnkvw.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Wakako Okada",
+  "power": null,
+  "print_number": "110",
+  "printing_id": "8f7a7d0b-5935-4732-a9ba-76b19467d5a0",
+  "printings": [
+    {
+      "artist": "Mooncolony",
+      "collector_number": "110",
+      "finish": null,
+      "id": "8f7a7d0b-5935-4732-a9ba-76b19467d5a0",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/8f7a7d0b-5935-4732-a9ba-76b19467d5a0/render-mpvmnkvw.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/8f7a7d0b-5935-4732-a9ba-76b19467d5a0/render-mpvmnkvw.webp"
+    },
+    {
+      "artist": "Mooncolony",
+      "collector_number": "\u03b2110",
+      "finish": null,
+      "id": "33ee09a3-4591-4302-9052-6dd5130861c6",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/33ee09a3-4591-4302-9052-6dd5130861c6/render-mpu66545.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/33ee09a3-4591-4302-9052-6dd5130861c6/render-mpu66545.webp"
+    },
+    {
+      "artist": "Pandart Studio",
+      "collector_number": "\u03b2158",
+      "finish": null,
+      "id": "16e04a94-086a-4c20-b788-88ac016ec59b",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/16e04a94-086a-4c20-b788-88ac016ec59b/render-mpxlzogj.webp",
+      "rarity": "Iconic Legend",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/16e04a94-086a-4c20-b788-88ac016ec59b/render-mpxlzogj.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Rare",
+  "rules_text": "{Call} Choose one effect.\nGive a rival Unit -2 power this turn. // Draw 1.\n{Spend}: Decrease a Gig by up to 2.",
+  "selected_printing_id": "8f7a7d0b-5935-4732-a9ba-76b19467d5a0",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "wakako-okada-peace-and-harmony",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/8f7a7d0b-5935-4732-a9ba-76b19467d5a0/render-mpvmnkvw.webp",
+  "subname": "Peace and Harmony"
+}

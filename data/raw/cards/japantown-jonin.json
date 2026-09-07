@@ -1,0 +1,60 @@
+{
+  "artist": "Micha\u0142 Dziekan",
+  "card_type": "Unit",
+  "classifications": [
+    "Tyger Claws"
+  ],
+  "color": "Red",
+  "cost": 2,
+  "display_name": "Japantown Jonin",
+  "external_id": "cb-japantown-jonin",
+  "flavor_text": null,
+  "id": "e8b0432c-4d2d-4464-9a00-f3626917a7f0",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/30619097-d9d7-42fe-bf4c-cd4ae822792d/render-mpvlsow6.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Japantown Jonin",
+  "power": 0,
+  "print_number": "010",
+  "printing_id": "30619097-d9d7-42fe-bf4c-cd4ae822792d",
+  "printings": [
+    {
+      "artist": "Micha\u0142 Dziekan",
+      "collector_number": "010",
+      "finish": null,
+      "id": "30619097-d9d7-42fe-bf4c-cd4ae822792d",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/30619097-d9d7-42fe-bf4c-cd4ae822792d/render-mpvlsow6.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/30619097-d9d7-42fe-bf4c-cd4ae822792d/render-mpvlsow6.webp"
+    },
+    {
+      "artist": "Micha\u0142 Dziekan",
+      "collector_number": "\u03b2010",
+      "finish": null,
+      "id": "fa9d3c0c-5634-42a1-a665-9173c045fa30",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/fa9d3c0c-5634-42a1-a665-9173c045fa30/render-mpv4dz3y.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/fa9d3c0c-5634-42a1-a665-9173c045fa30/render-mpv4dz3y.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Common",
+  "rules_text": "{Play} Give a friendly Unit +2 power this turn.\n(Units with power 0 don't steal Gigs.)",
+  "selected_printing_id": "30619097-d9d7-42fe-bf4c-cd4ae822792d",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "japantown-jonin",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/30619097-d9d7-42fe-bf4c-cd4ae822792d/render-mpvlsow6.webp",
+  "subname": null
+}

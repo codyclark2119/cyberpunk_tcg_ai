@@ -1,0 +1,99 @@
+{
+  "artist": "Olgierd Ciszak",
+  "card_type": "Unit",
+  "classifications": [
+    "Doll"
+  ],
+  "color": "Blue",
+  "cost": 2,
+  "display_name": "Evelyn Parker: Scheming Siren",
+  "external_id": "cb-evelyn-parker-scheming-siren",
+  "flavor_text": null,
+  "id": "a3cc3d15-8e6a-4684-b2ca-c843b4a854e2",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7d174619-2183-4058-a89a-082c6b7b5a5c/render-mpvm5enr.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Evelyn Parker",
+  "power": 0,
+  "print_number": "113",
+  "printing_id": "7d174619-2183-4058-a89a-082c6b7b5a5c",
+  "printings": [
+    {
+      "artist": "Olgierd Ciszak",
+      "collector_number": "113",
+      "finish": null,
+      "id": "7d174619-2183-4058-a89a-082c6b7b5a5c",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7d174619-2183-4058-a89a-082c6b7b5a5c/render-mpvm5enr.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7d174619-2183-4058-a89a-082c6b7b5a5c/render-mpvm5enr.webp"
+    },
+    {
+      "artist": "Olgierd Ciszak",
+      "collector_number": "\u03b2113",
+      "finish": null,
+      "id": "c40f0461-c757-4e09-94cc-27ed31f08dd7",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c40f0461-c757-4e09-94cc-27ed31f08dd7/render-mpv4pn59.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c40f0461-c757-4e09-94cc-27ed31f08dd7/render-mpv4pn59.webp"
+    },
+    {
+      "artist": "Olgierd Ciszak",
+      "collector_number": "014",
+      "finish": null,
+      "id": "4b037f20-0cb8-4dfa-bd34-3a3b8381632b",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/4b037f20-0cb8-4dfa-bd34-3a3b8381632b/render-mpwcltps.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "theheistretailstarterdeck",
+        "name": "The Heist \u2014 Retail Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/4b037f20-0cb8-4dfa-bd34-3a3b8381632b/render-mpwcltps.webp"
+    },
+    {
+      "artist": "Olgierd Ciszak",
+      "collector_number": "\u03b2014",
+      "finish": null,
+      "id": "c7bc2b37-c1a4-43aa-a4c3-5dd60514b098",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c7bc2b37-c1a4-43aa-a4c3-5dd60514b098/render-mpwcdk0q.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "theheistbetastarterdeck",
+        "name": "The Heist \u2014 Beta Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c7bc2b37-c1a4-43aa-a4c3-5dd60514b098/render-mpwcdk0q.webp"
+    },
+    {
+      "artist": "Olgierd Ciszak",
+      "collector_number": "010",
+      "finish": null,
+      "id": "3757f0f3-32d0-41c2-89dc-515271d2b758",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3757f0f3-32d0-41c2-89dc-515271d2b758/render-mqf872a2.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "mercdemodeck",
+        "name": "Merc Demo Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3757f0f3-32d0-41c2-89dc-515271d2b758/render-mqf872a2.webp"
+    }
+  ],
+  "ram": 3,
+  "rarity": "Uncommon",
+  "rules_text": "{Attack} Draw 1. Then, if you have more \u2606 (Street Cred) than a Rival, discard 1.\n(Units with power 0 don't steal Gigs.)",
+  "selected_printing_id": "7d174619-2183-4058-a89a-082c6b7b5a5c",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "evelyn-parker-scheming-siren",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7d174619-2183-4058-a89a-082c6b7b5a5c/render-mpvm5enr.webp",
+  "subname": "Scheming Siren"
+}

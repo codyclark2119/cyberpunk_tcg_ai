@@ -1,0 +1,73 @@
+{
+  "artist": "Mooncolony",
+  "card_type": "Program",
+  "classifications": [
+    "Braindance"
+  ],
+  "color": "Blue",
+  "cost": 6,
+  "display_name": "Towerfall",
+  "external_id": "cb-towerfall",
+  "flavor_text": null,
+  "id": "9a0fd5a3-a00b-425c-a251-755eeab12bfe",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/15920617-a06f-4302-9dfb-c85d3470c7eb/render-mpvmjkr0.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Towerfall",
+  "power": null,
+  "print_number": "138",
+  "printing_id": "15920617-a06f-4302-9dfb-c85d3470c7eb",
+  "printings": [
+    {
+      "artist": "Mooncolony",
+      "collector_number": "138",
+      "finish": null,
+      "id": "15920617-a06f-4302-9dfb-c85d3470c7eb",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/15920617-a06f-4302-9dfb-c85d3470c7eb/render-mpvmjkr0.webp",
+      "rarity": "Epic",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/15920617-a06f-4302-9dfb-c85d3470c7eb/render-mpvmjkr0.webp"
+    },
+    {
+      "artist": "Dardo Studios",
+      "collector_number": "\u03b2138",
+      "finish": null,
+      "id": "25508f49-7256-47be-bc95-c420c7105c62",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/25508f49-7256-47be-bc95-c420c7105c62/render-mpvk46pt.webp",
+      "rarity": "Epic",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/25508f49-7256-47be-bc95-c420c7105c62/render-mpvk46pt.webp"
+    },
+    {
+      "artist": "ADIA",
+      "collector_number": "\u03b2167",
+      "finish": null,
+      "id": "4d8a1ccb-6d46-45b1-839a-fd3b7fa84b72",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/4d8a1ccb-6d46-45b1-839a-fd3b7fa84b72/render-mpxlznrl.webp",
+      "rarity": "Iconic Other",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/4d8a1ccb-6d46-45b1-839a-fd3b7fa84b72/render-mpxlznrl.webp"
+    }
+  ],
+  "ram": 4,
+  "rarity": "Epic",
+  "rules_text": "Choose one effect. If you have less \u2606 (Street Cred) than a Rival, choose both instead.\nGive all rival Units -5 power this turn. // Bottom-deck all rival Units with power 0.",
+  "selected_printing_id": "15920617-a06f-4302-9dfb-c85d3470c7eb",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "towerfall",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/15920617-a06f-4302-9dfb-c85d3470c7eb/render-mpvmjkr0.webp",
+  "subname": null
+}

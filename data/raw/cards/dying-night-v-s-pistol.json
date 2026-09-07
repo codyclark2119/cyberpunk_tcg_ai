@@ -1,0 +1,100 @@
+{
+  "artist": "Ivan Shavrin",
+  "card_type": "Gear",
+  "classifications": [
+    "Merc",
+    "Weapon"
+  ],
+  "color": "Blue",
+  "cost": 2,
+  "display_name": "Dying Night: V's Pistol",
+  "external_id": "cb-dying-night-v-s-pistol",
+  "flavor_text": null,
+  "id": "df06b6e2-1675-48a3-bfe2-d0bc4c5f35eb",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2b1b6268-193f-4b9e-a63c-0cbc200d6db7/render-mpvn0qos.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Dying Night",
+  "power": 2,
+  "print_number": "128",
+  "printing_id": "2b1b6268-193f-4b9e-a63c-0cbc200d6db7",
+  "printings": [
+    {
+      "artist": "Ivan Shavrin",
+      "collector_number": "128",
+      "finish": null,
+      "id": "2b1b6268-193f-4b9e-a63c-0cbc200d6db7",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2b1b6268-193f-4b9e-a63c-0cbc200d6db7/render-mpvn0qos.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2b1b6268-193f-4b9e-a63c-0cbc200d6db7/render-mpvn0qos.webp"
+    },
+    {
+      "artist": "Ivan Shavrin",
+      "collector_number": "\u03b2128",
+      "finish": null,
+      "id": "3ceebded-0941-477f-b486-f2cb22ca653d",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3ceebded-0941-477f-b486-f2cb22ca653d/render-mpvjxftj.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3ceebded-0941-477f-b486-f2cb22ca653d/render-mpvjxftj.webp"
+    },
+    {
+      "artist": "Ivan Shavrin",
+      "collector_number": "017",
+      "finish": null,
+      "id": "4bb35017-9842-4178-99a6-34353a3de2d4",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/4bb35017-9842-4178-99a6-34353a3de2d4/render-mpwck7od.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "theheistretailstarterdeck",
+        "name": "The Heist \u2014 Retail Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/4bb35017-9842-4178-99a6-34353a3de2d4/render-mpwck7od.webp"
+    },
+    {
+      "artist": "Ivan Shavrin",
+      "collector_number": "\u03b2017",
+      "finish": null,
+      "id": "1dc3c618-a40a-4717-bf4d-a573915c8ac0",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/1dc3c618-a40a-4717-bf4d-a573915c8ac0/render-mpwce7bx.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "theheistbetastarterdeck",
+        "name": "The Heist \u2014 Beta Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/1dc3c618-a40a-4717-bf4d-a573915c8ac0/render-mpwce7bx.webp"
+    },
+    {
+      "artist": "Ivan Shavrin",
+      "collector_number": "013",
+      "finish": null,
+      "id": "dd423c67-68f4-4da8-884c-cbeb91554c0d",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/dd423c67-68f4-4da8-884c-cbeb91554c0d/render-mqf87snu.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "mercdemodeck",
+        "name": "Merc Demo Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/dd423c67-68f4-4da8-884c-cbeb91554c0d/render-mqf87snu.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Rare",
+  "rules_text": "(Equip to a friendly Unit or face-up Legend.)\n{Attack} Decrease a Gig by up to 2. At the end of your turn, if this Unit is named \"V\", ready 2 Eddies.",
+  "selected_printing_id": "2b1b6268-193f-4b9e-a63c-0cbc200d6db7",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "dying-night-v-s-pistol",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2b1b6268-193f-4b9e-a63c-0cbc200d6db7/render-mpvn0qos.webp",
+  "subname": "V's Pistol"
+}

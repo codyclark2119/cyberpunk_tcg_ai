@@ -1,0 +1,61 @@
+{
+  "artist": "Mooncolony",
+  "card_type": "Unit",
+  "classifications": [
+    "Aldecado",
+    "Nomad"
+  ],
+  "color": "Green",
+  "cost": 8,
+  "display_name": "Saul Bright: Stormrider",
+  "external_id": "cb-saul-bright-stormrider",
+  "flavor_text": null,
+  "id": "a29490bb-2836-48b6-a4f9-a44b25c8bfa2",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/60e476b4-51ab-4b10-8861-a8362b4232d7/render-mpvm8zcp.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Saul Bright",
+  "power": 14,
+  "print_number": "089",
+  "printing_id": "60e476b4-51ab-4b10-8861-a8362b4232d7",
+  "printings": [
+    {
+      "artist": "Mooncolony",
+      "collector_number": "089",
+      "finish": null,
+      "id": "60e476b4-51ab-4b10-8861-a8362b4232d7",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/60e476b4-51ab-4b10-8861-a8362b4232d7/render-mpvm8zcp.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/60e476b4-51ab-4b10-8861-a8362b4232d7/render-mpvm8zcp.webp"
+    },
+    {
+      "artist": "Mooncolony",
+      "collector_number": "\u03b2089",
+      "finish": null,
+      "id": "ce429abf-a099-48bf-a158-e32adc73b42e",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/ce429abf-a099-48bf-a158-e32adc73b42e/render-mpv4rnki.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/ce429abf-a099-48bf-a158-e32adc73b42e/render-mpv4rnki.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Rare",
+  "rules_text": "Other friendly Units have +2 power while attacking.\nAt the end of your turn, ready up to 3 friendly Units.",
+  "selected_printing_id": "60e476b4-51ab-4b10-8861-a8362b4232d7",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "saul-bright-stormrider",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/60e476b4-51ab-4b10-8861-a8362b4232d7/render-mpvm8zcp.webp",
+  "subname": "Stormrider"
+}

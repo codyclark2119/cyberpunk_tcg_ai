@@ -1,0 +1,61 @@
+{
+  "artist": "Ilya Kuvshinov",
+  "card_type": "Unit",
+  "classifications": [
+    "Merc",
+    "Valentino"
+  ],
+  "color": "Yellow",
+  "cost": 6,
+  "display_name": "Jackie Welles: Ride or Die Choom",
+  "external_id": "cb-jackie-welles-ride-or-die-choom",
+  "flavor_text": null,
+  "id": "b665e103-456b-4c51-9551-95b0bc87212a",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/12d44604-ad7b-4e82-b517-9edb0be44427/render-mpvlnb2e.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Jackie Welles",
+  "power": 8,
+  "print_number": "048",
+  "printing_id": "12d44604-ad7b-4e82-b517-9edb0be44427",
+  "printings": [
+    {
+      "artist": "Ilya Kuvshinov",
+      "collector_number": "048",
+      "finish": null,
+      "id": "12d44604-ad7b-4e82-b517-9edb0be44427",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/12d44604-ad7b-4e82-b517-9edb0be44427/render-mpvlnb2e.webp",
+      "rarity": "Epic",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/12d44604-ad7b-4e82-b517-9edb0be44427/render-mpvlnb2e.webp"
+    },
+    {
+      "artist": "Ilya Kuvshinov",
+      "collector_number": "\u03b2048",
+      "finish": null,
+      "id": "93f68b18-e15c-44be-883b-8db7990646f1",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/93f68b18-e15c-44be-883b-8db7990646f1/render-mpv4szbu.webp",
+      "rarity": "Epic",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/93f68b18-e15c-44be-883b-8db7990646f1/render-mpv4szbu.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Epic",
+  "rules_text": "{Attack} Give this Unit +2 power this turn for each friendly Gig with an even value.\n{Defeated} Draw 1 for each friendly Gig with an odd value.",
+  "selected_printing_id": "12d44604-ad7b-4e82-b517-9edb0be44427",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "jackie-welles-ride-or-die-choom",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/12d44604-ad7b-4e82-b517-9edb0be44427/render-mpvlnb2e.webp",
+  "subname": "Ride or Die Choom"
+}

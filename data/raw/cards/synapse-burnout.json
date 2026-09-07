@@ -1,0 +1,60 @@
+{
+  "artist": "Michal Ivan",
+  "card_type": "Program",
+  "classifications": [
+    "Quickhack"
+  ],
+  "color": "Green",
+  "cost": 1,
+  "display_name": "Synapse Burnout",
+  "external_id": "cb-synapse-burnout",
+  "flavor_text": null,
+  "id": "f3ba5ef7-5e91-4956-a887-b88a4b854867",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/4277845b-1209-46df-8353-8fd36f56148a/render-mpvmg7fh.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Synapse Burnout",
+  "power": null,
+  "print_number": "102",
+  "printing_id": "4277845b-1209-46df-8353-8fd36f56148a",
+  "printings": [
+    {
+      "artist": "Michal Ivan",
+      "collector_number": "102",
+      "finish": null,
+      "id": "4277845b-1209-46df-8353-8fd36f56148a",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/4277845b-1209-46df-8353-8fd36f56148a/render-mpvmg7fh.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/4277845b-1209-46df-8353-8fd36f56148a/render-mpvmg7fh.webp"
+    },
+    {
+      "artist": "Michal Ivan",
+      "collector_number": "\u03b2102",
+      "finish": null,
+      "id": "535cec6e-269d-4c2d-860c-5c8eff999c21",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/535cec6e-269d-4c2d-860c-5c8eff999c21/render-mpvjzdhl.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/535cec6e-269d-4c2d-860c-5c8eff999c21/render-mpvjzdhl.webp"
+    }
+  ],
+  "ram": 1,
+  "rarity": "Uncommon",
+  "rules_text": "{Quick} A friendly Unit has +1 power for each friendly face-up Legend while fighting rival Units this turn.",
+  "selected_printing_id": "4277845b-1209-46df-8353-8fd36f56148a",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "synapse-burnout",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/4277845b-1209-46df-8353-8fd36f56148a/render-mpvmg7fh.webp",
+  "subname": null
+}

@@ -1,0 +1,100 @@
+{
+  "artist": "DOFRESH",
+  "card_type": "Program",
+  "classifications": [
+    "Merc",
+    "Quickhack"
+  ],
+  "color": "Blue",
+  "cost": 1,
+  "display_name": "Floor It",
+  "external_id": "cb-floor-it",
+  "flavor_text": null,
+  "id": "0cd37c43-e722-48eb-91ef-4c1bd1645215",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/91f9d30c-f74d-4be4-8505-52f05d309c92/render-mpvmda4y.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Floor It",
+  "power": null,
+  "print_number": "132",
+  "printing_id": "91f9d30c-f74d-4be4-8505-52f05d309c92",
+  "printings": [
+    {
+      "artist": "DOFRESH",
+      "collector_number": "132",
+      "finish": null,
+      "id": "91f9d30c-f74d-4be4-8505-52f05d309c92",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/91f9d30c-f74d-4be4-8505-52f05d309c92/render-mpvmda4y.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/91f9d30c-f74d-4be4-8505-52f05d309c92/render-mpvmda4y.webp"
+    },
+    {
+      "artist": "DOFRESH",
+      "collector_number": "\u03b2132",
+      "finish": null,
+      "id": "859c8d1d-b715-4a9a-b7cc-96ecfe135a00",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/859c8d1d-b715-4a9a-b7cc-96ecfe135a00/render-mpvk89jm.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/859c8d1d-b715-4a9a-b7cc-96ecfe135a00/render-mpvk89jm.webp"
+    },
+    {
+      "artist": "DOFRESH",
+      "collector_number": "019",
+      "finish": null,
+      "id": "60255f42-3ddd-4865-9e4a-335963694be1",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/60255f42-3ddd-4865-9e4a-335963694be1/render-mpwckk6o.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "theheistretailstarterdeck",
+        "name": "The Heist \u2014 Retail Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/60255f42-3ddd-4865-9e4a-335963694be1/render-mpwckk6o.webp"
+    },
+    {
+      "artist": "DOFRESH",
+      "collector_number": "\u03b2019",
+      "finish": null,
+      "id": "d8b28345-bcd5-4c52-b51d-3052d8b24874",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/d8b28345-bcd5-4c52-b51d-3052d8b24874/render-mpwcdimr.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "theheistbetastarterdeck",
+        "name": "The Heist \u2014 Beta Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/d8b28345-bcd5-4c52-b51d-3052d8b24874/render-mpwcdimr.webp"
+    },
+    {
+      "artist": "DOFRESH",
+      "collector_number": "014",
+      "finish": null,
+      "id": "9d62921e-382e-4e93-85d8-aa628566ccd7",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/9d62921e-382e-4e93-85d8-aa628566ccd7/render-mqf889pk.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "mercdemodeck",
+        "name": "Merc Demo Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/9d62921e-382e-4e93-85d8-aa628566ccd7/render-mqf889pk.webp"
+    }
+  ],
+  "ram": 1,
+  "rarity": "Common",
+  "rules_text": "{Quick} Give a rival Unit -1 power this turn. Draw 1.",
+  "selected_printing_id": "91f9d30c-f74d-4be4-8505-52f05d309c92",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "floor-it",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/91f9d30c-f74d-4be4-8505-52f05d309c92/render-mpvmda4y.webp",
+  "subname": null
+}

@@ -1,0 +1,87 @@
+{
+  "artist": "Bernard Kowalczuk",
+  "card_type": "Unit",
+  "classifications": [
+    "Ganger",
+    "Voodoo Boys"
+  ],
+  "color": "Yellow",
+  "cost": 4,
+  "display_name": "Offduty Malfini",
+  "external_id": "cb-offduty-malfini",
+  "flavor_text": null,
+  "id": "3ce6b982-7bba-46f1-8832-8867ec3588d4",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/fbefb447-34a3-4d53-9b23-d1bf141f8eec/render-mpvlua50.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Offduty Malfini",
+  "power": 5,
+  "print_number": "051",
+  "printing_id": "fbefb447-34a3-4d53-9b23-d1bf141f8eec",
+  "printings": [
+    {
+      "artist": "Bernard Kowalczuk",
+      "collector_number": "051",
+      "finish": null,
+      "id": "fbefb447-34a3-4d53-9b23-d1bf141f8eec",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/fbefb447-34a3-4d53-9b23-d1bf141f8eec/render-mpvlua50.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/fbefb447-34a3-4d53-9b23-d1bf141f8eec/render-mpvlua50.webp"
+    },
+    {
+      "artist": "Bernard Kowalczuk",
+      "collector_number": "\u03b2051",
+      "finish": null,
+      "id": "37066158-f899-42c6-abd7-4dcd882a75cd",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/37066158-f899-42c6-abd7-4dcd882a75cd/render-mpv4ipkz.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/37066158-f899-42c6-abd7-4dcd882a75cd/render-mpv4ipkz.webp"
+    },
+    {
+      "artist": "Bernard Kowalczuk",
+      "collector_number": "004",
+      "finish": null,
+      "id": "1043d9b7-5dae-4fc5-852d-ec31daaaa88d",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/1043d9b7-5dae-4fc5-852d-ec31daaaa88d/render-mpwcp42f.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "theheistretailstarterdeck",
+        "name": "The Heist \u2014 Retail Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/1043d9b7-5dae-4fc5-852d-ec31daaaa88d/render-mpwcp42f.webp"
+    },
+    {
+      "artist": "Bernard Kowalczuk",
+      "collector_number": "\u03b2004",
+      "finish": null,
+      "id": "e7ef78a6-72d3-42a4-ba98-14facb194eb9",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e7ef78a6-72d3-42a4-ba98-14facb194eb9/render-mpwcc6yd.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "theheistbetastarterdeck",
+        "name": "The Heist \u2014 Beta Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e7ef78a6-72d3-42a4-ba98-14facb194eb9/render-mpwcc6yd.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Common",
+  "rules_text": "{Play} Spend this Unit and a rival Unit.",
+  "selected_printing_id": "fbefb447-34a3-4d53-9b23-d1bf141f8eec",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "offduty-malfini",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/fbefb447-34a3-4d53-9b23-d1bf141f8eec/render-mpvlua50.webp",
+  "subname": null
+}

@@ -1,0 +1,60 @@
+{
+  "artist": "Miguel Valderrama & Jason Wordie",
+  "card_type": "Program",
+  "classifications": [
+    "Ganger"
+  ],
+  "color": "Red",
+  "cost": 3,
+  "display_name": "Appetite for Destruction",
+  "external_id": "cb-appetite-for-destruction",
+  "flavor_text": null,
+  "id": "59ddecca-1501-492a-b8b1-d4b38d4486c9",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/f274789d-69f2-4acf-a511-f728c67d1a13/render-mpvmf46g.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Appetite for Destruction",
+  "power": null,
+  "print_number": "028",
+  "printing_id": "f274789d-69f2-4acf-a511-f728c67d1a13",
+  "printings": [
+    {
+      "artist": "Miguel Valderrama & Jason Wordie",
+      "collector_number": "028",
+      "finish": null,
+      "id": "f274789d-69f2-4acf-a511-f728c67d1a13",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/f274789d-69f2-4acf-a511-f728c67d1a13/render-mpvmf46g.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/f274789d-69f2-4acf-a511-f728c67d1a13/render-mpvmf46g.webp"
+    },
+    {
+      "artist": "Miguel Valderrama & Jason Wordie",
+      "collector_number": "\u03b2028",
+      "finish": null,
+      "id": "d2aed299-7c88-484a-aa8a-e2e2f09bf8a8",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/d2aed299-7c88-484a-aa8a-e2e2f09bf8a8/render-mpvjzcpo.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/d2aed299-7c88-484a-aa8a-e2e2f09bf8a8/render-mpvjzcpo.webp"
+    }
+  ],
+  "ram": 4,
+  "rarity": "Uncommon",
+  "rules_text": "The next time a friendly Unit wins a fight by 3+ power this turn, it also steals a Gig.",
+  "selected_printing_id": "f274789d-69f2-4acf-a511-f728c67d1a13",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "appetite-for-destruction",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/f274789d-69f2-4acf-a511-f728c67d1a13/render-mpvmf46g.webp",
+  "subname": null
+}

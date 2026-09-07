@@ -1,0 +1,99 @@
+{
+  "artist": "John Liew",
+  "card_type": "Program",
+  "classifications": [
+    "Corpo"
+  ],
+  "color": "Green",
+  "cost": 2,
+  "display_name": "Corporate Surveillance",
+  "external_id": "cb-corporate-surveillance",
+  "flavor_text": null,
+  "id": "71fb410b-b56e-42b2-a793-4c49e935b9f1",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/d3dc7194-a545-4588-9702-b094c27ce359/render-mpvmh0cv.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Corporate Surveillance",
+  "power": null,
+  "print_number": "097",
+  "printing_id": "d3dc7194-a545-4588-9702-b094c27ce359",
+  "printings": [
+    {
+      "artist": "John Liew",
+      "collector_number": "097",
+      "finish": null,
+      "id": "d3dc7194-a545-4588-9702-b094c27ce359",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/d3dc7194-a545-4588-9702-b094c27ce359/render-mpvmh0cv.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/d3dc7194-a545-4588-9702-b094c27ce359/render-mpvmh0cv.webp"
+    },
+    {
+      "artist": "John Liew",
+      "collector_number": "\u03b2097",
+      "finish": null,
+      "id": "539138ff-af5a-47e3-abf0-cc772eaa8b9e",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/539138ff-af5a-47e3-abf0-cc772eaa8b9e/render-mpvk01hc.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/539138ff-af5a-47e3-abf0-cc772eaa8b9e/render-mpvk01hc.webp"
+    },
+    {
+      "artist": "John Liew",
+      "collector_number": "020",
+      "finish": null,
+      "id": "8a13760d-050c-4a9c-bc44-f6b5796bb9f2",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/8a13760d-050c-4a9c-bc44-f6b5796bb9f2/render-mpwbzfe6.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "embracingpowerretailstarterdeck",
+        "name": "Embracing Power \u2014 Retail Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/8a13760d-050c-4a9c-bc44-f6b5796bb9f2/render-mpwbzfe6.webp"
+    },
+    {
+      "artist": "John Liew",
+      "collector_number": "\u03b2020",
+      "finish": null,
+      "id": "e9d18fa1-0069-4b22-b64e-a75d2e30158a",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e9d18fa1-0069-4b22-b64e-a75d2e30158a/render-mpwblmgy.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "embracingpowerbetastarterdeck",
+        "name": "Embracing Power \u2014 Beta Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e9d18fa1-0069-4b22-b64e-a75d2e30158a/render-mpwblmgy.webp"
+    },
+    {
+      "artist": "John Liew",
+      "collector_number": "014",
+      "finish": null,
+      "id": "af658f81-5214-4f56-ba8a-782a4419e366",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/af658f81-5214-4f56-ba8a-782a4419e366/render-mqf83c9f.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "arasakademodeck",
+        "name": "Arasaka Demo Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/af658f81-5214-4f56-ba8a-782a4419e366/render-mqf83c9f.webp"
+    }
+  ],
+  "ram": 1,
+  "rarity": "Uncommon",
+  "rules_text": "Spend a rival Unit with cost 4 or less.",
+  "selected_printing_id": "d3dc7194-a545-4588-9702-b094c27ce359",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "corporate-surveillance",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/d3dc7194-a545-4588-9702-b094c27ce359/render-mpvmh0cv.webp",
+  "subname": null
+}

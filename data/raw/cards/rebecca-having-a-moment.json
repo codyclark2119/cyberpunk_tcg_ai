@@ -1,0 +1,58 @@
+{
+  "artist": "Narupiti Harunsong",
+  "card_type": "Legend",
+  "classifications": [],
+  "color": "Red",
+  "cost": null,
+  "display_name": "Rebecca: Having a Moment",
+  "external_id": "cb-rebecca-having-a-moment",
+  "flavor_text": null,
+  "id": "4acee220-f0ae-4bdc-85c9-f8e70ba99673",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/71a35836-e604-4d98-ab56-58bfb4581033/render-msyihf1e.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Rebecca",
+  "power": null,
+  "print_number": "005",
+  "printing_id": "71a35836-e604-4d98-ab56-58bfb4581033",
+  "printings": [
+    {
+      "artist": "Narupiti Harunsong",
+      "collector_number": "005",
+      "finish": null,
+      "id": "71a35836-e604-4d98-ab56-58bfb4581033",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/71a35836-e604-4d98-ab56-58bfb4581033/render-msyihf1e.webp",
+      "rarity": "Nova Rare",
+      "set": {
+        "code": "PRM01",
+        "name": "Set 1 Promos"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/71a35836-e604-4d98-ab56-58bfb4581033/render-msyihf1e.webp"
+    },
+    {
+      "artist": "Pandart Studio",
+      "collector_number": "007",
+      "finish": null,
+      "id": "f625d2ac-3007-48f4-82b3-b521fc11a172",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/f625d2ac-3007-48f4-82b3-b521fc11a172/render-msyii4oh.webp",
+      "rarity": "Nova Rare",
+      "set": {
+        "code": "PRM01",
+        "name": "Set 1 Promos"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/f625d2ac-3007-48f4-82b3-b521fc11a172/render-msyii4oh.webp"
+    }
+  ],
+  "ram": null,
+  "rarity": "Nova Rare",
+  "rules_text": null,
+  "selected_printing_id": "71a35836-e604-4d98-ab56-58bfb4581033",
+  "set": {
+    "code": "PRM01",
+    "name": "Set 1 Promos"
+  },
+  "slug": "rebecca-having-a-moment",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/71a35836-e604-4d98-ab56-58bfb4581033/render-msyihf1e.webp",
+  "subname": "Having a Moment"
+}

@@ -1,0 +1,99 @@
+{
+  "artist": "Miguel Valderrama",
+  "card_type": "Program",
+  "classifications": [
+    "Quickhack"
+  ],
+  "color": "Blue",
+  "cost": 2,
+  "display_name": "Reboot Optics",
+  "external_id": "cb-reboot-optics",
+  "flavor_text": null,
+  "id": "ad13a7bc-c49d-4166-8a9c-965e7bfa9b8f",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/fb096d3f-48eb-47c0-a065-81b39691e12f/render-mpvme4x3.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Reboot Optics",
+  "power": null,
+  "print_number": "136",
+  "printing_id": "fb096d3f-48eb-47c0-a065-81b39691e12f",
+  "printings": [
+    {
+      "artist": "Miguel Valderrama",
+      "collector_number": "136",
+      "finish": null,
+      "id": "fb096d3f-48eb-47c0-a065-81b39691e12f",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/fb096d3f-48eb-47c0-a065-81b39691e12f/render-mpvme4x3.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/fb096d3f-48eb-47c0-a065-81b39691e12f/render-mpvme4x3.webp"
+    },
+    {
+      "artist": "Miguel Valderrama",
+      "collector_number": "\u03b2136",
+      "finish": null,
+      "id": "06570cd2-25fc-4c5e-86e1-cba8000edc97",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/06570cd2-25fc-4c5e-86e1-cba8000edc97/render-mpvk8xn1.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/06570cd2-25fc-4c5e-86e1-cba8000edc97/render-mpvk8xn1.webp"
+    },
+    {
+      "artist": "Miguel Valderrama",
+      "collector_number": "020",
+      "finish": null,
+      "id": "270c2b70-35fb-4d47-b1c0-3df11141f880",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/270c2b70-35fb-4d47-b1c0-3df11141f880/render-mqfcuf4j.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "theheistretailstarterdeck",
+        "name": "The Heist \u2014 Retail Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/270c2b70-35fb-4d47-b1c0-3df11141f880/render-mqfcuf4j.webp"
+    },
+    {
+      "artist": "Miguel Valderrama",
+      "collector_number": "\u03b2020",
+      "finish": null,
+      "id": "f393f463-2e62-4d77-aaf4-ed1bafaee8c5",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/f393f463-2e62-4d77-aaf4-ed1bafaee8c5/render-mpwcbi4p.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "theheistbetastarterdeck",
+        "name": "The Heist \u2014 Beta Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/f393f463-2e62-4d77-aaf4-ed1bafaee8c5/render-mpwcbi4p.webp"
+    },
+    {
+      "artist": "Miguel Valderrama",
+      "collector_number": "015",
+      "finish": null,
+      "id": "7a8acee6-f460-4d2d-aaa3-3d057ef7c36c",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7a8acee6-f460-4d2d-aaa3-3d057ef7c36c/render-mqfcr2zn.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "mercdemodeck",
+        "name": "Merc Demo Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7a8acee6-f460-4d2d-aaa3-3d057ef7c36c/render-mqfcr2zn.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Common",
+  "rules_text": "{Quick} The next time a rival Unit fights this turn, it doesn't defeat the opposing friendly Unit.",
+  "selected_printing_id": "fb096d3f-48eb-47c0-a065-81b39691e12f",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "reboot-optics",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/fb096d3f-48eb-47c0-a065-81b39691e12f/render-mpvme4x3.webp",
+  "subname": null
+}

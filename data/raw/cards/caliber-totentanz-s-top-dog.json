@@ -1,0 +1,61 @@
+{
+  "artist": "Andr\u00e9 Lima Ara\u00fajo & Chris O'Halloran",
+  "card_type": "Unit",
+  "classifications": [
+    "Ganger",
+    "Maelstrom"
+  ],
+  "color": "Yellow",
+  "cost": 5,
+  "display_name": "Caliber: Totentanz's Top Dog",
+  "external_id": "cb-caliber-totentanz-s-top-dog",
+  "flavor_text": null,
+  "id": "0273f402-94fb-4b59-90ec-a1057c2d1284",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/4b5dc479-0db1-46dd-859f-e7dc34d50f03/render-mpvm8ira.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Caliber",
+  "power": 5,
+  "print_number": "044",
+  "printing_id": "4b5dc479-0db1-46dd-859f-e7dc34d50f03",
+  "printings": [
+    {
+      "artist": "Andr\u00e9 Lima Ara\u00fajo & Chris O'Halloran",
+      "collector_number": "044",
+      "finish": null,
+      "id": "4b5dc479-0db1-46dd-859f-e7dc34d50f03",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/4b5dc479-0db1-46dd-859f-e7dc34d50f03/render-mpvm8ira.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/4b5dc479-0db1-46dd-859f-e7dc34d50f03/render-mpvm8ira.webp"
+    },
+    {
+      "artist": "Andr\u00e9 Lima Ara\u00fajo & Chris O'Halloran",
+      "collector_number": "\u03b2044",
+      "finish": null,
+      "id": "20cd09ad-b0c6-4ffe-9036-04ff24d8fe59",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/20cd09ad-b0c6-4ffe-9036-04ff24d8fe59/render-mpv4ralp.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/20cd09ad-b0c6-4ffe-9036-04ff24d8fe59/render-mpv4ralp.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Rare",
+  "rules_text": "{Play} Defeat a rival Unit with cost 2 or less.\n{Defeated} A Rival discards 1. If the card's cost equals the value of a friendly Gig, that Rival discards 1 more.",
+  "selected_printing_id": "4b5dc479-0db1-46dd-859f-e7dc34d50f03",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "caliber-totentanz-s-top-dog",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/4b5dc479-0db1-46dd-859f-e7dc34d50f03/render-mpvm8ira.webp",
+  "subname": "Totentanz's Top Dog"
+}

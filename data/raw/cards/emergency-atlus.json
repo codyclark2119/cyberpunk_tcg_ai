@@ -1,0 +1,101 @@
+{
+  "artist": "Robert Sammelin",
+  "card_type": "Unit",
+  "classifications": [
+    "Trauma Team",
+    "Vehicle",
+    "Zetatech"
+  ],
+  "color": "Green",
+  "cost": 3,
+  "display_name": "Emergency Atlus",
+  "external_id": "cb-emergency-atlus",
+  "flavor_text": null,
+  "id": "917e6515-ed23-4a1d-baaa-474d879bdabc",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/9c18b6ae-765d-4244-8de4-e382c4767de1/render-mpvm10a4.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Emergency Atlus",
+  "power": 4,
+  "print_number": "077",
+  "printing_id": "9c18b6ae-765d-4244-8de4-e382c4767de1",
+  "printings": [
+    {
+      "artist": "Robert Sammelin",
+      "collector_number": "077",
+      "finish": null,
+      "id": "9c18b6ae-765d-4244-8de4-e382c4767de1",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/9c18b6ae-765d-4244-8de4-e382c4767de1/render-mpvm10a4.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/9c18b6ae-765d-4244-8de4-e382c4767de1/render-mpvm10a4.webp"
+    },
+    {
+      "artist": "Robert Sammelin",
+      "collector_number": "\u03b2077",
+      "finish": null,
+      "id": "b4a1d2af-4ee4-4ec4-8a5b-eaec9cb3211a",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/b4a1d2af-4ee4-4ec4-8a5b-eaec9cb3211a/render-mpv4g4s8.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/b4a1d2af-4ee4-4ec4-8a5b-eaec9cb3211a/render-mpv4g4s8.webp"
+    },
+    {
+      "artist": "Robert Sammelin",
+      "collector_number": "015",
+      "finish": null,
+      "id": "b00202eb-35e5-4ae7-8079-34b70a143040",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/b00202eb-35e5-4ae7-8079-34b70a143040/render-mpwc02ow.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "embracingpowerretailstarterdeck",
+        "name": "Embracing Power \u2014 Retail Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/b00202eb-35e5-4ae7-8079-34b70a143040/render-mpwc02ow.webp"
+    },
+    {
+      "artist": "Robert Sammelin",
+      "collector_number": "\u03b2015",
+      "finish": null,
+      "id": "0a5892de-42fa-4001-b48a-2c294251dad8",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0a5892de-42fa-4001-b48a-2c294251dad8/render-mpwboudn.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "embracingpowerbetastarterdeck",
+        "name": "Embracing Power \u2014 Beta Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0a5892de-42fa-4001-b48a-2c294251dad8/render-mpwboudn.webp"
+    },
+    {
+      "artist": "Robert Sammelin",
+      "collector_number": "011",
+      "finish": null,
+      "id": "45dd3b11-7bd8-4239-a404-ab0c9b24fcdb",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/45dd3b11-7bd8-4239-a404-ab0c9b24fcdb/render-mqf8307m.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "arasakademodeck",
+        "name": "Arasaka Demo Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/45dd3b11-7bd8-4239-a404-ab0c9b24fcdb/render-mqf8307m.webp"
+    }
+  ],
+  "ram": 1,
+  "rarity": "Common",
+  "rules_text": "\"Grab the policyholder, leave the rest for the city meatwagon.\"",
+  "selected_printing_id": "9c18b6ae-765d-4244-8de4-e382c4767de1",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "emergency-atlus",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/9c18b6ae-765d-4244-8de4-e382c4767de1/render-mpvm10a4.webp",
+  "subname": null
+}

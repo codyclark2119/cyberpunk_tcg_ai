@@ -1,0 +1,61 @@
+{
+  "artist": "Miguel Valderrama",
+  "card_type": "Unit",
+  "classifications": [
+    "Medtech",
+    "Trauma Team"
+  ],
+  "color": "Green",
+  "cost": 6,
+  "display_name": "Nadia: Fighting Through Grief",
+  "external_id": "cb-nadia-fighting-through-grief",
+  "flavor_text": null,
+  "id": "3c144d6a-0c1a-43e9-bd35-85d6fc46adef",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/4bab255b-763a-4762-b5e2-430316526b8a/render-mpvm4t8i.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Nadia",
+  "power": 8,
+  "print_number": "083",
+  "printing_id": "4bab255b-763a-4762-b5e2-430316526b8a",
+  "printings": [
+    {
+      "artist": "Miguel Valderrama",
+      "collector_number": "083",
+      "finish": null,
+      "id": "4bab255b-763a-4762-b5e2-430316526b8a",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/4bab255b-763a-4762-b5e2-430316526b8a/render-mpvm4t8i.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/4bab255b-763a-4762-b5e2-430316526b8a/render-mpvm4t8i.webp"
+    },
+    {
+      "artist": "Miguel Valderrama",
+      "collector_number": "\u03b2083",
+      "finish": null,
+      "id": "8cb7b93c-e281-4d94-a4b0-bb0cb5d0fa16",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/8cb7b93c-e281-4d94-a4b0-bb0cb5d0fa16/render-mpv4m4no.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/8cb7b93c-e281-4d94-a4b0-bb0cb5d0fa16/render-mpv4m4no.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Uncommon",
+  "rules_text": "If a Rival controls more Gigs than you, this Unit can attack their Gig area the turn it's played.",
+  "selected_printing_id": "4bab255b-763a-4762-b5e2-430316526b8a",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "nadia-fighting-through-grief",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/4bab255b-763a-4762-b5e2-430316526b8a/render-mpvm4t8i.webp",
+  "subname": "Fighting Through Grief"
+}

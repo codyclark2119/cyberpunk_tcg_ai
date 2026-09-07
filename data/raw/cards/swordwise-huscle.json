@@ -1,0 +1,99 @@
+{
+  "artist": "Olgierd Ciszak",
+  "card_type": "Unit",
+  "classifications": [
+    "Merc"
+  ],
+  "color": "Red",
+  "cost": 3,
+  "display_name": "Swordwise Huscle",
+  "external_id": "cb-swordwise-huscle",
+  "flavor_text": null,
+  "id": "3c4e7fcb-933d-4712-9ce7-6052a14f8e94",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/1c053198-187e-49ab-a9e0-0661b4c3b337/render-mpvlt1ju.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Swordwise Huscle",
+  "power": 3,
+  "print_number": "019",
+  "printing_id": "1c053198-187e-49ab-a9e0-0661b4c3b337",
+  "printings": [
+    {
+      "artist": "Olgierd Ciszak",
+      "collector_number": "019",
+      "finish": null,
+      "id": "1c053198-187e-49ab-a9e0-0661b4c3b337",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/1c053198-187e-49ab-a9e0-0661b4c3b337/render-mpvlt1ju.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/1c053198-187e-49ab-a9e0-0661b4c3b337/render-mpvlt1ju.webp"
+    },
+    {
+      "artist": "Olgierd Ciszak",
+      "collector_number": "\u03b2019",
+      "finish": null,
+      "id": "1b182145-b318-4b10-85e2-fdbf5afdf3c0",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/1b182145-b318-4b10-85e2-fdbf5afdf3c0/render-mpv4dvp6.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/1b182145-b318-4b10-85e2-fdbf5afdf3c0/render-mpv4dvp6.webp"
+    },
+    {
+      "artist": "Olgierd Ciszak",
+      "collector_number": "005",
+      "finish": null,
+      "id": "9ecace66-9724-4582-8a45-ae614ffc640f",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/9ecace66-9724-4582-8a45-ae614ffc640f/render-mpwbyr13.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "embracingpowerretailstarterdeck",
+        "name": "Embracing Power \u2014 Retail Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/9ecace66-9724-4582-8a45-ae614ffc640f/render-mpwbyr13.webp"
+    },
+    {
+      "artist": "Olgierd Ciszak",
+      "collector_number": "\u03b2005",
+      "finish": null,
+      "id": "6c695f7c-8b57-4932-aa4c-d85f0b1d29e3",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/6c695f7c-8b57-4932-aa4c-d85f0b1d29e3/render-mpwbo7lv.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "embracingpowerbetastarterdeck",
+        "name": "Embracing Power \u2014 Beta Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/6c695f7c-8b57-4932-aa4c-d85f0b1d29e3/render-mpwbo7lv.webp"
+    },
+    {
+      "artist": "Olgierd Ciszak",
+      "collector_number": "003",
+      "finish": null,
+      "id": "39ef1f5d-50e0-405c-bd25-6961fd93d2a1",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/39ef1f5d-50e0-405c-bd25-6961fd93d2a1/render-mqf81um9.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "arasakademodeck",
+        "name": "Arasaka Demo Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/39ef1f5d-50e0-405c-bd25-6961fd93d2a1/render-mqf81um9.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Common",
+  "rules_text": "{Attack} If this Unit has power 5+, draw 1.",
+  "selected_printing_id": "1c053198-187e-49ab-a9e0-0661b4c3b337",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "swordwise-huscle",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/1c053198-187e-49ab-a9e0-0661b4c3b337/render-mpvlt1ju.webp",
+  "subname": null
+}

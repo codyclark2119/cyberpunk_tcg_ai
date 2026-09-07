@@ -1,0 +1,74 @@
+{
+  "artist": "Dardo Studios",
+  "card_type": "Unit",
+  "classifications": [
+    "Arasaka",
+    "Merc"
+  ],
+  "color": "Yellow",
+  "cost": 9,
+  "display_name": "Adam Smasher: Metal Over Meat",
+  "external_id": "cb-adam-smasher-metal-over-meat",
+  "flavor_text": null,
+  "id": "a2ad9c2f-bfb7-473b-9408-91af142d269d",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/d23e322f-ad60-431d-b33e-1e8a813248ff/render-mpvlmm1k.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Adam Smasher",
+  "power": 15,
+  "print_number": "041",
+  "printing_id": "d23e322f-ad60-431d-b33e-1e8a813248ff",
+  "printings": [
+    {
+      "artist": "Dardo Studios",
+      "collector_number": "041",
+      "finish": null,
+      "id": "d23e322f-ad60-431d-b33e-1e8a813248ff",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/d23e322f-ad60-431d-b33e-1e8a813248ff/render-mpvlmm1k.webp",
+      "rarity": "Epic",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/d23e322f-ad60-431d-b33e-1e8a813248ff/render-mpvlmm1k.webp"
+    },
+    {
+      "artist": "Dardo Studios",
+      "collector_number": "\u03b2041",
+      "finish": null,
+      "id": "fdb7a7c3-350e-49ea-8a9e-8477ce6c657a",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/fdb7a7c3-350e-49ea-8a9e-8477ce6c657a/render-mpv4t0eu.webp",
+      "rarity": "Epic",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/fdb7a7c3-350e-49ea-8a9e-8477ce6c657a/render-mpv4t0eu.webp"
+    },
+    {
+      "artist": "Toni Infante",
+      "collector_number": "\u03b2160",
+      "finish": null,
+      "id": "59d1ce5c-d616-45d5-9816-576f5f1509f3",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/59d1ce5c-d616-45d5-9816-576f5f1509f3/render-mqfcs01b.webp",
+      "rarity": "Iconic Other",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/59d1ce5c-d616-45d5-9816-576f5f1509f3/render-mqfcs01b.webp"
+    }
+  ],
+  "ram": 6,
+  "rarity": "Epic",
+  "rules_text": "{Play} Defeat all other Units.",
+  "selected_printing_id": "d23e322f-ad60-431d-b33e-1e8a813248ff",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "adam-smasher-metal-over-meat",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/d23e322f-ad60-431d-b33e-1e8a813248ff/render-mpvlmm1k.webp",
+  "subname": "Metal Over Meat"
+}

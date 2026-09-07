@@ -1,0 +1,60 @@
+{
+  "artist": "ADIA",
+  "card_type": "Program",
+  "classifications": [
+    "Braindance"
+  ],
+  "color": "Yellow",
+  "cost": 5,
+  "display_name": "Bootleg Black Sapphire Show",
+  "external_id": "cb-bootleg-black-sapphire-show",
+  "flavor_text": null,
+  "id": "84561b4c-67f0-4b2e-80ac-6b9c0a2396e3",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/decc76ed-f5ed-4f02-90d7-e01e2a3975e0/render-mpvmh4na.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Bootleg Black Sapphire Show",
+  "power": null,
+  "print_number": "066",
+  "printing_id": "decc76ed-f5ed-4f02-90d7-e01e2a3975e0",
+  "printings": [
+    {
+      "artist": "ADIA",
+      "collector_number": "066",
+      "finish": null,
+      "id": "decc76ed-f5ed-4f02-90d7-e01e2a3975e0",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/decc76ed-f5ed-4f02-90d7-e01e2a3975e0/render-mpvmh4na.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/decc76ed-f5ed-4f02-90d7-e01e2a3975e0/render-mpvmh4na.webp"
+    },
+    {
+      "artist": "ADIA",
+      "collector_number": "\u03b2066",
+      "finish": null,
+      "id": "20c23b0f-187d-41d8-9670-b8e603049b3d",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/20c23b0f-187d-41d8-9670-b8e603049b3d/render-mpvk279d.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/20c23b0f-187d-41d8-9670-b8e603049b3d/render-mpvk279d.webp"
+    }
+  ],
+  "ram": 4,
+  "rarity": "Uncommon",
+  "rules_text": "Sell the top card of your deck.\nIf you control a Gig with an even value and a Gig with an odd value, draw 2.",
+  "selected_printing_id": "decc76ed-f5ed-4f02-90d7-e01e2a3975e0",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "bootleg-black-sapphire-show",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/decc76ed-f5ed-4f02-90d7-e01e2a3975e0/render-mpvmh4na.webp",
+  "subname": null
+}

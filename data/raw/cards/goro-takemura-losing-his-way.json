@@ -1,0 +1,74 @@
+{
+  "artist": "Ilya Kuvshinov",
+  "card_type": "Unit",
+  "classifications": [
+    "Arasaka",
+    "Corpo"
+  ],
+  "color": "Green",
+  "cost": 4,
+  "display_name": "Goro Takemura: Losing His Way",
+  "external_id": "cb-goro-takemura-losing-his-way",
+  "flavor_text": null,
+  "id": "08e6a687-56b7-4ac1-982f-8a8d6d0c0bc5",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/42e03e7a-923d-4f2b-8d79-191e69873947/render-mpwby2mz.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Goro Takemura",
+  "power": 4,
+  "print_number": "017",
+  "printing_id": "42e03e7a-923d-4f2b-8d79-191e69873947",
+  "printings": [
+    {
+      "artist": "Ilya Kuvshinov",
+      "collector_number": "017",
+      "finish": null,
+      "id": "42e03e7a-923d-4f2b-8d79-191e69873947",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/42e03e7a-923d-4f2b-8d79-191e69873947/render-mpwby2mz.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "embracingpowerretailstarterdeck",
+        "name": "Embracing Power \u2014 Retail Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/42e03e7a-923d-4f2b-8d79-191e69873947/render-mpwby2mz.webp"
+    },
+    {
+      "artist": "Ilya Kuvshinov",
+      "collector_number": "\u03b2017",
+      "finish": null,
+      "id": "fb45ca8c-cb8a-4de9-8cf4-04a697c3fdfd",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/fb45ca8c-cb8a-4de9-8cf4-04a697c3fdfd/render-mpwbot1l.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "embracingpowerbetastarterdeck",
+        "name": "Embracing Power \u2014 Beta Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/fb45ca8c-cb8a-4de9-8cf4-04a697c3fdfd/render-mpwbot1l.webp"
+    },
+    {
+      "artist": "Ilya Kuvshinov",
+      "collector_number": "013",
+      "finish": null,
+      "id": "384b716d-fe9c-4a09-86b3-fe9b25928c51",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/384b716d-fe9c-4a09-86b3-fe9b25928c51/render-mqf839se.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "arasakademodeck",
+        "name": "Arasaka Demo Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/384b716d-fe9c-4a09-86b3-fe9b25928c51/render-mqf839se.webp"
+    }
+  ],
+  "ram": 3,
+  "rarity": "Uncommon",
+  "rules_text": "{Attack} If all friendly Legends are face-up, this Unit has +5 power this turn.",
+  "selected_printing_id": "42e03e7a-923d-4f2b-8d79-191e69873947",
+  "set": {
+    "code": "embracingpowerretailstarterdeck",
+    "name": "Embracing Power \u2014 Retail Starter Deck"
+  },
+  "slug": "goro-takemura-losing-his-way",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/42e03e7a-923d-4f2b-8d79-191e69873947/render-mpwby2mz.webp",
+  "subname": "Losing His Way"
+}

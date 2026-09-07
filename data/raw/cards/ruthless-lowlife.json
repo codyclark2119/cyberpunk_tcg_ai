@@ -1,0 +1,87 @@
+{
+  "artist": "Jeffrey Alan Love",
+  "card_type": "Unit",
+  "classifications": [
+    "Ganger",
+    "Maelstrom"
+  ],
+  "color": "Red",
+  "cost": 2,
+  "display_name": "Ruthless Lowlife",
+  "external_id": "cb-ruthless-lowlife",
+  "flavor_text": null,
+  "id": "fee335a7-2546-48a5-9bb8-b0886014ce66",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e1b674d0-4ac7-4523-be19-809308871d49/render-mpvls72n.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Ruthless Lowlife",
+  "power": 4,
+  "print_number": "017",
+  "printing_id": "e1b674d0-4ac7-4523-be19-809308871d49",
+  "printings": [
+    {
+      "artist": "Jeffrey Alan Love",
+      "collector_number": "017",
+      "finish": null,
+      "id": "e1b674d0-4ac7-4523-be19-809308871d49",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e1b674d0-4ac7-4523-be19-809308871d49/render-mpvls72n.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e1b674d0-4ac7-4523-be19-809308871d49/render-mpvls72n.webp"
+    },
+    {
+      "artist": "Jeffrey Alan Love",
+      "collector_number": "\u03b2017",
+      "finish": null,
+      "id": "23cfc17c-3fab-475b-9a1a-838b98e09bb8",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/23cfc17c-3fab-475b-9a1a-838b98e09bb8/render-mpvki54p.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/23cfc17c-3fab-475b-9a1a-838b98e09bb8/render-mpvki54p.webp"
+    },
+    {
+      "artist": "Jeffrey Alan Love",
+      "collector_number": "004",
+      "finish": null,
+      "id": "c4806b05-6476-4c67-95a5-fc9c4ce2aaa2",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c4806b05-6476-4c67-95a5-fc9c4ce2aaa2/render-mpwbwqjq.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "embracingpowerretailstarterdeck",
+        "name": "Embracing Power \u2014 Retail Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c4806b05-6476-4c67-95a5-fc9c4ce2aaa2/render-mpwbwqjq.webp"
+    },
+    {
+      "artist": "Jeffrey Alan Love",
+      "collector_number": "\u03b2004",
+      "finish": null,
+      "id": "9c59c8d2-586a-4845-b969-43be1fd3b388",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/9c59c8d2-586a-4845-b969-43be1fd3b388/render-mpwbkz8n.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "embracingpowerbetastarterdeck",
+        "name": "Embracing Power \u2014 Beta Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/9c59c8d2-586a-4845-b969-43be1fd3b388/render-mpwbkz8n.webp"
+    }
+  ],
+  "ram": 1,
+  "rarity": "Common",
+  "rules_text": "This Unit can only attack rival Units. (It can't attack Gig areas.)",
+  "selected_printing_id": "e1b674d0-4ac7-4523-be19-809308871d49",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "ruthless-lowlife",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e1b674d0-4ac7-4523-be19-809308871d49/render-mpvls72n.webp",
+  "subname": null
+}

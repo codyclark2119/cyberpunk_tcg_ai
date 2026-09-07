@@ -1,0 +1,113 @@
+{
+  "artist": "Alexander Dudar",
+  "card_type": "Program",
+  "classifications": [
+    "Arasaka",
+    "Braindance"
+  ],
+  "color": "Red",
+  "cost": 1,
+  "display_name": "Industrial Assembly",
+  "external_id": "cb-industrial-assembly",
+  "flavor_text": null,
+  "id": "a708461f-1f91-4789-bb0d-96e3de5fcf44",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/9103b5db-bf95-4385-8941-308cb0353c9a/render-mpvmeiyj.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Industrial Assembly",
+  "power": null,
+  "print_number": "033",
+  "printing_id": "9103b5db-bf95-4385-8941-308cb0353c9a",
+  "printings": [
+    {
+      "artist": "Alexander Dudar",
+      "collector_number": "033",
+      "finish": null,
+      "id": "9103b5db-bf95-4385-8941-308cb0353c9a",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/9103b5db-bf95-4385-8941-308cb0353c9a/render-mpvmeiyj.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/9103b5db-bf95-4385-8941-308cb0353c9a/render-mpvmeiyj.webp"
+    },
+    {
+      "artist": "Alexander Dudar",
+      "collector_number": "\u03b2033",
+      "finish": null,
+      "id": "161bfaaf-ec85-4142-8538-f5faf9181267",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/161bfaaf-ec85-4142-8538-f5faf9181267/render-mpvk0mep.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/161bfaaf-ec85-4142-8538-f5faf9181267/render-mpvk0mep.webp"
+    },
+    {
+      "artist": "Alexander Duder",
+      "collector_number": "009",
+      "finish": null,
+      "id": "301b47dd-eab3-4648-aece-bc071b87dcd1",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/301b47dd-eab3-4648-aece-bc071b87dcd1/render-mpwbxdsi.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "embracingpowerretailstarterdeck",
+        "name": "Embracing Power \u2014 Retail Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/301b47dd-eab3-4648-aece-bc071b87dcd1/render-mpwbxdsi.webp"
+    },
+    {
+      "artist": "Alexander Duder",
+      "collector_number": "\u03b2009",
+      "finish": null,
+      "id": "84bdb994-a01d-4e4c-81d9-a970aef4d08c",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/84bdb994-a01d-4e4c-81d9-a970aef4d08c/render-mpwbk8rv.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "embracingpowerbetastarterdeck",
+        "name": "Embracing Power \u2014 Beta Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/84bdb994-a01d-4e4c-81d9-a970aef4d08c/render-mpwbk8rv.webp"
+    },
+    {
+      "artist": "Alexander Dudar",
+      "collector_number": "006",
+      "finish": null,
+      "id": "7f0ad31f-3b16-4c7a-88bb-90dd07e55a9b",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7f0ad31f-3b16-4c7a-88bb-90dd07e55a9b/render-mqf827fz.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "arasakademodeck",
+        "name": "Arasaka Demo Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7f0ad31f-3b16-4c7a-88bb-90dd07e55a9b/render-mqf827fz.webp"
+    },
+    {
+      "artist": "Alexander Dudar",
+      "collector_number": "004",
+      "finish": null,
+      "id": "36728e75-5520-4ba8-a82d-e5d884b18170",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/36728e75-5520-4ba8-a82d-e5d884b18170/render-msyh2wcu.webp",
+      "rarity": "Nova Rare",
+      "set": {
+        "code": "edgerunneropens1",
+        "name": "Edgerunner Open S 1"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/36728e75-5520-4ba8-a82d-e5d884b18170/render-msyh2wcu.webp"
+    }
+  ],
+  "ram": 1,
+  "rarity": "Uncommon",
+  "rules_text": "Increase a Gig by up to 4. If you control a Gig with 8+ value, draw 1.",
+  "selected_printing_id": "9103b5db-bf95-4385-8941-308cb0353c9a",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "industrial-assembly",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/9103b5db-bf95-4385-8941-308cb0353c9a/render-mpvmeiyj.webp",
+  "subname": null
+}

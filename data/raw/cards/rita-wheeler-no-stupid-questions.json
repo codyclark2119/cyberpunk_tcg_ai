@@ -1,0 +1,61 @@
+{
+  "artist": "TOPDOG Entertainment",
+  "card_type": "Unit",
+  "classifications": [
+    "Ganger",
+    "Mox"
+  ],
+  "color": "Blue",
+  "cost": 4,
+  "display_name": "Rita Wheeler: No Stupid Questions",
+  "external_id": "cb-rita-wheeler-no-stupid-questions",
+  "flavor_text": null,
+  "id": "65a14367-da52-4578-8162-3c4bac11007d",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/5d795b32-9ad8-4c94-abd4-d01e389db389/render-mpvm1o1g.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Rita Wheeler",
+  "power": 4,
+  "print_number": "125",
+  "printing_id": "5d795b32-9ad8-4c94-abd4-d01e389db389",
+  "printings": [
+    {
+      "artist": "TOPDOG Entertainment",
+      "collector_number": "125",
+      "finish": null,
+      "id": "5d795b32-9ad8-4c94-abd4-d01e389db389",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/5d795b32-9ad8-4c94-abd4-d01e389db389/render-mpvm1o1g.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/5d795b32-9ad8-4c94-abd4-d01e389db389/render-mpvm1o1g.webp"
+    },
+    {
+      "artist": "TOPDOG Entertainment",
+      "collector_number": "\u03b2125",
+      "finish": null,
+      "id": "6b5606c9-12a2-46d6-b13f-a672c6bd5f07",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/6b5606c9-12a2-46d6-b13f-a672c6bd5f07/render-mpv4lqc6.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/6b5606c9-12a2-46d6-b13f-a672c6bd5f07/render-mpv4lqc6.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Common",
+  "rules_text": "{Blocker} (You may spend this Unit to redirect a rival Unit's attack to it instead.)\nThe first time this Unit is spent each turn, draw 1, then discard 1.",
+  "selected_printing_id": "5d795b32-9ad8-4c94-abd4-d01e389db389",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "rita-wheeler-no-stupid-questions",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/5d795b32-9ad8-4c94-abd4-d01e389db389/render-mpvm1o1g.webp",
+  "subname": "No Stupid Questions"
+}

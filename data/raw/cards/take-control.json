@@ -1,0 +1,60 @@
+{
+  "artist": "RUDCEF",
+  "card_type": "Program",
+  "classifications": [
+    "Quickhack"
+  ],
+  "color": "Green",
+  "cost": 2,
+  "display_name": "Take Control",
+  "external_id": "cb-take-control",
+  "flavor_text": null,
+  "id": "1535c19d-54e5-4289-9cb7-15ab429c0092",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/bc1401d4-5b9b-495a-853e-0a22a11f6f4c/render-mpvmhrfm.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Take Control",
+  "power": null,
+  "print_number": "103",
+  "printing_id": "bc1401d4-5b9b-495a-853e-0a22a11f6f4c",
+  "printings": [
+    {
+      "artist": "RUDCEF",
+      "collector_number": "103",
+      "finish": null,
+      "id": "bc1401d4-5b9b-495a-853e-0a22a11f6f4c",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/bc1401d4-5b9b-495a-853e-0a22a11f6f4c/render-mpvmhrfm.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/bc1401d4-5b9b-495a-853e-0a22a11f6f4c/render-mpvmhrfm.webp"
+    },
+    {
+      "artist": "RUDCEF",
+      "collector_number": "\u03b2103",
+      "finish": null,
+      "id": "a7a49ccf-4b85-4997-b08c-16e8e80d9aa8",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a7a49ccf-4b85-4997-b08c-16e8e80d9aa8/render-mpvk0p3l.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a7a49ccf-4b85-4997-b08c-16e8e80d9aa8/render-mpvk0p3l.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Uncommon",
+  "rules_text": "{Quick} A rival Unit steals 1 fewer Gig this turn. If that Unit is an AI, DRONE, or VEHICLE, draw 1.",
+  "selected_printing_id": "bc1401d4-5b9b-495a-853e-0a22a11f6f4c",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "take-control",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/bc1401d4-5b9b-495a-853e-0a22a11f6f4c/render-mpvmhrfm.webp",
+  "subname": null
+}

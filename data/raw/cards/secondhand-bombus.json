@@ -1,0 +1,100 @@
+{
+  "artist": "Luca Claretti",
+  "card_type": "Unit",
+  "classifications": [
+    "Drone",
+    "Zetatech"
+  ],
+  "color": "Yellow",
+  "cost": 2,
+  "display_name": "Secondhand Bombus",
+  "external_id": "cb-secondhand-bombus",
+  "flavor_text": null,
+  "id": "b05cb065-309e-45a3-bbe0-20f4b6ea71aa",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/fcbb6d58-6666-4bd3-8ff0-64930fb0f422/render-mpvlyg97.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Secondhand Bombus",
+  "power": 0,
+  "print_number": "053",
+  "printing_id": "fcbb6d58-6666-4bd3-8ff0-64930fb0f422",
+  "printings": [
+    {
+      "artist": "Luca Claretti",
+      "collector_number": "053",
+      "finish": null,
+      "id": "fcbb6d58-6666-4bd3-8ff0-64930fb0f422",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/fcbb6d58-6666-4bd3-8ff0-64930fb0f422/render-mpvlyg97.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/fcbb6d58-6666-4bd3-8ff0-64930fb0f422/render-mpvlyg97.webp"
+    },
+    {
+      "artist": "Luca Claretti",
+      "collector_number": "\u03b2053",
+      "finish": null,
+      "id": "6a8e2aae-694a-43ea-8e3a-0482046a90c5",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/6a8e2aae-694a-43ea-8e3a-0482046a90c5/render-mpv4h3cp.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/6a8e2aae-694a-43ea-8e3a-0482046a90c5/render-mpv4h3cp.webp"
+    },
+    {
+      "artist": "Luca Claretti",
+      "collector_number": "005",
+      "finish": null,
+      "id": "b7d9313c-f2a4-40c0-85ed-81adb7653125",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/b7d9313c-f2a4-40c0-85ed-81adb7653125/render-mpwcjim7.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "theheistretailstarterdeck",
+        "name": "The Heist \u2014 Retail Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/b7d9313c-f2a4-40c0-85ed-81adb7653125/render-mpwcjim7.webp"
+    },
+    {
+      "artist": "Luca Claretti",
+      "collector_number": "\u03b2005",
+      "finish": null,
+      "id": "2e2f977d-e0a6-4a21-a6b3-92937eb6e909",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2e2f977d-e0a6-4a21-a6b3-92937eb6e909/render-mpwcbhyz.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "theheistbetastarterdeck",
+        "name": "The Heist \u2014 Beta Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2e2f977d-e0a6-4a21-a6b3-92937eb6e909/render-mpwcbhyz.webp"
+    },
+    {
+      "artist": "Luca Claretti",
+      "collector_number": "003",
+      "finish": null,
+      "id": "62d6b51a-ceaf-498b-8a04-27c3d3e21feb",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/62d6b51a-ceaf-498b-8a04-27c3d3e21feb/render-mqf85gc2.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "mercdemodeck",
+        "name": "Merc Demo Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/62d6b51a-ceaf-498b-8a04-27c3d3e21feb/render-mqf85gc2.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Common",
+  "rules_text": "{Blocker} (You may spend this Unit to redirect a rival Unit's attack to it instead.)\n(Units with power 0 don't steal Gigs.)",
+  "selected_printing_id": "fcbb6d58-6666-4bd3-8ff0-64930fb0f422",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "secondhand-bombus",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/fcbb6d58-6666-4bd3-8ff0-64930fb0f422/render-mpvlyg97.webp",
+  "subname": null
+}

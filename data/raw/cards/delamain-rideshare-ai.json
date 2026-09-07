@@ -1,0 +1,60 @@
+{
+  "artist": "\u0141ukasz Wiktorzak",
+  "card_type": "Unit",
+  "classifications": [
+    "AI"
+  ],
+  "color": "Blue",
+  "cost": 3,
+  "display_name": "Delamain: Rideshare AI",
+  "external_id": "cb-delamain-rideshare-ai",
+  "flavor_text": null,
+  "id": "3bb1f191-927e-45b3-86ca-cb30baabfe0d",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c7eba3a0-63cb-4311-988e-d487a7c0841a/render-mpvm49le.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Delamain",
+  "power": 0,
+  "print_number": "111",
+  "printing_id": "c7eba3a0-63cb-4311-988e-d487a7c0841a",
+  "printings": [
+    {
+      "artist": "\u0141ukasz Wiktorzak",
+      "collector_number": "111",
+      "finish": null,
+      "id": "c7eba3a0-63cb-4311-988e-d487a7c0841a",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c7eba3a0-63cb-4311-988e-d487a7c0841a/render-mpvm49le.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c7eba3a0-63cb-4311-988e-d487a7c0841a/render-mpvm49le.webp"
+    },
+    {
+      "artist": "\u0141ukasz Wiktorzak",
+      "collector_number": "\u03b2111",
+      "finish": null,
+      "id": "32f8d89a-1e4b-46b8-9323-77c297c5b5ae",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/32f8d89a-1e4b-46b8-9323-77c297c5b5ae/render-mpv4pd73.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/32f8d89a-1e4b-46b8-9323-77c297c5b5ae/render-mpv4pd73.webp"
+    }
+  ],
+  "ram": 3,
+  "rarity": "Uncommon",
+  "rules_text": "{Play} Draw 2.\n(Units with power 0 don't steal Gigs.)",
+  "selected_printing_id": "c7eba3a0-63cb-4311-988e-d487a7c0841a",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "delamain-rideshare-ai",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c7eba3a0-63cb-4311-988e-d487a7c0841a/render-mpvm49le.webp",
+  "subname": "Rideshare AI"
+}

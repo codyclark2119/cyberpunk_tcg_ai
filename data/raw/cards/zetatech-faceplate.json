@@ -1,0 +1,87 @@
+{
+  "artist": "ADIA",
+  "card_type": "Gear",
+  "classifications": [
+    "Cyberware",
+    "Zetatech"
+  ],
+  "color": "Yellow",
+  "cost": 2,
+  "display_name": "Zetatech Faceplate",
+  "external_id": "cb-zetatech-faceplate",
+  "flavor_text": null,
+  "id": "b88d436f-1ec7-4f62-9dbc-c5f5e0d0a0df",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/79cdc9a5-d94d-4df4-9f88-aa02fb0357b3/render-mpvn0qb5.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Zetatech Faceplate",
+  "power": 2,
+  "print_number": "064",
+  "printing_id": "79cdc9a5-d94d-4df4-9f88-aa02fb0357b3",
+  "printings": [
+    {
+      "artist": "ADIA",
+      "collector_number": "064",
+      "finish": null,
+      "id": "79cdc9a5-d94d-4df4-9f88-aa02fb0357b3",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/79cdc9a5-d94d-4df4-9f88-aa02fb0357b3/render-mpvn0qb5.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/79cdc9a5-d94d-4df4-9f88-aa02fb0357b3/render-mpvn0qb5.webp"
+    },
+    {
+      "artist": "ADIA",
+      "collector_number": "\u03b2064",
+      "finish": null,
+      "id": "25077971-70cc-4524-b7cf-cd8258abc28c",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/25077971-70cc-4524-b7cf-cd8258abc28c/render-mpvjwuu4.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/25077971-70cc-4524-b7cf-cd8258abc28c/render-mpvjwuu4.webp"
+    },
+    {
+      "artist": "ADIA",
+      "collector_number": "009",
+      "finish": null,
+      "id": "26b755e4-b754-48fc-b89b-ba8ce670d43b",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/26b755e4-b754-48fc-b89b-ba8ce670d43b/render-mq7xmz54.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "theheistretailstarterdeck",
+        "name": "The Heist \u2014 Retail Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/26b755e4-b754-48fc-b89b-ba8ce670d43b/render-mq7xmz54.webp"
+    },
+    {
+      "artist": "ADIA",
+      "collector_number": "\u03b2009",
+      "finish": null,
+      "id": "e38dee5b-9f4a-4323-a18f-aff42256b158",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e38dee5b-9f4a-4323-a18f-aff42256b158/render-mq7xlx1d.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "theheistbetastarterdeck",
+        "name": "The Heist \u2014 Beta Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e38dee5b-9f4a-4323-a18f-aff42256b158/render-mq7xlx1d.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Uncommon",
+  "rules_text": "(Equip to a friendly Unit or face-up Legend.)\nWhen this Unit or Legend is spent, adjust a Gig by up to 1. Then, if you control 3 or more Gigs with different values, draw 1.",
+  "selected_printing_id": "79cdc9a5-d94d-4df4-9f88-aa02fb0357b3",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "zetatech-faceplate",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/79cdc9a5-d94d-4df4-9f88-aa02fb0357b3/render-mpvn0qb5.webp",
+  "subname": null
+}

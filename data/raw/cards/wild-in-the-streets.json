@@ -1,0 +1,60 @@
+{
+  "artist": "Bernard Kowalczuk",
+  "card_type": "Program",
+  "classifications": [
+    "Ganger"
+  ],
+  "color": "Green",
+  "cost": 5,
+  "display_name": "Wild in the Streets",
+  "external_id": "cb-wild-in-the-streets",
+  "flavor_text": null,
+  "id": "3126fa21-ea19-4096-8233-d63797bb9fe4",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/54f0308f-8fb2-4861-a414-c15ca24426c3/render-mpvmbjzl.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Wild in the Streets",
+  "power": null,
+  "print_number": "105",
+  "printing_id": "54f0308f-8fb2-4861-a414-c15ca24426c3",
+  "printings": [
+    {
+      "artist": "Bernard Kowalczuk",
+      "collector_number": "105",
+      "finish": null,
+      "id": "54f0308f-8fb2-4861-a414-c15ca24426c3",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/54f0308f-8fb2-4861-a414-c15ca24426c3/render-mpvmbjzl.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/54f0308f-8fb2-4861-a414-c15ca24426c3/render-mpvmbjzl.webp"
+    },
+    {
+      "artist": "Bernard Kowalczuk",
+      "collector_number": "\u03b2105",
+      "finish": null,
+      "id": "bc78db9f-337e-437e-b247-f1aa798c48d0",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/bc78db9f-337e-437e-b247-f1aa798c48d0/render-mpvk6zpm.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/bc78db9f-337e-437e-b247-f1aa798c48d0/render-mpvk6zpm.webp"
+    }
+  ],
+  "ram": 4,
+  "rarity": "Common",
+  "rules_text": "Defeat a spent Unit.",
+  "selected_printing_id": "54f0308f-8fb2-4861-a414-c15ca24426c3",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "wild-in-the-streets",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/54f0308f-8fb2-4861-a414-c15ca24426c3/render-mpvmbjzl.webp",
+  "subname": null
+}

@@ -1,0 +1,60 @@
+{
+  "artist": "Miguel Valderrama",
+  "card_type": "Program",
+  "classifications": [
+    "Quickhack"
+  ],
+  "color": "Yellow",
+  "cost": 2,
+  "display_name": "Safety Override",
+  "external_id": "cb-safety-override",
+  "flavor_text": null,
+  "id": "b4cba235-816d-4888-a308-1c397b9288e7",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/5d987aa8-baed-45b2-986c-a21e04a53331/render-mpvm9rqp.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Safety Override",
+  "power": null,
+  "print_number": "069",
+  "printing_id": "5d987aa8-baed-45b2-986c-a21e04a53331",
+  "printings": [
+    {
+      "artist": "Miguel Valderrama",
+      "collector_number": "069",
+      "finish": null,
+      "id": "5d987aa8-baed-45b2-986c-a21e04a53331",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/5d987aa8-baed-45b2-986c-a21e04a53331/render-mpvm9rqp.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/5d987aa8-baed-45b2-986c-a21e04a53331/render-mpvm9rqp.webp"
+    },
+    {
+      "artist": "Miguel Valderrama",
+      "collector_number": "\u03b2069",
+      "finish": null,
+      "id": "af696a54-97bf-475b-b721-9a8bb86227a0",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/af696a54-97bf-475b-b721-9a8bb86227a0/render-mpvk6asf.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/af696a54-97bf-475b-b721-9a8bb86227a0/render-mpvk6asf.webp"
+    }
+  ],
+  "ram": 3,
+  "rarity": "Common",
+  "rules_text": "{Quick} The next time a friendly Unit loses a fight this turn, defeat the opposing rival Unit.",
+  "selected_printing_id": "5d987aa8-baed-45b2-986c-a21e04a53331",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "safety-override",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/5d987aa8-baed-45b2-986c-a21e04a53331/render-mpvm9rqp.webp",
+  "subname": null
+}

@@ -1,0 +1,61 @@
+{
+  "artist": "Rafael de Latorre & Clonerh",
+  "card_type": "Unit",
+  "classifications": [
+    "Ganger",
+    "Valentino"
+  ],
+  "color": "Red",
+  "cost": 5,
+  "display_name": "El Sombrer\u00f3n: La Venganza Lenta",
+  "external_id": "cb-el-sombrero-n-la-venganza-lenta",
+  "flavor_text": null,
+  "id": "c688ca08-b3b7-441d-b161-78b9a63a8a9e",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/94180516-28a6-4f5c-b79e-de38a95ed47b/render-mpvm6o5y.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "El Sombrer\u00f3n",
+  "power": 4,
+  "print_number": "009",
+  "printing_id": "94180516-28a6-4f5c-b79e-de38a95ed47b",
+  "printings": [
+    {
+      "artist": "Rafael de Latorre & Clonerh",
+      "collector_number": "009",
+      "finish": null,
+      "id": "94180516-28a6-4f5c-b79e-de38a95ed47b",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/94180516-28a6-4f5c-b79e-de38a95ed47b/render-mpvm6o5y.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/94180516-28a6-4f5c-b79e-de38a95ed47b/render-mpvm6o5y.webp"
+    },
+    {
+      "artist": "Rafael de Latorre & Clonerh",
+      "collector_number": "\u03b2009",
+      "finish": null,
+      "id": "c180e174-f1b6-4b9c-b2c8-db0551ae49d2",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c180e174-f1b6-4b9c-b2c8-db0551ae49d2/render-mpv4qvsv.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c180e174-f1b6-4b9c-b2c8-db0551ae49d2/render-mpv4qvsv.webp"
+    }
+  ],
+  "ram": 4,
+  "rarity": "Rare",
+  "rules_text": "{Attack} You may pay 2 \u20ac$. If you do, this Unit gains power equal to a friendly max Gig this turn.",
+  "selected_printing_id": "94180516-28a6-4f5c-b79e-de38a95ed47b",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "el-sombrero-n-la-venganza-lenta",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/94180516-28a6-4f5c-b79e-de38a95ed47b/render-mpvm6o5y.webp",
+  "subname": "La Venganza Lenta"
+}

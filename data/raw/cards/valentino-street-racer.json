@@ -1,0 +1,61 @@
+{
+  "artist": "Micha\u0142 Dziekan",
+  "card_type": "Unit",
+  "classifications": [
+    "Valentino",
+    "Vehicle"
+  ],
+  "color": "Green",
+  "cost": 3,
+  "display_name": "Valentino Street Racer",
+  "external_id": "cb-valentino-street-racer",
+  "flavor_text": null,
+  "id": "5d6afeed-1532-4a01-bb40-a011030a7785",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/dc15db71-3443-4de0-b988-c62601bae5e1/render-mpvlvw95.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Valentino Street Racer",
+  "power": 3,
+  "print_number": "091",
+  "printing_id": "dc15db71-3443-4de0-b988-c62601bae5e1",
+  "printings": [
+    {
+      "artist": "Micha\u0142 Dziekan",
+      "collector_number": "091",
+      "finish": null,
+      "id": "dc15db71-3443-4de0-b988-c62601bae5e1",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/dc15db71-3443-4de0-b988-c62601bae5e1/render-mpvlvw95.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/dc15db71-3443-4de0-b988-c62601bae5e1/render-mpvlvw95.webp"
+    },
+    {
+      "artist": "Micha\u0142 Dziekan",
+      "collector_number": "\u03b2091",
+      "finish": null,
+      "id": "c828bc68-23a3-41ef-878b-00b13ccf0cdc",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c828bc68-23a3-41ef-878b-00b13ccf0cdc/render-mpv4l870.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c828bc68-23a3-41ef-878b-00b13ccf0cdc/render-mpv4l870.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Common",
+  "rules_text": "{Play} Give another friendly Unit with cost 5 or less {Adrenaline} this turn. (A Unit with Adrenaline can attack the turn it's played.)",
+  "selected_printing_id": "dc15db71-3443-4de0-b988-c62601bae5e1",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "valentino-street-racer",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/dc15db71-3443-4de0-b988-c62601bae5e1/render-mpvlvw95.webp",
+  "subname": null
+}

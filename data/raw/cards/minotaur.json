@@ -1,0 +1,75 @@
+{
+  "artist": "CD Projekt Red",
+  "card_type": "Unit",
+  "classifications": [
+    "Arasaka",
+    "Drone",
+    "Militech"
+  ],
+  "color": "Red",
+  "cost": 7,
+  "display_name": "Minotaur",
+  "external_id": "cb-minotaur",
+  "flavor_text": null,
+  "id": "066641c5-acc2-45f4-ba67-16a8d20cce73",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/19587d4f-6d47-44fe-b4da-99743e2742f7/render-mpwc0q84.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Minotaur",
+  "power": 9,
+  "print_number": "003",
+  "printing_id": "19587d4f-6d47-44fe-b4da-99743e2742f7",
+  "printings": [
+    {
+      "artist": "CD Projekt Red",
+      "collector_number": "003",
+      "finish": null,
+      "id": "19587d4f-6d47-44fe-b4da-99743e2742f7",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/19587d4f-6d47-44fe-b4da-99743e2742f7/render-mpwc0q84.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "embracingpowerretailstarterdeck",
+        "name": "Embracing Power \u2014 Retail Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/19587d4f-6d47-44fe-b4da-99743e2742f7/render-mpwc0q84.webp"
+    },
+    {
+      "artist": "CD Projekt Red",
+      "collector_number": "\u03b2003",
+      "finish": null,
+      "id": "a8dd2d7b-88b8-4b15-b4dd-e3aa3757bb25",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a8dd2d7b-88b8-4b15-b4dd-e3aa3757bb25/render-mpwbjnvc.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "embracingpowerbetastarterdeck",
+        "name": "Embracing Power \u2014 Beta Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a8dd2d7b-88b8-4b15-b4dd-e3aa3757bb25/render-mpwbjnvc.webp"
+    },
+    {
+      "artist": "CD Projekt Red",
+      "collector_number": "002",
+      "finish": null,
+      "id": "6e023192-0834-4d6f-935a-e5d6d4d6eff0",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/6e023192-0834-4d6f-935a-e5d6d4d6eff0/render-mqf81dwb.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "arasakademodeck",
+        "name": "Arasaka Demo Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/6e023192-0834-4d6f-935a-e5d6d4d6eff0/render-mqf81dwb.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Uncommon",
+  "rules_text": "{Play} If you have more \u2606 (Street Cred) than a Rival, defeat a rival Unit with power 5 or less.",
+  "selected_printing_id": "19587d4f-6d47-44fe-b4da-99743e2742f7",
+  "set": {
+    "code": "embracingpowerretailstarterdeck",
+    "name": "Embracing Power \u2014 Retail Starter Deck"
+  },
+  "slug": "minotaur",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/19587d4f-6d47-44fe-b4da-99743e2742f7/render-mpwc0q84.webp",
+  "subname": null
+}

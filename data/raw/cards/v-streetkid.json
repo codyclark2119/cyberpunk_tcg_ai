@@ -1,0 +1,99 @@
+{
+  "artist": "Olgierd Ciszak",
+  "card_type": "Legend",
+  "classifications": [
+    "Merc"
+  ],
+  "color": "Red",
+  "cost": 5,
+  "display_name": "V: Streetkid",
+  "external_id": "cb-v-streetkid",
+  "flavor_text": null,
+  "id": "81a8dec7-9541-4020-93e1-7d798a57dcbc",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3fc63c58-5954-4744-a5af-047bfc5cb159/render-mq9zzfnq.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "V",
+  "power": 6,
+  "print_number": "005a",
+  "printing_id": "3fc63c58-5954-4744-a5af-047bfc5cb159",
+  "printings": [
+    {
+      "artist": "Olgierd Ciszak",
+      "collector_number": "005a",
+      "finish": null,
+      "id": "3fc63c58-5954-4744-a5af-047bfc5cb159",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3fc63c58-5954-4744-a5af-047bfc5cb159/render-mq9zzfnq.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3fc63c58-5954-4744-a5af-047bfc5cb159/render-mq9zzfnq.webp"
+    },
+    {
+      "artist": "Olgierd Ciszak",
+      "collector_number": "005b",
+      "finish": null,
+      "id": "c2d0e2a7-470f-4498-b6d5-5df1e3ecc3ef",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c2d0e2a7-470f-4498-b6d5-5df1e3ecc3ef/render-mpvmk1ou.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c2d0e2a7-470f-4498-b6d5-5df1e3ecc3ef/render-mpvmk1ou.webp"
+    },
+    {
+      "artist": "Olgierd Ciszak",
+      "collector_number": "\u03b2005a",
+      "finish": null,
+      "id": "79119e83-b50b-4a79-8a6c-f496d9ed7ef6",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/79119e83-b50b-4a79-8a6c-f496d9ed7ef6/render-mpu5tt66.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/79119e83-b50b-4a79-8a6c-f496d9ed7ef6/render-mpu5tt66.webp"
+    },
+    {
+      "artist": "Olgierd Ciszak",
+      "collector_number": "\u03b2005b",
+      "finish": null,
+      "id": "e6dbfd52-85c5-4fd4-a77c-ca829e827d8a",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e6dbfd52-85c5-4fd4-a77c-ca829e827d8a/render-mpu5v3ef.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e6dbfd52-85c5-4fd4-a77c-ca829e827d8a/render-mpu5v3ef.webp"
+    },
+    {
+      "artist": "Pandart Studio",
+      "collector_number": "\u03b2144",
+      "finish": null,
+      "id": "20debd66-ff1c-42c3-9869-928cba33ccb5",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/20debd66-ff1c-42c3-9869-928cba33ccb5/render-mpxm5mbr.webp",
+      "rarity": "Iconic Legend",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/20debd66-ff1c-42c3-9869-928cba33ccb5/render-mpxm5mbr.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Rare",
+  "rules_text": "{Call} Trash 3. Then, add 1 BRAINDANCE Program from your trash to your hand.\n{Go Solo} (Pay this Legend's cost to play it as a ready Unit. It can attack this turn. If it leaves the field, remove it from the game.)",
+  "selected_printing_id": "3fc63c58-5954-4744-a5af-047bfc5cb159",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "v-streetkid",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3fc63c58-5954-4744-a5af-047bfc5cb159/render-mq9zzfnq.webp",
+  "subname": "Streetkid"
+}

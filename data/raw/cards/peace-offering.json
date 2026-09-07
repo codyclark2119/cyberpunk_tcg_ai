@@ -1,0 +1,73 @@
+{
+  "artist": "Mattia De Iulis",
+  "card_type": "Program",
+  "classifications": [
+    "Braindance"
+  ],
+  "color": "Green",
+  "cost": 1,
+  "display_name": "Peace Offering",
+  "external_id": "cb-peace-offering",
+  "flavor_text": null,
+  "id": "20484778-9294-4148-bd8c-fa78572f4452",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/8570122a-52aa-4a6b-8d72-4c8848df0f9b/render-mpvmc6bc.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Peace Offering",
+  "power": null,
+  "print_number": "101",
+  "printing_id": "8570122a-52aa-4a6b-8d72-4c8848df0f9b",
+  "printings": [
+    {
+      "artist": "Mattia De Iulis",
+      "collector_number": "101",
+      "finish": null,
+      "id": "8570122a-52aa-4a6b-8d72-4c8848df0f9b",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/8570122a-52aa-4a6b-8d72-4c8848df0f9b/render-mpvmc6bc.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/8570122a-52aa-4a6b-8d72-4c8848df0f9b/render-mpvmc6bc.webp"
+    },
+    {
+      "artist": "Mattia De Iulis",
+      "collector_number": "\u03b2101",
+      "finish": null,
+      "id": "2cff513f-6a75-40f0-8e70-e1491d340472",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2cff513f-6a75-40f0-8e70-e1491d340472/render-mpvk6xve.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2cff513f-6a75-40f0-8e70-e1491d340472/render-mpvk6xve.webp"
+    },
+    {
+      "artist": "Mattia De Iulis",
+      "collector_number": "006",
+      "finish": null,
+      "id": "98fc95b4-44ec-4de0-bec3-77762792fa0f",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/98fc95b4-44ec-4de0-bec3-77762792fa0f/render-msyhbmat.webp",
+      "rarity": "Nova Rare",
+      "set": {
+        "code": "edgerunneropens1",
+        "name": "Edgerunner Open S 1"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/98fc95b4-44ec-4de0-bec3-77762792fa0f/render-msyhbmat.webp"
+    }
+  ],
+  "ram": 1,
+  "rarity": "Common",
+  "rules_text": "You may set a Gig's value to the value of another Gig. Then, if you control a value-pair, draw 1.",
+  "selected_printing_id": "8570122a-52aa-4a6b-8d72-4c8848df0f9b",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "peace-offering",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/8570122a-52aa-4a6b-8d72-4c8848df0f9b/render-mpvmc6bc.webp",
+  "subname": null
+}

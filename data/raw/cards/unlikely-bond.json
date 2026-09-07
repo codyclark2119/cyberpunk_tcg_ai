@@ -1,0 +1,61 @@
+{
+  "artist": "Fabrizio De Tommaso",
+  "card_type": "Program",
+  "classifications": [
+    "Maelstrom",
+    "Mox"
+  ],
+  "color": "Blue",
+  "cost": 4,
+  "display_name": "Unlikely Bond",
+  "external_id": "cb-unlikely-bond",
+  "flavor_text": null,
+  "id": "5b8f8d4f-c62e-4bde-a086-2ce15bd9449d",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/b21f86a3-cb77-44a3-bf94-4c5e068ac2c8/render-mpvmcn88.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Unlikely Bond",
+  "power": null,
+  "print_number": "140",
+  "printing_id": "b21f86a3-cb77-44a3-bf94-4c5e068ac2c8",
+  "printings": [
+    {
+      "artist": "Fabrizio De Tommaso",
+      "collector_number": "140",
+      "finish": null,
+      "id": "b21f86a3-cb77-44a3-bf94-4c5e068ac2c8",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/b21f86a3-cb77-44a3-bf94-4c5e068ac2c8/render-mpvmcn88.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/b21f86a3-cb77-44a3-bf94-4c5e068ac2c8/render-mpvmcn88.webp"
+    },
+    {
+      "artist": "Fabrizio De Tommaso",
+      "collector_number": "\u03b2140",
+      "finish": null,
+      "id": "54575eba-9d21-43fe-b6df-7cd2564dd37b",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/54575eba-9d21-43fe-b6df-7cd2564dd37b/render-mpvk7n4h.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/54575eba-9d21-43fe-b6df-7cd2564dd37b/render-mpvk7n4h.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Common",
+  "rules_text": "Bottom-deck a ready friendly Unit. If you do, bottom-deck a spent rival Unit.",
+  "selected_printing_id": "b21f86a3-cb77-44a3-bf94-4c5e068ac2c8",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "unlikely-bond",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/b21f86a3-cb77-44a3-bf94-4c5e068ac2c8/render-mpvmcn88.webp",
+  "subname": null
+}

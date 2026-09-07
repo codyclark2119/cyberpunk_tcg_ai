@@ -1,0 +1,88 @@
+{
+  "artist": "Bernard Kowalczuk",
+  "card_type": "Unit",
+  "classifications": [
+    "Ganger",
+    "Netrunner",
+    "Tyger Claws"
+  ],
+  "color": "Red",
+  "cost": 5,
+  "display_name": "Chrome Fang",
+  "external_id": "cb-chrome-fang",
+  "flavor_text": null,
+  "id": "3c4cf61f-c469-4ad6-a209-67e715f9d45b",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/40db55a6-0220-4cb9-8854-0e23f7cb91f8/render-mpvlsztq.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Chrome Fang",
+  "power": 6,
+  "print_number": "008",
+  "printing_id": "40db55a6-0220-4cb9-8854-0e23f7cb91f8",
+  "printings": [
+    {
+      "artist": "Bernard Kowalczuk",
+      "collector_number": "008",
+      "finish": null,
+      "id": "40db55a6-0220-4cb9-8854-0e23f7cb91f8",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/40db55a6-0220-4cb9-8854-0e23f7cb91f8/render-mpvlsztq.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/40db55a6-0220-4cb9-8854-0e23f7cb91f8/render-mpvlsztq.webp"
+    },
+    {
+      "artist": "Bernard Kowalczuk",
+      "collector_number": "\u03b2008",
+      "finish": null,
+      "id": "d6dd0114-fdd5-452a-b752-3e58a2e137f5",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/d6dd0114-fdd5-452a-b752-3e58a2e137f5/render-mpv4k4h5.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/d6dd0114-fdd5-452a-b752-3e58a2e137f5/render-mpv4k4h5.webp"
+    },
+    {
+      "artist": "Bernard Kowalczuk",
+      "collector_number": "002",
+      "finish": null,
+      "id": "0aab2858-fa5e-42f6-997e-39797fefb669",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0aab2858-fa5e-42f6-997e-39797fefb669/render-mpwbur72.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "embracingpowerretailstarterdeck",
+        "name": "Embracing Power \u2014 Retail Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0aab2858-fa5e-42f6-997e-39797fefb669/render-mpwbur72.webp"
+    },
+    {
+      "artist": "Bernard Kowalczuk",
+      "collector_number": "\u03b2002",
+      "finish": null,
+      "id": "1e80ecfb-a3f2-421d-ac71-c05547366fb6",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/1e80ecfb-a3f2-421d-ac71-c05547366fb6/render-mpwbkakj.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "embracingpowerbetastarterdeck",
+        "name": "Embracing Power \u2014 Beta Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/1e80ecfb-a3f2-421d-ac71-c05547366fb6/render-mpwbkakj.webp"
+    }
+  ],
+  "ram": 1,
+  "rarity": "Common",
+  "rules_text": "{Play} Until your next turn, rival Units can't steal friendly Gigs with value higher than their power.",
+  "selected_printing_id": "40db55a6-0220-4cb9-8854-0e23f7cb91f8",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "chrome-fang",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/40db55a6-0220-4cb9-8854-0e23f7cb91f8/render-mpvlsztq.webp",
+  "subname": null
+}

@@ -1,0 +1,61 @@
+{
+  "artist": "Mat\u00edas Bergara",
+  "card_type": "Program",
+  "classifications": [
+    "Braindance",
+    "Extreme"
+  ],
+  "color": "Red",
+  "cost": 6,
+  "display_name": "Carnage at the Colosseum",
+  "external_id": "cb-carnage-at-the-colosseum",
+  "flavor_text": null,
+  "id": "81fb66ee-b054-4f78-b0c9-7d2c9ff53435",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/36128749-4cb1-440d-b4de-4fd463cc2f5c/render-mpvmaxtd.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Carnage at the Colosseum",
+  "power": null,
+  "print_number": "030",
+  "printing_id": "36128749-4cb1-440d-b4de-4fd463cc2f5c",
+  "printings": [
+    {
+      "artist": "Mat\u00edas Bergara",
+      "collector_number": "030",
+      "finish": null,
+      "id": "36128749-4cb1-440d-b4de-4fd463cc2f5c",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/36128749-4cb1-440d-b4de-4fd463cc2f5c/render-mpvmaxtd.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/36128749-4cb1-440d-b4de-4fd463cc2f5c/render-mpvmaxtd.webp"
+    },
+    {
+      "artist": "Mat\u00edas Bergara",
+      "collector_number": "\u03b2030",
+      "finish": null,
+      "id": "171b21b1-90d0-4d3b-a060-740c413b7bf2",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/171b21b1-90d0-4d3b-a060-740c413b7bf2/render-mpvk5s9p.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/171b21b1-90d0-4d3b-a060-740c413b7bf2/render-mpvk5s9p.webp"
+    }
+  ],
+  "ram": 3,
+  "rarity": "Common",
+  "rules_text": "Play this Program for -1 \u20ac$ for each friendly Gig with 8+ value, to a minimum of 1 \u20ac$.\nDefeat a rival Unit with less power than a friendly Unit.",
+  "selected_printing_id": "36128749-4cb1-440d-b4de-4fd463cc2f5c",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "carnage-at-the-colosseum",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/36128749-4cb1-440d-b4de-4fd463cc2f5c/render-mpvmaxtd.webp",
+  "subname": null
+}

@@ -1,0 +1,53 @@
+{"id": "1", "title": "GAME OVERVIEW", "kind": "section", "parent": null, "depth": 0}
+{"id": "rule-c2ea97c5-471a-5c4e-bf32-e97504da33b5", "title": "Official Rules Document", "kind": "subsection", "parent": "1", "depth": 1}
+{"id": "rule-9e3dd7e3-f7b4-529d-9294-9fc9a75f8ddc", "title": "Defining the Game", "kind": "subsection", "parent": "1", "depth": 1}
+{"id": "rule-8008d6a4-9033-5412-931f-d669c00fade1", "title": "Win Conditions", "kind": "subsection", "parent": "1", "depth": 1}
+{"id": "rule-6102756a-cd45-50fb-8ded-eea683b79df7", "title": "Lose Conditions", "kind": "subsection", "parent": "1", "depth": 1}
+{"id": "2", "title": "GOLDEN RULES", "kind": "section", "parent": null, "depth": 0}
+{"id": "rule-a1137877-3824-5786-bc49-9ca22d5054ba", "title": "Resolve as Much as Possible", "kind": "subsection", "parent": "2", "depth": 1}
+{"id": "rule-c6f421c5-a59a-54d4-b6f3-30ae86921306", "title": "Cards Can Break Rules", "kind": "subsection", "parent": "2", "depth": 1}
+{"id": "rule-786a41f3-f3c5-5b6a-abc3-6f155b390a58", "title": "“Can’t” Supersedes “Can”", "kind": "subsection", "parent": "2", "depth": 1}
+{"id": "rule-2adfc1b2-6205-55b0-8043-c78f62311f3a", "title": "Players Activate with Discretion", "kind": "subsection", "parent": "2", "depth": 1}
+{"id": "rule-fa89b551-4f45-51be-a591-de4867b4c18f", "title": "Negative Numbers", "kind": "subsection", "parent": "2", "depth": 1}
+{"id": "rule-52e7f11d-d6d2-588d-97dc-609e843c133b", "title": "Respect Your Rival", "kind": "subsection", "parent": "2", "depth": 1}
+{"id": "3", "title": "CARD INFORMATION", "kind": "section", "parent": null, "depth": 0}
+{"id": "rule-38cfb5b3-57d2-5038-8c50-2bcd2fd5768b", "title": "Orientation", "kind": "subsection", "parent": "3", "depth": 1}
+{"id": "rule-2b88f84e-ad09-5610-b747-d68e9e08ae02", "title": "Card Data", "kind": "subsection", "parent": "3", "depth": 1}
+{"id": "4", "title": "CARD TYPES", "kind": "section", "parent": null, "depth": 0}
+{"id": "rule-f81ffcbf-b5c6-43c9-b507-24ae8e0f5932", "title": "General", "kind": "subsection", "parent": "4", "depth": 1}
+{"id": "rule-3d3d2579-6a0c-566c-9159-9f4c32cc9f5b", "title": "Legends", "kind": "subsection", "parent": "4", "depth": 1}
+{"id": "rule-1cd8bea3-a2e2-52ee-b00a-7e4dfe3c5824", "title": "Units", "kind": "subsection", "parent": "4", "depth": 1}
+{"id": "rule-0dffbbac-b466-5f3f-9f66-0ff9ef80cd49", "title": "Gears", "kind": "subsection", "parent": "4", "depth": 1}
+{"id": "rule-54ed1f0e-09d0-5aaf-b2ad-212183c73bda", "title": "Programs", "kind": "subsection", "parent": "4", "depth": 1}
+{"id": "5", "title": "GAME AREAS", "kind": "section", "parent": null, "depth": 0}
+{"id": "rule-0fd6cfc8-0013-453a-8824-a9a7154bd637", "title": "General", "kind": "subsection", "parent": "5", "depth": 1}
+{"id": "6", "title": "GIGS", "kind": "section", "parent": null, "depth": 0}
+{"id": "7", "title": "GAME SETUP", "kind": "section", "parent": null, "depth": 0}
+{"id": "rule-4a1ca2b7-4c20-5b09-9874-380e9dbcb3c8", "title": "Required Game Pieces", "kind": "subsection", "parent": "7", "depth": 1}
+{"id": "rule-5c6c550b-a5b9-5c34-8de0-ac69293d358f", "title": "Pre-Game Setup", "kind": "subsection", "parent": "7", "depth": 1}
+{"id": "8", "title": "TURN ORDER", "kind": "section", "parent": null, "depth": 0}
+{"id": "rule-62e86349-7ab6-5fe0-af82-79f7af564648", "title": "Structure", "kind": "subsection", "parent": "8", "depth": 1}
+{"id": "rule-2b86cac9-5107-534b-b958-0fa6330a2a0a", "title": "Start Phase", "kind": "subsection", "parent": "8", "depth": 1}
+{"id": "rule-6b35d117-68b9-5655-992b-d642e8de476d", "title": "Main Phase", "kind": "subsection", "parent": "8", "depth": 1}
+{"id": "rule-5cf5dfb4-f5b3-57c9-b846-99ceef96783e", "title": "End of Turn", "kind": "subsection", "parent": "8", "depth": 1}
+{"id": "9", "title": "ATTACK, FIGHT, AND STEAL", "kind": "section", "parent": null, "depth": 0}
+{"id": "rule-d65346a6-8898-5f13-8729-0693c12610fa", "title": "Declare the Attack", "kind": "subsection", "parent": "9", "depth": 1}
+{"id": "rule-8e1db91d-c376-5f3a-b208-7df7a64bed30", "title": "React Step", "kind": "subsection", "parent": "9", "depth": 1}
+{"id": "rule-5fec8182-90d6-57ea-8723-515c9d227614", "title": "Fight Step", "kind": "subsection", "parent": "9", "depth": 1}
+{"id": "rule-b8fa6228-3285-5415-aa1d-c3cb590d93e8", "title": "Steal Step", "kind": "subsection", "parent": "9", "depth": 1}
+{"id": "rule-ea5b950d-f8e1-5b3d-8cd5-20dec6ef700a", "title": "Ending an Attack", "kind": "subsection", "parent": "9", "depth": 1}
+{"id": "10", "title": "EFFECTS", "kind": "section", "parent": null, "depth": 0}
+{"id": "rule-da178967-2dfb-5484-b475-46e3cae8bf31", "title": "Valid and Invalid Effects", "kind": "subsection", "parent": "10", "depth": 1}
+{"id": "rule-9afed67a-613b-547b-bbc7-75c55ca75d57", "title": "Pending Resolution", "kind": "subsection", "parent": "10", "depth": 1}
+{"id": "rule-96d45ee6-dd51-54d8-9666-082316298f42", "title": "Triggered Effects", "kind": "subsection", "parent": "10", "depth": 1}
+{"id": "rule-60be9d57-6a2a-5072-86d4-893bbe9de2b0", "title": "Activated Effects", "kind": "subsection", "parent": "10", "depth": 1}
+{"id": "rule-f6778126-47df-5fa5-a522-17fcb728f468", "title": "Persistent Effects", "kind": "subsection", "parent": "10", "depth": 1}
+{"id": "rule-aad331d7-a54c-54b9-bfdc-095fe62c5ddc", "title": "Replacement Effects", "kind": "subsection", "parent": "10", "depth": 1}
+{"id": "rule-5158832e-dd3c-5b8c-98b2-5f7d87e17da8", "title": "Effect Choices", "kind": "subsection", "parent": "10", "depth": 1}
+{"id": "11", "title": "TERMS", "kind": "section", "parent": null, "depth": 0}
+{"id": "rule-1fd3abec-fd76-53bf-8158-1564130d9575", "title": "General Terms", "kind": "subsection", "parent": "11", "depth": 1}
+{"id": "rule-f1e04ee7-12d2-565f-8917-75ea798e6c4c", "title": "Game Actions", "kind": "subsection", "parent": "11", "depth": 1}
+{"id": "rule-dfde58c0-6056-53d5-b6f6-5fc92822a2f3", "title": "Activation Shorthand", "kind": "subsection", "parent": "11", "depth": 1}
+{"id": "rule-1e209da6-0bd1-5b07-9aff-71f536048aac", "title": "Trigger Keywords", "kind": "subsection", "parent": "11", "depth": 1}
+{"id": "rule-181f56ba-56f9-5d45-a539-e6d575ea8042", "title": "Effect Keywords", "kind": "subsection", "parent": "11", "depth": 1}
+{"id": "rule-e1f37839-f422-53c9-b366-ac122940fc65", "title": "CREDITS", "kind": "section", "parent": null, "depth": 0}

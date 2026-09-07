@@ -1,0 +1,74 @@
+{
+  "artist": "ADIA",
+  "card_type": "Unit",
+  "classifications": [
+    "Arasaka",
+    "Corpo"
+  ],
+  "color": "Green",
+  "cost": 7,
+  "display_name": "Sandayu Oda: Hanako's Guardian",
+  "external_id": "cb-sandayu-oda-hanako-s-guardian",
+  "flavor_text": null,
+  "id": "9611a3ba-d365-453f-89ed-c986a1948edc",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/f452a0ca-3204-48d5-8565-ec746f27959b/render-mpvm8d1y.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Sandayu Oda",
+  "power": 8,
+  "print_number": "088",
+  "printing_id": "f452a0ca-3204-48d5-8565-ec746f27959b",
+  "printings": [
+    {
+      "artist": "ADIA",
+      "collector_number": "088",
+      "finish": null,
+      "id": "f452a0ca-3204-48d5-8565-ec746f27959b",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/f452a0ca-3204-48d5-8565-ec746f27959b/render-mpvm8d1y.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/f452a0ca-3204-48d5-8565-ec746f27959b/render-mpvm8d1y.webp"
+    },
+    {
+      "artist": "ADIA",
+      "collector_number": "\u03b2088",
+      "finish": null,
+      "id": "28cf40e2-f83a-47f4-9c4d-c0b5157e84e6",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/28cf40e2-f83a-47f4-9c4d-c0b5157e84e6/render-mpv4r5wl.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/28cf40e2-f83a-47f4-9c4d-c0b5157e84e6/render-mpv4r5wl.webp"
+    },
+    {
+      "artist": "Dardo Studios",
+      "collector_number": "\u03b2164",
+      "finish": null,
+      "id": "b1db8654-6197-4e80-9555-8917dcba6dc7",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/b1db8654-6197-4e80-9555-8917dcba6dc7/render-mpxlxugm.webp",
+      "rarity": "Iconic Other",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/b1db8654-6197-4e80-9555-8917dcba6dc7/render-mpxlxugm.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Rare",
+  "rules_text": "{Play} Spend a rival Unit for each friendly value-pair of Gigs.\nThis Unit can attack rival Units the turn it's played.",
+  "selected_printing_id": "f452a0ca-3204-48d5-8565-ec746f27959b",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "sandayu-oda-hanako-s-guardian",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/f452a0ca-3204-48d5-8565-ec746f27959b/render-mpvm8d1y.webp",
+  "subname": "Hanako's Guardian"
+}

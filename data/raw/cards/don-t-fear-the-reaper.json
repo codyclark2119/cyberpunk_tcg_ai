@@ -1,0 +1,60 @@
+{
+  "artist": "Alex Eckman-Lawn",
+  "card_type": "Program",
+  "classifications": [
+    "Samurai"
+  ],
+  "color": "Green",
+  "cost": 7,
+  "display_name": "(Don't Fear) The Reaper",
+  "external_id": "cb-don-t-fear-the-reaper",
+  "flavor_text": null,
+  "id": "17a80b46-c583-4867-97ac-7855494363a9",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e96d3167-5115-4c82-9b35-546cba0aaead/render-mpvmj3qx.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "(Don't Fear) The Reaper",
+  "power": null,
+  "print_number": "098",
+  "printing_id": "e96d3167-5115-4c82-9b35-546cba0aaead",
+  "printings": [
+    {
+      "artist": "Alex Eckman-Lawn",
+      "collector_number": "098",
+      "finish": null,
+      "id": "e96d3167-5115-4c82-9b35-546cba0aaead",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e96d3167-5115-4c82-9b35-546cba0aaead/render-mpvmj3qx.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e96d3167-5115-4c82-9b35-546cba0aaead/render-mpvmj3qx.webp"
+    },
+    {
+      "artist": "Alex Eckman-Lawn",
+      "collector_number": "\u03b2098",
+      "finish": null,
+      "id": "1f173d96-9ca1-4298-b479-71f06ee1f558",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/1f173d96-9ca1-4298-b479-71f06ee1f558/render-mpvk3h3r.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/1f173d96-9ca1-4298-b479-71f06ee1f558/render-mpvk3h3r.webp"
+    }
+  ],
+  "ram": 3,
+  "rarity": "Rare",
+  "rules_text": "Spend all rival Units. Then, defeat a spent Unit.",
+  "selected_printing_id": "e96d3167-5115-4c82-9b35-546cba0aaead",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "don-t-fear-the-reaper",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e96d3167-5115-4c82-9b35-546cba0aaead/render-mpvmj3qx.webp",
+  "subname": null
+}

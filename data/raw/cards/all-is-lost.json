@@ -1,0 +1,60 @@
+{
+  "artist": "Fabrizio De Tommaso",
+  "card_type": "Program",
+  "classifications": [
+    "Zetatech"
+  ],
+  "color": "Red",
+  "cost": 1,
+  "display_name": "All is Lost",
+  "external_id": "cb-all-is-lost",
+  "flavor_text": null,
+  "id": "1f969c27-dddb-4971-9ab5-bd728c3e3e52",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/d1a3c0e0-e0e7-418d-afb4-e6e43400c42e/render-mpvmavkg.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "All is Lost",
+  "power": null,
+  "print_number": "027",
+  "printing_id": "d1a3c0e0-e0e7-418d-afb4-e6e43400c42e",
+  "printings": [
+    {
+      "artist": "Fabrizio De Tommaso",
+      "collector_number": "027",
+      "finish": null,
+      "id": "d1a3c0e0-e0e7-418d-afb4-e6e43400c42e",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/d1a3c0e0-e0e7-418d-afb4-e6e43400c42e/render-mpvmavkg.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/d1a3c0e0-e0e7-418d-afb4-e6e43400c42e/render-mpvmavkg.webp"
+    },
+    {
+      "artist": "Fabrizio De Tommaso",
+      "collector_number": "\u03b2027",
+      "finish": null,
+      "id": "27a2fceb-5c37-4cfa-8efb-1e4618d22401",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/27a2fceb-5c37-4cfa-8efb-1e4618d22401/render-mpvk513y.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/27a2fceb-5c37-4cfa-8efb-1e4618d22401/render-mpvk513y.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Common",
+  "rules_text": "Trash 3. Add a Unit from among them to your hand.",
+  "selected_printing_id": "d1a3c0e0-e0e7-418d-afb4-e6e43400c42e",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "all-is-lost",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/d1a3c0e0-e0e7-418d-afb4-e6e43400c42e/render-mpvmavkg.webp",
+  "subname": null
+}

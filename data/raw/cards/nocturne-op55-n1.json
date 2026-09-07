@@ -1,0 +1,61 @@
+{
+  "artist": "Micha\u0142 Dziekan",
+  "card_type": "Program",
+  "classifications": [
+    "Arasaka",
+    "Plan"
+  ],
+  "color": "Blue",
+  "cost": 3,
+  "display_name": "Nocturne OP55 N1",
+  "external_id": "cb-nocturne-op55-n1",
+  "flavor_text": null,
+  "id": "e4af26f0-e25d-4e30-8bac-6701f54f3e97",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/70c7f11e-e41d-44f2-b5cd-e8568915d6ac/render-mqfcqety.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Nocturne OP55 N1",
+  "power": null,
+  "print_number": "134",
+  "printing_id": "70c7f11e-e41d-44f2-b5cd-e8568915d6ac",
+  "printings": [
+    {
+      "artist": "Micha\u0142 Dziekan",
+      "collector_number": "134",
+      "finish": null,
+      "id": "70c7f11e-e41d-44f2-b5cd-e8568915d6ac",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/70c7f11e-e41d-44f2-b5cd-e8568915d6ac/render-mqfcqety.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/70c7f11e-e41d-44f2-b5cd-e8568915d6ac/render-mqfcqety.webp"
+    },
+    {
+      "artist": "Micha\u0142 Dziekan",
+      "collector_number": "\u03b2134",
+      "finish": null,
+      "id": "dfd5d1df-2b47-4ddd-9d6a-35430a892cfc",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/dfd5d1df-2b47-4ddd-9d6a-35430a892cfc/render-mpvk43xt.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/dfd5d1df-2b47-4ddd-9d6a-35430a892cfc/render-mpvk43xt.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Rare",
+  "rules_text": "If your fixer area is empty, play this Program for 1 \u20ac$. Choose one effect.\nDraw 2. // A Unit can't attack until your next turn. // A friendly Legend may use {Go Solo} for -2 \u20ac$ this turn, to a minimum of 1 \u20ac$.",
+  "selected_printing_id": "70c7f11e-e41d-44f2-b5cd-e8568915d6ac",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "nocturne-op55-n1",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/70c7f11e-e41d-44f2-b5cd-e8568915d6ac/render-mqfcqety.webp",
+  "subname": null
+}

@@ -1,0 +1,61 @@
+{
+  "artist": "Dardo Studios",
+  "card_type": "Unit",
+  "classifications": [
+    "Merc",
+    "Nomad"
+  ],
+  "color": "Red",
+  "cost": 5,
+  "display_name": "V: Roamer of the Badlands",
+  "external_id": "cb-v-roamer-of-the-badlands",
+  "flavor_text": null,
+  "id": "9ed58d18-df78-4689-b28f-77260243c522",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c1747b7d-de5c-43eb-a4ed-b632f1861712/render-mpvlnxfx.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "V",
+  "power": 6,
+  "print_number": "020",
+  "printing_id": "c1747b7d-de5c-43eb-a4ed-b632f1861712",
+  "printings": [
+    {
+      "artist": "Dardo Studios",
+      "collector_number": "020",
+      "finish": null,
+      "id": "c1747b7d-de5c-43eb-a4ed-b632f1861712",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c1747b7d-de5c-43eb-a4ed-b632f1861712/render-mpvlnxfx.webp",
+      "rarity": "Epic",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c1747b7d-de5c-43eb-a4ed-b632f1861712/render-mpvlnxfx.webp"
+    },
+    {
+      "artist": "Dardo Studios",
+      "collector_number": "\u03b2020",
+      "finish": null,
+      "id": "b460b92c-c0fd-43ed-84db-8615032e47f4",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/b460b92c-c0fd-43ed-84db-8615032e47f4/render-mpv4ucpu.webp",
+      "rarity": "Epic",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/b460b92c-c0fd-43ed-84db-8615032e47f4/render-mpv4ucpu.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Epic",
+  "rules_text": "When this Unit steals a Gig, increase it by up to 5.\nAt the end of your turn, if you control 2 or more Gigs with 8+ value, draw 1.",
+  "selected_printing_id": "c1747b7d-de5c-43eb-a4ed-b632f1861712",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "v-roamer-of-the-badlands",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c1747b7d-de5c-43eb-a4ed-b632f1861712/render-mpvlnxfx.webp",
+  "subname": "Roamer of the Badlands"
+}

@@ -1,0 +1,113 @@
+{
+  "artist": "Alicja U\u017carowska",
+  "card_type": "Program",
+  "classifications": [
+    "Braindance",
+    "Mox"
+  ],
+  "color": "Yellow",
+  "cost": 1,
+  "display_name": "Afterparty at Lizzie's",
+  "external_id": "cb-afterparty-at-lizzie-s",
+  "flavor_text": null,
+  "id": "d039e4b3-9b83-40da-8d8f-b1dfb1f172f1",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/d53925ee-df55-4b71-8ca0-13ec3ede2076/render-mpvma8vc.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Afterparty at Lizzie's",
+  "power": null,
+  "print_number": "065",
+  "printing_id": "d53925ee-df55-4b71-8ca0-13ec3ede2076",
+  "printings": [
+    {
+      "artist": "Alicja U\u017carowska",
+      "collector_number": "065",
+      "finish": null,
+      "id": "d53925ee-df55-4b71-8ca0-13ec3ede2076",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/d53925ee-df55-4b71-8ca0-13ec3ede2076/render-mpvma8vc.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/d53925ee-df55-4b71-8ca0-13ec3ede2076/render-mpvma8vc.webp"
+    },
+    {
+      "artist": "Alicja U\u017carowska",
+      "collector_number": "\u03b2065",
+      "finish": null,
+      "id": "5adb7a6a-de7b-4f00-9d5a-2cccfaf4f19d",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/5adb7a6a-de7b-4f00-9d5a-2cccfaf4f19d/render-mpvk4i28.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/5adb7a6a-de7b-4f00-9d5a-2cccfaf4f19d/render-mpvk4i28.webp"
+    },
+    {
+      "artist": "Alicja U\u017carowska",
+      "collector_number": "010",
+      "finish": null,
+      "id": "17db8555-a470-4c5b-9a24-4fac4bf04c4c",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/17db8555-a470-4c5b-9a24-4fac4bf04c4c/render-mpwcoh2l.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "theheistretailstarterdeck",
+        "name": "The Heist \u2014 Retail Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/17db8555-a470-4c5b-9a24-4fac4bf04c4c/render-mpwcoh2l.webp"
+    },
+    {
+      "artist": "Alicja U\u017carowska",
+      "collector_number": "\u03b2010",
+      "finish": null,
+      "id": "a8dcad7d-7b45-427d-8123-3140b30ac612",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a8dcad7d-7b45-427d-8123-3140b30ac612/render-mpwch5hy.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "theheistbetastarterdeck",
+        "name": "The Heist \u2014 Beta Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a8dcad7d-7b45-427d-8123-3140b30ac612/render-mpwch5hy.webp"
+    },
+    {
+      "artist": "Alicja U\u017carowska",
+      "collector_number": "006",
+      "finish": null,
+      "id": "eb272131-add5-4dda-b426-4166041af144",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/eb272131-add5-4dda-b426-4166041af144/render-mqf867v8.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "mercdemodeck",
+        "name": "Merc Demo Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/eb272131-add5-4dda-b426-4166041af144/render-mqf867v8.webp"
+    },
+    {
+      "artist": "Alicja U\u017carowska",
+      "collector_number": "005",
+      "finish": null,
+      "id": "c28c3d15-1e03-465c-a696-cf395a795abc",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c28c3d15-1e03-465c-a696-cf395a795abc/render-msyh0r9p.webp",
+      "rarity": "Nova Rare",
+      "set": {
+        "code": "edgerunneropens1",
+        "name": "Edgerunner Open S 1"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c28c3d15-1e03-465c-a696-cf395a795abc/render-msyh0r9p.webp"
+    }
+  ],
+  "ram": 1,
+  "rarity": "Common",
+  "rules_text": "Adjust a Gig by up to 1. If you control 2 or more Gigs with different values, draw 1.",
+  "selected_printing_id": "d53925ee-df55-4b71-8ca0-13ec3ede2076",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "afterparty-at-lizzie-s",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/d53925ee-df55-4b71-8ca0-13ec3ede2076/render-mpvma8vc.webp",
+  "subname": null
+}

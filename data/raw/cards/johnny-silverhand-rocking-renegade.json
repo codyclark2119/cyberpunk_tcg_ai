@@ -1,0 +1,75 @@
+{
+  "artist": "Daniel Valaisis",
+  "card_type": "Legend",
+  "classifications": [
+    "Merc",
+    "Rocker",
+    "Samurai"
+  ],
+  "color": "Red",
+  "cost": null,
+  "display_name": "Johnny Silverhand: Rocking Renegade",
+  "external_id": "cb-johnny-silverhand-rocking-renegade",
+  "flavor_text": null,
+  "id": "56947a14-0b1e-4c3d-89e0-17839bcf4280",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a8a7d286-0c66-4f01-aca7-45570474d9e4/render-mpvmpqtq.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Johnny Silverhand",
+  "power": null,
+  "print_number": "003",
+  "printing_id": "a8a7d286-0c66-4f01-aca7-45570474d9e4",
+  "printings": [
+    {
+      "artist": "Daniel Valaisis",
+      "collector_number": "003",
+      "finish": null,
+      "id": "a8a7d286-0c66-4f01-aca7-45570474d9e4",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a8a7d286-0c66-4f01-aca7-45570474d9e4/render-mpvmpqtq.webp",
+      "rarity": "Secret",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a8a7d286-0c66-4f01-aca7-45570474d9e4/render-mpvmpqtq.webp"
+    },
+    {
+      "artist": "Daniel Valaisis",
+      "collector_number": "\u03b2003",
+      "finish": null,
+      "id": "1159e69c-614f-4a8e-be76-d69ee734bd22",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/1159e69c-614f-4a8e-be76-d69ee734bd22/render-mpvkhkg3.webp",
+      "rarity": "Secret",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/1159e69c-614f-4a8e-be76-d69ee734bd22/render-mpvkhkg3.webp"
+    },
+    {
+      "artist": "Divebound Studio",
+      "collector_number": "\u03b2168",
+      "finish": null,
+      "id": "4f8fbab4-7aad-4271-8dd6-8cdf68654c5e",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/4f8fbab4-7aad-4271-8dd6-8cdf68654c5e/render-mpxm40x1.webp",
+      "rarity": "Iconic Secret",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/4f8fbab4-7aad-4271-8dd6-8cdf68654c5e/render-mpxm40x1.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Secret",
+  "rules_text": "2 \u20ac$, {Spend} A friendly Unit can attack spent rival Units the turn it's played. If it's a ROCKER Unit, also give it +2 power this turn. This effect costs -1 \u20ac$ for each friendly Gig with 8+ value.",
+  "selected_printing_id": "a8a7d286-0c66-4f01-aca7-45570474d9e4",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "johnny-silverhand-rocking-renegade",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a8a7d286-0c66-4f01-aca7-45570474d9e4/render-mpvmpqtq.webp",
+  "subname": "Rocking Renegade"
+}

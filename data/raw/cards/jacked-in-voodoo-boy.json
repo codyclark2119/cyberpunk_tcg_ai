@@ -1,0 +1,61 @@
+{
+  "artist": "Josan Gonzalez (Deathburger)",
+  "card_type": "Unit",
+  "classifications": [
+    "Netrunner",
+    "Voodoo Boys"
+  ],
+  "color": "Blue",
+  "cost": 2,
+  "display_name": "Jacked-In Voodoo Boy",
+  "external_id": "cb-jacked-in-voodoo-boy",
+  "flavor_text": null,
+  "id": "b0453570-7ed8-4031-9562-cb73d7a979e5",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/8e2f2d0c-0e92-4744-a510-a9c7ac371d81/render-mpvluy4x.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Jacked-In Voodoo Boy",
+  "power": 2,
+  "print_number": "115",
+  "printing_id": "8e2f2d0c-0e92-4744-a510-a9c7ac371d81",
+  "printings": [
+    {
+      "artist": "Josan Gonzalez (Deathburger)",
+      "collector_number": "115",
+      "finish": null,
+      "id": "8e2f2d0c-0e92-4744-a510-a9c7ac371d81",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/8e2f2d0c-0e92-4744-a510-a9c7ac371d81/render-mpvluy4x.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/8e2f2d0c-0e92-4744-a510-a9c7ac371d81/render-mpvluy4x.webp"
+    },
+    {
+      "artist": "Josan Gonzalez (Deathburger)",
+      "collector_number": "\u03b2115",
+      "finish": null,
+      "id": "f18a73a9-fa29-4351-ad96-8e7c1dd0e8a1",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/f18a73a9-fa29-4351-ad96-8e7c1dd0e8a1/render-mpv4ie1i.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/f18a73a9-fa29-4351-ad96-8e7c1dd0e8a1/render-mpv4ie1i.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Common",
+  "rules_text": "This Unit can't attack unless you played a Program this turn.",
+  "selected_printing_id": "8e2f2d0c-0e92-4744-a510-a9c7ac371d81",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "jacked-in-voodoo-boy",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/8e2f2d0c-0e92-4744-a510-a9c7ac371d81/render-mpvluy4x.webp",
+  "subname": null
+}

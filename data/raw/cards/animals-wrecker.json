@@ -1,0 +1,61 @@
+{
+  "artist": "Michal Ivan",
+  "card_type": "Unit",
+  "classifications": [
+    "Animal",
+    "Ganger"
+  ],
+  "color": "Red",
+  "cost": 6,
+  "display_name": "Animals Wrecker",
+  "external_id": "cb-animals-wrecker",
+  "flavor_text": null,
+  "id": "e8aa7757-e5e3-4137-8970-4fa546b9bed9",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7514dd38-6e2d-43dd-9715-6b3a32615382/render-mpvluas2.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Animals Wrecker",
+  "power": 10,
+  "print_number": "007",
+  "printing_id": "7514dd38-6e2d-43dd-9715-6b3a32615382",
+  "printings": [
+    {
+      "artist": "Michal Ivan",
+      "collector_number": "007",
+      "finish": null,
+      "id": "7514dd38-6e2d-43dd-9715-6b3a32615382",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7514dd38-6e2d-43dd-9715-6b3a32615382/render-mpvluas2.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7514dd38-6e2d-43dd-9715-6b3a32615382/render-mpvluas2.webp"
+    },
+    {
+      "artist": "Michal Ivan",
+      "collector_number": "\u03b2007",
+      "finish": null,
+      "id": "81364914-7121-43fc-9610-f2f9736866d1",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/81364914-7121-43fc-9610-f2f9736866d1/render-mpv4f642.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/81364914-7121-43fc-9610-f2f9736866d1/render-mpv4f642.webp"
+    }
+  ],
+  "ram": 3,
+  "rarity": "Common",
+  "rules_text": "[Flavour Text] Takes a lot of juice to break bones like they do.",
+  "selected_printing_id": "7514dd38-6e2d-43dd-9715-6b3a32615382",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "animals-wrecker",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7514dd38-6e2d-43dd-9715-6b3a32615382/render-mpvluas2.webp",
+  "subname": null
+}

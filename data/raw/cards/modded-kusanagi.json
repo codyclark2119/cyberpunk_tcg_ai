@@ -1,0 +1,61 @@
+{
+  "artist": "\u0141ukasz Poller",
+  "card_type": "Unit",
+  "classifications": [
+    "Tyger Claws",
+    "Vehicle"
+  ],
+  "color": "Blue",
+  "cost": 6,
+  "display_name": "Modded Kusanagi",
+  "external_id": "cb-modded-kusanagi",
+  "flavor_text": null,
+  "id": "920cabc9-f350-4f61-96c6-69e649271456",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/50e8101a-3d0e-45ea-9444-22007f7f9cb0/render-mpvlvlr5.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Modded Kusanagi",
+  "power": 8,
+  "print_number": "120",
+  "printing_id": "50e8101a-3d0e-45ea-9444-22007f7f9cb0",
+  "printings": [
+    {
+      "artist": "\u0141ukasz Poller",
+      "collector_number": "120",
+      "finish": null,
+      "id": "50e8101a-3d0e-45ea-9444-22007f7f9cb0",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/50e8101a-3d0e-45ea-9444-22007f7f9cb0/render-mpvlvlr5.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/50e8101a-3d0e-45ea-9444-22007f7f9cb0/render-mpvlvlr5.webp"
+    },
+    {
+      "artist": "\u0141ukasz Poller",
+      "collector_number": "\u03b2120",
+      "finish": null,
+      "id": "ee22b73e-8b14-4225-9c86-428cfada892f",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/ee22b73e-8b14-4225-9c86-428cfada892f/render-mpv4lqq0.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/ee22b73e-8b14-4225-9c86-428cfada892f/render-mpv4lqq0.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Common",
+  "rules_text": "{Adrenaline} (This Unit can attack the turn it's played.)\nAt the end of your turn, return this Unit to its owner's hand.",
+  "selected_printing_id": "50e8101a-3d0e-45ea-9444-22007f7f9cb0",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "modded-kusanagi",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/50e8101a-3d0e-45ea-9444-22007f7f9cb0/render-mpvlvlr5.webp",
+  "subname": null
+}

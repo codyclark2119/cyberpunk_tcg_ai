@@ -1,0 +1,61 @@
+{
+  "artist": "Micha\u0142 Dziekan",
+  "card_type": "Unit",
+  "classifications": [
+    "Ganger",
+    "Maelstrom"
+  ],
+  "color": "Green",
+  "cost": 4,
+  "display_name": "Maelstrom Zealots",
+  "external_id": "cb-maelstrom-zealots",
+  "flavor_text": null,
+  "id": "35c1fda3-60f9-4779-b690-30b283d52297",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/43e5568f-a609-4eff-8502-e81ba9134d2c/render-mpvm0z4g.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Maelstrom Zealots",
+  "power": 0,
+  "print_number": "079",
+  "printing_id": "43e5568f-a609-4eff-8502-e81ba9134d2c",
+  "printings": [
+    {
+      "artist": "Micha\u0142 Dziekan",
+      "collector_number": "079",
+      "finish": null,
+      "id": "43e5568f-a609-4eff-8502-e81ba9134d2c",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/43e5568f-a609-4eff-8502-e81ba9134d2c/render-mpvm0z4g.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/43e5568f-a609-4eff-8502-e81ba9134d2c/render-mpvm0z4g.webp"
+    },
+    {
+      "artist": "Micha\u0142 Dziekan",
+      "collector_number": "\u03b2079",
+      "finish": null,
+      "id": "ce3770f6-0fa7-41f4-af5f-eacce5846c98",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/ce3770f6-0fa7-41f4-af5f-eacce5846c98/render-mpv4ifcj.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/ce3770f6-0fa7-41f4-af5f-eacce5846c98/render-mpv4ifcj.webp"
+    }
+  ],
+  "ram": 1,
+  "rarity": "Common",
+  "rules_text": "When this Unit loses a fight, defeat the opposing rival Unit.\n(Units with power 0 don't steal Gigs.)",
+  "selected_printing_id": "43e5568f-a609-4eff-8502-e81ba9134d2c",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "maelstrom-zealots",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/43e5568f-a609-4eff-8502-e81ba9134d2c/render-mpvm0z4g.webp",
+  "subname": null
+}

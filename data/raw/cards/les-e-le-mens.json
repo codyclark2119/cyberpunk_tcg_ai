@@ -1,0 +1,60 @@
+{
+  "artist": "Bernard Kowalczuk",
+  "card_type": "Program",
+  "classifications": [
+    "Corpo"
+  ],
+  "color": "Blue",
+  "cost": 5,
+  "display_name": "Les \u00c9l\u00e9mens",
+  "external_id": "cb-les-e-le-mens",
+  "flavor_text": null,
+  "id": "c29aefc5-c8dd-4188-95d9-e46c5ee289eb",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/14a0b813-d5e3-46e6-a001-aebbd3a95f11/render-mpvmf9j4.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Les \u00c9l\u00e9mens",
+  "power": null,
+  "print_number": "133",
+  "printing_id": "14a0b813-d5e3-46e6-a001-aebbd3a95f11",
+  "printings": [
+    {
+      "artist": "Bernard Kowalczuk",
+      "collector_number": "133",
+      "finish": null,
+      "id": "14a0b813-d5e3-46e6-a001-aebbd3a95f11",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/14a0b813-d5e3-46e6-a001-aebbd3a95f11/render-mpvmf9j4.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/14a0b813-d5e3-46e6-a001-aebbd3a95f11/render-mpvmf9j4.webp"
+    },
+    {
+      "artist": "Bernard Kowalczuk",
+      "collector_number": "\u03b2133",
+      "finish": null,
+      "id": "7e86c639-5225-4a91-be33-6ab86c9adfe2",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7e86c639-5225-4a91-be33-6ab86c9adfe2/render-mpvk1bnt.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7e86c639-5225-4a91-be33-6ab86c9adfe2/render-mpvk1bnt.webp"
+    }
+  ],
+  "ram": 4,
+  "rarity": "Uncommon",
+  "rules_text": "Bottom-deck a Rival's lowest-power Unit. (If there are multiple, choose 1.)",
+  "selected_printing_id": "14a0b813-d5e3-46e6-a001-aebbd3a95f11",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "les-e-le-mens",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/14a0b813-d5e3-46e6-a001-aebbd3a95f11/render-mpvmf9j4.webp",
+  "subname": null
+}

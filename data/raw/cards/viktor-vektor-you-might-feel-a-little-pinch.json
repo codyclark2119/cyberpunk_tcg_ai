@@ -1,0 +1,60 @@
+{
+  "artist": "\u0141ukasz Poller",
+  "card_type": "Unit",
+  "classifications": [
+    "Ripperdoc"
+  ],
+  "color": "Yellow",
+  "cost": 3,
+  "display_name": "Viktor Vektor: You Might Feel a Little Pinch",
+  "external_id": "cb-viktor-vektor-you-might-feel-a-little-pinch",
+  "flavor_text": null,
+  "id": "647bb074-197f-4059-bac5-251b47c98287",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/4eca7fcd-85c1-43d0-8a07-4227312ab0db/render-mpvm2a9i.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Viktor Vektor",
+  "power": 3,
+  "print_number": "058",
+  "printing_id": "4eca7fcd-85c1-43d0-8a07-4227312ab0db",
+  "printings": [
+    {
+      "artist": "\u0141ukasz Poller",
+      "collector_number": "058",
+      "finish": null,
+      "id": "4eca7fcd-85c1-43d0-8a07-4227312ab0db",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/4eca7fcd-85c1-43d0-8a07-4227312ab0db/render-mpvm2a9i.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/4eca7fcd-85c1-43d0-8a07-4227312ab0db/render-mpvm2a9i.webp"
+    },
+    {
+      "artist": "\u0141ukasz Poller",
+      "collector_number": "\u03b2058",
+      "finish": null,
+      "id": "e3005cf1-4dbc-4f4e-922b-af81d6086015",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e3005cf1-4dbc-4f4e-922b-af81d6086015/render-mpv4ngd4.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e3005cf1-4dbc-4f4e-922b-af81d6086015/render-mpv4ngd4.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Uncommon",
+  "rules_text": "{Play} Play a CYBERWARE Gear with cost 2 or less from your trash for free. Equip it only to another friendly Unit.",
+  "selected_printing_id": "4eca7fcd-85c1-43d0-8a07-4227312ab0db",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "viktor-vektor-you-might-feel-a-little-pinch",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/4eca7fcd-85c1-43d0-8a07-4227312ab0db/render-mpvm2a9i.webp",
+  "subname": "You Might Feel a Little Pinch"
+}

@@ -1,0 +1,61 @@
+{
+  "artist": "\u0141ukasz Poller",
+  "card_type": "Program",
+  "classifications": [
+    "Braindance",
+    "Doll"
+  ],
+  "color": "Blue",
+  "cost": 2,
+  "display_name": "Three Mouths, One Desire",
+  "external_id": "cb-three-mouths-one-desire",
+  "flavor_text": null,
+  "id": "2993d637-d44d-4add-8473-26d67c0d1bc0",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/573a88e9-ac01-4402-8e3d-2420dc4ca949/render-mpvmdwco.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Three Mouths, One Desire",
+  "power": null,
+  "print_number": "137",
+  "printing_id": "573a88e9-ac01-4402-8e3d-2420dc4ca949",
+  "printings": [
+    {
+      "artist": "\u0141ukasz Poller",
+      "collector_number": "137",
+      "finish": null,
+      "id": "573a88e9-ac01-4402-8e3d-2420dc4ca949",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/573a88e9-ac01-4402-8e3d-2420dc4ca949/render-mpvmdwco.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/573a88e9-ac01-4402-8e3d-2420dc4ca949/render-mpvmdwco.webp"
+    },
+    {
+      "artist": "\u0141ukasz Poller",
+      "collector_number": "\u03b2137",
+      "finish": null,
+      "id": "0449bc78-983b-4681-b062-0738de3c487b",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0449bc78-983b-4681-b062-0738de3c487b/render-mpvk8w8j.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0449bc78-983b-4681-b062-0738de3c487b/render-mpvk8w8j.webp"
+    }
+  ],
+  "ram": 3,
+  "rarity": "Common",
+  "rules_text": "Search the top 3 cards of your deck. Add 1 to your hand. You may add 1 more for each friendly min Gig. Bottom-deck the rest.",
+  "selected_printing_id": "573a88e9-ac01-4402-8e3d-2420dc4ca949",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "three-mouths-one-desire",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/573a88e9-ac01-4402-8e3d-2420dc4ca949/render-mpvmdwco.webp",
+  "subname": null
+}

@@ -1,0 +1,113 @@
+{
+  "artist": "Bad Moon Studio",
+  "card_type": "Legend",
+  "classifications": [
+    "Arasaka",
+    "Corpo"
+  ],
+  "color": "Green",
+  "cost": 5,
+  "display_name": "Goro Takemura: Hands Unclean",
+  "external_id": "cb-goro-takemura-hands-unclean",
+  "flavor_text": null,
+  "id": "72358c7d-9f29-4ef6-a682-f5bfc72c7714",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2ba68619-7050-44c5-b0ce-b32d48b8f40f/render-mpwbuq0n.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Goro Takemura",
+  "power": 7,
+  "print_number": "012",
+  "printing_id": "2ba68619-7050-44c5-b0ce-b32d48b8f40f",
+  "printings": [
+    {
+      "artist": "Bad Moon Studio",
+      "collector_number": "012",
+      "finish": null,
+      "id": "2ba68619-7050-44c5-b0ce-b32d48b8f40f",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2ba68619-7050-44c5-b0ce-b32d48b8f40f/render-mpwbuq0n.webp",
+      "rarity": "Epic",
+      "set": {
+        "code": "embracingpowerretailstarterdeck",
+        "name": "Embracing Power \u2014 Retail Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2ba68619-7050-44c5-b0ce-b32d48b8f40f/render-mpwbuq0n.webp"
+    },
+    {
+      "artist": "Bad Moon Studio",
+      "collector_number": "\u03b2012",
+      "finish": null,
+      "id": "25b09451-8cc8-4581-898d-3b5ee6ff6b14",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/25b09451-8cc8-4581-898d-3b5ee6ff6b14/render-mpwblnux.webp",
+      "rarity": "Epic",
+      "set": {
+        "code": "embracingpowerbetastarterdeck",
+        "name": "Embracing Power \u2014 Beta Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/25b09451-8cc8-4581-898d-3b5ee6ff6b14/render-mpwblnux.webp"
+    },
+    {
+      "artist": "Bad Moon Studios",
+      "collector_number": "008",
+      "finish": null,
+      "id": "fd889659-8291-41fd-9197-9cdf7cbf6810",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/fd889659-8291-41fd-9197-9cdf7cbf6810/render-mqf82iji.webp",
+      "rarity": "Epic",
+      "set": {
+        "code": "arasakademodeck",
+        "name": "Arasaka Demo Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/fd889659-8291-41fd-9197-9cdf7cbf6810/render-mqf82iji.webp"
+    },
+    {
+      "artist": "Vincenzo Riccardi",
+      "collector_number": "003",
+      "finish": null,
+      "id": "1b6e44dd-d6e7-46eb-a5e5-24c38eed888b",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/1b6e44dd-d6e7-46eb-a5e5-24c38eed888b/render-mpvt1uzv.webp",
+      "rarity": "Nova Rare",
+      "set": {
+        "code": "boxtoppersretail",
+        "name": "Box Toppers \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/1b6e44dd-d6e7-46eb-a5e5-24c38eed888b/render-mpvt1uzv.webp"
+    },
+    {
+      "artist": "Vincenzo Riccardi",
+      "collector_number": "\u03b2003",
+      "finish": null,
+      "id": "15430373-fafd-479c-84d4-5737c71d0850",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/15430373-fafd-479c-84d4-5737c71d0850/render-mpvsteul.webp",
+      "rarity": "Nova Rare",
+      "set": {
+        "code": "boxtoppersbeta",
+        "name": "Box Toppers \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/15430373-fafd-479c-84d4-5737c71d0850/render-mpvsteul.webp"
+    },
+    {
+      "artist": "Vincenzo Riccardi",
+      "collector_number": "041",
+      "finish": null,
+      "id": "8bdba66b-a20e-49f3-8e85-2e3d7e0c6a37",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/8bdba66b-a20e-49f3-8e85-2e3d7e0c6a37/render-mtcqew2k.webp",
+      "rarity": "Nova Rare",
+      "set": {
+        "code": "edgerunneropens1",
+        "name": "Edgerunner Open S 1"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/8bdba66b-a20e-49f3-8e85-2e3d7e0c6a37/render-mtcqew2k.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Epic",
+  "rules_text": "{Go Solo} (Pay this Legend's cost to play it as a ready Unit. It can attack this turn. If it leaves the field, remove it from the game.)\n{Blocker} (You may spend this Unit to redirect a rival Unit's attack to it instead.)",
+  "selected_printing_id": "2ba68619-7050-44c5-b0ce-b32d48b8f40f",
+  "set": {
+    "code": "embracingpowerretailstarterdeck",
+    "name": "Embracing Power \u2014 Retail Starter Deck"
+  },
+  "slug": "goro-takemura-hands-unclean",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2ba68619-7050-44c5-b0ce-b32d48b8f40f/render-mpwbuq0n.webp",
+  "subname": "Hands Unclean"
+}

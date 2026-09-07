@@ -1,0 +1,73 @@
+{
+  "artist": "Mooncolony",
+  "card_type": "Gear",
+  "classifications": [
+    "Weapon"
+  ],
+  "color": "Green",
+  "cost": 4,
+  "display_name": "Overwatch: Panam's Gift",
+  "external_id": "cb-overwatch-panam-s-gift",
+  "flavor_text": null,
+  "id": "78ea68b3-1260-416b-9f88-d6be4586232b",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/336131d1-3bc8-4b39-b893-5fce9be8ce7f/render-mpvn1gb1.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Overwatch",
+  "power": 4,
+  "print_number": "093",
+  "printing_id": "336131d1-3bc8-4b39-b893-5fce9be8ce7f",
+  "printings": [
+    {
+      "artist": "Mooncolony",
+      "collector_number": "093",
+      "finish": null,
+      "id": "336131d1-3bc8-4b39-b893-5fce9be8ce7f",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/336131d1-3bc8-4b39-b893-5fce9be8ce7f/render-mpvn1gb1.webp",
+      "rarity": "Epic",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/336131d1-3bc8-4b39-b893-5fce9be8ce7f/render-mpvn1gb1.webp"
+    },
+    {
+      "artist": "Mooncolony",
+      "collector_number": "\u03b2093",
+      "finish": null,
+      "id": "0f825d0d-be91-4f42-9e97-5d87488ee2fc",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0f825d0d-be91-4f42-9e97-5d87488ee2fc/render-mpvjy2kt.webp",
+      "rarity": "Epic",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0f825d0d-be91-4f42-9e97-5d87488ee2fc/render-mpvjy2kt.webp"
+    },
+    {
+      "artist": "Michal Ivan",
+      "collector_number": "\u03b2165",
+      "finish": null,
+      "id": "775e7d6b-b9d9-48cf-a34d-00ba2b1c0a43",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/775e7d6b-b9d9-48cf-a34d-00ba2b1c0a43/render-mpxm741u.webp",
+      "rarity": "Iconic Other",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/775e7d6b-b9d9-48cf-a34d-00ba2b1c0a43/render-mpxm741u.webp"
+    }
+  ],
+  "ram": 4,
+  "rarity": "Epic",
+  "rules_text": "{Quick} 1 \u20ac$, {Spend} Discard 1. Defeat a spent rival Unit with cost equal to or less than the discarded card's cost.",
+  "selected_printing_id": "336131d1-3bc8-4b39-b893-5fce9be8ce7f",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "overwatch-panam-s-gift",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/336131d1-3bc8-4b39-b893-5fce9be8ce7f/render-mpvn1gb1.webp",
+  "subname": "Panam's Gift"
+}

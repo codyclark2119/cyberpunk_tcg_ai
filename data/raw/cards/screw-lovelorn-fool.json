@@ -1,0 +1,61 @@
+{
+  "artist": "Rion Chow",
+  "card_type": "Unit",
+  "classifications": [
+    "Ganger",
+    "Maelstrom"
+  ],
+  "color": "Red",
+  "cost": 5,
+  "display_name": "Screw: Lovelorn Fool",
+  "external_id": "cb-screw-lovelorn-fool",
+  "flavor_text": null,
+  "id": "7a62beca-ac54-4c0d-847d-ed85838c5093",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a7117b0f-74ab-44b5-87fb-de267d0f2164/render-mpvltmxd.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Screw",
+  "power": 7,
+  "print_number": "018",
+  "printing_id": "a7117b0f-74ab-44b5-87fb-de267d0f2164",
+  "printings": [
+    {
+      "artist": "Rion Chow",
+      "collector_number": "018",
+      "finish": null,
+      "id": "a7117b0f-74ab-44b5-87fb-de267d0f2164",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a7117b0f-74ab-44b5-87fb-de267d0f2164/render-mpvltmxd.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a7117b0f-74ab-44b5-87fb-de267d0f2164/render-mpvltmxd.webp"
+    },
+    {
+      "artist": "Rion Chow",
+      "collector_number": "\u03b2018",
+      "finish": null,
+      "id": "c614fc55-c071-456f-a5c3-7274e0073b0c",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c614fc55-c071-456f-a5c3-7274e0073b0c/render-mpv4f99y.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c614fc55-c071-456f-a5c3-7274e0073b0c/render-mpv4f99y.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Common",
+  "rules_text": "{Defeated} Add another Unit from your trash to your hand.",
+  "selected_printing_id": "a7117b0f-74ab-44b5-87fb-de267d0f2164",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "screw-lovelorn-fool",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a7117b0f-74ab-44b5-87fb-de267d0f2164/render-mpvltmxd.webp",
+  "subname": "Lovelorn Fool"
+}

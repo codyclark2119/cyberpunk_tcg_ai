@@ -1,0 +1,61 @@
+{
+  "artist": "Michal Ivan",
+  "card_type": "Unit",
+  "classifications": [
+    "Medtech",
+    "Trauma Team"
+  ],
+  "color": "Yellow",
+  "cost": 6,
+  "display_name": "Trauma Team Operatives",
+  "external_id": "cb-trauma-team-operatives",
+  "flavor_text": null,
+  "id": "2a4a1f1a-9888-403e-90a9-4021c3f52674",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0d6c1f36-628b-4631-a96d-2000f6fb054e/render-mpvlz2to.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Trauma Team Operatives",
+  "power": 7,
+  "print_number": "056",
+  "printing_id": "0d6c1f36-628b-4631-a96d-2000f6fb054e",
+  "printings": [
+    {
+      "artist": "Michal Ivan",
+      "collector_number": "056",
+      "finish": null,
+      "id": "0d6c1f36-628b-4631-a96d-2000f6fb054e",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0d6c1f36-628b-4631-a96d-2000f6fb054e/render-mpvlz2to.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0d6c1f36-628b-4631-a96d-2000f6fb054e/render-mpvlz2to.webp"
+    },
+    {
+      "artist": "Michal Ivan",
+      "collector_number": "\u03b2056",
+      "finish": null,
+      "id": "df879b77-ca97-4e3d-8879-ecd73ceebf21",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/df879b77-ca97-4e3d-8879-ecd73ceebf21/render-mpv4fbi9.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/df879b77-ca97-4e3d-8879-ecd73ceebf21/render-mpv4fbi9.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Common",
+  "rules_text": "Play this Unit for -1 \u20ac$ for each Unit in your trash, to a minimum of 1 \u20ac$.",
+  "selected_printing_id": "0d6c1f36-628b-4631-a96d-2000f6fb054e",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "trauma-team-operatives",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0d6c1f36-628b-4631-a96d-2000f6fb054e/render-mpvlz2to.webp",
+  "subname": null
+}

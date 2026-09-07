@@ -1,0 +1,75 @@
+{
+  "artist": "Ilya Kuvshinov",
+  "card_type": "Unit",
+  "classifications": [
+    "Aldecado",
+    "Merc",
+    "Nomad"
+  ],
+  "color": "Green",
+  "cost": 6,
+  "display_name": "Panam Palmer: Strength Through Family",
+  "external_id": "cb-panam-palmer-strength-through-family",
+  "flavor_text": null,
+  "id": "34774f04-4f16-40eb-8ee4-999144e572ab",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/9231f9ff-1ba5-4c4f-bd78-70e0780b58e5/render-mpvlolip.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Panam Palmer",
+  "power": 6,
+  "print_number": "085",
+  "printing_id": "9231f9ff-1ba5-4c4f-bd78-70e0780b58e5",
+  "printings": [
+    {
+      "artist": "Ilya Kuvshinov",
+      "collector_number": "085",
+      "finish": null,
+      "id": "9231f9ff-1ba5-4c4f-bd78-70e0780b58e5",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/9231f9ff-1ba5-4c4f-bd78-70e0780b58e5/render-mpvlolip.webp",
+      "rarity": "Secret",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/9231f9ff-1ba5-4c4f-bd78-70e0780b58e5/render-mpvlolip.webp"
+    },
+    {
+      "artist": "Ilya Kuvshinov",
+      "collector_number": "\u03b2085",
+      "finish": null,
+      "id": "544f8db8-02af-44e5-992e-170f51ffca37",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/544f8db8-02af-44e5-992e-170f51ffca37/render-mpv4ucn3.webp",
+      "rarity": "Secret",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/544f8db8-02af-44e5-992e-170f51ffca37/render-mpv4ucn3.webp"
+    },
+    {
+      "artist": "Divebound Studio",
+      "collector_number": "\u03b2170",
+      "finish": null,
+      "id": "7d71aedf-dbb6-435f-bece-e522834db122",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7d71aedf-dbb6-435f-bece-e522834db122/render-mpxlx60y.webp",
+      "rarity": "Iconic Secret",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7d71aedf-dbb6-435f-bece-e522834db122/render-mpxlx60y.webp"
+    }
+  ],
+  "ram": 4,
+  "rarity": "Secret",
+  "rules_text": "During your turn, you may Call a Legend for free.\n{Attack} Discard 1. If you do, draw 1 for each friendly face-up Legend.",
+  "selected_printing_id": "9231f9ff-1ba5-4c4f-bd78-70e0780b58e5",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "panam-palmer-strength-through-family",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/9231f9ff-1ba5-4c4f-bd78-70e0780b58e5/render-mpvlolip.webp",
+  "subname": "Strength Through Family"
+}

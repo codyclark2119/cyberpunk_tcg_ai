@@ -1,0 +1,75 @@
+{
+  "artist": "\u0141ukasz Poller",
+  "card_type": "Unit",
+  "classifications": [
+    "Merc",
+    "Rocker",
+    "Samurai"
+  ],
+  "color": "Red",
+  "cost": 6,
+  "display_name": "Johnny Silverhand: Never Stop Fighting",
+  "external_id": "cb-johnny-silverhand-never-stop-fighting",
+  "flavor_text": null,
+  "id": "9a4002b0-0f0b-4c9a-a198-691d058b6dcc",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/14ab188f-2ce3-4790-8823-5a352371ff1f/render-mpvlmm24.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Johnny Silverhand",
+  "power": 8,
+  "print_number": "011",
+  "printing_id": "14ab188f-2ce3-4790-8823-5a352371ff1f",
+  "printings": [
+    {
+      "artist": "\u0141ukasz Poller",
+      "collector_number": "011",
+      "finish": null,
+      "id": "14ab188f-2ce3-4790-8823-5a352371ff1f",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/14ab188f-2ce3-4790-8823-5a352371ff1f/render-mpvlmm24.webp",
+      "rarity": "Epic",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/14ab188f-2ce3-4790-8823-5a352371ff1f/render-mpvlmm24.webp"
+    },
+    {
+      "artist": "\u0141ukasz Poller",
+      "collector_number": "\u03b2011",
+      "finish": null,
+      "id": "975957a0-9c72-4a67-8260-f86c1c70bfb5",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/975957a0-9c72-4a67-8260-f86c1c70bfb5/render-mpv4t0ey.webp",
+      "rarity": "Epic",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/975957a0-9c72-4a67-8260-f86c1c70bfb5/render-mpv4t0ey.webp"
+    },
+    {
+      "artist": "Dardo Studios",
+      "collector_number": "\u03b2159",
+      "finish": null,
+      "id": "7b113940-7325-4304-b07a-61719b47a49c",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7b113940-7325-4304-b07a-61719b47a49c/render-mpxlz1ge.webp",
+      "rarity": "Iconic Other",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7b113940-7325-4304-b07a-61719b47a49c/render-mpxlz1ge.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Epic",
+  "rules_text": "The first time this Unit wins a fight each turn, ready it.\nThis Unit wins all fights against CORPO Units.",
+  "selected_printing_id": "14ab188f-2ce3-4790-8823-5a352371ff1f",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "johnny-silverhand-never-stop-fighting",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/14ab188f-2ce3-4790-8823-5a352371ff1f/render-mpvlmm24.webp",
+  "subname": "Never Stop Fighting"
+}

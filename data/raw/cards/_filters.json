@@ -1,0 +1,217 @@
+{
+  "filters": [
+    {
+      "key": "color",
+      "label": "Color",
+      "options": [
+        "Red",
+        "Blue",
+        "Green",
+        "Yellow"
+      ],
+      "type": "multi-select"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "options": [
+        "Legend",
+        "Unit",
+        "Gear",
+        "Program"
+      ],
+      "type": "multi-select"
+    },
+    {
+      "key": "classifications",
+      "label": "Tags",
+      "options": [
+        "6th Street",
+        "AI",
+        "Aldecado",
+        "Animal",
+        "Arasaka",
+        "Braindance",
+        "Corpo",
+        "Cyberware",
+        "Doll",
+        "Drone",
+        "Extreme",
+        "Fixer",
+        "Ganger",
+        "Maelstrom",
+        "Maine's Crew",
+        "Medtech",
+        "Merc",
+        "Militech",
+        "Mox",
+        "Mystic",
+        "NCPD",
+        "Netrunner",
+        "Netwatch",
+        "Nomad",
+        "Plan",
+        "Quickhack",
+        "Raffen Shiv",
+        "Ripperdoc",
+        "Rocker",
+        "Samurai",
+        "Scavenger",
+        "Techie",
+        "Trauma Team",
+        "Tyger Claws",
+        "Valentino",
+        "Vehicle",
+        "Voodoo Boys",
+        "Weapon",
+        "Zetatech"
+      ],
+      "type": "multi-select"
+    },
+    {
+      "key": "keywords",
+      "label": "Keyword",
+      "options": [],
+      "type": "multi-select"
+    },
+    {
+      "key": "cost",
+      "label": "Cost",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "type": "multi-select"
+    },
+    {
+      "key": "power",
+      "label": "Power",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "14",
+        "15"
+      ],
+      "type": "multi-select"
+    },
+    {
+      "key": "ram",
+      "label": "RAM",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "type": "multi-select"
+    },
+    {
+      "key": "eddiable",
+      "label": "Eddies",
+      "options": [
+        {
+          "label": "Sellable",
+          "value": "true"
+        },
+        {
+          "label": "Non-Sellable",
+          "value": "false"
+        }
+      ],
+      "type": "single-select"
+    },
+    {
+      "key": "set",
+      "label": "Set",
+      "options": [
+        {
+          "code": "arasakademodeck",
+          "name": "Arasaka Demo Deck"
+        },
+        {
+          "code": "boxtoppersbeta",
+          "name": "Box Toppers \u2014 Beta"
+        },
+        {
+          "code": "boxtoppersretail",
+          "name": "Box Toppers \u2014 Retail"
+        },
+        {
+          "code": "edgerunneropens1",
+          "name": "Edgerunner Open S 1"
+        },
+        {
+          "code": "embracingpowerbetastarterdeck",
+          "name": "Embracing Power \u2014 Beta Starter Deck"
+        },
+        {
+          "code": "embracingpowerretailstarterdeck",
+          "name": "Embracing Power \u2014 Retail Starter Deck"
+        },
+        {
+          "code": "mercdemodeck",
+          "name": "Merc Demo Deck"
+        },
+        {
+          "code": "prereleasebeta",
+          "name": "Pre-Release Beta"
+        },
+        {
+          "code": "PRM01",
+          "name": "Set 1 Promos"
+        },
+        {
+          "code": "theheistbetastarterdeck",
+          "name": "The Heist \u2014 Beta Starter Deck"
+        },
+        {
+          "code": "theheistretailstarterdeck",
+          "name": "The Heist \u2014 Retail Starter Deck"
+        },
+        {
+          "code": "welcometonightcitybeta",
+          "name": "Welcome to Night City \u2014 Beta"
+        },
+        {
+          "code": "welcometonightcityretail",
+          "name": "Welcome to Night City \u2014 Retail"
+        }
+      ],
+      "type": "single-select"
+    },
+    {
+      "key": "rarity",
+      "label": "Rarity",
+      "options": [
+        "Common",
+        "Uncommon",
+        "Rare",
+        "Epic",
+        "Iconic Legend",
+        "Iconic Other",
+        "Iconic Secret",
+        "Nova Rare",
+        "Secret"
+      ],
+      "type": "single-select"
+    }
+  ]
+}

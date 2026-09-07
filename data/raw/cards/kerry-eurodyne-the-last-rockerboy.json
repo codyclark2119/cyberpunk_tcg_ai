@@ -1,0 +1,61 @@
+{
+  "artist": "Bogna Gawro\u0144ska",
+  "card_type": "Unit",
+  "classifications": [
+    "Rocker",
+    "Samurai"
+  ],
+  "color": "Red",
+  "cost": 4,
+  "display_name": "Kerry Eurodyne: The Last Rockerboy",
+  "external_id": "cb-kerry-eurodyne-the-last-rockerboy",
+  "flavor_text": null,
+  "id": "5c4d4058-9185-4305-9e8f-7eca41cf6674",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c26c7db6-f540-4073-ab33-b09335631764/render-mpvm47z6.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Kerry Eurodyne",
+  "power": 5,
+  "print_number": "012",
+  "printing_id": "c26c7db6-f540-4073-ab33-b09335631764",
+  "printings": [
+    {
+      "artist": "Bogna Gawro\u0144ska",
+      "collector_number": "012",
+      "finish": null,
+      "id": "c26c7db6-f540-4073-ab33-b09335631764",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c26c7db6-f540-4073-ab33-b09335631764/render-mpvm47z6.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c26c7db6-f540-4073-ab33-b09335631764/render-mpvm47z6.webp"
+    },
+    {
+      "artist": "Bogna Gawro\u0144ska",
+      "collector_number": "\u03b2012",
+      "finish": null,
+      "id": "1a986e5a-fe97-408c-81e9-b675c64bdcf9",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/1a986e5a-fe97-408c-81e9-b675c64bdcf9/render-mpv4n5ek.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/1a986e5a-fe97-408c-81e9-b675c64bdcf9/render-mpv4n5ek.webp"
+    }
+  ],
+  "ram": 1,
+  "rarity": "Uncommon",
+  "rules_text": "{Spend} If you control a Gig with 8+ value, draw 2.",
+  "selected_printing_id": "c26c7db6-f540-4073-ab33-b09335631764",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "kerry-eurodyne-the-last-rockerboy",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c26c7db6-f540-4073-ab33-b09335631764/render-mpvm47z6.webp",
+  "subname": "The Last Rockerboy"
+}

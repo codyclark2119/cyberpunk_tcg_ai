@@ -1,0 +1,86 @@
+{
+  "artist": "Daniel Valaisis",
+  "card_type": "Legend",
+  "classifications": [
+    "Merc"
+  ],
+  "color": "Green",
+  "cost": 6,
+  "display_name": "Jackie Welles: Mama's Favorite",
+  "external_id": "cb-jackie-welles-mama-s-favorite",
+  "flavor_text": null,
+  "id": "04a82ebf-eba1-4888-a95d-f01b9bbd0167",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/9f61ebda-53fd-4b23-8383-d0e0bd32b847/render-mpvmloq3.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Jackie Welles",
+  "power": 8,
+  "print_number": "073",
+  "printing_id": "9f61ebda-53fd-4b23-8383-d0e0bd32b847",
+  "printings": [
+    {
+      "artist": "Daniel Valaisis",
+      "collector_number": "073",
+      "finish": null,
+      "id": "9f61ebda-53fd-4b23-8383-d0e0bd32b847",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/9f61ebda-53fd-4b23-8383-d0e0bd32b847/render-mpvmloq3.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/9f61ebda-53fd-4b23-8383-d0e0bd32b847/render-mpvmloq3.webp"
+    },
+    {
+      "artist": "Daniel Valaisis",
+      "collector_number": "\u03b2073",
+      "finish": null,
+      "id": "c1f9ae1a-841f-431f-919a-429de14be070",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c1f9ae1a-841f-431f-919a-429de14be070/render-mpu65adw.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c1f9ae1a-841f-431f-919a-429de14be070/render-mpu65adw.webp"
+    },
+    {
+      "artist": "Pandart Studio",
+      "collector_number": "\u03b2152",
+      "finish": null,
+      "id": "aadd8dc4-bb37-4901-8200-39b8904268a8",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/aadd8dc4-bb37-4901-8200-39b8904268a8/render-mpxm0bzw.webp",
+      "rarity": "Iconic Legend",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/aadd8dc4-bb37-4901-8200-39b8904268a8/render-mpxm0bzw.webp"
+    },
+    {
+      "artist": "Daniel Valaisis",
+      "collector_number": "007",
+      "finish": null,
+      "id": "5620aa1a-94e9-43c4-b89e-fea304e4257c",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/5620aa1a-94e9-43c4-b89e-fea304e4257c/render-mqi3brwo.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "prereleasebeta",
+        "name": "Pre-Release Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/5620aa1a-94e9-43c4-b89e-fea304e4257c/render-mqi3brwo.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Rare",
+  "rules_text": "{Go Solo} (Pay this Legend's cost to play it as a ready Unit. It can attack this turn. If it leaves the field, remove it from the game.)\nIf a friendly Unit would be defeated, you may spend 1 \u20ac$ to defeat this Legend instead. (Remove it from the game.)",
+  "selected_printing_id": "9f61ebda-53fd-4b23-8383-d0e0bd32b847",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "jackie-welles-mama-s-favorite",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/9f61ebda-53fd-4b23-8383-d0e0bd32b847/render-mpvmloq3.webp",
+  "subname": "Mama's Favorite"
+}

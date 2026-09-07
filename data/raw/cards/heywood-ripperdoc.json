@@ -1,0 +1,86 @@
+{
+  "artist": "\u0141ukasz Poller",
+  "card_type": "Unit",
+  "classifications": [
+    "Ripperdoc"
+  ],
+  "color": "Yellow",
+  "cost": 6,
+  "display_name": "Heywood Ripperdoc",
+  "external_id": "cb-heywood-ripperdoc",
+  "flavor_text": null,
+  "id": "2a9deb43-bf9a-41db-9a05-bb0d357bb08e",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2fc5ac93-dae5-4af5-a813-77abc0cc8dfd/render-mpvm5kl0.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Heywood Ripperdoc",
+  "power": 8,
+  "print_number": "047",
+  "printing_id": "2fc5ac93-dae5-4af5-a813-77abc0cc8dfd",
+  "printings": [
+    {
+      "artist": "\u0141ukasz Poller",
+      "collector_number": "047",
+      "finish": null,
+      "id": "2fc5ac93-dae5-4af5-a813-77abc0cc8dfd",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2fc5ac93-dae5-4af5-a813-77abc0cc8dfd/render-mpvm5kl0.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2fc5ac93-dae5-4af5-a813-77abc0cc8dfd/render-mpvm5kl0.webp"
+    },
+    {
+      "artist": "\u0141ukasz Poller",
+      "collector_number": "\u03b2047",
+      "finish": null,
+      "id": "2a6b5b50-b007-40f4-bbdc-90f6bdc3761a",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2a6b5b50-b007-40f4-bbdc-90f6bdc3761a/render-mpv4o4ob.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2a6b5b50-b007-40f4-bbdc-90f6bdc3761a/render-mpv4o4ob.webp"
+    },
+    {
+      "artist": "\u0141ukasz Poller",
+      "collector_number": "003",
+      "finish": null,
+      "id": "364ef4ac-8b0c-48b1-8cf2-454477abc452",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/364ef4ac-8b0c-48b1-8cf2-454477abc452/render-mpwcn4sa.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "theheistretailstarterdeck",
+        "name": "The Heist \u2014 Retail Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/364ef4ac-8b0c-48b1-8cf2-454477abc452/render-mpwcn4sa.webp"
+    },
+    {
+      "artist": "\u0141ukasz Poller",
+      "collector_number": "\u03b2003",
+      "finish": null,
+      "id": "aebf807a-2fbb-4b60-ae4b-36783314871f",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/aebf807a-2fbb-4b60-ae4b-36783314871f/render-mpwcc6k9.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "theheistbetastarterdeck",
+        "name": "The Heist \u2014 Beta Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/aebf807a-2fbb-4b60-ae4b-36783314871f/render-mpwcc6k9.webp"
+    }
+  ],
+  "ram": 1,
+  "rarity": "Uncommon",
+  "rules_text": "{Play} You may defeat a Gear. If its cost equals the value of a friendly Gig, draw 1.",
+  "selected_printing_id": "2fc5ac93-dae5-4af5-a813-77abc0cc8dfd",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "heywood-ripperdoc",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2fc5ac93-dae5-4af5-a813-77abc0cc8dfd/render-mpvm5kl0.webp",
+  "subname": null
+}

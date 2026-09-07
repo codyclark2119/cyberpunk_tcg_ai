@@ -1,0 +1,60 @@
+{
+  "artist": "ADIA",
+  "card_type": "Unit",
+  "classifications": [
+    "Netrunner"
+  ],
+  "color": "Blue",
+  "cost": 4,
+  "display_name": "Westbrook Netrunner",
+  "external_id": "cb-westbrook-netrunner",
+  "flavor_text": null,
+  "id": "b7a94000-c026-433e-82fa-901bf22db54e",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/5801d086-7e87-4645-95e2-68239230098d/render-mpvm1lhk.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Westbrook Netrunner",
+  "power": 5,
+  "print_number": "127",
+  "printing_id": "5801d086-7e87-4645-95e2-68239230098d",
+  "printings": [
+    {
+      "artist": "ADIA",
+      "collector_number": "127",
+      "finish": null,
+      "id": "5801d086-7e87-4645-95e2-68239230098d",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/5801d086-7e87-4645-95e2-68239230098d/render-mpvm1lhk.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/5801d086-7e87-4645-95e2-68239230098d/render-mpvm1lhk.webp"
+    },
+    {
+      "artist": "ADIA",
+      "collector_number": "\u03b2127",
+      "finish": null,
+      "id": "1e2413a0-aa80-4883-806a-d8e9ed32bbca",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/1e2413a0-aa80-4883-806a-d8e9ed32bbca/render-mpv4lkwj.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/1e2413a0-aa80-4883-806a-d8e9ed32bbca/render-mpv4lkwj.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Common",
+  "rules_text": "{Play} Until your next turn, rival Legends can't steal friendly Gigs with value less than their power.",
+  "selected_printing_id": "5801d086-7e87-4645-95e2-68239230098d",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "westbrook-netrunner",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/5801d086-7e87-4645-95e2-68239230098d/render-mpvm1lhk.webp",
+  "subname": null
+}

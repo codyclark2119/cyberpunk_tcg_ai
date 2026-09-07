@@ -1,0 +1,62 @@
+{
+  "artist": "Mooncolony",
+  "card_type": "Gear",
+  "classifications": [
+    "Cyberware",
+    "Netrunner",
+    "Netwatch"
+  ],
+  "color": "Blue",
+  "cost": 3,
+  "display_name": "NetWatch Netdriver",
+  "external_id": "cb-netwatch-netdriver",
+  "flavor_text": null,
+  "id": "40c98fdc-45d0-458d-be2c-2697dc337ca5",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/07f119d6-8fb2-4b23-9862-818a7e941010/render-mpvn02yn.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "NetWatch Netdriver",
+  "power": 2,
+  "print_number": "129",
+  "printing_id": "07f119d6-8fb2-4b23-9862-818a7e941010",
+  "printings": [
+    {
+      "artist": "Mooncolony",
+      "collector_number": "129",
+      "finish": null,
+      "id": "07f119d6-8fb2-4b23-9862-818a7e941010",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/07f119d6-8fb2-4b23-9862-818a7e941010/render-mpvn02yn.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/07f119d6-8fb2-4b23-9862-818a7e941010/render-mpvn02yn.webp"
+    },
+    {
+      "artist": "Mooncolony",
+      "collector_number": "\u03b2129",
+      "finish": null,
+      "id": "e2a34251-d2d9-46e0-9840-ca69a358a6ae",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e2a34251-d2d9-46e0-9840-ca69a358a6ae/render-mpvjwsqr.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e2a34251-d2d9-46e0-9840-ca69a358a6ae/render-mpvjwsqr.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Uncommon",
+  "rules_text": "(Equip to a friendly Unit or face-up Legend.)\nWhen this Unit or Legend is spent, draw 1.",
+  "selected_printing_id": "07f119d6-8fb2-4b23-9862-818a7e941010",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "netwatch-netdriver",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/07f119d6-8fb2-4b23-9862-818a7e941010/render-mpvn02yn.webp",
+  "subname": null
+}

@@ -1,0 +1,88 @@
+{
+  "artist": "\u0141ukasz Poller",
+  "card_type": "Legend",
+  "classifications": [
+    "Aldecado",
+    "Merc",
+    "Nomad"
+  ],
+  "color": "Green",
+  "cost": null,
+  "display_name": "Panam Palmer: Nomad Cavalry",
+  "external_id": "cb-panam-palmer-nomad-cavalry",
+  "flavor_text": null,
+  "id": "950f045c-f5a4-4318-9907-b630d64de754",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/6e4ee31b-82d1-421c-b658-ba3f79520365/render-mpvmowoc.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Panam Palmer",
+  "power": null,
+  "print_number": "075",
+  "printing_id": "6e4ee31b-82d1-421c-b658-ba3f79520365",
+  "printings": [
+    {
+      "artist": "\u0141ukasz Poller",
+      "collector_number": "075",
+      "finish": null,
+      "id": "6e4ee31b-82d1-421c-b658-ba3f79520365",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/6e4ee31b-82d1-421c-b658-ba3f79520365/render-mpvmowoc.webp",
+      "rarity": "Epic",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/6e4ee31b-82d1-421c-b658-ba3f79520365/render-mpvmowoc.webp"
+    },
+    {
+      "artist": "\u0141ukasz Poller",
+      "collector_number": "\u03b2075",
+      "finish": null,
+      "id": "2cfe57a5-cafe-4611-90fd-c72f33250933",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2cfe57a5-cafe-4611-90fd-c72f33250933/render-mpvknt1u.webp",
+      "rarity": "Epic",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2cfe57a5-cafe-4611-90fd-c72f33250933/render-mpvknt1u.webp"
+    },
+    {
+      "artist": "Pandart Studio",
+      "collector_number": "\u03b2154",
+      "finish": null,
+      "id": "20c0d91e-76d5-4904-82e8-53907537aee3",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/20c0d91e-76d5-4904-82e8-53907537aee3/render-mpxm0zs9.webp",
+      "rarity": "Iconic Legend",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/20c0d91e-76d5-4904-82e8-53907537aee3/render-mpxm0zs9.webp"
+    },
+    {
+      "artist": "\u0141ukasz Poller",
+      "collector_number": "008",
+      "finish": null,
+      "id": "c7c6c4fa-eb19-43d6-904c-129cf062a8aa",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c7c6c4fa-eb19-43d6-904c-129cf062a8aa/render-mqi3bh1e.webp",
+      "rarity": "Epic",
+      "set": {
+        "code": "prereleasebeta",
+        "name": "Pre-Release Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c7c6c4fa-eb19-43d6-904c-129cf062a8aa/render-mqi3bh1e.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Epic",
+  "rules_text": "2 \u20ac$, {Spend} Move a Gear from this Legend to an unequipped friendly Unit. If you do, ready that Unit.\nAt the end of your turn, if 5 or more friendly Units and/or Legends are equipped, ready them.",
+  "selected_printing_id": "6e4ee31b-82d1-421c-b658-ba3f79520365",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "panam-palmer-nomad-cavalry",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/6e4ee31b-82d1-421c-b658-ba3f79520365/render-mpvmowoc.webp",
+  "subname": "Nomad Cavalry"
+}

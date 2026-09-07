@@ -1,0 +1,112 @@
+{
+  "artist": "Envar",
+  "card_type": "Legend",
+  "classifications": [
+    "Ripperdoc"
+  ],
+  "color": "Yellow",
+  "cost": null,
+  "display_name": "Viktor Vektor: Sit Down and Relax",
+  "external_id": "cb-viktor-vektor-sit-down-and-relax",
+  "flavor_text": null,
+  "id": "f090dc44-d7f0-4aec-a19e-9213155a6611",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7d539173-4022-402e-a9f4-100338935fd2/render-mpwcnsje.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Viktor Vektor",
+  "power": null,
+  "print_number": "001",
+  "printing_id": "7d539173-4022-402e-a9f4-100338935fd2",
+  "printings": [
+    {
+      "artist": "Envar",
+      "collector_number": "001",
+      "finish": null,
+      "id": "7d539173-4022-402e-a9f4-100338935fd2",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7d539173-4022-402e-a9f4-100338935fd2/render-mpwcnsje.webp",
+      "rarity": "Epic",
+      "set": {
+        "code": "theheistretailstarterdeck",
+        "name": "The Heist \u2014 Retail Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7d539173-4022-402e-a9f4-100338935fd2/render-mpwcnsje.webp"
+    },
+    {
+      "artist": "Envar",
+      "collector_number": "\u03b2001",
+      "finish": null,
+      "id": "56a13bb3-7e1d-4846-ac79-9163f33c0143",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/56a13bb3-7e1d-4846-ac79-9163f33c0143/render-mpwcftz8.webp",
+      "rarity": "Epic",
+      "set": {
+        "code": "theheistbetastarterdeck",
+        "name": "The Heist \u2014 Beta Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/56a13bb3-7e1d-4846-ac79-9163f33c0143/render-mpwcftz8.webp"
+    },
+    {
+      "artist": "Envar",
+      "collector_number": "001",
+      "finish": null,
+      "id": "2344e8d6-3aed-415b-ab6e-f1d634b5ba18",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2344e8d6-3aed-415b-ab6e-f1d634b5ba18/render-mqf84v9r.webp",
+      "rarity": "Epic",
+      "set": {
+        "code": "mercdemodeck",
+        "name": "Merc Demo Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2344e8d6-3aed-415b-ab6e-f1d634b5ba18/render-mqf84v9r.webp"
+    },
+    {
+      "artist": "Ito (Kirby's Comic Art)",
+      "collector_number": "002",
+      "finish": null,
+      "id": "c9ceb0e7-c803-45d1-8da1-8c85c3b2e7e8",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c9ceb0e7-c803-45d1-8da1-8c85c3b2e7e8/render-mpvt1hjv.webp",
+      "rarity": "Nova Rare",
+      "set": {
+        "code": "boxtoppersretail",
+        "name": "Box Toppers \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c9ceb0e7-c803-45d1-8da1-8c85c3b2e7e8/render-mpvt1hjv.webp"
+    },
+    {
+      "artist": "Ito (Kirby's Comic Art)",
+      "collector_number": "\u03b2002",
+      "finish": null,
+      "id": "a33c6299-f1ee-404e-9197-cad5f7e84fce",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a33c6299-f1ee-404e-9197-cad5f7e84fce/render-mpvsu7dk.webp",
+      "rarity": "Nova Rare",
+      "set": {
+        "code": "boxtoppersbeta",
+        "name": "Box Toppers \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a33c6299-f1ee-404e-9197-cad5f7e84fce/render-mpvsu7dk.webp"
+    },
+    {
+      "artist": "Ito (Kirby's Comic Art)",
+      "collector_number": "040",
+      "finish": null,
+      "id": "23b81de3-abe3-4231-8dc3-7656de9d99db",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/23b81de3-abe3-4231-8dc3-7656de9d99db/render-mtcqfeaz.webp",
+      "rarity": "Nova Rare",
+      "set": {
+        "code": "edgerunneropens1",
+        "name": "Edgerunner Open S 1"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/23b81de3-abe3-4231-8dc3-7656de9d99db/render-mtcqfeaz.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Epic",
+  "rules_text": "{Call} Search the top 5 cards of your deck. Reveal up to 2 Gears with cost 2 or less and add them to your hand. Bottom-deck the rest in a random order.",
+  "selected_printing_id": "7d539173-4022-402e-a9f4-100338935fd2",
+  "set": {
+    "code": "theheistretailstarterdeck",
+    "name": "The Heist \u2014 Retail Starter Deck"
+  },
+  "slug": "viktor-vektor-sit-down-and-relax",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7d539173-4022-402e-a9f4-100338935fd2/render-mpwcnsje.webp",
+  "subname": "Sit Down and Relax"
+}

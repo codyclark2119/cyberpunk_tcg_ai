@@ -1,0 +1,61 @@
+{
+  "artist": "Daniel Valaisis",
+  "card_type": "Unit",
+  "classifications": [
+    "Corpo",
+    "Militech"
+  ],
+  "color": "Red",
+  "cost": 4,
+  "display_name": "Meredith Stout: Stone Cold Corpo",
+  "external_id": "cb-meredith-stout-stone-cold-corpo",
+  "flavor_text": null,
+  "id": "21f68be2-c664-4ae0-a7ef-965a3a5a14c8",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/5939771d-bdcc-4b42-aea4-376311189e93/render-mpvm79jg.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Meredith Stout",
+  "power": 5,
+  "print_number": "014",
+  "printing_id": "5939771d-bdcc-4b42-aea4-376311189e93",
+  "printings": [
+    {
+      "artist": "Daniel Valaisis",
+      "collector_number": "014",
+      "finish": null,
+      "id": "5939771d-bdcc-4b42-aea4-376311189e93",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/5939771d-bdcc-4b42-aea4-376311189e93/render-mpvm79jg.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/5939771d-bdcc-4b42-aea4-376311189e93/render-mpvm79jg.webp"
+    },
+    {
+      "artist": "Daniel Valaisis",
+      "collector_number": "\u03b2014",
+      "finish": null,
+      "id": "96e76b12-4e53-4e2c-aca3-3fedf6f21e18",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/96e76b12-4e53-4e2c-aca3-3fedf6f21e18/render-mpv4pykc.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/96e76b12-4e53-4e2c-aca3-3fedf6f21e18/render-mpv4pykc.webp"
+    }
+  ],
+  "ram": 1,
+  "rarity": "Rare",
+  "rules_text": "{Blocker}\nThis Unit has +2 power while fighting a Legend.\nWhen a Rival adjusts or swaps 1 or more friendly Gigs, you may add a card from your trash to your hand.",
+  "selected_printing_id": "5939771d-bdcc-4b42-aea4-376311189e93",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "meredith-stout-stone-cold-corpo",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/5939771d-bdcc-4b42-aea4-376311189e93/render-mpvm79jg.webp",
+  "subname": "Stone Cold Corpo"
+}

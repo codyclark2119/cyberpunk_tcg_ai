@@ -1,0 +1,73 @@
+{
+  "artist": "Jes\u00fas Herv\u00e1s",
+  "card_type": "Program",
+  "classifications": [
+    "Braindance"
+  ],
+  "color": "Blue",
+  "cost": 1,
+  "display_name": "Trust No One",
+  "external_id": "cb-trust-no-one",
+  "flavor_text": null,
+  "id": "ec857ab0-995e-4c32-84b6-7ba57b2f6137",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/70a2a18e-05c2-4a49-9236-e33b2c9819a5/render-mpvmdh2r.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Trust No One",
+  "power": null,
+  "print_number": "139",
+  "printing_id": "70a2a18e-05c2-4a49-9236-e33b2c9819a5",
+  "printings": [
+    {
+      "artist": "Jes\u00fas Herv\u00e1s",
+      "collector_number": "139",
+      "finish": null,
+      "id": "70a2a18e-05c2-4a49-9236-e33b2c9819a5",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/70a2a18e-05c2-4a49-9236-e33b2c9819a5/render-mpvmdh2r.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/70a2a18e-05c2-4a49-9236-e33b2c9819a5/render-mpvmdh2r.webp"
+    },
+    {
+      "artist": "Jes\u00fas Herv\u00e1s",
+      "collector_number": "\u03b2139",
+      "finish": null,
+      "id": "f9a81013-9c64-4e48-8d1d-cd1b41b72ee0",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/f9a81013-9c64-4e48-8d1d-cd1b41b72ee0/render-mpvk8an7.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/f9a81013-9c64-4e48-8d1d-cd1b41b72ee0/render-mpvk8an7.webp"
+    },
+    {
+      "artist": "Jes\u00fas Herv\u00e1s",
+      "collector_number": "007",
+      "finish": null,
+      "id": "a0d5fd79-b00b-408d-89c5-ff8721da568c",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a0d5fd79-b00b-408d-89c5-ff8721da568c/render-msyh3iss.webp",
+      "rarity": "Nova Rare",
+      "set": {
+        "code": "edgerunneropens1",
+        "name": "Edgerunner Open S 1"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a0d5fd79-b00b-408d-89c5-ff8721da568c/render-msyh3iss.webp"
+    }
+  ],
+  "ram": 1,
+  "rarity": "Common",
+  "rules_text": "Decrease a Gig by up to 3. Then, if you control a min Gig, draw 1.",
+  "selected_printing_id": "70a2a18e-05c2-4a49-9236-e33b2c9819a5",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "trust-no-one",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/70a2a18e-05c2-4a49-9236-e33b2c9819a5/render-mpvmdh2r.webp",
+  "subname": null
+}

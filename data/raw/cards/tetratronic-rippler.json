@@ -1,0 +1,86 @@
+{
+  "artist": "ADIA",
+  "card_type": "Gear",
+  "classifications": [
+    "Cyberware"
+  ],
+  "color": "Blue",
+  "cost": 1,
+  "display_name": "Tetratronic Rippler",
+  "external_id": "cb-tetratronic-rippler",
+  "flavor_text": null,
+  "id": "39665784-d2f1-43e8-a958-894bac716d71",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/576f82ff-3c4d-4637-aa91-2773de43bbc8/render-mpvmxg2k.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Tetratronic Rippler",
+  "power": 1,
+  "print_number": "130",
+  "printing_id": "576f82ff-3c4d-4637-aa91-2773de43bbc8",
+  "printings": [
+    {
+      "artist": "ADIA",
+      "collector_number": "130",
+      "finish": null,
+      "id": "576f82ff-3c4d-4637-aa91-2773de43bbc8",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/576f82ff-3c4d-4637-aa91-2773de43bbc8/render-mpvmxg2k.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/576f82ff-3c4d-4637-aa91-2773de43bbc8/render-mpvmxg2k.webp"
+    },
+    {
+      "artist": "ADIA",
+      "collector_number": "\u03b2130",
+      "finish": null,
+      "id": "74eb81ab-aa0a-4b09-8cfe-94dddd70f4b1",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/74eb81ab-aa0a-4b09-8cfe-94dddd70f4b1/render-mpvjuj6t.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/74eb81ab-aa0a-4b09-8cfe-94dddd70f4b1/render-mpvjuj6t.webp"
+    },
+    {
+      "artist": "ADIA",
+      "collector_number": "018",
+      "finish": null,
+      "id": "39747fc8-20a0-4fbb-80d7-2a869b735ac9",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/39747fc8-20a0-4fbb-80d7-2a869b735ac9/render-mpwcp2r7.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "theheistretailstarterdeck",
+        "name": "The Heist \u2014 Retail Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/39747fc8-20a0-4fbb-80d7-2a869b735ac9/render-mpwcp2r7.webp"
+    },
+    {
+      "artist": "ADIA",
+      "collector_number": "\u03b2018",
+      "finish": null,
+      "id": "7ef4d862-b97f-47be-ba0f-071c8e8354b0",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7ef4d862-b97f-47be-ba0f-071c8e8354b0/render-mpwccxvo.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "theheistbetastarterdeck",
+        "name": "The Heist \u2014 Beta Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7ef4d862-b97f-47be-ba0f-071c8e8354b0/render-mpwccxvo.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Common",
+  "rules_text": "(Equip to a friendly Unit or face-up Legend.)\nWhen this Unit or Legend is spent, search the top card of your deck. You may trash it. (Otherwise, keep it on the top of your deck.)",
+  "selected_printing_id": "576f82ff-3c4d-4637-aa91-2773de43bbc8",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "tetratronic-rippler",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/576f82ff-3c4d-4637-aa91-2773de43bbc8/render-mpvmxg2k.webp",
+  "subname": null
+}

@@ -1,0 +1,99 @@
+{
+  "artist": "Lea Leonowicz",
+  "card_type": "Gear",
+  "classifications": [
+    "Cyberware"
+  ],
+  "color": "Yellow",
+  "cost": 1,
+  "display_name": "Mandibular Upgrade",
+  "external_id": "cb-mandibular-upgrade",
+  "flavor_text": null,
+  "id": "6720e7fd-d1e8-4c8a-9ff2-f51f62241902",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/219b7a29-0f8b-4750-bc46-0f39eec6721b/render-mpvmxewc.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Mandibular Upgrade",
+  "power": 0,
+  "print_number": "062",
+  "printing_id": "219b7a29-0f8b-4750-bc46-0f39eec6721b",
+  "printings": [
+    {
+      "artist": "Lea Leonowicz",
+      "collector_number": "062",
+      "finish": null,
+      "id": "219b7a29-0f8b-4750-bc46-0f39eec6721b",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/219b7a29-0f8b-4750-bc46-0f39eec6721b/render-mpvmxewc.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/219b7a29-0f8b-4750-bc46-0f39eec6721b/render-mpvmxewc.webp"
+    },
+    {
+      "artist": "Lea Leonowicz",
+      "collector_number": "\u03b2062",
+      "finish": null,
+      "id": "dc0a7e03-54b6-4334-965f-27a3d469fed6",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/dc0a7e03-54b6-4334-965f-27a3d469fed6/render-mpvjv80u.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/dc0a7e03-54b6-4334-965f-27a3d469fed6/render-mpvjv80u.webp"
+    },
+    {
+      "artist": "Lea Leonowicz",
+      "collector_number": "008",
+      "finish": null,
+      "id": "d13b8b15-8e31-448c-b28b-322bb498d0a7",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/d13b8b15-8e31-448c-b28b-322bb498d0a7/render-mpwckhkq.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "theheistretailstarterdeck",
+        "name": "The Heist \u2014 Retail Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/d13b8b15-8e31-448c-b28b-322bb498d0a7/render-mpwckhkq.webp"
+    },
+    {
+      "artist": "Lea Leonowicz",
+      "collector_number": "\u03b2008",
+      "finish": null,
+      "id": "c3399413-d205-49e7-871a-4f16d7c3ade6",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c3399413-d205-49e7-871a-4f16d7c3ade6/render-mpwcghyn.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "theheistbetastarterdeck",
+        "name": "The Heist \u2014 Beta Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c3399413-d205-49e7-871a-4f16d7c3ade6/render-mpwcghyn.webp"
+    },
+    {
+      "artist": "Lea Leonowicz",
+      "collector_number": "005",
+      "finish": null,
+      "id": "49fc6d6e-8e86-4a05-bcd5-bd8a50edf5dc",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/49fc6d6e-8e86-4a05-bcd5-bd8a50edf5dc/render-mqf863he.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "mercdemodeck",
+        "name": "Merc Demo Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/49fc6d6e-8e86-4a05-bcd5-bd8a50edf5dc/render-mqf863he.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Common",
+  "rules_text": "(Equip to a friendly Unit or face-up Legend.)\n{Blocker} (You may spend this Unit to redirect a rival Unit's attack to it instead.)",
+  "selected_printing_id": "219b7a29-0f8b-4750-bc46-0f39eec6721b",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "mandibular-upgrade",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/219b7a29-0f8b-4750-bc46-0f39eec6721b/render-mpvmxewc.webp",
+  "subname": null
+}

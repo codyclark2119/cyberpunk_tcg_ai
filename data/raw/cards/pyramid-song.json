@@ -1,0 +1,60 @@
+{
+  "artist": "Elizaveta Kazakova",
+  "card_type": "Program",
+  "classifications": [
+    "Braindance"
+  ],
+  "color": "Blue",
+  "cost": 3,
+  "display_name": "Pyramid Song",
+  "external_id": "cb-pyramid-song",
+  "flavor_text": null,
+  "id": "7977a175-0516-478e-b166-3edb035849a4",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3b1d0570-bb8e-4ea5-9ec7-c698d9c9f94d/render-mpvmi5k3.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Pyramid Song",
+  "power": null,
+  "print_number": "135",
+  "printing_id": "3b1d0570-bb8e-4ea5-9ec7-c698d9c9f94d",
+  "printings": [
+    {
+      "artist": "Elizaveta Kazakova",
+      "collector_number": "135",
+      "finish": null,
+      "id": "3b1d0570-bb8e-4ea5-9ec7-c698d9c9f94d",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3b1d0570-bb8e-4ea5-9ec7-c698d9c9f94d/render-mpvmi5k3.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3b1d0570-bb8e-4ea5-9ec7-c698d9c9f94d/render-mpvmi5k3.webp"
+    },
+    {
+      "artist": "Elizaveta Kazakova",
+      "collector_number": "\u03b2135",
+      "finish": null,
+      "id": "bab79ef1-57fb-4b24-b50a-e08899699862",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/bab79ef1-57fb-4b24-b50a-e08899699862/render-mpvk2tn4.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/bab79ef1-57fb-4b24-b50a-e08899699862/render-mpvk2tn4.webp"
+    }
+  ],
+  "ram": 3,
+  "rarity": "Rare",
+  "rules_text": "Choose one effect. If a friendly d4 is a min Gig, choose both instead.\nGive a rival Unit -5 power this turn. // Bottom-deck a rival Unit with power 0.",
+  "selected_printing_id": "3b1d0570-bb8e-4ea5-9ec7-c698d9c9f94d",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "pyramid-song",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3b1d0570-bb8e-4ea5-9ec7-c698d9c9f94d/render-mpvmi5k3.webp",
+  "subname": null
+}

@@ -1,0 +1,62 @@
+{
+  "artist": "CD Projekt Red",
+  "card_type": "Unit",
+  "classifications": [
+    "Drone",
+    "Militech",
+    "Zetatech"
+  ],
+  "color": "Red",
+  "cost": 7,
+  "display_name": "Octant",
+  "external_id": "cb-octant",
+  "flavor_text": null,
+  "id": "4c098450-e3ae-47e5-98d4-d51a2ab132ce",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/089df0e6-0000-4e6c-b6d3-d9119466b624/render-mpvlto0j.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Octant",
+  "power": 8,
+  "print_number": "015",
+  "printing_id": "089df0e6-0000-4e6c-b6d3-d9119466b624",
+  "printings": [
+    {
+      "artist": "CD Projekt Red",
+      "collector_number": "015",
+      "finish": null,
+      "id": "089df0e6-0000-4e6c-b6d3-d9119466b624",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/089df0e6-0000-4e6c-b6d3-d9119466b624/render-mpvlto0j.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/089df0e6-0000-4e6c-b6d3-d9119466b624/render-mpvlto0j.webp"
+    },
+    {
+      "artist": "CD Projekt Red",
+      "collector_number": "\u03b2015",
+      "finish": null,
+      "id": "3b8c035e-161d-4a84-bdc8-f76899e8244f",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3b8c035e-161d-4a84-bdc8-f76899e8244f/render-mpv4dymc.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3b8c035e-161d-4a84-bdc8-f76899e8244f/render-mpv4dymc.webp"
+    }
+  ],
+  "ram": 4,
+  "rarity": "Common",
+  "rules_text": "Play this Unit for -1 \u20ac$ for each friendly Gig with 8+ value, to a minimum of 1 \u20ac$.",
+  "selected_printing_id": "089df0e6-0000-4e6c-b6d3-d9119466b624",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "octant",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/089df0e6-0000-4e6c-b6d3-d9119466b624/render-mpvlto0j.webp",
+  "subname": null
+}

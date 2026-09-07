@@ -1,0 +1,86 @@
+{
+  "artist": "CD Projekt Red",
+  "card_type": "Gear",
+  "classifications": [
+    "Cyberware"
+  ],
+  "color": "Green",
+  "cost": 3,
+  "display_name": "Sandevistan",
+  "external_id": "cb-sandevistan",
+  "flavor_text": null,
+  "id": "55153b49-c3a7-4208-a47b-0a91fa7e3b5c",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/97de62e2-3fea-4324-8367-87d1f1d674ed/render-mpvmzerv.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Sandevistan",
+  "power": 2,
+  "print_number": "095",
+  "printing_id": "97de62e2-3fea-4324-8367-87d1f1d674ed",
+  "printings": [
+    {
+      "artist": "CD Projekt Red",
+      "collector_number": "095",
+      "finish": null,
+      "id": "97de62e2-3fea-4324-8367-87d1f1d674ed",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/97de62e2-3fea-4324-8367-87d1f1d674ed/render-mpvmzerv.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/97de62e2-3fea-4324-8367-87d1f1d674ed/render-mpvmzerv.webp"
+    },
+    {
+      "artist": "CD Projekt Red",
+      "collector_number": "\u03b2095",
+      "finish": null,
+      "id": "f0de2baf-27a9-426e-89cf-68abaceec507",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/f0de2baf-27a9-426e-89cf-68abaceec507/render-mpvjw6iy.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/f0de2baf-27a9-426e-89cf-68abaceec507/render-mpvjw6iy.webp"
+    },
+    {
+      "artist": "CD Projekt Red",
+      "collector_number": "019",
+      "finish": null,
+      "id": "a4684963-6c44-4e6e-9466-56d987f86112",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a4684963-6c44-4e6e-9466-56d987f86112/render-mpwby1rt.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "embracingpowerretailstarterdeck",
+        "name": "Embracing Power \u2014 Retail Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a4684963-6c44-4e6e-9466-56d987f86112/render-mpwby1rt.webp"
+    },
+    {
+      "artist": "CD Projekt Red",
+      "collector_number": "\u03b2019",
+      "finish": null,
+      "id": "e1a14bfa-cd87-4fa9-bfe8-207abb4545c4",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e1a14bfa-cd87-4fa9-bfe8-207abb4545c4/render-mpwbized.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "embracingpowerbetastarterdeck",
+        "name": "Embracing Power \u2014 Beta Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e1a14bfa-cd87-4fa9-bfe8-207abb4545c4/render-mpwbized.webp"
+    }
+  ],
+  "ram": 3,
+  "rarity": "Uncommon",
+  "rules_text": "(Equip to a friendly Unit or face-up Legend.)\nAt the end of your turn, ready this Unit or Legend.",
+  "selected_printing_id": "97de62e2-3fea-4324-8367-87d1f1d674ed",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "sandevistan",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/97de62e2-3fea-4324-8367-87d1f1d674ed/render-mpvmzerv.webp",
+  "subname": null
+}

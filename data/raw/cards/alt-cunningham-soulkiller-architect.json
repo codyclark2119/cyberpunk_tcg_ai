@@ -1,0 +1,113 @@
+{
+  "artist": "Daniel Valaisis",
+  "card_type": "Legend",
+  "classifications": [
+    "Merc",
+    "Netrunner"
+  ],
+  "color": "Blue",
+  "cost": null,
+  "display_name": "Alt Cunningham: Soulkiller Architect",
+  "external_id": "cb-alt-cunningham-soulkiller-architect",
+  "flavor_text": null,
+  "id": "12475e77-0e16-420e-a935-65eb74290de8",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/cb23a651-dd1d-48f8-aca3-8d33fef79fdd/render-mpvmnn4t.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Alt Cunningham",
+  "power": null,
+  "print_number": "106",
+  "printing_id": "cb23a651-dd1d-48f8-aca3-8d33fef79fdd",
+  "printings": [
+    {
+      "artist": "Daniel Valaisis",
+      "collector_number": "106",
+      "finish": null,
+      "id": "cb23a651-dd1d-48f8-aca3-8d33fef79fdd",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/cb23a651-dd1d-48f8-aca3-8d33fef79fdd/render-mpvmnn4t.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/cb23a651-dd1d-48f8-aca3-8d33fef79fdd/render-mpvmnn4t.webp"
+    },
+    {
+      "artist": "Pandart Studio",
+      "collector_number": "155",
+      "finish": null,
+      "id": "1d4ce13a-20de-4f4f-8145-0c8e9892f52c",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/1d4ce13a-20de-4f4f-8145-0c8e9892f52c/render-mpvmvmnz.webp",
+      "rarity": "Iconic Legend",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/1d4ce13a-20de-4f4f-8145-0c8e9892f52c/render-mpvmvmnz.webp"
+    },
+    {
+      "artist": "Daniel Valaisis",
+      "collector_number": "\u03b2106",
+      "finish": null,
+      "id": "873656f0-c32a-46fb-856f-8a5ee44b8d21",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/873656f0-c32a-46fb-856f-8a5ee44b8d21/render-mpu65z5j.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/873656f0-c32a-46fb-856f-8a5ee44b8d21/render-mpu65z5j.webp"
+    },
+    {
+      "artist": "Pandart Studio",
+      "collector_number": "\u03b2155",
+      "finish": null,
+      "id": "7a6a5336-2b6c-4d8a-b1f0-595a787255ce",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7a6a5336-2b6c-4d8a-b1f0-595a787255ce/render-mpu6qelk.webp",
+      "rarity": "Iconic Legend",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7a6a5336-2b6c-4d8a-b1f0-595a787255ce/render-mpu6qelk.webp"
+    },
+    {
+      "artist": "Daniel Valaisis",
+      "collector_number": "009",
+      "finish": null,
+      "id": "32d12432-acad-4a11-b8eb-1dd8fb2297f3",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/32d12432-acad-4a11-b8eb-1dd8fb2297f3/render-mqi3b5zs.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "prereleasebeta",
+        "name": "Pre-Release Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/32d12432-acad-4a11-b8eb-1dd8fb2297f3/render-mqi3b5zs.webp"
+    },
+    {
+      "artist": "Pandart Studio",
+      "collector_number": "048",
+      "finish": null,
+      "id": "72a627db-f8a0-4559-9194-2b9e4ceca30c",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/72a627db-f8a0-4559-9194-2b9e4ceca30c/render-mtcqb0hv.webp",
+      "rarity": "Nova Rare",
+      "set": {
+        "code": "edgerunneropens1",
+        "name": "Edgerunner Open S 1"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/72a627db-f8a0-4559-9194-2b9e4ceca30c/render-mtcqb0hv.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Rare",
+  "rules_text": "1 \u20ac$, {Spend} Play a Program from your trash. Bottom-deck it after you play it. (You still pay its cost.)",
+  "selected_printing_id": "cb23a651-dd1d-48f8-aca3-8d33fef79fdd",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "alt-cunningham-soulkiller-architect",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/cb23a651-dd1d-48f8-aca3-8d33fef79fdd/render-mpvmnn4t.webp",
+  "subname": "Soulkiller Architect"
+}

@@ -1,0 +1,60 @@
+{
+  "artist": "ADIA",
+  "card_type": "Unit",
+  "classifications": [
+    "NCPD"
+  ],
+  "color": "Yellow",
+  "cost": 5,
+  "display_name": "MaxTac Suppression Team",
+  "external_id": "cb-maxtac-suppression-team",
+  "flavor_text": null,
+  "id": "95840ebd-d00a-49ff-b4e5-e2064cfc13a9",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/47f55164-e5da-494e-9d55-02bd0b7f97c1/render-mpvlzqaa.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "MaxTac Suppression Team",
+  "power": 7,
+  "print_number": "050",
+  "printing_id": "47f55164-e5da-494e-9d55-02bd0b7f97c1",
+  "printings": [
+    {
+      "artist": "ADIA",
+      "collector_number": "050",
+      "finish": null,
+      "id": "47f55164-e5da-494e-9d55-02bd0b7f97c1",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/47f55164-e5da-494e-9d55-02bd0b7f97c1/render-mpvlzqaa.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/47f55164-e5da-494e-9d55-02bd0b7f97c1/render-mpvlzqaa.webp"
+    },
+    {
+      "artist": "ADIA",
+      "collector_number": "\u03b2050",
+      "finish": null,
+      "id": "03849cd8-c3d8-4741-ae9e-d85cd9bb488d",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/03849cd8-c3d8-4741-ae9e-d85cd9bb488d/render-mpv4jjus.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/03849cd8-c3d8-4741-ae9e-d85cd9bb488d/render-mpv4jjus.webp"
+    }
+  ],
+  "ram": 1,
+  "rarity": "Common",
+  "rules_text": "Rival Units can't attack the turn they're played.",
+  "selected_printing_id": "47f55164-e5da-494e-9d55-02bd0b7f97c1",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "maxtac-suppression-team",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/47f55164-e5da-494e-9d55-02bd0b7f97c1/render-mpvlzqaa.webp",
+  "subname": null
+}

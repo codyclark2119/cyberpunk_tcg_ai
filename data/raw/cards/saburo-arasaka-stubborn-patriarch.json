@@ -1,0 +1,113 @@
+{
+  "artist": "ADIA",
+  "card_type": "Legend",
+  "classifications": [
+    "Arasaka",
+    "Corpo"
+  ],
+  "color": "Green",
+  "cost": null,
+  "display_name": "Saburo Arasaka: Stubborn Patriarch",
+  "external_id": "cb-saburo-arasaka-stubborn-patriarch",
+  "flavor_text": null,
+  "id": "cf50fa24-bf94-4c35-bcc1-c6d56a6f68d8",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/6ac7adce-01af-4b5b-956b-698eda0bed14/render-mpwbxd5h.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Saburo Arasaka",
+  "power": null,
+  "print_number": "013",
+  "printing_id": "6ac7adce-01af-4b5b-956b-698eda0bed14",
+  "printings": [
+    {
+      "artist": "ADIA",
+      "collector_number": "013",
+      "finish": null,
+      "id": "6ac7adce-01af-4b5b-956b-698eda0bed14",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/6ac7adce-01af-4b5b-956b-698eda0bed14/render-mpwbxd5h.webp",
+      "rarity": "Epic",
+      "set": {
+        "code": "embracingpowerretailstarterdeck",
+        "name": "Embracing Power \u2014 Retail Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/6ac7adce-01af-4b5b-956b-698eda0bed14/render-mpwbxd5h.webp"
+    },
+    {
+      "artist": "ADIA",
+      "collector_number": "\u03b2013",
+      "finish": null,
+      "id": "54136fbd-ce97-4d23-a8e8-f876e3e64819",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/54136fbd-ce97-4d23-a8e8-f876e3e64819/render-mpwbo5to.webp",
+      "rarity": "Epic",
+      "set": {
+        "code": "embracingpowerbetastarterdeck",
+        "name": "Embracing Power \u2014 Beta Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/54136fbd-ce97-4d23-a8e8-f876e3e64819/render-mpwbo5to.webp"
+    },
+    {
+      "artist": "ADIA",
+      "collector_number": "009",
+      "finish": null,
+      "id": "13ba5cd2-5000-4cf8-bcfc-6f1b8afe44ca",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/13ba5cd2-5000-4cf8-bcfc-6f1b8afe44ca/render-mqf82qkq.webp",
+      "rarity": "Epic",
+      "set": {
+        "code": "arasakademodeck",
+        "name": "Arasaka Demo Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/13ba5cd2-5000-4cf8-bcfc-6f1b8afe44ca/render-mqf82qkq.webp"
+    },
+    {
+      "artist": "Vincenzo Riccardi",
+      "collector_number": "004",
+      "finish": null,
+      "id": "77e482f2-6090-47e9-9d03-be28417cb1cb",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/77e482f2-6090-47e9-9d03-be28417cb1cb/render-mpvt1ulj.webp",
+      "rarity": "Nova Rare",
+      "set": {
+        "code": "boxtoppersretail",
+        "name": "Box Toppers \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/77e482f2-6090-47e9-9d03-be28417cb1cb/render-mpvt1ulj.webp"
+    },
+    {
+      "artist": "Vincenzo Riccardi",
+      "collector_number": "\u03b2004",
+      "finish": null,
+      "id": "0cb4ae83-a7ca-4ca6-9c83-6c0581baae57",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0cb4ae83-a7ca-4ca6-9c83-6c0581baae57/render-mpvsuufh.webp",
+      "rarity": "Nova Rare",
+      "set": {
+        "code": "boxtoppersbeta",
+        "name": "Box Toppers \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0cb4ae83-a7ca-4ca6-9c83-6c0581baae57/render-mpvsuufh.webp"
+    },
+    {
+      "artist": "Vincenzo Riccardi",
+      "collector_number": "047",
+      "finish": null,
+      "id": "46387af0-342b-40c7-82fa-858d08ea473f",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/46387af0-342b-40c7-82fa-858d08ea473f/render-mtcqbjxl.webp",
+      "rarity": "Nova Rare",
+      "set": {
+        "code": "edgerunneropens1",
+        "name": "Edgerunner Open S 1"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/46387af0-342b-40c7-82fa-858d08ea473f/render-mtcqbjxl.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Epic",
+  "rules_text": "Friendly ARASAKA Units have +1 power while attacking.\n(Units steal an extra Gig for every 10 power.)",
+  "selected_printing_id": "6ac7adce-01af-4b5b-956b-698eda0bed14",
+  "set": {
+    "code": "embracingpowerretailstarterdeck",
+    "name": "Embracing Power \u2014 Retail Starter Deck"
+  },
+  "slug": "saburo-arasaka-stubborn-patriarch",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/6ac7adce-01af-4b5b-956b-698eda0bed14/render-mpwbxd5h.webp",
+  "subname": "Stubborn Patriarch"
+}

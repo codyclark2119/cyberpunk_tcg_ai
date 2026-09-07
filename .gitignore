@@ -1,0 +1,19 @@
+# Python virtualenv -- recreate with requirements.txt, never committed.
+.venv/
+mlx_env/
+__pycache__/
+*.py[cod]
+
+# Trained LoRA adapters: multi-GB binaries, reproducible from configs/ + data/.
+# The directory itself stays tracked (via .gitkeep) so a fresh clone has it
+# ready to receive a trained adapter, matching magic-llm's convention.
+models/*
+!models/.gitkeep
+
+# Embedding indices: derived artifacts, rebuilt from a game's chunking script.
+# The chunk .jsonl files they are built from should stay committed, so a
+# stale index can always be regenerated and never has to be recovered from
+# history.
+*.npz
+
+.DS_Store

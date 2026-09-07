@@ -1,0 +1,12 @@
+# Minimal, curated dependency list for this template.
+#
+# Unlike a full `pip freeze`, this lists only what the harness directly
+# imports. Pin exact versions once a game instance's environment is known
+# good; left unpinned here since this is a template, not a running install.
+
+mlx-lm
+mlx-embeddings
+numpy
+datasets
+fastapi
+uvicorn

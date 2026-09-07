@@ -1,0 +1,60 @@
+{
+  "artist": "DOFRESH",
+  "card_type": "Program",
+  "classifications": [
+    "Plan"
+  ],
+  "color": "Yellow",
+  "cost": 3,
+  "display_name": "Live with the Aftermath",
+  "external_id": "cb-live-with-the-aftermath",
+  "flavor_text": null,
+  "id": "793d9650-0a59-4c89-9d85-05a9d6873d2e",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/f931c82e-a382-4f60-808c-5910ac9850be/render-mpvmctmr.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Live with the Aftermath",
+  "power": null,
+  "print_number": "068",
+  "printing_id": "f931c82e-a382-4f60-808c-5910ac9850be",
+  "printings": [
+    {
+      "artist": "DOFRESH",
+      "collector_number": "068",
+      "finish": null,
+      "id": "f931c82e-a382-4f60-808c-5910ac9850be",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/f931c82e-a382-4f60-808c-5910ac9850be/render-mpvmctmr.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/f931c82e-a382-4f60-808c-5910ac9850be/render-mpvmctmr.webp"
+    },
+    {
+      "artist": "DOFRESH",
+      "collector_number": "\u03b2068",
+      "finish": null,
+      "id": "b2d6aeff-8fa3-4151-9e67-a83188a78197",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/b2d6aeff-8fa3-4151-9e67-a83188a78197/render-mpvk7m95.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/b2d6aeff-8fa3-4151-9e67-a83188a78197/render-mpvk7m95.webp"
+    }
+  ],
+  "ram": 3,
+  "rarity": "Common",
+  "rules_text": "Each player defeats one of their Units.",
+  "selected_printing_id": "f931c82e-a382-4f60-808c-5910ac9850be",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "live-with-the-aftermath",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/f931c82e-a382-4f60-808c-5910ac9850be/render-mpvmctmr.webp",
+  "subname": null
+}

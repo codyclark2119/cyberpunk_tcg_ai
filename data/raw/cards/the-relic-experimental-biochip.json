@@ -1,0 +1,74 @@
+{
+  "artist": "Dardo Studios",
+  "card_type": "Gear",
+  "classifications": [
+    "Arasaka",
+    "Cyberware"
+  ],
+  "color": "Yellow",
+  "cost": 5,
+  "display_name": "The Relic: Experimental Biochip",
+  "external_id": "cb-the-relic-experimental-biochip",
+  "flavor_text": null,
+  "id": "1263e2bf-bc15-4550-ad07-b028602d1354",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/38d14168-c182-4a34-a3b2-1b8380ab6635/render-mpvn1f8f.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "The Relic",
+  "power": 3,
+  "print_number": "063",
+  "printing_id": "38d14168-c182-4a34-a3b2-1b8380ab6635",
+  "printings": [
+    {
+      "artist": "Dardo Studios",
+      "collector_number": "063",
+      "finish": null,
+      "id": "38d14168-c182-4a34-a3b2-1b8380ab6635",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/38d14168-c182-4a34-a3b2-1b8380ab6635/render-mpvn1f8f.webp",
+      "rarity": "Epic",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/38d14168-c182-4a34-a3b2-1b8380ab6635/render-mpvn1f8f.webp"
+    },
+    {
+      "artist": "Dardo Studios",
+      "collector_number": "\u03b2063",
+      "finish": null,
+      "id": "a55809aa-170d-42b4-8768-f0b873fd0dc4",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a55809aa-170d-42b4-8768-f0b873fd0dc4/render-mpvjxgd9.webp",
+      "rarity": "Epic",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a55809aa-170d-42b4-8768-f0b873fd0dc4/render-mpvjxgd9.webp"
+    },
+    {
+      "artist": "Mooncolony",
+      "collector_number": "\u03b2163",
+      "finish": null,
+      "id": "9a4fafb2-b27b-4b3e-9f57-502040898b0f",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/9a4fafb2-b27b-4b3e-9f57-502040898b0f/render-mpxm6vvr.webp",
+      "rarity": "Iconic Other",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/9a4fafb2-b27b-4b3e-9f57-502040898b0f/render-mpxm6vvr.webp"
+    }
+  ],
+  "ram": 4,
+  "rarity": "Epic",
+  "rules_text": "{Defeated} Play another Unit with cost 9 or less from your trash for free. Then, bottom-deck this Unit.",
+  "selected_printing_id": "38d14168-c182-4a34-a3b2-1b8380ab6635",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "the-relic-experimental-biochip",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/38d14168-c182-4a34-a3b2-1b8380ab6635/render-mpvn1f8f.webp",
+  "subname": "Experimental Biochip"
+}

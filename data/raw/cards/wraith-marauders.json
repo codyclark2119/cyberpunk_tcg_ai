@@ -1,0 +1,62 @@
+{
+  "artist": "Daniel Valaisis",
+  "card_type": "Unit",
+  "classifications": [
+    "Ganger",
+    "Nomad",
+    "Raffen Shiv"
+  ],
+  "color": "Green",
+  "cost": 5,
+  "display_name": "Wraith Marauders",
+  "external_id": "cb-wraith-marauders",
+  "flavor_text": null,
+  "id": "67b47cff-2237-4765-86fb-9b2b3abecbb1",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0944037e-5b14-4332-b345-7935924c2125/render-mpvm4vc3.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Wraith Marauders",
+  "power": 4,
+  "print_number": "092",
+  "printing_id": "0944037e-5b14-4332-b345-7935924c2125",
+  "printings": [
+    {
+      "artist": "Daniel Valaisis",
+      "collector_number": "092",
+      "finish": null,
+      "id": "0944037e-5b14-4332-b345-7935924c2125",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0944037e-5b14-4332-b345-7935924c2125/render-mpvm4vc3.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0944037e-5b14-4332-b345-7935924c2125/render-mpvm4vc3.webp"
+    },
+    {
+      "artist": "Daniel Valaisis",
+      "collector_number": "\u03b2092",
+      "finish": null,
+      "id": "89c5ec5e-dcc1-4ce4-970d-28b0226272b1",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/89c5ec5e-dcc1-4ce4-970d-28b0226272b1/render-mpv4ofxy.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/89c5ec5e-dcc1-4ce4-970d-28b0226272b1/render-mpv4ofxy.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Uncommon",
+  "rules_text": "When this Unit steals a Gig, ready another friendly Unit with power equal to the Gig's value.",
+  "selected_printing_id": "0944037e-5b14-4332-b345-7935924c2125",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "wraith-marauders",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0944037e-5b14-4332-b345-7935924c2125/render-mpvm4vc3.webp",
+  "subname": null
+}

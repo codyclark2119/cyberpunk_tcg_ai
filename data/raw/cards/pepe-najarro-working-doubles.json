@@ -1,0 +1,60 @@
+{
+  "artist": "TOPDOG Entertainment",
+  "card_type": "Unit",
+  "classifications": [
+    "Valentino"
+  ],
+  "color": "Green",
+  "cost": 4,
+  "display_name": "Pepe Najarro: Working Doubles",
+  "external_id": "cb-pepe-najarro-working-doubles",
+  "flavor_text": null,
+  "id": "0974a7af-dcd7-44d9-b57a-b6a4719afcd6",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0de81196-f1d3-4fd0-ae6a-062dae3f3f2c/render-mpvm610y.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Pepe Najarro",
+  "power": 6,
+  "print_number": "086",
+  "printing_id": "0de81196-f1d3-4fd0-ae6a-062dae3f3f2c",
+  "printings": [
+    {
+      "artist": "TOPDOG Entertainment",
+      "collector_number": "086",
+      "finish": null,
+      "id": "0de81196-f1d3-4fd0-ae6a-062dae3f3f2c",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0de81196-f1d3-4fd0-ae6a-062dae3f3f2c/render-mpvm610y.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0de81196-f1d3-4fd0-ae6a-062dae3f3f2c/render-mpvm610y.webp"
+    },
+    {
+      "artist": "TOPDOG Entertainment",
+      "collector_number": "\u03b2086",
+      "finish": null,
+      "id": "786d5ce2-bfc0-4648-9c7d-323e939a1d34",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/786d5ce2-bfc0-4648-9c7d-323e939a1d34/render-mpv4otdq.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/786d5ce2-bfc0-4648-9c7d-323e939a1d34/render-mpv4otdq.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Uncommon",
+  "rules_text": "{Attack} If you control a value-pair of Gigs, ready up to 2 MERC Legends in your Legends area.",
+  "selected_printing_id": "0de81196-f1d3-4fd0-ae6a-062dae3f3f2c",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "pepe-najarro-working-doubles",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0de81196-f1d3-4fd0-ae6a-062dae3f3f2c/render-mpvm610y.webp",
+  "subname": "Working Doubles"
+}

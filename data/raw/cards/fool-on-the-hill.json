@@ -1,0 +1,60 @@
+{
+  "artist": "DOFRESH",
+  "card_type": "Program",
+  "classifications": [
+    "Merc"
+  ],
+  "color": "Green",
+  "cost": 2,
+  "display_name": "Fool on the Hill",
+  "external_id": "cb-fool-on-the-hill",
+  "flavor_text": null,
+  "id": "c5d2fed1-1470-4ac5-9f84-bf66705901ce",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7751b719-978b-44b1-a82f-b2881d3a416e/render-mpvmiefg.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Fool on the Hill",
+  "power": null,
+  "print_number": "099",
+  "printing_id": "7751b719-978b-44b1-a82f-b2881d3a416e",
+  "printings": [
+    {
+      "artist": "DOFRESH",
+      "collector_number": "099",
+      "finish": null,
+      "id": "7751b719-978b-44b1-a82f-b2881d3a416e",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7751b719-978b-44b1-a82f-b2881d3a416e/render-mpvmiefg.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7751b719-978b-44b1-a82f-b2881d3a416e/render-mpvmiefg.webp"
+    },
+    {
+      "artist": "DOFRESH",
+      "collector_number": "\u03b2099",
+      "finish": null,
+      "id": "04511c2f-c766-4d1a-9176-66f913789667",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/04511c2f-c766-4d1a-9176-66f913789667/render-mpvk2uyd.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/04511c2f-c766-4d1a-9176-66f913789667/render-mpvk2uyd.webp"
+    }
+  ],
+  "ram": 3,
+  "rarity": "Rare",
+  "rules_text": "Reveal the top 2 cards of your deck. A Rival chooses whether you add them to your hand or trash them. If you trash them, draw 2.",
+  "selected_printing_id": "7751b719-978b-44b1-a82f-b2881d3a416e",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "fool-on-the-hill",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7751b719-978b-44b1-a82f-b2881d3a416e/render-mpvmiefg.webp",
+  "subname": null
+}

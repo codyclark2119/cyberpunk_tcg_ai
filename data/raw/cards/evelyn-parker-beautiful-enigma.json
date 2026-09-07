@@ -1,0 +1,73 @@
+{
+  "artist": "Daniel Valaisis",
+  "card_type": "Legend",
+  "classifications": [
+    "Doll"
+  ],
+  "color": "Blue",
+  "cost": null,
+  "display_name": "Evelyn Parker: Beautiful Enigma",
+  "external_id": "cb-evelyn-parker-beautiful-enigma",
+  "flavor_text": null,
+  "id": "55807eb7-8a8e-44a9-97a2-c8ac993e7b43",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/ba766c1d-d929-4a22-bc91-7400784536c8/render-mpvmo7cq.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Evelyn Parker",
+  "power": null,
+  "print_number": "107",
+  "printing_id": "ba766c1d-d929-4a22-bc91-7400784536c8",
+  "printings": [
+    {
+      "artist": "Daniel Valaisis",
+      "collector_number": "107",
+      "finish": null,
+      "id": "ba766c1d-d929-4a22-bc91-7400784536c8",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/ba766c1d-d929-4a22-bc91-7400784536c8/render-mpvmo7cq.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/ba766c1d-d929-4a22-bc91-7400784536c8/render-mpvmo7cq.webp"
+    },
+    {
+      "artist": "Daniel Valaisis",
+      "collector_number": "\u03b2107",
+      "finish": null,
+      "id": "080b22ac-9c3d-48ee-ad4f-4e9579f22adc",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/080b22ac-9c3d-48ee-ad4f-4e9579f22adc/render-mpu66269.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/080b22ac-9c3d-48ee-ad4f-4e9579f22adc/render-mpu66269.webp"
+    },
+    {
+      "artist": "Pandart Studio",
+      "collector_number": "\u03b2156",
+      "finish": null,
+      "id": "22fe9365-6f33-4aeb-b3a4-a78ab563cbe9",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/22fe9365-6f33-4aeb-b3a4-a78ab563cbe9/render-mpxm50rb.webp",
+      "rarity": "Iconic Legend",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/22fe9365-6f33-4aeb-b3a4-a78ab563cbe9/render-mpxm50rb.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Rare",
+  "rules_text": "When a friendly CORPO or GANGER Unit steals 1 or more Gigs, ready 1 Eddie.\n1 \u20ac$, {Spend} A rival Unit must attack next turn if it can.",
+  "selected_printing_id": "ba766c1d-d929-4a22-bc91-7400784536c8",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "evelyn-parker-beautiful-enigma",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/ba766c1d-d929-4a22-bc91-7400784536c8/render-mpvmo7cq.webp",
+  "subname": "Beautiful Enigma"
+}

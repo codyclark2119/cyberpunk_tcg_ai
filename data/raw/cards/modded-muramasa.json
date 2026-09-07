@@ -1,0 +1,60 @@
+{
+  "artist": "Mooncolony",
+  "card_type": "Unit",
+  "classifications": [
+    "Vehicle"
+  ],
+  "color": "Blue",
+  "cost": 5,
+  "display_name": "Modded Muramasa",
+  "external_id": "cb-modded-muramasa",
+  "flavor_text": null,
+  "id": "08b52bdb-be1e-4931-90c4-4354eea5b145",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3bd6767b-ef0c-47dd-9f47-d00112a74111/render-mpvlvws6.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Modded Muramasa",
+  "power": 4,
+  "print_number": "121",
+  "printing_id": "3bd6767b-ef0c-47dd-9f47-d00112a74111",
+  "printings": [
+    {
+      "artist": "Mooncolony",
+      "collector_number": "121",
+      "finish": null,
+      "id": "3bd6767b-ef0c-47dd-9f47-d00112a74111",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3bd6767b-ef0c-47dd-9f47-d00112a74111/render-mpvlvws6.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3bd6767b-ef0c-47dd-9f47-d00112a74111/render-mpvlvws6.webp"
+    },
+    {
+      "artist": "Mooncolony",
+      "collector_number": "\u03b2121",
+      "finish": null,
+      "id": "2b247956-465f-4b39-8091-a95c90bc8b70",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2b247956-465f-4b39-8091-a95c90bc8b70/render-mpv4leuc.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2b247956-465f-4b39-8091-a95c90bc8b70/render-mpv4leuc.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Common",
+  "rules_text": "At the end of your turn, if you have less \u2606 (Street Cred) than a Rival, ready this Unit.",
+  "selected_printing_id": "3bd6767b-ef0c-47dd-9f47-d00112a74111",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "modded-muramasa",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3bd6767b-ef0c-47dd-9f47-d00112a74111/render-mpvlvws6.webp",
+  "subname": null
+}

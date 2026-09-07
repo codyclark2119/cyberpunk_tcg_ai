@@ -1,0 +1,60 @@
+{
+  "artist": "ADIA",
+  "card_type": "Unit",
+  "classifications": [
+    "Rocker"
+  ],
+  "color": "Yellow",
+  "cost": 5,
+  "display_name": "Rockn' Rockerboy",
+  "external_id": "cb-rockn-rockerboy",
+  "flavor_text": null,
+  "id": "7ea6eecc-e55e-4634-93eb-b2b46e79635d",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/07aaea5c-5aef-466e-956a-2e68930669c0/render-mpvlx5hw.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Rockn' Rockerboy",
+  "power": 8,
+  "print_number": "052",
+  "printing_id": "07aaea5c-5aef-466e-956a-2e68930669c0",
+  "printings": [
+    {
+      "artist": "ADIA",
+      "collector_number": "052",
+      "finish": null,
+      "id": "07aaea5c-5aef-466e-956a-2e68930669c0",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/07aaea5c-5aef-466e-956a-2e68930669c0/render-mpvlx5hw.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/07aaea5c-5aef-466e-956a-2e68930669c0/render-mpvlx5hw.webp"
+    },
+    {
+      "artist": "ADIA",
+      "collector_number": "\u03b2052",
+      "finish": null,
+      "id": "58cffb40-0914-4c6b-81cf-cdd8b2b83f17",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/58cffb40-0914-4c6b-81cf-cdd8b2b83f17/render-mpv4jm6c.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/58cffb40-0914-4c6b-81cf-cdd8b2b83f17/render-mpv4jm6c.webp"
+    }
+  ],
+  "ram": 1,
+  "rarity": "Common",
+  "rules_text": "[Flavor] Scream your throat raw for something. Anything.",
+  "selected_printing_id": "07aaea5c-5aef-466e-956a-2e68930669c0",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "rockn-rockerboy",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/07aaea5c-5aef-466e-956a-2e68930669c0/render-mpvlx5hw.webp",
+  "subname": null
+}

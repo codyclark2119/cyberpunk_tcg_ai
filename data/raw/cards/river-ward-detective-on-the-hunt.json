@@ -1,0 +1,86 @@
+{
+  "artist": "Daniel Valaisis",
+  "card_type": "Legend",
+  "classifications": [
+    "NCPD"
+  ],
+  "color": "Yellow",
+  "cost": null,
+  "display_name": "River Ward: Detective on the Hunt",
+  "external_id": "cb-river-ward-detective-on-the-hunt",
+  "flavor_text": null,
+  "id": "e64e2978-695b-4fc5-b17b-62c710a11c47",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/b3895f75-e147-49b0-a6d8-6fb35b356b2e/render-mpvmn1j1.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "River Ward",
+  "power": null,
+  "print_number": "039",
+  "printing_id": "b3895f75-e147-49b0-a6d8-6fb35b356b2e",
+  "printings": [
+    {
+      "artist": "Daniel Valaisis",
+      "collector_number": "039",
+      "finish": null,
+      "id": "b3895f75-e147-49b0-a6d8-6fb35b356b2e",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/b3895f75-e147-49b0-a6d8-6fb35b356b2e/render-mpvmn1j1.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/b3895f75-e147-49b0-a6d8-6fb35b356b2e/render-mpvmn1j1.webp"
+    },
+    {
+      "artist": "Daniel Valaisis",
+      "collector_number": "\u03b2039",
+      "finish": null,
+      "id": "b217ae88-52a6-44b3-b021-964db4534dbd",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/b217ae88-52a6-44b3-b021-964db4534dbd/render-mpu63yha.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/b217ae88-52a6-44b3-b021-964db4534dbd/render-mpu63yha.webp"
+    },
+    {
+      "artist": "Pandart Studio",
+      "collector_number": "\u03b2148",
+      "finish": null,
+      "id": "e59b67b3-a388-4228-94a3-84ee12e68937",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e59b67b3-a388-4228-94a3-84ee12e68937/render-mpxm4167.webp",
+      "rarity": "Iconic Legend",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e59b67b3-a388-4228-94a3-84ee12e68937/render-mpxm4167.webp"
+    },
+    {
+      "artist": "Daniel Valaisis",
+      "collector_number": "004",
+      "finish": null,
+      "id": "f6e85d48-0d0b-4cfa-9cdf-1b66f8104328",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/f6e85d48-0d0b-4cfa-9cdf-1b66f8104328/render-mqi3cpxo.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "prereleasebeta",
+        "name": "Pre-Release Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/f6e85d48-0d0b-4cfa-9cdf-1b66f8104328/render-mqi3cpxo.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Rare",
+  "rules_text": "{Quick} {Spend} Play a Gear with cost 2 or less from your hand for free.\nWhen a friendly equipped Unit is defeated, search the top 2 cards of your deck and trash 1.",
+  "selected_printing_id": "b3895f75-e147-49b0-a6d8-6fb35b356b2e",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "river-ward-detective-on-the-hunt",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/b3895f75-e147-49b0-a6d8-6fb35b356b2e/render-mpvmn1j1.webp",
+  "subname": "Detective on the Hunt"
+}

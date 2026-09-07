@@ -1,0 +1,99 @@
+{
+  "artist": "CD PROJEKT RED",
+  "card_type": "Unit",
+  "classifications": [
+    "Corpo"
+  ],
+  "color": "Green",
+  "cost": 2,
+  "display_name": "Corpo Security",
+  "external_id": "cb-corpo-security",
+  "flavor_text": null,
+  "id": "71652e73-984a-4630-be47-af947f87d5c1",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/80dcc139-d31d-4b89-86ff-cdbdd2664953/render-mpvlxrn4.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Corpo Security",
+  "power": 2,
+  "print_number": "076",
+  "printing_id": "80dcc139-d31d-4b89-86ff-cdbdd2664953",
+  "printings": [
+    {
+      "artist": "CD PROJEKT RED",
+      "collector_number": "076",
+      "finish": null,
+      "id": "80dcc139-d31d-4b89-86ff-cdbdd2664953",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/80dcc139-d31d-4b89-86ff-cdbdd2664953/render-mpvlxrn4.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/80dcc139-d31d-4b89-86ff-cdbdd2664953/render-mpvlxrn4.webp"
+    },
+    {
+      "artist": "CD PROJEKT RED",
+      "collector_number": "\u03b2076",
+      "finish": null,
+      "id": "19737e35-546d-406f-af5f-2fe6865cdd93",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/19737e35-546d-406f-af5f-2fe6865cdd93/render-mpv4cpow.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/19737e35-546d-406f-af5f-2fe6865cdd93/render-mpv4cpow.webp"
+    },
+    {
+      "artist": "CD Projekt Red",
+      "collector_number": "014",
+      "finish": null,
+      "id": "0ce87466-8869-484f-bd4c-5094fdfc6dbc",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0ce87466-8869-484f-bd4c-5094fdfc6dbc/render-mpwbw43n.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "embracingpowerretailstarterdeck",
+        "name": "Embracing Power \u2014 Retail Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0ce87466-8869-484f-bd4c-5094fdfc6dbc/render-mpwbw43n.webp"
+    },
+    {
+      "artist": "CD Projekt Red",
+      "collector_number": "\u03b2014",
+      "finish": null,
+      "id": "07cad5ea-45c4-404b-99b8-8f53c280a4fb",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/07cad5ea-45c4-404b-99b8-8f53c280a4fb/render-mpwbizw9.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "embracingpowerbetastarterdeck",
+        "name": "Embracing Power \u2014 Beta Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/07cad5ea-45c4-404b-99b8-8f53c280a4fb/render-mpwbizw9.webp"
+    },
+    {
+      "artist": "CD PROJEKT RED",
+      "collector_number": "010",
+      "finish": null,
+      "id": "c165a5eb-3338-4a80-8fb9-b7e39b412e5b",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c165a5eb-3338-4a80-8fb9-b7e39b412e5b/render-mqf82t9m.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "arasakademodeck",
+        "name": "Arasaka Demo Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c165a5eb-3338-4a80-8fb9-b7e39b412e5b/render-mqf82t9m.webp"
+    }
+  ],
+  "ram": 1,
+  "rarity": "Common",
+  "rules_text": "This Unit can't attack.\n{Blocker} (You may spend this Unit to redirect a rival Unit's attack to it instead.)",
+  "selected_printing_id": "80dcc139-d31d-4b89-86ff-cdbdd2664953",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "corpo-security",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/80dcc139-d31d-4b89-86ff-cdbdd2664953/render-mpvlxrn4.webp",
+  "subname": null
+}

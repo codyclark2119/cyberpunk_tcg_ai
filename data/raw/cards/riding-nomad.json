@@ -1,0 +1,60 @@
+{
+  "artist": "Michal Ivan",
+  "card_type": "Unit",
+  "classifications": [
+    "Nomad"
+  ],
+  "color": "Green",
+  "cost": 5,
+  "display_name": "Riding Nomad",
+  "external_id": "cb-riding-nomad",
+  "flavor_text": null,
+  "id": "92edc648-10d6-43d3-b4ab-4ad65a5c7425",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/1ee3ba07-86b0-4309-be55-4b4698f700b8/render-mpvlx7qq.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Riding Nomad",
+  "power": 4,
+  "print_number": "087",
+  "printing_id": "1ee3ba07-86b0-4309-be55-4b4698f700b8",
+  "printings": [
+    {
+      "artist": "Michal Ivan",
+      "collector_number": "087",
+      "finish": null,
+      "id": "1ee3ba07-86b0-4309-be55-4b4698f700b8",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/1ee3ba07-86b0-4309-be55-4b4698f700b8/render-mpvlx7qq.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/1ee3ba07-86b0-4309-be55-4b4698f700b8/render-mpvlx7qq.webp"
+    },
+    {
+      "artist": "Michal Ivan",
+      "collector_number": "\u03b2087",
+      "finish": null,
+      "id": "29b3036d-306a-485f-af6c-b08fb5b912ac",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/29b3036d-306a-485f-af6c-b08fb5b912ac/render-mpv4hde3.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/29b3036d-306a-485f-af6c-b08fb5b912ac/render-mpv4hde3.webp"
+    }
+  ],
+  "ram": 4,
+  "rarity": "Common",
+  "rules_text": "{Adrenaline} (This Unit can attack the turn it's played.)",
+  "selected_printing_id": "1ee3ba07-86b0-4309-be55-4b4698f700b8",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "riding-nomad",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/1ee3ba07-86b0-4309-be55-4b4698f700b8/render-mpvlx7qq.webp",
+  "subname": null
+}

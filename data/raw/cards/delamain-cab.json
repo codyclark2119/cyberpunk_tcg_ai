@@ -1,0 +1,99 @@
+{
+  "artist": "CD PROJEKT RED",
+  "card_type": "Unit",
+  "classifications": [
+    "Vehicle"
+  ],
+  "color": "Blue",
+  "cost": 4,
+  "display_name": "Delamain Cab",
+  "external_id": "cb-delamain-cab",
+  "flavor_text": null,
+  "id": "a1e60653-5e28-49ee-9798-d16520b553c3",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/5b9cdefa-29f4-4a3a-a426-eea46302ef60/render-mpvlvlr9.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Delamain Cab",
+  "power": 4,
+  "print_number": "112",
+  "printing_id": "5b9cdefa-29f4-4a3a-a426-eea46302ef60",
+  "printings": [
+    {
+      "artist": "CD PROJEKT RED",
+      "collector_number": "112",
+      "finish": null,
+      "id": "5b9cdefa-29f4-4a3a-a426-eea46302ef60",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/5b9cdefa-29f4-4a3a-a426-eea46302ef60/render-mpvlvlr9.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/5b9cdefa-29f4-4a3a-a426-eea46302ef60/render-mpvlvlr9.webp"
+    },
+    {
+      "artist": "Daniel Valaisis",
+      "collector_number": "\u03b2112",
+      "finish": null,
+      "id": "cddf9659-8ba5-4718-827f-5a6518e7df83",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/cddf9659-8ba5-4718-827f-5a6518e7df83/render-mpv4if1l.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/cddf9659-8ba5-4718-827f-5a6518e7df83/render-mpv4if1l.webp"
+    },
+    {
+      "artist": "CD Projekt Red",
+      "collector_number": "013",
+      "finish": null,
+      "id": "8092ff00-bff0-4a33-98e1-1fa33adabb8d",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/8092ff00-bff0-4a33-98e1-1fa33adabb8d/render-mpwcl6br.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "theheistretailstarterdeck",
+        "name": "The Heist \u2014 Retail Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/8092ff00-bff0-4a33-98e1-1fa33adabb8d/render-mpwcl6br.webp"
+    },
+    {
+      "artist": "CD Projekt Red",
+      "collector_number": "\u03b2013",
+      "finish": null,
+      "id": "a6bc4a11-ed78-49dc-999b-68b7fe50aefd",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a6bc4a11-ed78-49dc-999b-68b7fe50aefd/render-mpwcfjv7.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "theheistbetastarterdeck",
+        "name": "The Heist \u2014 Beta Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a6bc4a11-ed78-49dc-999b-68b7fe50aefd/render-mpwcfjv7.webp"
+    },
+    {
+      "artist": "CD PROJEKT RED",
+      "collector_number": "009",
+      "finish": null,
+      "id": "e15c07b6-f563-4825-aad4-6b3068c1ab85",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e15c07b6-f563-4825-aad4-6b3068c1ab85/render-mqf86j08.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "mercdemodeck",
+        "name": "Merc Demo Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e15c07b6-f563-4825-aad4-6b3068c1ab85/render-mqf86j08.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Common",
+  "rules_text": "At the end of your turn, if this Unit stole a Gig this turn, ready 1 Eddie.",
+  "selected_printing_id": "5b9cdefa-29f4-4a3a-a426-eea46302ef60",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "delamain-cab",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/5b9cdefa-29f4-4a3a-a426-eea46302ef60/render-mpvlvlr9.webp",
+  "subname": null
+}

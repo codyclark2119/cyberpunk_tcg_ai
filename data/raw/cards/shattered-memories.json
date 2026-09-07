@@ -1,0 +1,86 @@
+{
+  "artist": "Max Fiumara",
+  "card_type": "Program",
+  "classifications": [
+    "Braindance"
+  ],
+  "color": "Red",
+  "cost": 4,
+  "display_name": "Shattered Memories",
+  "external_id": "cb-shattered-memories",
+  "flavor_text": null,
+  "id": "050d0502-94b0-4bee-a7e6-a9b00f31b4ae",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3401c7cf-45c5-4fe4-a883-284a9334262d/render-mpvmj7ok.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Shattered Memories",
+  "power": null,
+  "print_number": "035",
+  "printing_id": "3401c7cf-45c5-4fe4-a883-284a9334262d",
+  "printings": [
+    {
+      "artist": "Max Fiumara",
+      "collector_number": "035",
+      "finish": null,
+      "id": "3401c7cf-45c5-4fe4-a883-284a9334262d",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3401c7cf-45c5-4fe4-a883-284a9334262d/render-mpvmj7ok.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3401c7cf-45c5-4fe4-a883-284a9334262d/render-mpvmj7ok.webp"
+    },
+    {
+      "artist": "Max Fiumara",
+      "collector_number": "\u03b2035",
+      "finish": null,
+      "id": "80735f9a-6c20-4d24-9138-b3c0d2e6bf46",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/80735f9a-6c20-4d24-9138-b3c0d2e6bf46/render-mpvk3hsq.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/80735f9a-6c20-4d24-9138-b3c0d2e6bf46/render-mpvk3hsq.webp"
+    },
+    {
+      "artist": "Max Fiumara",
+      "collector_number": "011",
+      "finish": null,
+      "id": "b03a2e07-73a4-49c4-b4a3-761748a7b09e",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/b03a2e07-73a4-49c4-b4a3-761748a7b09e/render-mpwbwrhz.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "embracingpowerretailstarterdeck",
+        "name": "Embracing Power \u2014 Retail Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/b03a2e07-73a4-49c4-b4a3-761748a7b09e/render-mpwbwrhz.webp"
+    },
+    {
+      "artist": "Max Fiumara",
+      "collector_number": "\u03b2011",
+      "finish": null,
+      "id": "4adda471-e0c8-4628-aba1-d1ed11eae0af",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/4adda471-e0c8-4628-aba1-d1ed11eae0af/render-mpwbma8c.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "embracingpowerbetastarterdeck",
+        "name": "Embracing Power \u2014 Beta Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/4adda471-e0c8-4628-aba1-d1ed11eae0af/render-mpwbma8c.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Rare",
+  "rules_text": "Each player discards their hand and may draw 5.\nIf the total number of discarded cards equals the value of a friendly Gig, draw 2.",
+  "selected_printing_id": "3401c7cf-45c5-4fe4-a883-284a9334262d",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "shattered-memories",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3401c7cf-45c5-4fe4-a883-284a9334262d/render-mpvmj7ok.webp",
+  "subname": null
+}

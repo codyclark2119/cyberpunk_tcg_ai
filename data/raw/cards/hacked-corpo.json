@@ -1,0 +1,61 @@
+{
+  "artist": "Luke Poller",
+  "card_type": "Unit",
+  "classifications": [
+    "AI",
+    "Corpo"
+  ],
+  "color": "Blue",
+  "cost": 4,
+  "display_name": "Hacked Corpo",
+  "external_id": "cb-hacked-corpo",
+  "flavor_text": null,
+  "id": "d2a9bcb0-a5e1-4413-8140-8b808258a753",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7dc71978-0995-4b93-9ba3-83d1118c3c4b/render-mpvlwinn.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Hacked Corpo",
+  "power": 3,
+  "print_number": "114",
+  "printing_id": "7dc71978-0995-4b93-9ba3-83d1118c3c4b",
+  "printings": [
+    {
+      "artist": "Luke Poller",
+      "collector_number": "114",
+      "finish": null,
+      "id": "7dc71978-0995-4b93-9ba3-83d1118c3c4b",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7dc71978-0995-4b93-9ba3-83d1118c3c4b/render-mpvlwinn.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7dc71978-0995-4b93-9ba3-83d1118c3c4b/render-mpvlwinn.webp"
+    },
+    {
+      "artist": "Luke Poller",
+      "collector_number": "\u03b2114",
+      "finish": null,
+      "id": "a105464f-997f-4f2b-97dd-3a4f461f0a59",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a105464f-997f-4f2b-97dd-3a4f461f0a59/render-mpv4fryd.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a105464f-997f-4f2b-97dd-3a4f461f0a59/render-mpv4fryd.webp"
+    }
+  ],
+  "ram": 1,
+  "rarity": "Common",
+  "rules_text": "{Play} Trash 3. Add a Program from among them to your hand.",
+  "selected_printing_id": "7dc71978-0995-4b93-9ba3-83d1118c3c4b",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "hacked-corpo",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7dc71978-0995-4b93-9ba3-83d1118c3c4b/render-mpvlwinn.webp",
+  "subname": null
+}

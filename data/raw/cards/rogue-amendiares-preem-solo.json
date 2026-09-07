@@ -1,0 +1,86 @@
+{
+  "artist": "Olgierd Ciszak",
+  "card_type": "Legend",
+  "classifications": [
+    "Merc"
+  ],
+  "color": "Yellow",
+  "cost": 7,
+  "display_name": "Rogue Amendiares: Preem Solo",
+  "external_id": "cb-rogue-amendiares-preem-solo",
+  "flavor_text": null,
+  "id": "012b0300-6af1-417e-86a2-dc208a60ac15",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2dd7547d-5098-4082-a98b-f39a583a222f/render-mpvmmwyz.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Rogue Amendiares",
+  "power": 7,
+  "print_number": "040",
+  "printing_id": "2dd7547d-5098-4082-a98b-f39a583a222f",
+  "printings": [
+    {
+      "artist": "Olgierd Ciszak",
+      "collector_number": "040",
+      "finish": null,
+      "id": "2dd7547d-5098-4082-a98b-f39a583a222f",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2dd7547d-5098-4082-a98b-f39a583a222f/render-mpvmmwyz.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2dd7547d-5098-4082-a98b-f39a583a222f/render-mpvmmwyz.webp"
+    },
+    {
+      "artist": "Olgierd Ciszak",
+      "collector_number": "\u03b2040",
+      "finish": null,
+      "id": "dd2f97c2-5ea6-4564-8b39-4f21ad0a7885",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/dd2f97c2-5ea6-4564-8b39-4f21ad0a7885/render-mpu64glo.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/dd2f97c2-5ea6-4564-8b39-4f21ad0a7885/render-mpu64glo.webp"
+    },
+    {
+      "artist": "Pandart Studio",
+      "collector_number": "\u03b2149",
+      "finish": null,
+      "id": "6b75ec33-da55-46c7-a88c-f0fb89263253",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/6b75ec33-da55-46c7-a88c-f0fb89263253/render-mpxm67ke.webp",
+      "rarity": "Iconic Legend",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/6b75ec33-da55-46c7-a88c-f0fb89263253/render-mpxm67ke.webp"
+    },
+    {
+      "artist": "Olgierd Ciszak",
+      "collector_number": "005",
+      "finish": null,
+      "id": "254975e9-0381-4a1c-96c7-19186a855e48",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/254975e9-0381-4a1c-96c7-19186a855e48/render-mqi3cein.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "prereleasebeta",
+        "name": "Pre-Release Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/254975e9-0381-4a1c-96c7-19186a855e48/render-mqi3cein.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Rare",
+  "rules_text": "{Go Solo} (Pay this Legend's cost to play it as a ready Unit. It can attack this turn. If it leaves the field, remove it from the game.)\nWhen a friendly Legend steals a Gig, if its value is even, draw 1. If its value is odd, a Rival discards 1.",
+  "selected_printing_id": "2dd7547d-5098-4082-a98b-f39a583a222f",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "rogue-amendiares-preem-solo",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2dd7547d-5098-4082-a98b-f39a583a222f/render-mpvmmwyz.webp",
+  "subname": "Preem Solo"
+}

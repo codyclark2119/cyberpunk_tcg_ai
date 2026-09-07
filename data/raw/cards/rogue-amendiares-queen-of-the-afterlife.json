@@ -1,0 +1,74 @@
+{
+  "artist": "Mooncolony",
+  "card_type": "Unit",
+  "classifications": [
+    "Fixer",
+    "Merc"
+  ],
+  "color": "Blue",
+  "cost": 5,
+  "display_name": "Rogue Amendiares: Queen of the Afterlife",
+  "external_id": "cb-rogue-amendiares-queen-of-the-afterlife",
+  "flavor_text": null,
+  "id": "9d994a42-4a63-44ad-ad7a-edead6af06a2",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3193a6bd-3e99-4501-9c5c-8d5ea32c779c/render-mpvlna4t.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Rogue Amendiares",
+  "power": 4,
+  "print_number": "126",
+  "printing_id": "3193a6bd-3e99-4501-9c5c-8d5ea32c779c",
+  "printings": [
+    {
+      "artist": "Mooncolony",
+      "collector_number": "126",
+      "finish": null,
+      "id": "3193a6bd-3e99-4501-9c5c-8d5ea32c779c",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3193a6bd-3e99-4501-9c5c-8d5ea32c779c/render-mpvlna4t.webp",
+      "rarity": "Epic",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3193a6bd-3e99-4501-9c5c-8d5ea32c779c/render-mpvlna4t.webp"
+    },
+    {
+      "artist": "Mooncolony",
+      "collector_number": "\u03b2126",
+      "finish": null,
+      "id": "4abedde2-f9db-4451-a2ab-fc7f594ea132",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/4abedde2-f9db-4451-a2ab-fc7f594ea132/render-mpv4txw9.webp",
+      "rarity": "Epic",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/4abedde2-f9db-4451-a2ab-fc7f594ea132/render-mpv4txw9.webp"
+    },
+    {
+      "artist": "ADIA",
+      "collector_number": "\u03b2166",
+      "finish": null,
+      "id": "807c871c-bebe-4343-9b68-1f89af5ed0da",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/807c871c-bebe-4343-9b68-1f89af5ed0da/render-mpxlxqiz.webp",
+      "rarity": "Iconic Other",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/807c871c-bebe-4343-9b68-1f89af5ed0da/render-mpxlxqiz.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Epic",
+  "rules_text": "The first time another friendly Unit steals a Gig with value less than its power each turn, ready 2 Eddies.\n{Quick} 2 \u20ac$,  {Spend} A rival Unit loses power equal to this Unit's power this turn.",
+  "selected_printing_id": "3193a6bd-3e99-4501-9c5c-8d5ea32c779c",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "rogue-amendiares-queen-of-the-afterlife",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3193a6bd-3e99-4501-9c5c-8d5ea32c779c/render-mpvlna4t.webp",
+  "subname": "Queen of the Afterlife"
+}

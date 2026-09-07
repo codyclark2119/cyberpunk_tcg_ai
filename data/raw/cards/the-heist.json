@@ -1,0 +1,60 @@
+{
+  "artist": "Dilara \u00d6zden",
+  "card_type": "Program",
+  "classifications": [
+    "Merc"
+  ],
+  "color": "Yellow",
+  "cost": 2,
+  "display_name": "The Heist",
+  "external_id": "cb-the-heist",
+  "flavor_text": null,
+  "id": "5ea00b3a-7e85-4c7d-91ad-90e0cf370c27",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a1e2c25e-fb27-458f-984d-df422f879664/render-mpvmgkup.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "The Heist",
+  "power": null,
+  "print_number": "070",
+  "printing_id": "a1e2c25e-fb27-458f-984d-df422f879664",
+  "printings": [
+    {
+      "artist": "Dilara \u00d6zden",
+      "collector_number": "070",
+      "finish": null,
+      "id": "a1e2c25e-fb27-458f-984d-df422f879664",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a1e2c25e-fb27-458f-984d-df422f879664/render-mpvmgkup.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a1e2c25e-fb27-458f-984d-df422f879664/render-mpvmgkup.webp"
+    },
+    {
+      "artist": "Dilara \u00d6zden",
+      "collector_number": "\u03b2070",
+      "finish": null,
+      "id": "709ec425-eda5-4621-b907-94a507a20351",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/709ec425-eda5-4621-b907-94a507a20351/render-mpvk1l27.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/709ec425-eda5-4621-b907-94a507a20351/render-mpvk1l27.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Uncommon",
+  "rules_text": "Trash 4. Add a Gear from among them to your hand. If that Gear's cost equals the value of a friendly Gig, you may play it for free instead.",
+  "selected_printing_id": "a1e2c25e-fb27-458f-984d-df422f879664",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "the-heist",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a1e2c25e-fb27-458f-984d-df422f879664/render-mpvmgkup.webp",
+  "subname": null
+}

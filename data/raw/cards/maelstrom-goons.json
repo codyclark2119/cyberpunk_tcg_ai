@@ -1,0 +1,61 @@
+{
+  "artist": "Alexander Dudar",
+  "card_type": "Unit",
+  "classifications": [
+    "Ganger",
+    "Maelstrom"
+  ],
+  "color": "Yellow",
+  "cost": 3,
+  "display_name": "Maelstrom Goons",
+  "external_id": "cb-maelstrom-goons",
+  "flavor_text": null,
+  "id": "f57094f7-0720-4ba5-9a71-aafbc714d65a",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e14bdd12-1214-4104-bfdd-ae023c21527c/render-mpvls0aa.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Maelstrom Goons",
+  "power": 3,
+  "print_number": "049",
+  "printing_id": "e14bdd12-1214-4104-bfdd-ae023c21527c",
+  "printings": [
+    {
+      "artist": "Alexander Dudar",
+      "collector_number": "049",
+      "finish": null,
+      "id": "e14bdd12-1214-4104-bfdd-ae023c21527c",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e14bdd12-1214-4104-bfdd-ae023c21527c/render-mpvls0aa.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e14bdd12-1214-4104-bfdd-ae023c21527c/render-mpvls0aa.webp"
+    },
+    {
+      "artist": "Alexander Dudar",
+      "collector_number": "\u03b2049",
+      "finish": null,
+      "id": "42236397-716c-422c-8868-9f33dd33b089",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/42236397-716c-422c-8868-9f33dd33b089/render-mqs6lkni.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/42236397-716c-422c-8868-9f33dd33b089/render-mqs6lkni.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Common",
+  "rules_text": "When this Unit steals a Gig, if it's equipped, a Rival discards 1.",
+  "selected_printing_id": "e14bdd12-1214-4104-bfdd-ae023c21527c",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "maelstrom-goons",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e14bdd12-1214-4104-bfdd-ae023c21527c/render-mpvls0aa.webp",
+  "subname": null
+}

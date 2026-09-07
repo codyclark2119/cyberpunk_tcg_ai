@@ -1,0 +1,87 @@
+{
+  "artist": "Daniel Valaisis",
+  "card_type": "Legend",
+  "classifications": [
+    "Arasaka",
+    "Corpo"
+  ],
+  "color": "Green",
+  "cost": null,
+  "display_name": "Goro Takemura: Vengeful Bodyguard",
+  "external_id": "cb-goro-takemura-vengeful-bodyguard",
+  "flavor_text": null,
+  "id": "424c9c0f-cc01-40ec-8404-75957985c7f8",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0f6e52f0-511f-4ae9-a380-5e718b26e58a/render-mpvmmf2e.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Goro Takemura",
+  "power": null,
+  "print_number": "071",
+  "printing_id": "0f6e52f0-511f-4ae9-a380-5e718b26e58a",
+  "printings": [
+    {
+      "artist": "Daniel Valaisis",
+      "collector_number": "071",
+      "finish": null,
+      "id": "0f6e52f0-511f-4ae9-a380-5e718b26e58a",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0f6e52f0-511f-4ae9-a380-5e718b26e58a/render-mpvmmf2e.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0f6e52f0-511f-4ae9-a380-5e718b26e58a/render-mpvmmf2e.webp"
+    },
+    {
+      "artist": "Daniel Valaisis",
+      "collector_number": "\u03b2071",
+      "finish": null,
+      "id": "5f3c905b-0834-46a2-be33-ea46e59d4c7f",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/5f3c905b-0834-46a2-be33-ea46e59d4c7f/render-mpu64p91.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/5f3c905b-0834-46a2-be33-ea46e59d4c7f/render-mpu64p91.webp"
+    },
+    {
+      "artist": "Pandart Studio",
+      "collector_number": "\u03b2150",
+      "finish": null,
+      "id": "af82881d-9e19-46b3-a723-a2ef224687d8",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/af82881d-9e19-46b3-a723-a2ef224687d8/render-mpxm0y2d.webp",
+      "rarity": "Iconic Legend",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/af82881d-9e19-46b3-a723-a2ef224687d8/render-mpxm0y2d.webp"
+    },
+    {
+      "artist": "Daniel Valaisis",
+      "collector_number": "006",
+      "finish": null,
+      "id": "ff7b01fc-d9fd-4ae7-b141-01f514dee280",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/ff7b01fc-d9fd-4ae7-b141-01f514dee280/render-mqi3c43l.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "prereleasebeta",
+        "name": "Pre-Release Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/ff7b01fc-d9fd-4ae7-b141-01f514dee280/render-mqi3c43l.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Rare",
+  "rules_text": "{Quick} 1 \u20ac$, {Spend} Give a friendly Unit with cost 4 or less {Blocker} this turn. If you control a value-pair of Gigs, also give it +1 power this turn.\nWhen a friendly Unit uses {Blocker}, you may discard 1. If you do, draw 1.",
+  "selected_printing_id": "0f6e52f0-511f-4ae9-a380-5e718b26e58a",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "goro-takemura-vengeful-bodyguard",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0f6e52f0-511f-4ae9-a380-5e718b26e58a/render-mpvmmf2e.webp",
+  "subname": "Vengeful Bodyguard"
+}

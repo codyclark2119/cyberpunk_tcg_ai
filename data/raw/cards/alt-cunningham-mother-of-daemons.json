@@ -1,0 +1,74 @@
+{
+  "artist": "Mooncolony",
+  "card_type": "Unit",
+  "classifications": [
+    "Merc",
+    "Netrunner"
+  ],
+  "color": "Yellow",
+  "cost": 7,
+  "display_name": "Alt Cunningham: Mother of Daemons",
+  "external_id": "cb-alt-cunningham-mother-of-daemons",
+  "flavor_text": null,
+  "id": "858e95f5-2efb-460e-b890-e8a5140e11c9",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e782dd02-a136-4bf8-b04b-328c65b84f19/render-mpvm7csv.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Alt Cunningham",
+  "power": 8,
+  "print_number": "042",
+  "printing_id": "e782dd02-a136-4bf8-b04b-328c65b84f19",
+  "printings": [
+    {
+      "artist": "Mooncolony",
+      "collector_number": "042",
+      "finish": null,
+      "id": "e782dd02-a136-4bf8-b04b-328c65b84f19",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e782dd02-a136-4bf8-b04b-328c65b84f19/render-mpvm7csv.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e782dd02-a136-4bf8-b04b-328c65b84f19/render-mpvm7csv.webp"
+    },
+    {
+      "artist": "Mooncolony",
+      "collector_number": "\u03b2042",
+      "finish": null,
+      "id": "3d3e0e55-fa7a-40ba-bf30-0204cca88612",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3d3e0e55-fa7a-40ba-bf30-0204cca88612/render-mpv4qhzm.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3d3e0e55-fa7a-40ba-bf30-0204cca88612/render-mpv4qhzm.webp"
+    },
+    {
+      "artist": "Dardo Studios",
+      "collector_number": "\u03b2161",
+      "finish": null,
+      "id": "2e2c4d9d-516d-4fb2-a6ba-bee8dede71d3",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2e2c4d9d-516d-4fb2-a6ba-bee8dede71d3/render-mpxlygdy.webp",
+      "rarity": "Iconic Other",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2e2c4d9d-516d-4fb2-a6ba-bee8dede71d3/render-mpxlygdy.webp"
+    }
+  ],
+  "ram": 3,
+  "rarity": "Rare",
+  "rules_text": "When a friendly equipped Unit or Legend is spent, draw 1.\nWhen a rival Unit would steal a Gig, you may discard 1 with cost equal to that Gig's value. If you do, the Gig isn't stolen.",
+  "selected_printing_id": "e782dd02-a136-4bf8-b04b-328c65b84f19",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "alt-cunningham-mother-of-daemons",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e782dd02-a136-4bf8-b04b-328c65b84f19/render-mpvm7csv.webp",
+  "subname": "Mother of Daemons"
+}

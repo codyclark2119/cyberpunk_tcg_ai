@@ -1,0 +1,61 @@
+{
+  "artist": "Bernard Kowalczuk",
+  "card_type": "Unit",
+  "classifications": [
+    "Fixer",
+    "Tyger Claws"
+  ],
+  "color": "Green",
+  "cost": 2,
+  "display_name": "Tyger's Whisper",
+  "external_id": "cb-tyger-s-whisper",
+  "flavor_text": null,
+  "id": "31e5b986-1e67-439c-81fc-49f8938bd002",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/28267ce7-17dc-42c4-b8c4-4235a7f3c3df/render-mpvlyfk9.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Tyger's Whisper",
+  "power": 0,
+  "print_number": "090",
+  "printing_id": "28267ce7-17dc-42c4-b8c4-4235a7f3c3df",
+  "printings": [
+    {
+      "artist": "Bernard Kowalczuk",
+      "collector_number": "090",
+      "finish": null,
+      "id": "28267ce7-17dc-42c4-b8c4-4235a7f3c3df",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/28267ce7-17dc-42c4-b8c4-4235a7f3c3df/render-mpvlyfk9.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/28267ce7-17dc-42c4-b8c4-4235a7f3c3df/render-mpvlyfk9.webp"
+    },
+    {
+      "artist": "Bernard Kowalczuk",
+      "collector_number": "\u03b2090",
+      "finish": null,
+      "id": "4b7d734b-5cc2-4c57-9bcf-7e3b5a0f1f9f",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/4b7d734b-5cc2-4c57-9bcf-7e3b5a0f1f9f/render-mpv4fyrl.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/4b7d734b-5cc2-4c57-9bcf-7e3b5a0f1f9f/render-mpv4fyrl.webp"
+    }
+  ],
+  "ram": 1,
+  "rarity": "Common",
+  "rules_text": "{Play} You may Call a Legend for free. (You can only Call a Legend once per turn.)\n(Units with power 0 don't steal Gigs.)",
+  "selected_printing_id": "28267ce7-17dc-42c4-b8c4-4235a7f3c3df",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "tyger-s-whisper",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/28267ce7-17dc-42c4-b8c4-4235a7f3c3df/render-mpvlyfk9.webp",
+  "subname": null
+}

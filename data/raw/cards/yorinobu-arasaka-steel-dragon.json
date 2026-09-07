@@ -1,0 +1,61 @@
+{
+  "artist": "Mooncolony",
+  "card_type": "Unit",
+  "classifications": [
+    "Arasaka",
+    "Corpo"
+  ],
+  "color": "Red",
+  "cost": 7,
+  "display_name": "Yorinobu Arasaka: Steel Dragon",
+  "external_id": "cb-yorinobu-arasaka-steel-dragon",
+  "flavor_text": null,
+  "id": "6cf6456d-d020-4c6c-9041-66d503a01a0a",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c057ccc4-bb15-4efd-8115-8d223568134b/render-mpvm6tkv.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Yorinobu Arasaka",
+  "power": 9,
+  "print_number": "022",
+  "printing_id": "c057ccc4-bb15-4efd-8115-8d223568134b",
+  "printings": [
+    {
+      "artist": "Mooncolony",
+      "collector_number": "022",
+      "finish": null,
+      "id": "c057ccc4-bb15-4efd-8115-8d223568134b",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c057ccc4-bb15-4efd-8115-8d223568134b/render-mpvm6tkv.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c057ccc4-bb15-4efd-8115-8d223568134b/render-mpvm6tkv.webp"
+    },
+    {
+      "artist": "Mooncolony",
+      "collector_number": "\u03b2022",
+      "finish": null,
+      "id": "19ef8a11-606b-44f3-b20e-08800c9d6cc2",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/19ef8a11-606b-44f3-b20e-08800c9d6cc2/render-mpv4rnap.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/19ef8a11-606b-44f3-b20e-08800c9d6cc2/render-mpv4rnap.webp"
+    }
+  ],
+  "ram": 3,
+  "rarity": "Rare",
+  "rules_text": "{Play} You may play a Unit with cost 4 or less from your hand or trash for free. It can attack rival Units this turn.\nThe first time an ARASAKA Unit is defeated each turn, draw 1.",
+  "selected_printing_id": "c057ccc4-bb15-4efd-8115-8d223568134b",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "yorinobu-arasaka-steel-dragon",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c057ccc4-bb15-4efd-8115-8d223568134b/render-mpvm6tkv.webp",
+  "subname": "Steel Dragon"
+}

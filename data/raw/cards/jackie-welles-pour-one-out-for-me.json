@@ -1,0 +1,112 @@
+{
+  "artist": "Envar",
+  "card_type": "Legend",
+  "classifications": [
+    "Merc"
+  ],
+  "color": "Blue",
+  "cost": null,
+  "display_name": "Jackie Welles: Pour One Out For Me",
+  "external_id": "cb-jackie-welles-pour-one-out-for-me",
+  "flavor_text": null,
+  "id": "40502c1f-78a2-426a-a706-c60ebd4b31e3",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a33d3324-fe48-4a9f-80a8-8545a0a4727f/render-mpwcl76z.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Jackie Welles",
+  "power": null,
+  "print_number": "011",
+  "printing_id": "a33d3324-fe48-4a9f-80a8-8545a0a4727f",
+  "printings": [
+    {
+      "artist": "Envar",
+      "collector_number": "011",
+      "finish": null,
+      "id": "a33d3324-fe48-4a9f-80a8-8545a0a4727f",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a33d3324-fe48-4a9f-80a8-8545a0a4727f/render-mpwcl76z.webp",
+      "rarity": "Epic",
+      "set": {
+        "code": "theheistretailstarterdeck",
+        "name": "The Heist \u2014 Retail Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a33d3324-fe48-4a9f-80a8-8545a0a4727f/render-mpwcl76z.webp"
+    },
+    {
+      "artist": "Envar",
+      "collector_number": "\u03b2011",
+      "finish": null,
+      "id": "a0ef9536-ad3b-47f6-8c2a-171aa3b8b181",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a0ef9536-ad3b-47f6-8c2a-171aa3b8b181/render-mpwcevbi.webp",
+      "rarity": "Epic",
+      "set": {
+        "code": "theheistbetastarterdeck",
+        "name": "The Heist \u2014 Beta Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a0ef9536-ad3b-47f6-8c2a-171aa3b8b181/render-mpwcevbi.webp"
+    },
+    {
+      "artist": "Envar Studio",
+      "collector_number": "007",
+      "finish": null,
+      "id": "762951bd-7bcf-42cd-a44e-b5b127cf00d2",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/762951bd-7bcf-42cd-a44e-b5b127cf00d2/render-mqf868ku.webp",
+      "rarity": "Epic",
+      "set": {
+        "code": "mercdemodeck",
+        "name": "Merc Demo Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/762951bd-7bcf-42cd-a44e-b5b127cf00d2/render-mqf868ku.webp"
+    },
+    {
+      "artist": "Ito (Kirby's Comic Art)",
+      "collector_number": "005",
+      "finish": null,
+      "id": "e4e17d32-3ec4-4c74-927c-fd0911b86e72",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e4e17d32-3ec4-4c74-927c-fd0911b86e72/render-mpvt2kdp.webp",
+      "rarity": "Nova Rare",
+      "set": {
+        "code": "boxtoppersretail",
+        "name": "Box Toppers \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e4e17d32-3ec4-4c74-927c-fd0911b86e72/render-mpvt2kdp.webp"
+    },
+    {
+      "artist": "Ito (Kirby's Comic Art)",
+      "collector_number": "\u03b2005",
+      "finish": null,
+      "id": "328cd3e4-4177-4d6a-86c0-00d1a5a12b38",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/328cd3e4-4177-4d6a-86c0-00d1a5a12b38/render-mpvsu9ju.webp",
+      "rarity": "Nova Rare",
+      "set": {
+        "code": "boxtoppersbeta",
+        "name": "Box Toppers \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/328cd3e4-4177-4d6a-86c0-00d1a5a12b38/render-mpvsu9ju.webp"
+    },
+    {
+      "artist": "Ito (Kirby's Comic Art)",
+      "collector_number": "050",
+      "finish": null,
+      "id": "3f37a0e1-e31f-4c6b-b97e-bec9f929432c",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3f37a0e1-e31f-4c6b-b97e-bec9f929432c/render-mtcq9pue.webp",
+      "rarity": "Nova Rare",
+      "set": {
+        "code": "edgerunneropens1",
+        "name": "Edgerunner Open S 1"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3f37a0e1-e31f-4c6b-b97e-bec9f929432c/render-mtcq9pue.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Epic",
+  "rules_text": "The first time you play a Blue Unit or Blue Gear each turn, you may decrease a friendly Gig by up to 2. If it becomes a min Gig, draw 1.",
+  "selected_printing_id": "a33d3324-fe48-4a9f-80a8-8545a0a4727f",
+  "set": {
+    "code": "theheistretailstarterdeck",
+    "name": "The Heist \u2014 Retail Starter Deck"
+  },
+  "slug": "jackie-welles-pour-one-out-for-me",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/a33d3324-fe48-4a9f-80a8-8545a0a4727f/render-mpwcl76z.webp",
+  "subname": "Pour One Out For Me"
+}

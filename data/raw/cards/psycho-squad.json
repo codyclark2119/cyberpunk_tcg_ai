@@ -1,0 +1,99 @@
+{
+  "artist": "Kieran McKeown & Giada Marchisio",
+  "card_type": "Unit",
+  "classifications": [
+    "NCPD"
+  ],
+  "color": "Blue",
+  "cost": 4,
+  "display_name": "Psycho Squad",
+  "external_id": "cb-psycho-squad",
+  "flavor_text": null,
+  "id": "14d87f2a-8bd7-424f-b65b-3659156cef81",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/d7e0e2e5-6e22-4b45-9e91-50936773e2e1/render-mpvlz3xb.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Psycho Squad",
+  "power": 6,
+  "print_number": "124",
+  "printing_id": "d7e0e2e5-6e22-4b45-9e91-50936773e2e1",
+  "printings": [
+    {
+      "artist": "Kieran McKeown & Giada Marchisio",
+      "collector_number": "124",
+      "finish": null,
+      "id": "d7e0e2e5-6e22-4b45-9e91-50936773e2e1",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/d7e0e2e5-6e22-4b45-9e91-50936773e2e1/render-mpvlz3xb.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/d7e0e2e5-6e22-4b45-9e91-50936773e2e1/render-mpvlz3xb.webp"
+    },
+    {
+      "artist": "Kieran McKeown & Giada Marchisio",
+      "collector_number": "\u03b2124",
+      "finish": null,
+      "id": "61118bbb-c1f6-4b1d-8d46-4f33f0a135b1",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/61118bbb-c1f6-4b1d-8d46-4f33f0a135b1/render-mpv4ks37.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/61118bbb-c1f6-4b1d-8d46-4f33f0a135b1/render-mpv4ks37.webp"
+    },
+    {
+      "artist": "Kieran McKeown \n& Giada Marchisio",
+      "collector_number": "016",
+      "finish": null,
+      "id": "b6295362-bd30-4b91-8755-738938cf839b",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/b6295362-bd30-4b91-8755-738938cf839b/render-mpwcjix6.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "theheistretailstarterdeck",
+        "name": "The Heist \u2014 Retail Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/b6295362-bd30-4b91-8755-738938cf839b/render-mpwcjix6.webp"
+    },
+    {
+      "artist": "Kieran McKeown \n& Giada Marchisio",
+      "collector_number": "\u03b2016",
+      "finish": null,
+      "id": "e2fe4b47-4d66-4989-bab7-16143f7256ac",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e2fe4b47-4d66-4989-bab7-16143f7256ac/render-mpwcfk0f.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "theheistbetastarterdeck",
+        "name": "The Heist \u2014 Beta Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e2fe4b47-4d66-4989-bab7-16143f7256ac/render-mpwcfk0f.webp"
+    },
+    {
+      "artist": "Kieran McKeown & Giada Marchisio",
+      "collector_number": "012",
+      "finish": null,
+      "id": "c45d93f9-bc2d-4e35-9d77-ba62d9d4e4d9",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c45d93f9-bc2d-4e35-9d77-ba62d9d4e4d9/render-mqf87nhn.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "mercdemodeck",
+        "name": "Merc Demo Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/c45d93f9-bc2d-4e35-9d77-ba62d9d4e4d9/render-mqf87nhn.webp"
+    }
+  ],
+  "ram": 1,
+  "rarity": "Common",
+  "rules_text": "[Flavour] Their protocol stops at \u201cshoot first.\u201d",
+  "selected_printing_id": "d7e0e2e5-6e22-4b45-9e91-50936773e2e1",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "psycho-squad",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/d7e0e2e5-6e22-4b45-9e91-50936773e2e1/render-mpvlz3xb.webp",
+  "subname": null
+}

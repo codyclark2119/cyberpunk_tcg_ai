@@ -1,0 +1,61 @@
+{
+  "artist": "Olgierd Ciszak",
+  "card_type": "Program",
+  "classifications": [
+    "Aldecado",
+    "Nomad"
+  ],
+  "color": "Green",
+  "cost": 5,
+  "display_name": "We Gotta Live Together",
+  "external_id": "cb-we-gotta-live-together",
+  "flavor_text": null,
+  "id": "404748b4-f30e-4bf1-8991-5ad449da755a",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/63821536-cdf5-4347-812a-0bf72d727596/render-mpvmfm9u.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "We Gotta Live Together",
+  "power": null,
+  "print_number": "104",
+  "printing_id": "63821536-cdf5-4347-812a-0bf72d727596",
+  "printings": [
+    {
+      "artist": "Olgierd Ciszak",
+      "collector_number": "104",
+      "finish": null,
+      "id": "63821536-cdf5-4347-812a-0bf72d727596",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/63821536-cdf5-4347-812a-0bf72d727596/render-mpvmfm9u.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/63821536-cdf5-4347-812a-0bf72d727596/render-mpvmfm9u.webp"
+    },
+    {
+      "artist": "Olgierd Ciszak",
+      "collector_number": "\u03b2104",
+      "finish": null,
+      "id": "3488c7f7-c797-4c3a-8d49-e5cdcf0e8d74",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3488c7f7-c797-4c3a-8d49-e5cdcf0e8d74/render-mpvk1myx.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3488c7f7-c797-4c3a-8d49-e5cdcf0e8d74/render-mpvk1myx.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Uncommon",
+  "rules_text": "If a Rival controls at least 2 more Gigs than you, play this Program for 3 \u20ac$.\nPlay up to 2 Units with cost 3 or less from your trash for free.",
+  "selected_printing_id": "63821536-cdf5-4347-812a-0bf72d727596",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "we-gotta-live-together",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/63821536-cdf5-4347-812a-0bf72d727596/render-mpvmfm9u.webp",
+  "subname": null
+}

@@ -1,0 +1,61 @@
+{
+  "artist": "ADIA",
+  "card_type": "Gear",
+  "classifications": [
+    "Cyberware",
+    "Trauma Team"
+  ],
+  "color": "Red",
+  "cost": 3,
+  "display_name": "Deadman Transmitter",
+  "external_id": "cb-deadman-transmitter",
+  "flavor_text": null,
+  "id": "1d8f611c-dd08-48d1-82eb-451d56dcf651",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/32957075-42ff-47e3-8252-e78877ef61f7/render-mpvmyrdi.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Deadman Transmitter",
+  "power": 1,
+  "print_number": "024",
+  "printing_id": "32957075-42ff-47e3-8252-e78877ef61f7",
+  "printings": [
+    {
+      "artist": "ADIA",
+      "collector_number": "024",
+      "finish": null,
+      "id": "32957075-42ff-47e3-8252-e78877ef61f7",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/32957075-42ff-47e3-8252-e78877ef61f7/render-mpvmyrdi.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/32957075-42ff-47e3-8252-e78877ef61f7/render-mpvmyrdi.webp"
+    },
+    {
+      "artist": "ADIA",
+      "collector_number": "\u03b2024",
+      "finish": null,
+      "id": "e53bdb8b-5b1f-4f31-ad74-a43a4925c2d1",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e53bdb8b-5b1f-4f31-ad74-a43a4925c2d1/render-mpvjw5qq.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e53bdb8b-5b1f-4f31-ad74-a43a4925c2d1/render-mpvjw5qq.webp"
+    }
+  ],
+  "ram": 3,
+  "rarity": "Uncommon",
+  "rules_text": "(Equip to a friendly Unit or face-up Legend.)\nIf this Unit would be defeated, defeat its \"DEADMAN TRANSMITTER\" instead.",
+  "selected_printing_id": "32957075-42ff-47e3-8252-e78877ef61f7",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "deadman-transmitter",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/32957075-42ff-47e3-8252-e78877ef61f7/render-mpvmyrdi.webp",
+  "subname": null
+}

@@ -1,0 +1,73 @@
+{
+  "artist": "Mooncolony",
+  "card_type": "Unit",
+  "classifications": [
+    "Fixer"
+  ],
+  "color": "Yellow",
+  "cost": 3,
+  "display_name": "Dexter DeShawn: One Last Chance",
+  "external_id": "cb-dexter-deshawn-one-last-chance",
+  "flavor_text": null,
+  "id": "f61b944a-32e3-4085-894b-7bd498325156",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e2f38541-ecc9-41dc-ae15-164171391bff/render-mpwclspf.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Dexter DeShawn",
+  "power": 4,
+  "print_number": "002",
+  "printing_id": "e2f38541-ecc9-41dc-ae15-164171391bff",
+  "printings": [
+    {
+      "artist": "Mooncolony",
+      "collector_number": "002",
+      "finish": null,
+      "id": "e2f38541-ecc9-41dc-ae15-164171391bff",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e2f38541-ecc9-41dc-ae15-164171391bff/render-mpwclspf.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "theheistretailstarterdeck",
+        "name": "The Heist \u2014 Retail Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e2f38541-ecc9-41dc-ae15-164171391bff/render-mpwclspf.webp"
+    },
+    {
+      "artist": "Mooncolony",
+      "collector_number": "\u03b2002",
+      "finish": null,
+      "id": "f9c512f2-a41f-4114-9500-cee3f8d8cc35",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/f9c512f2-a41f-4114-9500-cee3f8d8cc35/render-mpwcgilw.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "theheistbetastarterdeck",
+        "name": "The Heist \u2014 Beta Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/f9c512f2-a41f-4114-9500-cee3f8d8cc35/render-mpwcgilw.webp"
+    },
+    {
+      "artist": "Mooncolony",
+      "collector_number": "002",
+      "finish": null,
+      "id": "daabe14b-dc95-413f-b91a-d3e32937bfd2",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/daabe14b-dc95-413f-b91a-d3e32937bfd2/render-mqf8572c.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "mercdemodeck",
+        "name": "Merc Demo Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/daabe14b-dc95-413f-b91a-d3e32937bfd2/render-mqf8572c.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Uncommon",
+  "rules_text": "{Play} {Attack} Adjust a Gig by up to 1.\n{Defeated} If your \u2606 (Street Cred) differs from a Rival's by 10+, draw 2.",
+  "selected_printing_id": "e2f38541-ecc9-41dc-ae15-164171391bff",
+  "set": {
+    "code": "theheistretailstarterdeck",
+    "name": "The Heist \u2014 Retail Starter Deck"
+  },
+  "slug": "dexter-deshawn-one-last-chance",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e2f38541-ecc9-41dc-ae15-164171391bff/render-mpwclspf.webp",
+  "subname": "One Last Chance"
+}

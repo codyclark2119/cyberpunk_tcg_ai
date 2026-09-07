@@ -1,0 +1,87 @@
+{
+  "artist": "Michal Ivan",
+  "card_type": "Legend",
+  "classifications": [
+    "Maelstrom",
+    "Ganger"
+  ],
+  "color": "Red",
+  "cost": 6,
+  "display_name": "Royce: Psycho on the Edge",
+  "external_id": "cb-royce-psycho-on-the-edge",
+  "flavor_text": null,
+  "id": "9e681d3e-cbfd-4c7b-a69a-72a83dc8b847",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3e2e228b-dbfb-484b-b82d-6972ff184aab/render-mpvml5uz.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Royce",
+  "power": 6,
+  "print_number": "004",
+  "printing_id": "3e2e228b-dbfb-484b-b82d-6972ff184aab",
+  "printings": [
+    {
+      "artist": "Michal Ivan",
+      "collector_number": "004",
+      "finish": null,
+      "id": "3e2e228b-dbfb-484b-b82d-6972ff184aab",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3e2e228b-dbfb-484b-b82d-6972ff184aab/render-mpvml5uz.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3e2e228b-dbfb-484b-b82d-6972ff184aab/render-mpvml5uz.webp"
+    },
+    {
+      "artist": "Michal Ivan",
+      "collector_number": "\u03b2004",
+      "finish": null,
+      "id": "0e4966a2-e5cf-4acd-905a-750e9c4cefff",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0e4966a2-e5cf-4acd-905a-750e9c4cefff/render-mpu5w6cz.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0e4966a2-e5cf-4acd-905a-750e9c4cefff/render-mpu5w6cz.webp"
+    },
+    {
+      "artist": "Pandart Studio",
+      "collector_number": "\u03b2143",
+      "finish": null,
+      "id": "f712b214-b109-4e69-bc74-4991905024f7",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/f712b214-b109-4e69-bc74-4991905024f7/render-mpxm50aj.webp",
+      "rarity": "Iconic Legend",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/f712b214-b109-4e69-bc74-4991905024f7/render-mpxm50aj.webp"
+    },
+    {
+      "artist": "Michal Ivan",
+      "collector_number": "002",
+      "finish": null,
+      "id": "cbbe5954-ce33-47aa-83c1-bdda4c7b907f",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/cbbe5954-ce33-47aa-83c1-bdda4c7b907f/render-mqi3dbb3.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "prereleasebeta",
+        "name": "Pre-Release Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/cbbe5954-ce33-47aa-83c1-bdda4c7b907f/render-mqi3dbb3.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Rare",
+  "rules_text": "{Go Solo} (Pay this Legend's cost to play it as a ready Unit. It can attack this turn. If it leaves the field, remove it from the game.)\nDuring your turn, this Legend has +2 power for each of its equipped Gear.",
+  "selected_printing_id": "3e2e228b-dbfb-484b-b82d-6972ff184aab",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "royce-psycho-on-the-edge",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/3e2e228b-dbfb-484b-b82d-6972ff184aab/render-mpvml5uz.webp",
+  "subname": "Psycho on the Edge"
+}

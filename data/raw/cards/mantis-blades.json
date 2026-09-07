@@ -1,0 +1,112 @@
+{
+  "artist": "Ricardo Padierne Silvera",
+  "card_type": "Gear",
+  "classifications": [
+    "Cyberware"
+  ],
+  "color": "Red",
+  "cost": 1,
+  "display_name": "Mantis Blades",
+  "external_id": "cb-mantis-blades",
+  "flavor_text": null,
+  "id": "28198e04-60e2-4f81-9786-903a9a947d7a",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7ffa8ba4-f187-4ba0-a719-fa8ebf45a03b/render-mpvmwraw.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Mantis Blades",
+  "power": 2,
+  "print_number": "025",
+  "printing_id": "7ffa8ba4-f187-4ba0-a719-fa8ebf45a03b",
+  "printings": [
+    {
+      "artist": "Ricardo Padierne Silvera",
+      "collector_number": "025",
+      "finish": null,
+      "id": "7ffa8ba4-f187-4ba0-a719-fa8ebf45a03b",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7ffa8ba4-f187-4ba0-a719-fa8ebf45a03b/render-mpvmwraw.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7ffa8ba4-f187-4ba0-a719-fa8ebf45a03b/render-mpvmwraw.webp"
+    },
+    {
+      "artist": "Ricardo Padierne Silvera",
+      "collector_number": "\u03b2025",
+      "finish": null,
+      "id": "84278f23-7323-47d2-b639-23edd76f87ae",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/84278f23-7323-47d2-b639-23edd76f87ae/render-mpvjtx4h.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/84278f23-7323-47d2-b639-23edd76f87ae/render-mpvjtx4h.webp"
+    },
+    {
+      "artist": "Ricardo Padierne Silvera",
+      "collector_number": "007",
+      "finish": null,
+      "id": "087c30c2-1a7d-423e-b2f3-a7e1e8cfca12",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/087c30c2-1a7d-423e-b2f3-a7e1e8cfca12/render-mpwbvif3.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "embracingpowerretailstarterdeck",
+        "name": "Embracing Power \u2014 Retail Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/087c30c2-1a7d-423e-b2f3-a7e1e8cfca12/render-mpwbvif3.webp"
+    },
+    {
+      "artist": "Ricardo Padierne Silvera",
+      "collector_number": "\u03b2007",
+      "finish": null,
+      "id": "7e3cd1e0-4438-46e7-a327-0d9846778bb3",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7e3cd1e0-4438-46e7-a327-0d9846778bb3/render-mpwbmx5b.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "embracingpowerbetastarterdeck",
+        "name": "Embracing Power \u2014 Beta Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7e3cd1e0-4438-46e7-a327-0d9846778bb3/render-mpwbmx5b.webp"
+    },
+    {
+      "artist": "Ricardo Padierne Silvera",
+      "collector_number": "004",
+      "finish": null,
+      "id": "4ad21be4-1406-4631-bfe7-ad2effde7af2",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/4ad21be4-1406-4631-bfe7-ad2effde7af2/render-mqf81xh6.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "arasakademodeck",
+        "name": "Arasaka Demo Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/4ad21be4-1406-4631-bfe7-ad2effde7af2/render-mqf81xh6.webp"
+    },
+    {
+      "artist": "Ricardo Padierne Silvera",
+      "collector_number": "011",
+      "finish": null,
+      "id": "2ec85468-7593-4af5-b0d9-aecc1bc82366",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2ec85468-7593-4af5-b0d9-aecc1bc82366/render-mqi3aljy.webp",
+      "rarity": "Nova Rare",
+      "set": {
+        "code": "prereleasebeta",
+        "name": "Pre-Release Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/2ec85468-7593-4af5-b0d9-aecc1bc82366/render-mqi3aljy.webp"
+    }
+  ],
+  "ram": 1,
+  "rarity": "Common",
+  "rules_text": "(Equip to a friendly Unit or face-up Legend.)\n\"One cut, one kill.\"",
+  "selected_printing_id": "7ffa8ba4-f187-4ba0-a719-fa8ebf45a03b",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "mantis-blades",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/7ffa8ba4-f187-4ba0-a719-fa8ebf45a03b/render-mpvmwraw.webp",
+  "subname": null
+}

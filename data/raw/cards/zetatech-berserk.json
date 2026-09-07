@@ -1,0 +1,61 @@
+{
+  "artist": "Mooncolony",
+  "card_type": "Gear",
+  "classifications": [
+    "Cyberware",
+    "Zetatech"
+  ],
+  "color": "Green",
+  "cost": 6,
+  "display_name": "Zetatech Berserk",
+  "external_id": "cb-zetatech-berserk",
+  "flavor_text": null,
+  "id": "1d7f3d02-27b5-4ab8-af99-f8f2e0fd62cf",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/8b8bcfcd-37c8-4bca-8c25-17a3b3363349/render-mpvmyqtk.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Zetatech Berserk",
+  "power": 3,
+  "print_number": "096",
+  "printing_id": "8b8bcfcd-37c8-4bca-8c25-17a3b3363349",
+  "printings": [
+    {
+      "artist": "Mooncolony",
+      "collector_number": "096",
+      "finish": null,
+      "id": "8b8bcfcd-37c8-4bca-8c25-17a3b3363349",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/8b8bcfcd-37c8-4bca-8c25-17a3b3363349/render-mpvmyqtk.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/8b8bcfcd-37c8-4bca-8c25-17a3b3363349/render-mpvmyqtk.webp"
+    },
+    {
+      "artist": "Mooncolony",
+      "collector_number": "\u03b2096",
+      "finish": null,
+      "id": "36735ea2-1489-4e7a-810f-20dab24d503b",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/36735ea2-1489-4e7a-810f-20dab24d503b/render-mpvjv9ci.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/36735ea2-1489-4e7a-810f-20dab24d503b/render-mpvjv9ci.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Common",
+  "rules_text": "Play this Gear for -1 \u20ac$ for each friendly face-up Legend, to a minimum of 1 \u20ac$.",
+  "selected_printing_id": "8b8bcfcd-37c8-4bca-8c25-17a3b3363349",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "zetatech-berserk",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/8b8bcfcd-37c8-4bca-8c25-17a3b3363349/render-mpvmyqtk.webp",
+  "subname": null
+}

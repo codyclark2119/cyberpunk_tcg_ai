@@ -1,0 +1,87 @@
+{
+  "artist": "\u0141ukasz Poller",
+  "card_type": "Unit",
+  "classifications": [
+    "Merc",
+    "Netrunner"
+  ],
+  "color": "Yellow",
+  "cost": 4,
+  "display_name": "T-Bug: Amateur Philosopher",
+  "external_id": "cb-t-bug-amateur-philosopher",
+  "flavor_text": null,
+  "id": "5a5a177c-6ed8-4bd9-8b11-13c2b64414e2",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e2e3d98d-0159-4a79-b543-e37264f23118/render-mpvm3mjo.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "T-Bug",
+  "power": 4,
+  "print_number": "055",
+  "printing_id": "e2e3d98d-0159-4a79-b543-e37264f23118",
+  "printings": [
+    {
+      "artist": "\u0141ukasz Poller",
+      "collector_number": "055",
+      "finish": null,
+      "id": "e2e3d98d-0159-4a79-b543-e37264f23118",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e2e3d98d-0159-4a79-b543-e37264f23118/render-mpvm3mjo.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e2e3d98d-0159-4a79-b543-e37264f23118/render-mpvm3mjo.webp"
+    },
+    {
+      "artist": "\u0141ukasz Poller",
+      "collector_number": "\u03b2055",
+      "finish": null,
+      "id": "f3ca6b06-28da-42be-8526-743f22dc56b3",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/f3ca6b06-28da-42be-8526-743f22dc56b3/render-mpv4og0f.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/f3ca6b06-28da-42be-8526-743f22dc56b3/render-mpv4og0f.webp"
+    },
+    {
+      "artist": "\u0141ukasz Poller",
+      "collector_number": "006",
+      "finish": null,
+      "id": "46ddb436-ea2f-4c7f-b9b4-7987835c9cce",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/46ddb436-ea2f-4c7f-b9b4-7987835c9cce/render-mpwcnsy3.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "theheistretailstarterdeck",
+        "name": "The Heist \u2014 Retail Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/46ddb436-ea2f-4c7f-b9b4-7987835c9cce/render-mpwcnsy3.webp"
+    },
+    {
+      "artist": "\u0141ukasz Poller",
+      "collector_number": "\u03b2006",
+      "finish": null,
+      "id": "646dde1d-a112-4c7b-aecc-f63e130d4df0",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/646dde1d-a112-4c7b-aecc-f63e130d4df0/render-mpwcevvr.webp",
+      "rarity": "Uncommon",
+      "set": {
+        "code": "theheistbetastarterdeck",
+        "name": "The Heist \u2014 Beta Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/646dde1d-a112-4c7b-aecc-f63e130d4df0/render-mpwcevvr.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Uncommon",
+  "rules_text": "{Defeated} Look at all friendly face-down Legends. Then, you may Call a Legend for free. (You can only Call a Legend once per turn.)",
+  "selected_printing_id": "e2e3d98d-0159-4a79-b543-e37264f23118",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "t-bug-amateur-philosopher",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/e2e3d98d-0159-4a79-b543-e37264f23118/render-mpvm3mjo.webp",
+  "subname": "Amateur Philosopher"
+}

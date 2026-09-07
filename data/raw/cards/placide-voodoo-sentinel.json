@@ -1,0 +1,62 @@
+{
+  "artist": "Mooncolony",
+  "card_type": "Unit",
+  "classifications": [
+    "Ganger",
+    "Netrunner",
+    "Voodoo Boys"
+  ],
+  "color": "Blue",
+  "cost": 8,
+  "display_name": "Placide: Voodoo Sentinel",
+  "external_id": "cb-placide-voodoo-sentinel",
+  "flavor_text": null,
+  "id": "783a9082-b79c-4b45-bf66-48728ff9b92d",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/81c55c1f-362e-4ffd-8f9b-4162b298dbd5/render-mpvm972b.webp",
+  "is_eddiable": false,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Placide",
+  "power": 10,
+  "print_number": "123",
+  "printing_id": "81c55c1f-362e-4ffd-8f9b-4162b298dbd5",
+  "printings": [
+    {
+      "artist": "Mooncolony",
+      "collector_number": "123",
+      "finish": null,
+      "id": "81c55c1f-362e-4ffd-8f9b-4162b298dbd5",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/81c55c1f-362e-4ffd-8f9b-4162b298dbd5/render-mpvm972b.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/81c55c1f-362e-4ffd-8f9b-4162b298dbd5/render-mpvm972b.webp"
+    },
+    {
+      "artist": "Mooncolony",
+      "collector_number": "\u03b2123",
+      "finish": null,
+      "id": "0ff059f8-90c3-47ef-ba3b-cd380f30f14e",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0ff059f8-90c3-47ef-ba3b-cd380f30f14e/render-mpv4rjph.webp",
+      "rarity": "Rare",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/0ff059f8-90c3-47ef-ba3b-cd380f30f14e/render-mpv4rjph.webp"
+    }
+  ],
+  "ram": 2,
+  "rarity": "Rare",
+  "rules_text": "{Play} {Attack} You may discard 1 Program. If you do, bottom-deck a rival Unit.",
+  "selected_printing_id": "81c55c1f-362e-4ffd-8f9b-4162b298dbd5",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "placide-voodoo-sentinel",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/81c55c1f-362e-4ffd-8f9b-4162b298dbd5/render-mpvm972b.webp",
+  "subname": "Voodoo Sentinel"
+}

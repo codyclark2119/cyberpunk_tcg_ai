@@ -1,0 +1,99 @@
+{
+  "artist": "CD Projekt Red",
+  "card_type": "Gear",
+  "classifications": [
+    "Cyberware"
+  ],
+  "color": "Yellow",
+  "cost": 1,
+  "display_name": "Kiroshi Optics",
+  "external_id": "cb-kiroshi-optics",
+  "flavor_text": null,
+  "id": "654f2289-5d75-4f8b-bd35-702031fbb214",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/ec3368a9-79f1-4dfc-9cf7-1cb464ec1c88/render-mpvmw7q4.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Kiroshi Optics",
+  "power": 1,
+  "print_number": "061",
+  "printing_id": "ec3368a9-79f1-4dfc-9cf7-1cb464ec1c88",
+  "printings": [
+    {
+      "artist": "CD Projekt Red",
+      "collector_number": "061",
+      "finish": null,
+      "id": "ec3368a9-79f1-4dfc-9cf7-1cb464ec1c88",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/ec3368a9-79f1-4dfc-9cf7-1cb464ec1c88/render-mpvmw7q4.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/ec3368a9-79f1-4dfc-9cf7-1cb464ec1c88/render-mpvmw7q4.webp"
+    },
+    {
+      "artist": "CD Projekt Red",
+      "collector_number": "\u03b2061",
+      "finish": null,
+      "id": "d35720e4-f307-4732-ae3d-8f47f1351549",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/d35720e4-f307-4732-ae3d-8f47f1351549/render-mpvjtmuw.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/d35720e4-f307-4732-ae3d-8f47f1351549/render-mpvjtmuw.webp"
+    },
+    {
+      "artist": "CD Projekt Red",
+      "collector_number": "007",
+      "finish": null,
+      "id": "aa9b8a2e-ffd6-4435-8bed-c4e64e1c32ac",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/aa9b8a2e-ffd6-4435-8bed-c4e64e1c32ac/render-mpwcmge4.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "theheistretailstarterdeck",
+        "name": "The Heist \u2014 Retail Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/aa9b8a2e-ffd6-4435-8bed-c4e64e1c32ac/render-mpwcmge4.webp"
+    },
+    {
+      "artist": "CD Projekt Red",
+      "collector_number": "\u03b2007",
+      "finish": null,
+      "id": "b18ce43d-3441-4a55-a6a9-34ae8765aa27",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/b18ce43d-3441-4a55-a6a9-34ae8765aa27/render-mpwce7pj.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "theheistbetastarterdeck",
+        "name": "The Heist \u2014 Beta Starter Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/b18ce43d-3441-4a55-a6a9-34ae8765aa27/render-mpwce7pj.webp"
+    },
+    {
+      "artist": "CD Projekt Red",
+      "collector_number": "004",
+      "finish": null,
+      "id": "57e1d9b6-0f2b-497b-acaf-49c20a68cd19",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/57e1d9b6-0f2b-497b-acaf-49c20a68cd19/render-mqf85s25.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "mercdemodeck",
+        "name": "Merc Demo Deck"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/57e1d9b6-0f2b-497b-acaf-49c20a68cd19/render-mqf85s25.webp"
+    }
+  ],
+  "ram": 1,
+  "rarity": "Common",
+  "rules_text": "(Equip to a friendly Unit or face-up Legend.)\n{Attack} Look at a friendly face-down Legend. (Don't reveal it.)",
+  "selected_printing_id": "ec3368a9-79f1-4dfc-9cf7-1cb464ec1c88",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "kiroshi-optics",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/ec3368a9-79f1-4dfc-9cf7-1cb464ec1c88/render-mpvmw7q4.webp",
+  "subname": null
+}

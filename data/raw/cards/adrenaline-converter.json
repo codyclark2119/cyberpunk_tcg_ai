@@ -1,0 +1,61 @@
+{
+  "artist": "ADIA",
+  "card_type": "Gear",
+  "classifications": [
+    "Cyberware",
+    "Medtech"
+  ],
+  "color": "Yellow",
+  "cost": 2,
+  "display_name": "Adrenaline Converter",
+  "external_id": "cb-adrenaline-converter",
+  "flavor_text": null,
+  "id": "6a5a1e34-fdd3-42de-b6bd-4b2553d6df39",
+  "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/535df2a9-d2af-463c-85dd-dafe67cab8fb/render-mpvmy2t7.webp",
+  "is_eddiable": true,
+  "keywords": [],
+  "legality": "legal",
+  "name": "Adrenaline Converter",
+  "power": 3,
+  "print_number": "059",
+  "printing_id": "535df2a9-d2af-463c-85dd-dafe67cab8fb",
+  "printings": [
+    {
+      "artist": "ADIA",
+      "collector_number": "059",
+      "finish": null,
+      "id": "535df2a9-d2af-463c-85dd-dafe67cab8fb",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/535df2a9-d2af-463c-85dd-dafe67cab8fb/render-mpvmy2t7.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcityretail",
+        "name": "Welcome to Night City \u2014 Retail"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/535df2a9-d2af-463c-85dd-dafe67cab8fb/render-mpvmy2t7.webp"
+    },
+    {
+      "artist": "ADIA",
+      "collector_number": "\u03b2059",
+      "finish": null,
+      "id": "ccb79cf1-fc2d-4b52-bea5-b427583bfe1b",
+      "image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/ccb79cf1-fc2d-4b52-bea5-b427583bfe1b/render-mpvjuklb.webp",
+      "rarity": "Common",
+      "set": {
+        "code": "welcometonightcitybeta",
+        "name": "Welcome to Night City \u2014 Beta"
+      },
+      "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/ccb79cf1-fc2d-4b52-bea5-b427583bfe1b/render-mpvjuklb.webp"
+    }
+  ],
+  "ram": 4,
+  "rarity": "Common",
+  "rules_text": "(Equip to a friendly Unit or face-up Legend.)\nIf a Rival controls at least 2 more Gigs than you, this Unit has {Adrenaline}. (This Unit can attack the turn it's played.)",
+  "selected_printing_id": "535df2a9-d2af-463c-85dd-dafe67cab8fb",
+  "set": {
+    "code": "welcometonightcityretail",
+    "name": "Welcome to Night City \u2014 Retail"
+  },
+  "slug": "adrenaline-converter",
+  "source_image_url": "https://dstcynss47vun.cloudfront.net/prod/cyberpunk/portal/535df2a9-d2af-463c-85dd-dafe67cab8fb/render-mpvmy2t7.webp",
+  "subname": null
+}
