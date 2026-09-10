@@ -1,0 +1,177 @@
+{
+  "card_count": 43,
+  "created_at": "2026-09-02T17:22:06.951Z",
+  "credit": null,
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "d8d49d65-e2ea-4283-ac2a-6a031f33c4d7",
+  "is_valid": true,
+  "name": "Jhonnynobu Arahand",
+  "owner": {
+    "owner_pseudonym": "author-06d94c10a472"
+  },
+  "slug": "new-deck-2",
+  "stats": {
+    "avgCost": 3.1,
+    "avgPower": 5,
+    "colorDistribution": {
+      "Red": 28,
+      "Yellow": 12
+    },
+    "costCurve": [
+      0,
+      9,
+      9,
+      9,
+      5,
+      0,
+      5,
+      3
+    ],
+    "deckCount": 40,
+    "gearCount": 12,
+    "legendCount": 3,
+    "programCount": 10,
+    "ramBudget": {
+      "Red": 4,
+      "Yellow": 2
+    },
+    "ramUsage": {
+      "Red": 3,
+      "Yellow": 2
+    },
+    "totalCards": 43,
+    "unitCount": 18
+  },
+  "updated_at": "2026-09-03T09:17:18.931Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "91df478a-91d5-4d42-a624-4c20ec61121c",
+          "card_slug": "dexter-deshawn-off-the-grid",
+          "preferred_printing_id": "9a298f42-3a9f-4510-b2fd-9cf1b34ade27",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "56947a14-0b1e-4c3d-89e0-17839bcf4280",
+          "card_slug": "johnny-silverhand-rocking-renegade",
+          "preferred_printing_id": "a8a7d286-0c66-4f01-aca7-45570474d9e4",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "e64e2978-695b-4fc5-b17b-62c710a11c47",
+          "card_slug": "river-ward-detective-on-the-hunt",
+          "preferred_printing_id": "b3895f75-e147-49b0-a6d8-6fb35b356b2e",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "894",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 40,
+      "cards": [
+        {
+          "card_entity_id": "b3b40c68-705b-41ff-ae10-4132497c4a39",
+          "card_slug": "sketchy-ripper",
+          "preferred_printing_id": "12f0398c-bcc3-4944-af72-ac2ae9f36761",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "f61b944a-32e3-4085-894b-7bd498325156",
+          "card_slug": "dexter-deshawn-one-last-chance",
+          "preferred_printing_id": "e2f38541-ecc9-41dc-ae15-164171391bff",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "5cf0c12a-814e-4801-8171-7fe8c09fad21",
+          "card_slug": "valentino-guerrera",
+          "preferred_printing_id": "67b82386-5cb0-4ae7-b940-ac0d982b773c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "21f68be2-c664-4ae0-a7ef-965a3a5a14c8",
+          "card_slug": "meredith-stout-stone-cold-corpo",
+          "preferred_printing_id": "5939771d-bdcc-4b42-aea4-376311189e93",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "9a4002b0-0f0b-4c9a-a198-691d058b6dcc",
+          "card_slug": "johnny-silverhand-never-stop-fighting",
+          "preferred_printing_id": "14ab188f-2ce3-4790-8823-5a352371ff1f",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "6cf6456d-d020-4c6c-9041-66d503a01a0a",
+          "card_slug": "yorinobu-arasaka-steel-dragon",
+          "preferred_printing_id": "c057ccc4-bb15-4efd-8115-8d223568134b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "6720e7fd-d1e8-4c8a-9ff2-f51f62241902",
+          "card_slug": "mandibular-upgrade",
+          "preferred_printing_id": "219b7a29-0f8b-4750-bc46-0f39eec6721b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "28198e04-60e2-4f81-9786-903a9a947d7a",
+          "card_slug": "mantis-blades",
+          "preferred_printing_id": "7ffa8ba4-f187-4ba0-a719-fa8ebf45a03b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "4670d02b-b97a-4771-bb7e-65bdc012530e",
+          "card_slug": "satori-sword-of-saburo",
+          "preferred_printing_id": "11a8fed4-5401-4cfc-901b-ab9b5b94d0ab",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "b88d436f-1ec7-4f62-9dbc-c5f5e0d0a0df",
+          "card_slug": "zetatech-faceplate",
+          "preferred_printing_id": "79cdc9a5-d94d-4df4-9f88-aa02fb0357b3",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "2697ed9d-72fc-4658-9c94-977668911a67",
+          "card_slug": "detonate",
+          "preferred_printing_id": "bec995b7-b76b-4605-9c36-3d7697cdd4f5",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "3eb0f8bf-afb9-42a7-a4fa-710e2eb5c89c",
+          "card_slug": "bonnie-and-clyde",
+          "preferred_printing_id": "26d60270-1b43-4af3-a8b7-1c3db9675cfa",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "27c01b18-2a9c-4d66-ad21-b75869fba666",
+          "card_slug": "gunpoint-diplomacy",
+          "preferred_printing_id": "efc5dfdd-f393-4bbe-a7bc-ac959ba1e6bc",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "81fb66ee-b054-4f78-b0c9-7d2c9ff53435",
+          "card_slug": "carnage-at-the-colosseum",
+          "preferred_printing_id": "36128749-4cb1-440d-b4de-4fd463cc2f5c",
+          "quantity": 2
+        }
+      ],
+      "display_name": "Deck",
+      "id": "895",
+      "zone_code": "deck"
+    }
+  ]
+}

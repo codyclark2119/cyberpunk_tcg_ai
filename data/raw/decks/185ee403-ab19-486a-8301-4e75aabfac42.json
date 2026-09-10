@@ -1,0 +1,180 @@
+{
+  "card_count": 43,
+  "created_at": "2026-09-06T20:33:33.301Z",
+  "credit": null,
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "185ee403-ab19-486a-8301-4e75aabfac42",
+  "is_valid": true,
+  "name": "R/G/Y Chrome Junky",
+  "owner": {
+    "owner_pseudonym": "author-77fc80fc0b22"
+  },
+  "slug": "new-deck",
+  "stats": {
+    "avgCost": 2.7,
+    "avgPower": 4,
+    "colorDistribution": {
+      "Green": 8,
+      "Red": 11,
+      "Yellow": 21
+    },
+    "costCurve": [
+      0,
+      6,
+      14,
+      12,
+      6,
+      0,
+      0,
+      2
+    ],
+    "deckCount": 40,
+    "gearCount": 14,
+    "legendCount": 3,
+    "programCount": 6,
+    "ramBudget": {
+      "Green": 2,
+      "Red": 2,
+      "Yellow": 2
+    },
+    "ramUsage": {
+      "Green": 2,
+      "Red": 2,
+      "Yellow": 2
+    },
+    "totalCards": 43,
+    "unitCount": 20
+  },
+  "updated_at": "2026-09-07T01:30:51.260Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "950f045c-f5a4-4318-9907-b630d64de754",
+          "card_slug": "panam-palmer-nomad-cavalry",
+          "preferred_printing_id": "6e4ee31b-82d1-421c-b658-ba3f79520365",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "e64e2978-695b-4fc5-b17b-62c710a11c47",
+          "card_slug": "river-ward-detective-on-the-hunt",
+          "preferred_printing_id": "b3895f75-e147-49b0-a6d8-6fb35b356b2e",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "9e681d3e-cbfd-4c7b-a69a-72a83dc8b847",
+          "card_slug": "royce-psycho-on-the-edge",
+          "preferred_printing_id": "3e2e228b-dbfb-484b-b82d-6972ff184aab",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "7393",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 40,
+      "cards": [
+        {
+          "card_entity_id": "b3b40c68-705b-41ff-ae10-4132497c4a39",
+          "card_slug": "sketchy-ripper",
+          "preferred_printing_id": "12f0398c-bcc3-4944-af72-ac2ae9f36761",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "f61b944a-32e3-4085-894b-7bd498325156",
+          "card_slug": "dexter-deshawn-one-last-chance",
+          "preferred_printing_id": "e2f38541-ecc9-41dc-ae15-164171391bff",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "3c4e7fcb-933d-4712-9ce7-6052a14f8e94",
+          "card_slug": "swordwise-huscle",
+          "preferred_printing_id": "1c053198-187e-49ab-a9e0-0661b4c3b337",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "647bb074-197f-4059-bac5-251b47c98287",
+          "card_slug": "viktor-vektor-you-might-feel-a-little-pinch",
+          "preferred_printing_id": "4eca7fcd-85c1-43d0-8a07-4227312ab0db",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "21f68be2-c664-4ae0-a7ef-965a3a5a14c8",
+          "card_slug": "meredith-stout-stone-cold-corpo",
+          "preferred_printing_id": "5939771d-bdcc-4b42-aea4-376311189e93",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "0974a7af-dcd7-44d9-b57a-b6a4719afcd6",
+          "card_slug": "pepe-najarro-working-doubles",
+          "preferred_printing_id": "0de81196-f1d3-4fd0-ae6a-062dae3f3f2c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "9611a3ba-d365-453f-89ed-c986a1948edc",
+          "card_slug": "sandayu-oda-hanako-s-guardian",
+          "preferred_printing_id": "f452a0ca-3204-48d5-8565-ec746f27959b",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "654f2289-5d75-4f8b-bd35-702031fbb214",
+          "card_slug": "kiroshi-optics",
+          "preferred_printing_id": "ec3368a9-79f1-4dfc-9cf7-1cb464ec1c88",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "28198e04-60e2-4f81-9786-903a9a947d7a",
+          "card_slug": "mantis-blades",
+          "preferred_printing_id": "7ffa8ba4-f187-4ba0-a719-fa8ebf45a03b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "7da95cf0-f749-439f-b40a-9d3057d2c995",
+          "card_slug": "riot-shield",
+          "preferred_printing_id": "ce570725-0de7-438a-a9c8-33074a7180ba",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "4670d02b-b97a-4771-bb7e-65bdc012530e",
+          "card_slug": "satori-sword-of-saburo",
+          "preferred_printing_id": "11a8fed4-5401-4cfc-901b-ab9b5b94d0ab",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "b88d436f-1ec7-4f62-9dbc-c5f5e0d0a0df",
+          "card_slug": "zetatech-faceplate",
+          "preferred_printing_id": "79cdc9a5-d94d-4df4-9f88-aa02fb0357b3",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "5ea00b3a-7e85-4c7d-91ad-90e0cf370c27",
+          "card_slug": "the-heist",
+          "preferred_printing_id": "a1e2c25e-fb27-458f-984d-df422f879664",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "87e001dd-8604-4523-af6e-d768118ccf98",
+          "card_slug": "cyberpsychosis",
+          "preferred_printing_id": "5aafe80b-7c7d-4060-8677-a2881a21dd72",
+          "quantity": 3
+        }
+      ],
+      "display_name": "Deck",
+      "id": "7394",
+      "zone_code": "deck"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "card_count": 43,
+  "created_at": "2026-09-05T07:18:04.945Z",
+  "credit": "Brakdrud",
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "504e6d82-86e8-4b3a-880a-012e53b0a8d4",
+  "is_valid": true,
+  "name": "Night City Lockdown",
+  "owner": {
+    "owner_pseudonym": "author-c0b83831a994"
+  },
+  "slug": "night-city-lockdown",
+  "stats": {
+    "avgCost": 2.5,
+    "avgPower": 1.4,
+    "colorDistribution": {
+      "Blue": 40
+    },
+    "costCurve": [
+      0,
+      9,
+      9,
+      17,
+      5,
+      0,
+      0,
+      0
+    ],
+    "deckCount": 40,
+    "gearCount": 3,
+    "legendCount": 3,
+    "programCount": 21,
+    "ramBudget": {
+      "Blue": 6
+    },
+    "ramUsage": {
+      "Blue": 3
+    },
+    "totalCards": 43,
+    "unitCount": 16
+  },
+  "updated_at": "2026-09-05T07:18:14.198Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "55807eb7-8a8e-44a9-97a2-c8ac993e7b43",
+          "card_slug": "evelyn-parker-beautiful-enigma",
+          "preferred_printing_id": "22fe9365-6f33-4aeb-b3a4-a78ab563cbe9",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "4560f3d0-5f63-466b-93b7-fc9d822a556e",
+          "card_slug": "judy-a-lvarez-braindance-maestro",
+          "preferred_printing_id": "0324e335-2f17-496c-9789-59f93ed6d31e",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "99f5e311-8dfd-42a9-abd0-2e50ac68679e",
+          "card_slug": "wakako-okada-peace-and-harmony",
+          "preferred_printing_id": "16e04a94-086a-4c20-b788-88ac016ec59b",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "4957",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 40,
+      "cards": [
+        {
+          "card_entity_id": "a3cc3d15-8e6a-4684-b2ca-c843b4a854e2",
+          "card_slug": "evelyn-parker-scheming-siren",
+          "preferred_printing_id": "7d174619-2183-4058-a89a-082c6b7b5a5c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "3bb1f191-927e-45b3-86ca-cb30baabfe0d",
+          "card_slug": "delamain-rideshare-ai",
+          "preferred_printing_id": "c7eba3a0-63cb-4311-988e-d487a7c0841a",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "383abfb4-eedb-47c1-87f0-3ae4973c3619",
+          "card_slug": "misty-olszewski-mender-of-broken-spirits",
+          "preferred_printing_id": "17252514-02ba-4d0d-a9cc-3590cee528af",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "ef77dd1f-3abd-4ce2-becc-97dd768a5022",
+          "card_slug": "mox-inciters",
+          "preferred_printing_id": "354fd7d3-070d-4767-989c-5b3efbd9f30d",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "d2a9bcb0-a5e1-4413-8140-8b808258a753",
+          "card_slug": "hacked-corpo",
+          "preferred_printing_id": "7dc71978-0995-4b93-9ba3-83d1118c3c4b",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "65a14367-da52-4578-8162-3c4bac11007d",
+          "card_slug": "rita-wheeler-no-stupid-questions",
+          "preferred_printing_id": "5d795b32-9ad8-4c94-abd4-d01e389db389",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "39665784-d2f1-43e8-a958-894bac716d71",
+          "card_slug": "tetratronic-rippler",
+          "preferred_printing_id": "576f82ff-3c4d-4637-aa91-2773de43bbc8",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "0cd37c43-e722-48eb-91ef-4c1bd1645215",
+          "card_slug": "floor-it",
+          "preferred_printing_id": "91f9d30c-f74d-4be4-8505-52f05d309c92",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "ec857ab0-995e-4c32-84b6-7ba57b2f6137",
+          "card_slug": "trust-no-one",
+          "preferred_printing_id": "70a2a18e-05c2-4a49-9236-e33b2c9819a5",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "ad13a7bc-c49d-4166-8a9c-965e7bfa9b8f",
+          "card_slug": "reboot-optics",
+          "preferred_printing_id": "fb096d3f-48eb-47c0-a065-81b39691e12f",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "2993d637-d44d-4add-8473-26d67c0d1bc0",
+          "card_slug": "three-mouths-one-desire",
+          "preferred_printing_id": "573a88e9-ac01-4402-8e3d-2420dc4ca949",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "19f34c9b-a24a-43be-bd9f-62c37435e994",
+          "card_slug": "chrome-reverie",
+          "preferred_printing_id": "3f0319b8-e315-4e71-85b7-147a5b8ceba5",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "e4af26f0-e25d-4e30-8bac-6701f54f3e97",
+          "card_slug": "nocturne-op55-n1",
+          "preferred_printing_id": "70c7f11e-e41d-44f2-b5cd-e8568915d6ac",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "7977a175-0516-478e-b166-3edb035849a4",
+          "card_slug": "pyramid-song",
+          "preferred_printing_id": "3b1d0570-bb8e-4ea5-9ec7-c698d9c9f94d",
+          "quantity": 3
+        }
+      ],
+      "display_name": "Deck",
+      "id": "4958",
+      "zone_code": "deck"
+    }
+  ]
+}

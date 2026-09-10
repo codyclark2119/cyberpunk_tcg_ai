@@ -29,6 +29,7 @@ protect, confirm this suite fails, put it back.
 
 import json
 import sys
+from collections import Counter
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -36,6 +37,9 @@ sys.path.insert(0, str(REPO_ROOT))
 
 from games.base.game_interface import GameConfig
 from games.cyberpunk import markup, prompts, chunking
+from games.cyberpunk import errata as errata_mod
+from games.cyberpunk import deckbuilding
+from games.cyberpunk import archetypes
 from games.cyberpunk.cards import parse_card
 from games.cyberpunk.config import GAME
 from harness.core.io import read_jsonl
@@ -317,6 +321,498 @@ def test_chunk_id_names_its_span():
 
 
 # --------------------------------------------------------------------------
+# errata
+# --------------------------------------------------------------------------
+
+# The `## Current Errata` line is load-bearing: errata are always h3 in this
+# document, and a pattern loose enough to accept any heading level would turn
+# a structural sub-heading into an erratum for a card that does not exist --
+# which `join_to_cards` would then raise on, failing the whole build. Without
+# a non-h3 heading in this fixture the anchoring is untested, and a mutation
+# proved exactly that.
+_ERRATA_MD = (
+    "## Current Errata\n\n"
+    "### Kiroshi Optics\n\n"
+    "The reminder text has been updated.\n\n"
+    "![Kiroshi Errata](//images.ctfassets.net/x/y/z/Kiroshi.png)\n\n"
+    "### Johnny Silverhand: Never Stop Fighting (Beta Iconic Rare)\n\n"
+    "This card cannot be sold for an Eddie.\n"
+)
+
+_ERRATA_CARDS = [
+    {"id": "kiroshi-optics", "display_name": "Kiroshi Optics"},
+    {"id": "johnny-silverhand-never-stop-fighting",
+     "display_name": "Johnny Silverhand: Never Stop Fighting"},
+    {"id": "nocturne-op55-n1", "display_name": "Nocturne OP55 N1"},
+]
+
+
+def test_split_entries_one_record_per_heading():
+    entries = errata_mod.split_entries("WNC Errata", _ERRATA_MD)
+    assert [e["card_name"] for e in entries] == [
+        "Kiroshi Optics", "Johnny Silverhand: Never Stop Fighting"], \
+        "only h3 headings are errata; a structural heading is not a card"
+
+
+def test_split_entries_ignores_a_non_h3_heading():
+    entries = errata_mod.split_entries("WNC Errata", _ERRATA_MD)
+    assert "Current Errata" not in [e["card_name"] for e in entries]
+    # ...and the h2 must not be swallowed into the first erratum's body either.
+    assert "Current Errata" not in entries[0]["text"]
+
+
+def test_split_entries_extracts_the_printing_variant():
+    entries = errata_mod.split_entries("WNC Errata", _ERRATA_MD)
+    assert entries[0]["variant"] is None
+    assert entries[1]["variant"] == "Beta Iconic Rare"
+
+
+def test_split_entries_lifts_images_out_of_the_text():
+    entries = errata_mod.split_entries("WNC Errata", _ERRATA_MD)
+    assert "![" not in entries[0]["text"], entries[0]["text"]
+    assert entries[0]["images"] == ["https://images.ctfassets.net/x/y/z/Kiroshi.png"], \
+        "a protocol-relative CMS URL must be given a scheme"
+
+
+def test_split_entries_drops_a_block_preamble():
+    entries = errata_mod.split_entries("S", "Intro prose.\n\n### Kiroshi Optics\n\nBody.")
+    assert len(entries) == 1
+    assert "Intro prose" not in entries[0]["text"]
+
+
+def test_join_matches_a_name_the_database_spells_differently():
+    # "Nocturne OP55N1" on the errata page; "Nocturne OP55 N1" in the database.
+    entries = [{"heading": "Nocturne OP55N1", "card_name": "Nocturne OP55N1",
+                "variant": None, "section": "S", "text": "t", "images": []}]
+    joined = errata_mod.join_to_cards(entries, _ERRATA_CARDS)
+    assert joined[0]["card_id"] == "nocturne-op55-n1"
+
+
+def test_join_refuses_an_unmatched_heading():
+    entries = [{"heading": "Not A Card", "card_name": "Not A Card", "variant": None,
+                "section": "S", "text": "t", "images": []}]
+    try:
+        errata_mod.join_to_cards(entries, _ERRATA_CARDS)
+    except ValueError:
+        return
+    raise AssertionError("join_to_cards silently dropped an unmatched erratum")
+
+
+def test_join_refuses_colliding_normalized_names():
+    cards = [{"id": "a", "display_name": "Nocturne OP55 N1"},
+             {"id": "b", "display_name": "Nocturne OP55N1"}]
+    try:
+        errata_mod.join_to_cards([], cards)
+    except ValueError:
+        return
+    raise AssertionError("join_to_cards accepted two cards with the same normalized name")
+
+
+def test_card_text_carries_its_erratum_last():
+    card = parse_card(_raw_card(slug="kiroshi-optics", display_name="Kiroshi Optics"))
+    entry = {"card_id": "kiroshi-optics", "heading": "Kiroshi Optics",
+             "text": "The reminder text has been updated."}
+    text = chunking.card_to_text(card, [entry])
+    assert "ERRATA" in text
+    assert "supersedes" in text
+    assert text.rstrip().endswith("This supersedes the printed text above."), \
+        "the override line must be last, so a tail-preserving truncation keeps it"
+
+
+def test_card_without_errata_says_nothing_about_them():
+    card = parse_card(_raw_card())
+    assert "ERRATA" not in chunking.card_to_text(card, [])
+    assert "ERRATA" not in chunking.card_to_text(card, None)
+
+
+def test_chunk_cards_flags_which_cards_have_errata():
+    cards = [parse_card(_raw_card(slug="a", display_name="A")),
+             parse_card(_raw_card(slug="b", display_name="B"))]
+    entry = {"card_id": "a", "heading": "A", "text": "corrected"}
+    chunks = {c["card_id"]: c for c in chunking.chunk_cards(cards, [entry])}
+    assert chunks["a"]["has_errata"] is True
+    assert chunks["b"]["has_errata"] is False
+
+
+def test_merge_chunks_keeps_every_source():
+    rules = [{"chunk_id": "rule:1"}]
+    cards = [{"chunk_id": "card:a"}]
+    errata = [{"chunk_id": "errata:a:01"}]
+    merged = chunking.merge_chunks(rules, cards, errata)
+    assert [c["chunk_id"] for c in merged] == ["rule:1", "card:a", "errata:a:01"], \
+        "a source dropped here is a source that can never be retrieved"
+
+
+def test_merge_chunks_refuses_a_shared_chunk_id():
+    try:
+        chunking.merge_chunks([{"chunk_id": "x"}], [{"chunk_id": "x"}])
+    except ValueError:
+        return
+    raise AssertionError("merge_chunks accepted a chunk_id shared between sources")
+
+
+def test_chunk_corpus_cli_wires_every_source_into_the_merged_index():
+    """End-to-end over `chunking.main()`, against the real committed inputs.
+
+    `merge_chunks` being correct does not prove `main` passes it every source:
+    dropping `errata_chunks` from that one call removes an entire source from
+    retrieval, and every other test here would still pass, because the corpus
+    tests read committed files rather than re-running the CLI.
+
+    Outputs go to a temp directory, and the real `data/processed/` files are
+    read before and compared after. That guard is not paranoia -- a test in a
+    sibling repo in this workspace wrote into real gold data twice, because
+    the path it thought it had redirected was a default argument bound at
+    definition time, so the write went to the real file while the assertions
+    talked about the temp one and passed.
+    """
+    import tempfile
+    real = {p.name: p.read_bytes() for p in PROCESSED.glob("*.jsonl")}
+    argv = sys.argv
+    with tempfile.TemporaryDirectory() as tmp:
+        out = Path(tmp)
+        sys.argv = [
+            "chunk_corpus.py",
+            "--rules-output", str(out / "rule_chunks.jsonl"),
+            "--cards-output", str(out / "card_chunks.jsonl"),
+            "--errata-output", str(out / "errata_chunks.jsonl"),
+            "--corpus-output", str(out / "corpus_chunks.jsonl"),
+        ]
+        try:
+            chunking.main()
+        finally:
+            sys.argv = argv
+
+        corpus = read_jsonl(out / "corpus_chunks.jsonl", missing_ok=False)
+        assert {c["source"] for c in corpus} == {"rules", "cards", "errata"}, \
+            f"a source never reached the merged index: {sorted({c['source'] for c in corpus})}"
+
+    after = {p.name: p.read_bytes() for p in PROCESSED.glob("*.jsonl")}
+    assert after == real, \
+        f"the CLI wrote into real data/processed/: {sorted(set(after) ^ set(real)) or 'contents changed'}"
+
+
+def test_errata_chunk_states_its_own_authority():
+    entry = {"id": "errata:x:01", "card_id": "x", "card_name": "X",
+             "heading": "X", "section": "S", "text": "body"}
+    chunks = chunking.chunk_errata([entry])
+    assert chunks[0]["chunk_id"] == "errata:x:01"
+    assert "supersedes" in chunks[0]["text"], \
+        "a retrieved erratum must carry its own override, not rely on context"
+
+
+def test_grounded_prompt_tells_the_model_errata_win():
+    grounded = prompts.build_messages("q", context="c")[0]["content"]
+    assert "ERRATA" in grounded and "OVERRIDES" in grounded
+
+
+# --------------------------------------------------------------------------
+# deckbuilding
+# --------------------------------------------------------------------------
+
+_DB_CARDS = {
+    "legend-y1": {"id": "legend-y1", "name": "Ay", "display_name": "Ay: One",
+                  "card_type": "Legend", "color": "Yellow", "ram": 2},
+    "legend-y2": {"id": "legend-y2", "name": "Bee", "display_name": "Bee: Two",
+                  "card_type": "Legend", "color": "Yellow", "ram": 2},
+    "legend-r1": {"id": "legend-r1", "name": "Cee", "display_name": "Cee: Three",
+                  "card_type": "Legend", "color": "Red", "ram": 2},
+    "unit-y2": {"id": "unit-y2", "name": "Yunit", "display_name": "Yunit",
+                "card_type": "Unit", "color": "Yellow", "ram": 2},
+    "unit-y4": {"id": "unit-y4", "name": "Ybig", "display_name": "Ybig",
+                "card_type": "Unit", "color": "Yellow", "ram": 4},
+    "unit-y5": {"id": "unit-y5", "name": "Yhuge", "display_name": "Yhuge",
+                "card_type": "Unit", "color": "Yellow", "ram": 5},
+    "unit-r2": {"id": "unit-r2", "name": "Runit", "display_name": "Runit",
+                "card_type": "Unit", "color": "Red", "ram": 2},
+}
+
+# Enough distinct filler to build a legal deck without exceeding three copies
+# of anything -- the first version of this fixture used 39 copies of one card,
+# which is itself illegal, so the "a legal deck has no violations" test failed
+# against a deck that was never legal.
+for _i in range(20):
+    _DB_CARDS[f"filler-{_i}"] = {
+        "id": f"filler-{_i}", "name": f"Filler {_i}", "display_name": f"Filler {_i}",
+        "card_type": "Unit", "color": "Red", "ram": 2,
+    }
+
+
+def _filler(total, per=3, slug="filler"):
+    """`total` cards spread over as many distinct cards as `per` allows."""
+    out = []
+    remaining = total
+    i = 0
+    while remaining > 0:
+        take = min(per, remaining)
+        out.append({"card_slug": f"{slug}-{i}", "quantity": take})
+        remaining -= take
+        i += 1
+    return out
+
+
+def _deck(legends=None, main=None):
+    """A legal 3-Legend, 42-card deck unless overridden."""
+    if legends is None:
+        legends = [{"card_slug": "legend-y1", "quantity": 1},
+                   {"card_slug": "legend-y2", "quantity": 1},
+                   {"card_slug": "legend-r1", "quantity": 1}]
+    if main is None:
+        main = _filler(42)
+    return {"zones": [{"zone_code": "legends", "cards": legends},
+                      {"zone_code": "deck", "cards": main}]}
+
+
+def _rules_fired(deck):
+    return {v["rule"] for v in deckbuilding.validate(deck, _DB_CARDS)}
+
+
+def test_a_legal_deck_has_no_violations():
+    assert deckbuilding.validate(_deck(), _DB_CARDS) == []
+
+
+def test_ram_budget_is_a_sum_per_colour():
+    budget = deckbuilding.ram_budget(deckbuilding.legend_entries(_deck()), _DB_CARDS)
+    assert budget == {"Yellow": 4, "Red": 2}
+
+
+def test_ram_usage_is_a_max_not_a_sum():
+    """Three copies of a RAM-2 card demand 2, not 6."""
+    main = [{"card_slug": "unit-y2", "quantity": 3}]
+    usage = deckbuilding.ram_usage(main, _DB_CARDS)
+    assert usage == {"Yellow": 2}, usage
+
+
+def test_ram_limit_is_a_ceiling_per_card():
+    # Yellow budget is 4. A RAM-4 card is legal; a RAM-5 card is not, however
+    # few copies it appears in.
+    ok = _deck(main=[{"card_slug": "unit-y4", "quantity": 3}] + _filler(39))
+    assert "ram-limit" not in _rules_fired(ok), _rules_fired(ok)
+    bad = _deck(main=[{"card_slug": "unit-y5", "quantity": 1}] + _filler(41))
+    assert "ram-limit" in _rules_fired(bad)
+
+
+def test_wrong_legend_count_is_caught():
+    assert "legend-count" in _rules_fired(
+        _deck(legends=[{"card_slug": "legend-y1", "quantity": 1},
+                       {"card_slug": "legend-y2", "quantity": 1}]))
+
+
+def test_duplicate_legend_names_are_caught_even_as_one_entry():
+    """Two copies of a Legend is ONE entry with quantity 2.
+
+    Counting entries instead of copies makes this rule silently never fire --
+    which is what it did, agreeing with the official builder on all 272 public
+    decks, because none of them is illegal. Found only by a negative control.
+    """
+    deck = _deck(legends=[{"card_slug": "legend-y1", "quantity": 2},
+                          {"card_slug": "legend-r1", "quantity": 1}])
+    fired = _rules_fired(deck)
+    assert "legend-unique-names" in fired, fired
+    assert "legend-count" not in fired, "three Legends is the right count; the name is the problem"
+
+
+def test_deck_size_bounds():
+    assert "deck-size" in _rules_fired(_deck(main=_filler(39)))
+    assert "deck-size" in _rules_fired(_deck(main=_filler(51)))
+    assert "deck-size" not in _rules_fired(_deck(main=_filler(40))), "40 is legal"
+    assert "deck-size" not in _rules_fired(_deck(main=_filler(50))), "50 is legal"
+
+
+def test_legends_do_not_count_toward_deck_size():
+    # Exactly 50 in the deck zone is legal. Counting the 3 Legends too would
+    # make it 53 and illegal, so this boundary is what separates the two
+    # readings of the rule.
+    deck = _deck(main=_filler(50))
+    assert "deck-size" not in _rules_fired(deck), \
+        "50 deck cards + 3 Legends is legal; Legends are excluded from the count"
+
+
+def test_more_than_three_copies_is_caught():
+    deck = _deck(main=[{"card_slug": "unit-r2", "quantity": 4}] + _filler(38))
+    assert "max-copies" in _rules_fired(deck)
+
+
+def test_exactly_three_copies_is_legal():
+    deck = _deck(main=_filler(42, per=3))
+    assert "max-copies" not in _rules_fired(deck), _rules_fired(deck)
+
+
+def test_a_card_not_in_the_database_is_reported_not_crashed():
+    deck = _deck(main=[{"card_slug": "does-not-exist", "quantity": 3}] + _filler(39))
+    fired = _rules_fired(deck)
+    assert "unknown-card" in fired
+
+
+def test_violations_carry_a_stable_rule_slug_and_a_reason():
+    deck = _deck(legends=[{"card_slug": "legend-y1", "quantity": 1}])
+    violations = deckbuilding.validate(deck, _DB_CARDS)
+    assert violations and all(v["rule"] and v["detail"] for v in violations)
+
+
+# --------------------------------------------------------------------------
+# archetype clustering
+# --------------------------------------------------------------------------
+
+def _arch_deck(main, legends=None):
+    if legends is None:
+        legends = [{"card_slug": "legend-y1", "quantity": 1},
+                   {"card_slug": "legend-r1", "quantity": 1}]
+    return {"zones": [{"zone_code": "legends", "cards": legends},
+                      {"zone_code": "deck", "cards": main}]}
+
+
+def test_deck_counts_excludes_legends():
+    deck = _arch_deck([{"card_slug": "unit-y2", "quantity": 3}])
+    counts = archetypes.deck_counts(deck)
+    assert counts == Counter({"unit-y2": 3})
+    assert "legend-y1" not in counts, \
+        "Legends are identity, not content; including them adds a similarity floor"
+
+
+def test_similarity_counts_copies_not_just_presence():
+    """Three copies and one copy are different decisions."""
+    three = Counter({"a": 3})
+    one = Counter({"a": 1})
+    assert archetypes.similarity(three, three) == 1.0
+    assert archetypes.similarity(three, one) == 1 / 3, archetypes.similarity(three, one)
+
+
+def test_similarity_of_disjoint_decks_is_zero():
+    assert archetypes.similarity(Counter({"a": 3}), Counter({"b": 3})) == 0.0
+    assert archetypes.similarity(Counter(), Counter()) == 0.0
+
+
+def test_cluster_uses_average_linkage_not_single():
+    """A-B and B-C similar, A-C not: single linkage chains all three, average does not.
+
+    This is the whole reason for average linkage. On the real corpus single
+    linkage collapses most decks into one blob via a chain of pairwise
+    resemblances, none of which says the ends belong together.
+    """
+    m = [[0.0, 0.6, 0.0],
+         [0.6, 0.0, 0.6],
+         [0.0, 0.6, 0.0]]
+    clusters = archetypes.cluster(m, threshold=0.5)
+    # A+B merge at 0.6; {A,B} vs C averages (0.0 + 0.6)/2 = 0.3, below 0.5.
+    assert len(clusters) == 2, clusters
+    assert sorted(len(c) for c in clusters) == [1, 2]
+
+
+def test_cluster_merge_averages_over_the_whole_cluster():
+    """After merging A and B, C is compared against BOTH of them, not the best.
+
+    A-B 0.9, B-C 0.6, A-C 0.4. Merging A and B first, the average against C is
+    (0.4 + 0.6) / 2 = 0.5, which clears a 0.45 threshold, so all three join. A
+    max-based merge would carry only the 0.6, average it to 0.3, and stop --
+    that is single linkage wearing an average's name, and the difference is
+    invisible on a matrix where the two happen to coincide.
+    """
+    m = [[0.0, 0.9, 0.4],
+         [0.9, 0.0, 0.6],
+         [0.4, 0.6, 0.0]]
+    assert archetypes.cluster(m, threshold=0.45) == [[0, 1, 2]]
+
+
+def test_cluster_threshold_is_inclusive_at_the_boundary():
+    """Exactly `threshold` merges; a hair under does not.
+
+    Weighted Jaccard is a ratio of integer copy counts, so exact ties with a
+    round threshold are common, not hypothetical: 22 real deck pairs sit at
+    exactly 0.40 and 35 at exactly 0.50. Flipping this one comparison changes
+    the archetype count on real data.
+    """
+    assert archetypes.cluster([[0.0, 0.5], [0.5, 0.0]], threshold=0.5) == [[0, 1]]
+    assert archetypes.cluster([[0.0, 0.49], [0.49, 0.0]], threshold=0.5) == [[0], [1]]
+
+
+def test_cluster_threshold_above_every_similarity_leaves_singletons():
+    m = [[0.0, 0.4], [0.4, 0.0]]
+    assert archetypes.cluster(m, threshold=0.5) == [[0], [1]]
+
+
+def test_cluster_merges_below_threshold_pairs():
+    m = [[0.0, 0.9], [0.9, 0.0]]
+    assert archetypes.cluster(m, threshold=0.5) == [[0, 1]]
+
+
+def test_cluster_output_is_deterministic_and_sorted():
+    """Biggest cluster first -- and the fixture must be able to show it.
+
+    Deck 0 stays a singleton while 1 and 2 merge, so the natural insertion
+    order is [[0], [1, 2]] and the required order is [[1, 2], [0]]. An earlier
+    fixture had the merge happen first, where both orders coincide, so
+    deleting the sort entirely changed nothing and the test passed anyway.
+    """
+    m = [[0.0, 0.0, 0.0],
+         [0.0, 0.0, 0.9],
+         [0.0, 0.9, 0.0]]
+    first = archetypes.cluster(m, 0.5)
+    assert first == archetypes.cluster(m, 0.5), "two runs must agree"
+    assert first == [[1, 2], [0]], first
+    assert all(c == sorted(c) for c in first)
+
+
+def test_cluster_of_nothing_is_nothing():
+    assert archetypes.cluster([], 0.5) == []
+
+
+def test_core_cards_needs_the_share_of_members():
+    counts = [Counter({"a": 1, "b": 1}), Counter({"a": 1, "c": 1}),
+              Counter({"a": 1, "d": 1})]
+    core = dict(archetypes.core_cards([0, 1, 2], counts, share=0.8))
+    assert set(core) == {"a"}, core
+    loose = dict(archetypes.core_cards([0, 1, 2], counts, share=0.3))
+    assert set(loose) == {"a", "b", "c", "d"}, loose
+
+
+def test_duplicate_groups_needs_matching_counts_not_just_cards():
+    counts = [Counter({"a": 3, "b": 1}), Counter({"a": 3, "b": 1}),
+              Counter({"a": 1, "b": 3})]
+    groups = archetypes.duplicate_groups(counts)
+    assert groups == [[0, 1]], groups
+
+
+def test_cohesion_is_the_mean_within_a_cluster():
+    m = [[0.0, 0.4, 0.6], [0.4, 0.0, 0.8], [0.6, 0.8, 0.0]]
+    assert abs(archetypes.cohesion([0, 1, 2], m) - 0.6) < 1e-9
+    assert archetypes.cohesion([0], m) == 1.0
+
+
+def test_null_decks_preserve_colour_size_and_shape():
+    """The null must randomize WHICH cards and nothing else.
+
+    A null that also changed colour identity or deck size would be beaten by
+    any clustering at all, and would license claims the data does not support.
+    """
+    import random as _random
+    deck = _arch_deck([{"card_slug": "unit-y2", "quantity": 3},
+                       {"card_slug": "unit-y4", "quantity": 2}],
+                      legends=[{"card_slug": "legend-y1", "quantity": 1}])
+    null = archetypes.null_decks([deck], _DB_CARDS, _random.Random(0))[0]
+    real = archetypes.deck_counts(deck)
+    assert sum(null.values()) == sum(real.values()), "deck size must be preserved"
+    assert sorted(null.values(), reverse=True) == sorted(real.values(), reverse=True), \
+        "copy-count shape must be preserved"
+    colours = {_DB_CARDS[s]["color"] for s in null}
+    assert colours <= {"Yellow"}, f"null drew outside the colour identity: {colours}"
+
+
+def test_null_decks_actually_randomize():
+    import random as _random
+    deck = _arch_deck([{"card_slug": f"filler-{i}", "quantity": 2} for i in range(10)],
+                      legends=[{"card_slug": "legend-r1", "quantity": 1}])
+    a = archetypes.null_decks([deck], _DB_CARDS, _random.Random(1))[0]
+    b = archetypes.null_decks([deck], _DB_CARDS, _random.Random(2))[0]
+    assert a != b, "two seeds produced the same null -- it is not sampling"
+
+
+def test_pairs_above_counts_each_pair_once():
+    m = [[0.0, 0.9, 0.9], [0.9, 0.0, 0.1], [0.9, 0.1, 0.0]]
+    assert archetypes.pairs_above(m, 0.5) == 2
+
+
+# --------------------------------------------------------------------------
 # rules ingestion
 # --------------------------------------------------------------------------
 
@@ -460,11 +956,14 @@ def test_rules_are_in_document_order():
     assert ids.index("7.4") < ids.index("7.9.3.2")
 
 
-def test_merged_corpus_is_the_two_chunk_sets():
+def test_merged_corpus_is_every_chunk_set():
     rules = read_jsonl(PROCESSED / "rule_chunks.jsonl", missing_ok=False)
     cards = read_jsonl(PROCESSED / "card_chunks.jsonl", missing_ok=False)
+    errata = read_jsonl(PROCESSED / "errata_chunks.jsonl", missing_ok=False)
     corpus = read_jsonl(PROCESSED / "corpus_chunks.jsonl", missing_ok=False)
-    assert len(corpus) == len(rules) + len(cards)
+    assert len(corpus) == len(rules) + len(cards) + len(errata), (
+        f"merged corpus has {len(corpus)} chunks but the per-source files hold "
+        f"{len(rules)}+{len(cards)}+{len(errata)} -- a source is being dropped")
     assert len({c["chunk_id"] for c in corpus}) == len(corpus), \
         "duplicate chunk_id in the merged corpus -- one chunk would be lost"
 
@@ -475,6 +974,38 @@ def test_card_names_are_ambiguous_so_ids_are_slugs():
     names = [c["name"] for c in cards]
     assert len(set(names)) < len(names), "no shared card names -- has the set changed?"
     assert len({c["id"] for c in cards}) == len(cards), "slugs are not unique"
+
+
+def _errata():
+    return read_jsonl(PROCESSED / "errata.jsonl", missing_ok=False)
+
+
+def test_corpus_every_erratum_joins_a_real_card():
+    card_ids = {c["id"] for c in _cards()}
+    orphans = [e["id"] for e in _errata() if e["card_id"] not in card_ids]
+    assert not orphans, f"errata pointing at no card: {orphans}"
+
+
+def test_corpus_errata_are_in_the_merged_index():
+    corpus = read_jsonl(PROCESSED / "corpus_chunks.jsonl", missing_ok=False)
+    sources = {c["source"] for c in corpus}
+    assert sources == {"rules", "cards", "errata"}, sources
+    n_errata = sum(1 for c in corpus if c["source"] == "errata")
+    assert n_errata == len(_errata()), \
+        "an erratum exists but is not retrievable -- it would never be surfaced"
+
+
+def test_corpus_errata_cards_are_annotated():
+    """Retrieval can return a card without its erratum; the card must say so."""
+    errata_cards = {e["card_id"] for e in _errata()}
+    chunks = {c["card_id"]: c for c in
+              read_jsonl(PROCESSED / "card_chunks.jsonl", missing_ok=False)}
+    for cid in errata_cards:
+        assert chunks[cid]["has_errata"] is True, cid
+        assert "ERRATA" in chunks[cid]["text"], cid
+    unflagged = [c for c in chunks.values()
+                 if c["has_errata"] and c["card_id"] not in errata_cards]
+    assert not unflagged, f"cards flagged with errata that have none: {unflagged[:3]}"
 
 
 def main():

@@ -1,0 +1,183 @@
+{
+  "card_count": 43,
+  "created_at": "2026-09-04T08:53:47.478Z",
+  "credit": null,
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "3dd9d550-678e-4d24-8483-e8cc3f82ff3d",
+  "is_valid": true,
+  "name": "B/G Braindance Control",
+  "owner": {
+    "owner_pseudonym": "author-13488a9e8287"
+  },
+  "slug": "new-deck",
+  "stats": {
+    "avgCost": 3.4,
+    "avgPower": 2.9,
+    "colorDistribution": {
+      "Blue": 28,
+      "Green": 12
+    },
+    "costCurve": [
+      0,
+      6,
+      11,
+      8,
+      3,
+      6,
+      3,
+      3
+    ],
+    "deckCount": 40,
+    "gearCount": 0,
+    "legendCount": 3,
+    "programCount": 21,
+    "ramBudget": {
+      "Blue": 4,
+      "Green": 2
+    },
+    "ramUsage": {
+      "Blue": 4,
+      "Green": 2
+    },
+    "totalCards": 43,
+    "unitCount": 19
+  },
+  "updated_at": "2026-09-04T10:32:18.821Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "12475e77-0e16-420e-a935-65eb74290de8",
+          "card_slug": "alt-cunningham-soulkiller-architect",
+          "preferred_printing_id": "cb23a651-dd1d-48f8-aca3-8d33fef79fdd",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "4560f3d0-5f63-466b-93b7-fc9d822a556e",
+          "card_slug": "judy-a-lvarez-braindance-maestro",
+          "preferred_printing_id": "8d0ad645-ac9a-4ecb-93d0-4c2061a4c477",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "72358c7d-9f29-4ef6-a682-f5bfc72c7714",
+          "card_slug": "goro-takemura-hands-unclean",
+          "preferred_printing_id": "2ba68619-7050-44c5-b0ce-b32d48b8f40f",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "3329",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 40,
+      "cards": [
+        {
+          "card_entity_id": "71652e73-984a-4630-be47-af947f87d5c1",
+          "card_slug": "corpo-security",
+          "preferred_printing_id": "80dcc139-d31d-4b89-86ff-cdbdd2664953",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "b0453570-7ed8-4031-9562-cb73d7a979e5",
+          "card_slug": "jacked-in-voodoo-boy",
+          "preferred_printing_id": "8e2f2d0c-0e92-4744-a510-a9c7ac371d81",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "3bb1f191-927e-45b3-86ca-cb30baabfe0d",
+          "card_slug": "delamain-rideshare-ai",
+          "preferred_printing_id": "c7eba3a0-63cb-4311-988e-d487a7c0841a",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "35c1fda3-60f9-4779-b690-30b283d52297",
+          "card_slug": "maelstrom-zealots",
+          "preferred_printing_id": "43e5568f-a609-4eff-8502-e81ba9134d2c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "6b078eff-4cef-4beb-a299-ed388a72ce45",
+          "card_slug": "lizzy-wizzy-delicate-weapon",
+          "preferred_printing_id": "7072a2d2-ec4f-4575-909e-15a107dfef79",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "3c144d6a-0c1a-43e9-bd35-85d6fc46adef",
+          "card_slug": "nadia-fighting-through-grief",
+          "preferred_printing_id": "4bab255b-763a-4762-b5e2-430316526b8a",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "783a9082-b79c-4b45-bf66-48728ff9b92d",
+          "card_slug": "placide-voodoo-sentinel",
+          "preferred_printing_id": "81c55c1f-362e-4ffd-8f9b-4162b298dbd5",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "f3ba5ef7-5e91-4956-a887-b88a4b854867",
+          "card_slug": "synapse-burnout",
+          "preferred_printing_id": "4277845b-1209-46df-8353-8fd36f56148a",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "ec857ab0-995e-4c32-84b6-7ba57b2f6137",
+          "card_slug": "trust-no-one",
+          "preferred_printing_id": "70a2a18e-05c2-4a49-9236-e33b2c9819a5",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "71fb410b-b56e-42b2-a793-4c49e935b9f1",
+          "card_slug": "corporate-surveillance",
+          "preferred_printing_id": "d3dc7194-a545-4588-9702-b094c27ce359",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "ad13a7bc-c49d-4166-8a9c-965e7bfa9b8f",
+          "card_slug": "reboot-optics",
+          "preferred_printing_id": "fb096d3f-48eb-47c0-a065-81b39691e12f",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "19f34c9b-a24a-43be-bd9f-62c37435e994",
+          "card_slug": "chrome-reverie",
+          "preferred_printing_id": "3f0319b8-e315-4e71-85b7-147a5b8ceba5",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "7977a175-0516-478e-b166-3edb035849a4",
+          "card_slug": "pyramid-song",
+          "preferred_printing_id": "3b1d0570-bb8e-4ea5-9ec7-c698d9c9f94d",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "c29aefc5-c8dd-4188-95d9-e46c5ee289eb",
+          "card_slug": "les-e-le-mens",
+          "preferred_printing_id": "14a0b813-d5e3-46e6-a001-aebbd3a95f11",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "9a0fd5a3-a00b-425c-a251-755eeab12bfe",
+          "card_slug": "towerfall",
+          "preferred_printing_id": "15920617-a06f-4302-9dfb-c85d3470c7eb",
+          "quantity": 2
+        }
+      ],
+      "display_name": "Deck",
+      "id": "3330",
+      "zone_code": "deck"
+    }
+  ]
+}

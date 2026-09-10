@@ -1,0 +1,183 @@
+{
+  "card_count": 43,
+  "created_at": "2026-09-03T03:44:42.181Z",
+  "credit": "ArkAngel.exe",
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "10b4d632-7cee-4160-ae01-c18f349e9731",
+  "is_valid": true,
+  "name": "Panam Hold my Hand",
+  "owner": {
+    "owner_pseudonym": "author-fb29bf21491c"
+  },
+  "slug": "new-deck",
+  "stats": {
+    "avgCost": 3,
+    "avgPower": 5.4,
+    "colorDistribution": {
+      "Green": 16,
+      "Red": 24
+    },
+    "costCurve": [
+      0,
+      11,
+      8,
+      6,
+      8,
+      0,
+      5,
+      2
+    ],
+    "deckCount": 40,
+    "gearCount": 16,
+    "legendCount": 3,
+    "programCount": 10,
+    "ramBudget": {
+      "Green": 2,
+      "Red": 4
+    },
+    "ramUsage": {
+      "Green": 2,
+      "Red": 3
+    },
+    "totalCards": 43,
+    "unitCount": 14
+  },
+  "updated_at": "2026-09-03T03:45:42.532Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "950f045c-f5a4-4318-9907-b630d64de754",
+          "card_slug": "panam-palmer-nomad-cavalry",
+          "preferred_printing_id": "6e4ee31b-82d1-421c-b658-ba3f79520365",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "9e681d3e-cbfd-4c7b-a69a-72a83dc8b847",
+          "card_slug": "royce-psycho-on-the-edge",
+          "preferred_printing_id": "3e2e228b-dbfb-484b-b82d-6972ff184aab",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "eff41c12-b872-4101-9779-00e691532893",
+          "card_slug": "adam-smasher-ender-of-legends",
+          "preferred_printing_id": "a9c1137e-2e33-4293-9dcc-9351c9a0bbee",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "1455",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 40,
+      "cards": [
+        {
+          "card_entity_id": "3c4e7fcb-933d-4712-9ce7-6052a14f8e94",
+          "card_slug": "swordwise-huscle",
+          "preferred_printing_id": "1c053198-187e-49ab-a9e0-0661b4c3b337",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "35c1fda3-60f9-4779-b690-30b283d52297",
+          "card_slug": "maelstrom-zealots",
+          "preferred_printing_id": "43e5568f-a609-4eff-8502-e81ba9134d2c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "0974a7af-dcd7-44d9-b57a-b6a4719afcd6",
+          "card_slug": "pepe-najarro-working-doubles",
+          "preferred_printing_id": "0de81196-f1d3-4fd0-ae6a-062dae3f3f2c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "e8aa7757-e5e3-4137-8970-4fa546b9bed9",
+          "card_slug": "animals-wrecker",
+          "preferred_printing_id": "7514dd38-6e2d-43dd-9715-6b3a32615382",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "6cf6456d-d020-4c6c-9041-66d503a01a0a",
+          "card_slug": "yorinobu-arasaka-steel-dragon",
+          "preferred_printing_id": "c057ccc4-bb15-4efd-8115-8d223568134b",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "28198e04-60e2-4f81-9786-903a9a947d7a",
+          "card_slug": "mantis-blades",
+          "preferred_printing_id": "7ffa8ba4-f187-4ba0-a719-fa8ebf45a03b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "5233bacc-f39f-4383-8e25-57ef634735ca",
+          "card_slug": "arasaka-emergency-radioport",
+          "preferred_printing_id": "d2da65d5-fdaf-44f4-a692-a5672d2c1cca",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "7da95cf0-f749-439f-b40a-9d3057d2c995",
+          "card_slug": "riot-shield",
+          "preferred_printing_id": "ce570725-0de7-438a-a9c8-33074a7180ba",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "4670d02b-b97a-4771-bb7e-65bdc012530e",
+          "card_slug": "satori-sword-of-saburo",
+          "preferred_printing_id": "11a8fed4-5401-4cfc-901b-ab9b5b94d0ab",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "1d8f611c-dd08-48d1-82eb-451d56dcf651",
+          "card_slug": "deadman-transmitter",
+          "preferred_printing_id": "32957075-42ff-47e3-8252-e78877ef61f7",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "1d7f3d02-27b5-4ab8-af99-f8f2e0fd62cf",
+          "card_slug": "zetatech-berserk",
+          "preferred_printing_id": "8b8bcfcd-37c8-4bca-8c25-17a3b3363349",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "a708461f-1f91-4789-bb0d-96e3de5fcf44",
+          "card_slug": "industrial-assembly",
+          "preferred_printing_id": "9103b5db-bf95-4385-8941-308cb0353c9a",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "20484778-9294-4148-bd8c-fa78572f4452",
+          "card_slug": "peace-offering",
+          "preferred_printing_id": "8570122a-52aa-4a6b-8d72-4c8848df0f9b",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "f3ba5ef7-5e91-4956-a887-b88a4b854867",
+          "card_slug": "synapse-burnout",
+          "preferred_printing_id": "4277845b-1209-46df-8353-8fd36f56148a",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "27c01b18-2a9c-4d66-ad21-b75869fba666",
+          "card_slug": "gunpoint-diplomacy",
+          "preferred_printing_id": "efc5dfdd-f393-4bbe-a7bc-ac959ba1e6bc",
+          "quantity": 2
+        }
+      ],
+      "display_name": "Deck",
+      "id": "1456",
+      "zone_code": "deck"
+    }
+  ]
+}

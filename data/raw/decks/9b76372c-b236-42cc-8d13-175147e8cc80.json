@@ -1,0 +1,192 @@
+{
+  "card_count": 43,
+  "created_at": "2026-09-03T01:35:35.279Z",
+  "credit": "@Netrunner",
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "9b76372c-b236-42cc-8d13-175147e8cc80",
+  "is_valid": true,
+  "name": "Chippin\u2018 In",
+  "owner": {
+    "owner_pseudonym": "author-8451af4f389b"
+  },
+  "slug": "new-deck",
+  "stats": {
+    "avgCost": 2.7,
+    "avgPower": 5,
+    "colorDistribution": {
+      "Green": 9,
+      "Red": 22,
+      "Yellow": 9
+    },
+    "costCurve": [
+      0,
+      10,
+      13,
+      4,
+      7,
+      3,
+      3,
+      0
+    ],
+    "deckCount": 40,
+    "gearCount": 13,
+    "legendCount": 3,
+    "programCount": 9,
+    "ramBudget": {
+      "Green": 2,
+      "Red": 2,
+      "Yellow": 2
+    },
+    "ramUsage": {
+      "Green": 2,
+      "Red": 2,
+      "Yellow": 2
+    },
+    "totalCards": 43,
+    "unitCount": 18
+  },
+  "updated_at": "2026-09-06T05:35:32.607Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "56947a14-0b1e-4c3d-89e0-17839bcf4280",
+          "card_slug": "johnny-silverhand-rocking-renegade",
+          "preferred_printing_id": "a8a7d286-0c66-4f01-aca7-45570474d9e4",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "e64e2978-695b-4fc5-b17b-62c710a11c47",
+          "card_slug": "river-ward-detective-on-the-hunt",
+          "preferred_printing_id": "b3895f75-e147-49b0-a6d8-6fb35b356b2e",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "04a82ebf-eba1-4888-a95d-f01b9bbd0167",
+          "card_slug": "jackie-welles-mama-s-favorite",
+          "preferred_printing_id": "9f61ebda-53fd-4b23-8383-d0e0bd32b847",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "1223",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 40,
+      "cards": [
+        {
+          "card_entity_id": "b3b40c68-705b-41ff-ae10-4132497c4a39",
+          "card_slug": "sketchy-ripper",
+          "preferred_printing_id": "12f0398c-bcc3-4944-af72-ac2ae9f36761",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "1b516742-cdf3-4597-8ba1-be787240ab3b",
+          "card_slug": "la-llorona-ghost-of-the-past",
+          "preferred_printing_id": "e3d1d8a0-1d53-4c85-84ca-66439fd3639a",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "21f68be2-c664-4ae0-a7ef-965a3a5a14c8",
+          "card_slug": "meredith-stout-stone-cold-corpo",
+          "preferred_printing_id": "5939771d-bdcc-4b42-aea4-376311189e93",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "0974a7af-dcd7-44d9-b57a-b6a4719afcd6",
+          "card_slug": "pepe-najarro-working-doubles",
+          "preferred_printing_id": "0de81196-f1d3-4fd0-ae6a-062dae3f3f2c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "7ea6eecc-e55e-4634-93eb-b2b46e79635d",
+          "card_slug": "rockn-rockerboy",
+          "preferred_printing_id": "07aaea5c-5aef-466e-956a-2e68930669c0",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "9a4002b0-0f0b-4c9a-a198-691d058b6dcc",
+          "card_slug": "johnny-silverhand-never-stop-fighting",
+          "preferred_printing_id": "14ab188f-2ce3-4790-8823-5a352371ff1f",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "28198e04-60e2-4f81-9786-903a9a947d7a",
+          "card_slug": "mantis-blades",
+          "preferred_printing_id": "7ffa8ba4-f187-4ba0-a719-fa8ebf45a03b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "5233bacc-f39f-4383-8e25-57ef634735ca",
+          "card_slug": "arasaka-emergency-radioport",
+          "preferred_printing_id": "d2da65d5-fdaf-44f4-a692-a5672d2c1cca",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "7da95cf0-f749-439f-b40a-9d3057d2c995",
+          "card_slug": "riot-shield",
+          "preferred_printing_id": "ce570725-0de7-438a-a9c8-33074a7180ba",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "4670d02b-b97a-4771-bb7e-65bdc012530e",
+          "card_slug": "satori-sword-of-saburo",
+          "preferred_printing_id": "11a8fed4-5401-4cfc-901b-ab9b5b94d0ab",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "b88d436f-1ec7-4f62-9dbc-c5f5e0d0a0df",
+          "card_slug": "zetatech-faceplate",
+          "preferred_printing_id": "79cdc9a5-d94d-4df4-9f88-aa02fb0357b3",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "2697ed9d-72fc-4658-9c94-977668911a67",
+          "card_slug": "detonate",
+          "preferred_printing_id": "bec995b7-b76b-4605-9c36-3d7697cdd4f5",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "a708461f-1f91-4789-bb0d-96e3de5fcf44",
+          "card_slug": "industrial-assembly",
+          "preferred_printing_id": "9103b5db-bf95-4385-8941-308cb0353c9a",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "20484778-9294-4148-bd8c-fa78572f4452",
+          "card_slug": "peace-offering",
+          "preferred_printing_id": "8570122a-52aa-4a6b-8d72-4c8848df0f9b",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "144c3559-3518-4c01-b9e6-af42b7166661",
+          "card_slug": "over-the-edge",
+          "preferred_printing_id": "f1cf4133-45ef-4de5-abfc-757de1613731",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "0f7c1c54-0e2e-44a5-ac7f-5263fbab21d3",
+          "card_slug": "memory-relapse",
+          "preferred_printing_id": "ef9f2959-de87-4a54-be45-5c9dcc507aba",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Deck",
+      "id": "1224",
+      "zone_code": "deck"
+    }
+  ]
+}

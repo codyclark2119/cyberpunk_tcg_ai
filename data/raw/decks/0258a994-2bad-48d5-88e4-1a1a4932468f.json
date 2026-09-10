@@ -1,0 +1,177 @@
+{
+  "card_count": 43,
+  "created_at": "2026-09-03T01:25:24.477Z",
+  "credit": null,
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "0258a994-2bad-48d5-88e4-1a1a4932468f",
+  "is_valid": true,
+  "name": "Big Vanillas.wav",
+  "owner": {
+    "owner_pseudonym": "author-ac262b1667d2"
+  },
+  "slug": "new-deck-2",
+  "stats": {
+    "avgCost": 3.4,
+    "avgPower": 6.5,
+    "colorDistribution": {
+      "Red": 28,
+      "Yellow": 12
+    },
+    "costCurve": [
+      0,
+      9,
+      6,
+      8,
+      5,
+      3,
+      6,
+      3
+    ],
+    "deckCount": 40,
+    "gearCount": 6,
+    "legendCount": 3,
+    "programCount": 16,
+    "ramBudget": {
+      "Red": 4,
+      "Yellow": 2
+    },
+    "ramUsage": {
+      "Red": 3,
+      "Yellow": 2
+    },
+    "totalCards": 43,
+    "unitCount": 18
+  },
+  "updated_at": "2026-09-03T01:26:11.036Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "91df478a-91d5-4d42-a624-4c20ec61121c",
+          "card_slug": "dexter-deshawn-off-the-grid",
+          "preferred_printing_id": "9a298f42-3a9f-4510-b2fd-9cf1b34ade27",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "fc516d53-5fd8-43dd-8349-9e60f0606efa",
+          "card_slug": "muamar-reyes-el-capita-n",
+          "preferred_printing_id": "dbbf4a6c-340d-4356-81ad-776940a7ee32",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "81a8dec7-9541-4020-93e1-7d798a57dcbc",
+          "card_slug": "v-streetkid",
+          "preferred_printing_id": "3fc63c58-5954-4744-a5af-047bfc5cb159",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "1183",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 40,
+      "cards": [
+        {
+          "card_entity_id": "fee335a7-2546-48a5-9bb8-b0886014ce66",
+          "card_slug": "ruthless-lowlife",
+          "preferred_printing_id": "e1b674d0-4ac7-4523-be19-809308871d49",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "ce45cb9d-430a-4ccf-bb4b-acf0b76120e0",
+          "card_slug": "augmented-negotiators",
+          "preferred_printing_id": "a195323a-e29e-4c05-8e6c-7f1638c8264c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "e48c9d39-ef27-4b8f-8690-d75c3a4807b0",
+          "card_slug": "6th-street-recruits",
+          "preferred_printing_id": "756f3e53-9ff3-4c01-9f33-bb27a1cd5957",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "7ea6eecc-e55e-4634-93eb-b2b46e79635d",
+          "card_slug": "rockn-rockerboy",
+          "preferred_printing_id": "07aaea5c-5aef-466e-956a-2e68930669c0",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "e8aa7757-e5e3-4137-8970-4fa546b9bed9",
+          "card_slug": "animals-wrecker",
+          "preferred_printing_id": "7514dd38-6e2d-43dd-9715-6b3a32615382",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "6cf6456d-d020-4c6c-9041-66d503a01a0a",
+          "card_slug": "yorinobu-arasaka-steel-dragon",
+          "preferred_printing_id": "c057ccc4-bb15-4efd-8115-8d223568134b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "28198e04-60e2-4f81-9786-903a9a947d7a",
+          "card_slug": "mantis-blades",
+          "preferred_printing_id": "7ffa8ba4-f187-4ba0-a719-fa8ebf45a03b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "b88d436f-1ec7-4f62-9dbc-c5f5e0d0a0df",
+          "card_slug": "zetatech-faceplate",
+          "preferred_printing_id": "79cdc9a5-d94d-4df4-9f88-aa02fb0357b3",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "d039e4b3-9b83-40da-8d8f-b1dfb1f172f1",
+          "card_slug": "afterparty-at-lizzie-s",
+          "preferred_printing_id": "d53925ee-df55-4b71-8ca0-13ec3ede2076",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "a708461f-1f91-4789-bb0d-96e3de5fcf44",
+          "card_slug": "industrial-assembly",
+          "preferred_printing_id": "9103b5db-bf95-4385-8941-308cb0353c9a",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "3eb0f8bf-afb9-42a7-a4fa-710e2eb5c89c",
+          "card_slug": "bonnie-and-clyde",
+          "preferred_printing_id": "26d60270-1b43-4af3-a8b7-1c3db9675cfa",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "144c3559-3518-4c01-b9e6-af42b7166661",
+          "card_slug": "over-the-edge",
+          "preferred_printing_id": "f1cf4133-45ef-4de5-abfc-757de1613731",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "050d0502-94b0-4bee-a7e6-a9b00f31b4ae",
+          "card_slug": "shattered-memories",
+          "preferred_printing_id": "3401c7cf-45c5-4fe4-a883-284a9334262d",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "81fb66ee-b054-4f78-b0c9-7d2c9ff53435",
+          "card_slug": "carnage-at-the-colosseum",
+          "preferred_printing_id": "36128749-4cb1-440d-b4de-4fd463cc2f5c",
+          "quantity": 3
+        }
+      ],
+      "display_name": "Deck",
+      "id": "1184",
+      "zone_code": "deck"
+    }
+  ]
+}

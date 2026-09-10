@@ -1,0 +1,180 @@
+{
+  "card_count": 43,
+  "created_at": "2026-09-04T22:39:33.995Z",
+  "credit": null,
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "67257124-8bfb-44fb-8323-d63e24a196aa",
+  "is_valid": true,
+  "name": "The Blessed Machine",
+  "owner": {
+    "owner_pseudonym": "author-b30e9d42c867"
+  },
+  "slug": "certainty-of-steel",
+  "stats": {
+    "avgCost": 3.3,
+    "avgPower": 3.6,
+    "colorDistribution": {
+      "Yellow": 40
+    },
+    "costCurve": [
+      0,
+      2,
+      15,
+      11,
+      3,
+      5,
+      2,
+      2
+    ],
+    "deckCount": 40,
+    "gearCount": 11,
+    "legendCount": 3,
+    "programCount": 11,
+    "ramBudget": {
+      "Yellow": 6
+    },
+    "ramUsage": {
+      "Yellow": 6
+    },
+    "totalCards": 43,
+    "unitCount": 18
+  },
+  "updated_at": "2026-09-04T22:45:58.029Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "3b3f941d-aa58-4337-99dc-4af3fd3ccd47",
+          "card_slug": "dum-dum-maelstrom-triggerman",
+          "preferred_printing_id": "aaac486c-dbfd-4137-b373-24a2df29522c",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "e64e2978-695b-4fc5-b17b-62c710a11c47",
+          "card_slug": "river-ward-detective-on-the-hunt",
+          "preferred_printing_id": "b3895f75-e147-49b0-a6d8-6fb35b356b2e",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "f090dc44-d7f0-4aec-a19e-9213155a6611",
+          "card_slug": "viktor-vektor-sit-down-and-relax",
+          "preferred_printing_id": "7d539173-4022-402e-a9f4-100338935fd2",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "4289",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 40,
+      "cards": [
+        {
+          "card_entity_id": "b05cb065-309e-45a3-bbe0-20f4b6ea71aa",
+          "card_slug": "secondhand-bombus",
+          "preferred_printing_id": "fcbb6d58-6666-4bd3-8ff0-64930fb0f422",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "b3b40c68-705b-41ff-ae10-4132497c4a39",
+          "card_slug": "sketchy-ripper",
+          "preferred_printing_id": "12f0398c-bcc3-4944-af72-ac2ae9f36761",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "ce45cb9d-430a-4ccf-bb4b-acf0b76120e0",
+          "card_slug": "augmented-negotiators",
+          "preferred_printing_id": "a195323a-e29e-4c05-8e6c-7f1638c8264c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "f57094f7-0720-4ba5-9a71-aafbc714d65a",
+          "card_slug": "maelstrom-goons",
+          "preferred_printing_id": "e14bdd12-1214-4104-bfdd-ae023c21527c",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "647bb074-197f-4059-bac5-251b47c98287",
+          "card_slug": "viktor-vektor-you-might-feel-a-little-pinch",
+          "preferred_printing_id": "4eca7fcd-85c1-43d0-8a07-4227312ab0db",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "2a4a1f1a-9888-403e-90a9-4021c3f52674",
+          "card_slug": "trauma-team-operatives",
+          "preferred_printing_id": "0d6c1f36-628b-4631-a96d-2000f6fb054e",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "a2ad9c2f-bfb7-473b-9408-91af142d269d",
+          "card_slug": "adam-smasher-metal-over-meat",
+          "preferred_printing_id": "d23e322f-ad60-431d-b33e-1e8a813248ff",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "6a5a1e34-fdd3-42de-b6bd-4b2553d6df39",
+          "card_slug": "adrenaline-converter",
+          "preferred_printing_id": "535df2a9-d2af-463c-85dd-dafe67cab8fb",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "b88d436f-1ec7-4f62-9dbc-c5f5e0d0a0df",
+          "card_slug": "zetatech-faceplate",
+          "preferred_printing_id": "79cdc9a5-d94d-4df4-9f88-aa02fb0357b3",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "6dd172b1-2341-473f-8837-a9efe6a75701",
+          "card_slug": "gorilla-arms",
+          "preferred_printing_id": "e1959b9e-d32d-43be-94c3-a595809e0c28",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "1263e2bf-bc15-4550-ad07-b028602d1354",
+          "card_slug": "the-relic-experimental-biochip",
+          "preferred_printing_id": "38d14168-c182-4a34-a3b2-1b8380ab6635",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "d039e4b3-9b83-40da-8d8f-b1dfb1f172f1",
+          "card_slug": "afterparty-at-lizzie-s",
+          "preferred_printing_id": "d53925ee-df55-4b71-8ca0-13ec3ede2076",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "5ea00b3a-7e85-4c7d-91ad-90e0cf370c27",
+          "card_slug": "the-heist",
+          "preferred_printing_id": "a1e2c25e-fb27-458f-984d-df422f879664",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "793d9650-0a59-4c89-9d85-05a9d6873d2e",
+          "card_slug": "live-with-the-aftermath",
+          "preferred_printing_id": "f931c82e-a382-4f60-808c-5910ac9850be",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "84561b4c-67f0-4b2e-80ac-6b9c0a2396e3",
+          "card_slug": "bootleg-black-sapphire-show",
+          "preferred_printing_id": "decc76ed-f5ed-4f02-90d7-e01e2a3975e0",
+          "quantity": 3
+        }
+      ],
+      "display_name": "Deck",
+      "id": "4290",
+      "zone_code": "deck"
+    }
+  ]
+}

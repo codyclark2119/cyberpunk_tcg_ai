@@ -1,0 +1,210 @@
+{
+  "card_count": 47,
+  "created_at": "2026-09-06T02:01:28.080Z",
+  "credit": null,
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "d96d5af5-4e3e-448c-a347-f31e06db39ff",
+  "is_valid": true,
+  "name": "Fixers Fixing",
+  "owner": {
+    "owner_pseudonym": "author-d4c3f70ce6fe"
+  },
+  "slug": "new-deck",
+  "stats": {
+    "avgCost": 2.8,
+    "avgPower": 4.9,
+    "colorDistribution": {
+      "Blue": 12,
+      "Green": 7,
+      "Yellow": 25
+    },
+    "costCurve": [
+      0,
+      13,
+      13,
+      7,
+      2,
+      4,
+      3,
+      2
+    ],
+    "deckCount": 44,
+    "gearCount": 13,
+    "legendCount": 3,
+    "programCount": 16,
+    "ramBudget": {
+      "Blue": 2,
+      "Green": 2,
+      "Yellow": 2
+    },
+    "ramUsage": {
+      "Blue": 2,
+      "Green": 2,
+      "Yellow": 2
+    },
+    "totalCards": 47,
+    "unitCount": 15
+  },
+  "updated_at": "2026-09-06T02:05:47.734Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "fc516d53-5fd8-43dd-8349-9e60f0606efa",
+          "card_slug": "muamar-reyes-el-capita-n",
+          "preferred_printing_id": "dbbf4a6c-340d-4356-81ad-776940a7ee32",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "501a3796-9983-400f-86e4-97ffac5d5451",
+          "card_slug": "padre-man-of-the-cross",
+          "preferred_printing_id": "c7f0583f-2493-4e1f-9967-977bc0c6fa15",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "99f5e311-8dfd-42a9-abd0-2e50ac68679e",
+          "card_slug": "wakako-okada-peace-and-harmony",
+          "preferred_printing_id": "8f7a7d0b-5935-4732-a9ba-76b19467d5a0",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "6189",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 44,
+      "cards": [
+        {
+          "card_entity_id": "b05cb065-309e-45a3-bbe0-20f4b6ea71aa",
+          "card_slug": "secondhand-bombus",
+          "preferred_printing_id": "fcbb6d58-6666-4bd3-8ff0-64930fb0f422",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "b3b40c68-705b-41ff-ae10-4132497c4a39",
+          "card_slug": "sketchy-ripper",
+          "preferred_printing_id": "12f0398c-bcc3-4944-af72-ac2ae9f36761",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "f61b944a-32e3-4085-894b-7bd498325156",
+          "card_slug": "dexter-deshawn-one-last-chance",
+          "preferred_printing_id": "e2f38541-ecc9-41dc-ae15-164171391bff",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "0273f402-94fb-4b59-90ec-a1057c2d1284",
+          "card_slug": "caliber-totentanz-s-top-dog",
+          "preferred_printing_id": "4b5dc479-0db1-46dd-859f-e7dc34d50f03",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "95840ebd-d00a-49ff-b4e5-e2064cfc13a9",
+          "card_slug": "maxtac-suppression-team",
+          "preferred_printing_id": "47f55164-e5da-494e-9d55-02bd0b7f97c1",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "b665e103-456b-4c51-9551-95b0bc87212a",
+          "card_slug": "jackie-welles-ride-or-die-choom",
+          "preferred_printing_id": "12d44604-ad7b-4e82-b517-9edb0be44427",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "783a9082-b79c-4b45-bf66-48728ff9b92d",
+          "card_slug": "placide-voodoo-sentinel",
+          "preferred_printing_id": "81c55c1f-362e-4ffd-8f9b-4162b298dbd5",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "654f2289-5d75-4f8b-bd35-702031fbb214",
+          "card_slug": "kiroshi-optics",
+          "preferred_printing_id": "ec3368a9-79f1-4dfc-9cf7-1cb464ec1c88",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "6720e7fd-d1e8-4c8a-9ff2-f51f62241902",
+          "card_slug": "mandibular-upgrade",
+          "preferred_printing_id": "219b7a29-0f8b-4750-bc46-0f39eec6721b",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "39665784-d2f1-43e8-a958-894bac716d71",
+          "card_slug": "tetratronic-rippler",
+          "preferred_printing_id": "576f82ff-3c4d-4637-aa91-2773de43bbc8",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "b88d436f-1ec7-4f62-9dbc-c5f5e0d0a0df",
+          "card_slug": "zetatech-faceplate",
+          "preferred_printing_id": "79cdc9a5-d94d-4df4-9f88-aa02fb0357b3",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "40c98fdc-45d0-458d-be2c-2697dc337ca5",
+          "card_slug": "netwatch-netdriver",
+          "preferred_printing_id": "07f119d6-8fb2-4b23-9862-818a7e941010",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "20484778-9294-4148-bd8c-fa78572f4452",
+          "card_slug": "peace-offering",
+          "preferred_printing_id": "8570122a-52aa-4a6b-8d72-4c8848df0f9b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "ec857ab0-995e-4c32-84b6-7ba57b2f6137",
+          "card_slug": "trust-no-one",
+          "preferred_printing_id": "70a2a18e-05c2-4a49-9236-e33b2c9819a5",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "71fb410b-b56e-42b2-a793-4c49e935b9f1",
+          "card_slug": "corporate-surveillance",
+          "preferred_printing_id": "d3dc7194-a545-4588-9702-b094c27ce359",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "ad13a7bc-c49d-4166-8a9c-965e7bfa9b8f",
+          "card_slug": "reboot-optics",
+          "preferred_printing_id": "fb096d3f-48eb-47c0-a065-81b39691e12f",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "5ea00b3a-7e85-4c7d-91ad-90e0cf370c27",
+          "card_slug": "the-heist",
+          "preferred_printing_id": "a1e2c25e-fb27-458f-984d-df422f879664",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "87e001dd-8604-4523-af6e-d768118ccf98",
+          "card_slug": "cyberpsychosis",
+          "preferred_printing_id": "5aafe80b-7c7d-4060-8677-a2881a21dd72",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "0f7c1c54-0e2e-44a5-ac7f-5263fbab21d3",
+          "card_slug": "memory-relapse",
+          "preferred_printing_id": "ef9f2959-de87-4a54-be45-5c9dcc507aba",
+          "quantity": 2
+        }
+      ],
+      "display_name": "Deck",
+      "id": "6190",
+      "zone_code": "deck"
+    }
+  ]
+}

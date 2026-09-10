@@ -1,0 +1,201 @@
+{
+  "card_count": 43,
+  "created_at": "2026-09-03T01:27:25.629Z",
+  "credit": null,
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "b12a66b5-1a71-4389-8f38-23f91a7b993b",
+  "is_valid": true,
+  "name": "The Rebel Path",
+  "owner": {
+    "owner_pseudonym": "author-a8a9fdfa0e9b"
+  },
+  "slug": "new-deck-2",
+  "stats": {
+    "avgCost": 3.4,
+    "avgPower": 5.5,
+    "colorDistribution": {
+      "Red": 28,
+      "Yellow": 12
+    },
+    "costCurve": [
+      0,
+      7,
+      5,
+      10,
+      8,
+      4,
+      6,
+      0
+    ],
+    "deckCount": 40,
+    "gearCount": 6,
+    "legendCount": 3,
+    "programCount": 16,
+    "ramBudget": {
+      "Red": 4,
+      "Yellow": 2
+    },
+    "ramUsage": {
+      "Red": 3,
+      "Yellow": 2
+    },
+    "totalCards": 43,
+    "unitCount": 18
+  },
+  "updated_at": "2026-09-05T05:09:50.269Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "56947a14-0b1e-4c3d-89e0-17839bcf4280",
+          "card_slug": "johnny-silverhand-rocking-renegade",
+          "preferred_printing_id": "4f8fbab4-7aad-4271-8dd6-8cdf68654c5e",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "81a8dec7-9541-4020-93e1-7d798a57dcbc",
+          "card_slug": "v-streetkid",
+          "preferred_printing_id": "20debd66-ff1c-42c3-9869-928cba33ccb5",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "012b0300-6af1-417e-86a2-dc208a60ac15",
+          "card_slug": "rogue-amendiares-preem-solo",
+          "preferred_printing_id": "6b75ec33-da55-46c7-a88c-f0fb89263253",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "1189",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 40,
+      "cards": [
+        {
+          "card_entity_id": "b05cb065-309e-45a3-bbe0-20f4b6ea71aa",
+          "card_slug": "secondhand-bombus",
+          "preferred_printing_id": "fcbb6d58-6666-4bd3-8ff0-64930fb0f422",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "f61b944a-32e3-4085-894b-7bd498325156",
+          "card_slug": "dexter-deshawn-one-last-chance",
+          "preferred_printing_id": "e2f38541-ecc9-41dc-ae15-164171391bff",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "5cf0c12a-814e-4801-8171-7fe8c09fad21",
+          "card_slug": "valentino-guerrera",
+          "preferred_printing_id": "67b82386-5cb0-4ae7-b940-ac0d982b773c",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "5c4d4058-9185-4305-9e8f-7eca41cf6674",
+          "card_slug": "kerry-eurodyne-the-last-rockerboy",
+          "preferred_printing_id": "c26c7db6-f540-4073-ab33-b09335631764",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "7ea6eecc-e55e-4634-93eb-b2b46e79635d",
+          "card_slug": "rockn-rockerboy",
+          "preferred_printing_id": "07aaea5c-5aef-466e-956a-2e68930669c0",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "9ed58d18-df78-4689-b28f-77260243c522",
+          "card_slug": "v-roamer-of-the-badlands",
+          "preferred_printing_id": "c1747b7d-de5c-43eb-a4ed-b632f1861712",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "b665e103-456b-4c51-9551-95b0bc87212a",
+          "card_slug": "jackie-welles-ride-or-die-choom",
+          "preferred_printing_id": "12d44604-ad7b-4e82-b517-9edb0be44427",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "9a4002b0-0f0b-4c9a-a198-691d058b6dcc",
+          "card_slug": "johnny-silverhand-never-stop-fighting",
+          "preferred_printing_id": "7b113940-7325-4304-b07a-61719b47a49c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "28198e04-60e2-4f81-9786-903a9a947d7a",
+          "card_slug": "mantis-blades",
+          "preferred_printing_id": "7ffa8ba4-f187-4ba0-a719-fa8ebf45a03b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "4670d02b-b97a-4771-bb7e-65bdc012530e",
+          "card_slug": "satori-sword-of-saburo",
+          "preferred_printing_id": "11a8fed4-5401-4cfc-901b-ab9b5b94d0ab",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "d039e4b3-9b83-40da-8d8f-b1dfb1f172f1",
+          "card_slug": "afterparty-at-lizzie-s",
+          "preferred_printing_id": "d53925ee-df55-4b71-8ca0-13ec3ede2076",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "2697ed9d-72fc-4658-9c94-977668911a67",
+          "card_slug": "detonate",
+          "preferred_printing_id": "bec995b7-b76b-4605-9c36-3d7697cdd4f5",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "3eb0f8bf-afb9-42a7-a4fa-710e2eb5c89c",
+          "card_slug": "bonnie-and-clyde",
+          "preferred_printing_id": "26d60270-1b43-4af3-a8b7-1c3db9675cfa",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "87e001dd-8604-4523-af6e-d768118ccf98",
+          "card_slug": "cyberpsychosis",
+          "preferred_printing_id": "5aafe80b-7c7d-4060-8677-a2881a21dd72",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "144c3559-3518-4c01-b9e6-af42b7166661",
+          "card_slug": "over-the-edge",
+          "preferred_printing_id": "f1cf4133-45ef-4de5-abfc-757de1613731",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "27c01b18-2a9c-4d66-ad21-b75869fba666",
+          "card_slug": "gunpoint-diplomacy",
+          "preferred_printing_id": "efc5dfdd-f393-4bbe-a7bc-ac959ba1e6bc",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "050d0502-94b0-4bee-a7e6-a9b00f31b4ae",
+          "card_slug": "shattered-memories",
+          "preferred_printing_id": "3401c7cf-45c5-4fe4-a883-284a9334262d",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "81fb66ee-b054-4f78-b0c9-7d2c9ff53435",
+          "card_slug": "carnage-at-the-colosseum",
+          "preferred_printing_id": "36128749-4cb1-440d-b4de-4fd463cc2f5c",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Deck",
+      "id": "1190",
+      "zone_code": "deck"
+    }
+  ]
+}

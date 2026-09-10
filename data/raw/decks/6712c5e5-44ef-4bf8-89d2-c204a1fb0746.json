@@ -1,0 +1,195 @@
+{
+  "card_count": 43,
+  "created_at": "2026-09-05T00:04:06.326Z",
+  "credit": null,
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "6712c5e5-44ef-4bf8-89d2-c204a1fb0746",
+  "is_valid": true,
+  "name": "GGY V1",
+  "owner": {
+    "owner_pseudonym": "author-fdab71a41716"
+  },
+  "slug": "ggy-v1",
+  "stats": {
+    "avgCost": 3.8,
+    "avgPower": 4.3,
+    "colorDistribution": {
+      "Green": 11,
+      "Yellow": 29
+    },
+    "costCurve": [
+      0,
+      3,
+      8,
+      11,
+      4,
+      4,
+      7,
+      3
+    ],
+    "deckCount": 40,
+    "gearCount": 13,
+    "legendCount": 3,
+    "programCount": 4,
+    "ramBudget": {
+      "Green": 4,
+      "Yellow": 2
+    },
+    "ramUsage": {
+      "Green": 3,
+      "Yellow": 2
+    },
+    "totalCards": 43,
+    "unitCount": 23
+  },
+  "updated_at": "2026-09-05T22:07:22.133Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "424c9c0f-cc01-40ec-8404-75957985c7f8",
+          "card_slug": "goro-takemura-vengeful-bodyguard",
+          "preferred_printing_id": "0f6e52f0-511f-4ae9-a380-5e718b26e58a",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "950f045c-f5a4-4318-9907-b630d64de754",
+          "card_slug": "panam-palmer-nomad-cavalry",
+          "preferred_printing_id": "6e4ee31b-82d1-421c-b658-ba3f79520365",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "012b0300-6af1-417e-86a2-dc208a60ac15",
+          "card_slug": "rogue-amendiares-preem-solo",
+          "preferred_printing_id": "6b75ec33-da55-46c7-a88c-f0fb89263253",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "4397",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 40,
+      "cards": [
+        {
+          "card_entity_id": "b3b40c68-705b-41ff-ae10-4132497c4a39",
+          "card_slug": "sketchy-ripper",
+          "preferred_printing_id": "12f0398c-bcc3-4944-af72-ac2ae9f36761",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "ce45cb9d-430a-4ccf-bb4b-acf0b76120e0",
+          "card_slug": "augmented-negotiators",
+          "preferred_printing_id": "a195323a-e29e-4c05-8e6c-7f1638c8264c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "f57094f7-0720-4ba5-9a71-aafbc714d65a",
+          "card_slug": "maelstrom-goons",
+          "preferred_printing_id": "e14bdd12-1214-4104-bfdd-ae023c21527c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "2902da45-ec28-4971-a731-ea1eda4c6ba1",
+          "card_slug": "hanako-arasaka-in-a-gilded-cage",
+          "preferred_printing_id": "005dfb9e-7bdd-4cc1-ade2-08dd28ed5998",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "3ce6b982-7bba-46f1-8832-8867ec3588d4",
+          "card_slug": "offduty-malfini",
+          "preferred_printing_id": "fbefb447-34a3-4d53-9b23-d1bf141f8eec",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "0273f402-94fb-4b59-90ec-a1057c2d1284",
+          "card_slug": "caliber-totentanz-s-top-dog",
+          "preferred_printing_id": "4b5dc479-0db1-46dd-859f-e7dc34d50f03",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "92d23553-8b0d-49cd-8cbe-6f00b3377298",
+          "card_slug": "viktor-vektor-drop-your-illusions",
+          "preferred_printing_id": "2285cd3a-7010-4ba4-b23a-ba40aba296f9",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "2a9deb43-bf9a-41db-9a05-bb0d357bb08e",
+          "card_slug": "heywood-ripperdoc",
+          "preferred_printing_id": "2fc5ac93-dae5-4af5-a813-77abc0cc8dfd",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "2a4a1f1a-9888-403e-90a9-4021c3f52674",
+          "card_slug": "trauma-team-operatives",
+          "preferred_printing_id": "0d6c1f36-628b-4631-a96d-2000f6fb054e",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "a29490bb-2836-48b6-a4f9-a44b25c8bfa2",
+          "card_slug": "saul-bright-stormrider",
+          "preferred_printing_id": "60e476b4-51ab-4b10-8861-a8362b4232d7",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "6720e7fd-d1e8-4c8a-9ff2-f51f62241902",
+          "card_slug": "mandibular-upgrade",
+          "preferred_printing_id": "219b7a29-0f8b-4750-bc46-0f39eec6721b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "7da95cf0-f749-439f-b40a-9d3057d2c995",
+          "card_slug": "riot-shield",
+          "preferred_printing_id": "ce570725-0de7-438a-a9c8-33074a7180ba",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "b88d436f-1ec7-4f62-9dbc-c5f5e0d0a0df",
+          "card_slug": "zetatech-faceplate",
+          "preferred_printing_id": "79cdc9a5-d94d-4df4-9f88-aa02fb0357b3",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "55153b49-c3a7-4208-a47b-0a91fa7e3b5c",
+          "card_slug": "sandevistan",
+          "preferred_printing_id": "97de62e2-3fea-4324-8367-87d1f1d674ed",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "1d7f3d02-27b5-4ab8-af99-f8f2e0fd62cf",
+          "card_slug": "zetatech-berserk",
+          "preferred_printing_id": "8b8bcfcd-37c8-4bca-8c25-17a3b3363349",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "87e001dd-8604-4523-af6e-d768118ccf98",
+          "card_slug": "cyberpsychosis",
+          "preferred_printing_id": "5aafe80b-7c7d-4060-8677-a2881a21dd72",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "17a80b46-c583-4867-97ac-7855494363a9",
+          "card_slug": "don-t-fear-the-reaper",
+          "preferred_printing_id": "e96d3167-5115-4c82-9b35-546cba0aaead",
+          "quantity": 2
+        }
+      ],
+      "display_name": "Deck",
+      "id": "4398",
+      "zone_code": "deck"
+    }
+  ]
+}

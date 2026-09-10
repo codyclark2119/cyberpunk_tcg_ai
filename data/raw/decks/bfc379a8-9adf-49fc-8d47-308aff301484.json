@@ -1,0 +1,267 @@
+{
+  "card_count": 43,
+  "created_at": "2026-09-03T09:38:28.942Z",
+  "credit": null,
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "bfc379a8-9adf-49fc-8d47-308aff301484",
+  "is_valid": true,
+  "name": "Royce Ultron",
+  "owner": {
+    "owner_pseudonym": "author-6c2d0c85741b"
+  },
+  "slug": "royce-ultron",
+  "stats": {
+    "avgCost": 2.9,
+    "avgPower": 3.5,
+    "colorDistribution": {
+      "Red": 18,
+      "Yellow": 22
+    },
+    "costCurve": [
+      0,
+      7,
+      12,
+      10,
+      3,
+      5,
+      2,
+      1
+    ],
+    "deckCount": 40,
+    "gearCount": 10,
+    "legendCount": 3,
+    "programCount": 8,
+    "ramBudget": {
+      "Red": 2,
+      "Yellow": 4
+    },
+    "ramUsage": {
+      "Red": 2,
+      "Yellow": 4
+    },
+    "totalCards": 43,
+    "unitCount": 22
+  },
+  "updated_at": "2026-09-03T10:09:55.818Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "3b3f941d-aa58-4337-99dc-4af3fd3ccd47",
+          "card_slug": "dum-dum-maelstrom-triggerman",
+          "preferred_printing_id": "aaac486c-dbfd-4137-b373-24a2df29522c",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "e64e2978-695b-4fc5-b17b-62c710a11c47",
+          "card_slug": "river-ward-detective-on-the-hunt",
+          "preferred_printing_id": "b3895f75-e147-49b0-a6d8-6fb35b356b2e",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "9e681d3e-cbfd-4c7b-a69a-72a83dc8b847",
+          "card_slug": "royce-psycho-on-the-edge",
+          "preferred_printing_id": "3e2e228b-dbfb-484b-b82d-6972ff184aab",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "1847",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 40,
+      "cards": [
+        {
+          "card_entity_id": "e8b0432c-4d2d-4464-9a00-f3626917a7f0",
+          "card_slug": "japantown-jonin",
+          "preferred_printing_id": "30619097-d9d7-42fe-bf4c-cd4ae822792d",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "b05cb065-309e-45a3-bbe0-20f4b6ea71aa",
+          "card_slug": "secondhand-bombus",
+          "preferred_printing_id": "fcbb6d58-6666-4bd3-8ff0-64930fb0f422",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "b3b40c68-705b-41ff-ae10-4132497c4a39",
+          "card_slug": "sketchy-ripper",
+          "preferred_printing_id": "12f0398c-bcc3-4944-af72-ac2ae9f36761",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "ce45cb9d-430a-4ccf-bb4b-acf0b76120e0",
+          "card_slug": "augmented-negotiators",
+          "preferred_printing_id": "a195323a-e29e-4c05-8e6c-7f1638c8264c",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "1b516742-cdf3-4597-8ba1-be787240ab3b",
+          "card_slug": "la-llorona-ghost-of-the-past",
+          "preferred_printing_id": "e3d1d8a0-1d53-4c85-84ca-66439fd3639a",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "5cf0c12a-814e-4801-8171-7fe8c09fad21",
+          "card_slug": "valentino-guerrera",
+          "preferred_printing_id": "67b82386-5cb0-4ae7-b940-ac0d982b773c",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "647bb074-197f-4059-bac5-251b47c98287",
+          "card_slug": "viktor-vektor-you-might-feel-a-little-pinch",
+          "preferred_printing_id": "4eca7fcd-85c1-43d0-8a07-4227312ab0db",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "1f71ec32-3c11-466b-bcdd-a8a3009ea8ac",
+          "card_slug": "gilded-mato-n",
+          "preferred_printing_id": "846b55b4-5e12-44b6-a204-53bd8c862888",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "5c4d4058-9185-4305-9e8f-7eca41cf6674",
+          "card_slug": "kerry-eurodyne-the-last-rockerboy",
+          "preferred_printing_id": "c26c7db6-f540-4073-ab33-b09335631764",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "3c4cf61f-c469-4ad6-a209-67e715f9d45b",
+          "card_slug": "chrome-fang",
+          "preferred_printing_id": "40db55a6-0220-4cb9-8854-0e23f7cb91f8",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "95840ebd-d00a-49ff-b4e5-e2064cfc13a9",
+          "card_slug": "maxtac-suppression-team",
+          "preferred_printing_id": "47f55164-e5da-494e-9d55-02bd0b7f97c1",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "7a62beca-ac54-4c0d-847d-ed85838c5093",
+          "card_slug": "screw-lovelorn-fool",
+          "preferred_printing_id": "a7117b0f-74ab-44b5-87fb-de267d0f2164",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "9a4002b0-0f0b-4c9a-a198-691d058b6dcc",
+          "card_slug": "johnny-silverhand-never-stop-fighting",
+          "preferred_printing_id": "14ab188f-2ce3-4790-8823-5a352371ff1f",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "2a4a1f1a-9888-403e-90a9-4021c3f52674",
+          "card_slug": "trauma-team-operatives",
+          "preferred_printing_id": "0d6c1f36-628b-4631-a96d-2000f6fb054e",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "858e95f5-2efb-460e-b890-e8a5140e11c9",
+          "card_slug": "alt-cunningham-mother-of-daemons",
+          "preferred_printing_id": "e782dd02-a136-4bf8-b04b-328c65b84f19",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "6720e7fd-d1e8-4c8a-9ff2-f51f62241902",
+          "card_slug": "mandibular-upgrade",
+          "preferred_printing_id": "219b7a29-0f8b-4750-bc46-0f39eec6721b",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "28198e04-60e2-4f81-9786-903a9a947d7a",
+          "card_slug": "mantis-blades",
+          "preferred_printing_id": "7ffa8ba4-f187-4ba0-a719-fa8ebf45a03b",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "5233bacc-f39f-4383-8e25-57ef634735ca",
+          "card_slug": "arasaka-emergency-radioport",
+          "preferred_printing_id": "d2da65d5-fdaf-44f4-a692-a5672d2c1cca",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "4670d02b-b97a-4771-bb7e-65bdc012530e",
+          "card_slug": "satori-sword-of-saburo",
+          "preferred_printing_id": "11a8fed4-5401-4cfc-901b-ab9b5b94d0ab",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "b88d436f-1ec7-4f62-9dbc-c5f5e0d0a0df",
+          "card_slug": "zetatech-faceplate",
+          "preferred_printing_id": "79cdc9a5-d94d-4df4-9f88-aa02fb0357b3",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "6dd172b1-2341-473f-8837-a9efe6a75701",
+          "card_slug": "gorilla-arms",
+          "preferred_printing_id": "e1959b9e-d32d-43be-94c3-a595809e0c28",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "1263e2bf-bc15-4550-ad07-b028602d1354",
+          "card_slug": "the-relic-experimental-biochip",
+          "preferred_printing_id": "38d14168-c182-4a34-a3b2-1b8380ab6635",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "d039e4b3-9b83-40da-8d8f-b1dfb1f172f1",
+          "card_slug": "afterparty-at-lizzie-s",
+          "preferred_printing_id": "d53925ee-df55-4b71-8ca0-13ec3ede2076",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "2697ed9d-72fc-4658-9c94-977668911a67",
+          "card_slug": "detonate",
+          "preferred_printing_id": "bec995b7-b76b-4605-9c36-3d7697cdd4f5",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "a708461f-1f91-4789-bb0d-96e3de5fcf44",
+          "card_slug": "industrial-assembly",
+          "preferred_printing_id": "9103b5db-bf95-4385-8941-308cb0353c9a",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "b4cba235-816d-4888-a308-1c397b9288e7",
+          "card_slug": "safety-override",
+          "preferred_printing_id": "5d987aa8-baed-45b2-986c-a21e04a53331",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "5ea00b3a-7e85-4c7d-91ad-90e0cf370c27",
+          "card_slug": "the-heist",
+          "preferred_printing_id": "a1e2c25e-fb27-458f-984d-df422f879664",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "87e001dd-8604-4523-af6e-d768118ccf98",
+          "card_slug": "cyberpsychosis",
+          "preferred_printing_id": "5aafe80b-7c7d-4060-8677-a2881a21dd72",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "144c3559-3518-4c01-b9e6-af42b7166661",
+          "card_slug": "over-the-edge",
+          "preferred_printing_id": "f1cf4133-45ef-4de5-abfc-757de1613731",
+          "quantity": 2
+        }
+      ],
+      "display_name": "Deck",
+      "id": "1848",
+      "zone_code": "deck"
+    }
+  ]
+}

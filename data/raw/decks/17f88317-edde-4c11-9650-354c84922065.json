@@ -1,0 +1,186 @@
+{
+  "card_count": 43,
+  "created_at": "2026-09-07T01:47:35.005Z",
+  "credit": "@Nazraghoul",
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "17f88317-edde-4c11-9650-354c84922065",
+  "is_valid": true,
+  "name": "Gig-a-Draw",
+  "owner": {
+    "owner_pseudonym": "author-66fa100c8170"
+  },
+  "slug": "gig-a-draw",
+  "stats": {
+    "avgCost": 3.1,
+    "avgPower": 3.4,
+    "colorDistribution": {
+      "Blue": 19,
+      "Green": 7,
+      "Yellow": 14
+    },
+    "costCurve": [
+      0,
+      6,
+      6,
+      15,
+      9,
+      0,
+      4,
+      0
+    ],
+    "deckCount": 40,
+    "gearCount": 6,
+    "legendCount": 3,
+    "programCount": 15,
+    "ramBudget": {
+      "Blue": 2,
+      "Green": 2,
+      "Yellow": 2
+    },
+    "ramUsage": {
+      "Blue": 2,
+      "Green": 2,
+      "Yellow": 2
+    },
+    "totalCards": 43,
+    "unitCount": 19
+  },
+  "updated_at": "2026-09-07T01:50:41.397Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "380b5e52-2651-4cde-8222-1db2ae6469e2",
+          "card_slug": "hanako-arasaka-daughter-of-the-emperor",
+          "preferred_printing_id": "cc3ed2c4-6e6d-47aa-b358-152c56b24bad",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "40502c1f-78a2-426a-a706-c60ebd4b31e3",
+          "card_slug": "jackie-welles-pour-one-out-for-me",
+          "preferred_printing_id": "328cd3e4-4177-4d6a-86c0-00d1a5a12b38",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "fc516d53-5fd8-43dd-8349-9e60f0606efa",
+          "card_slug": "muamar-reyes-el-capita-n",
+          "preferred_printing_id": "2e06439f-fab6-4a65-a1fc-e5f4afc84eb0",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "7871",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 40,
+      "cards": [
+        {
+          "card_entity_id": "ce45cb9d-430a-4ccf-bb4b-acf0b76120e0",
+          "card_slug": "augmented-negotiators",
+          "preferred_printing_id": "a195323a-e29e-4c05-8e6c-7f1638c8264c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "f61b944a-32e3-4085-894b-7bd498325156",
+          "card_slug": "dexter-deshawn-one-last-chance",
+          "preferred_printing_id": "e2f38541-ecc9-41dc-ae15-164171391bff",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "383abfb4-eedb-47c1-87f0-3ae4973c3619",
+          "card_slug": "misty-olszewski-mender-of-broken-spirits",
+          "preferred_printing_id": "17252514-02ba-4d0d-a9cc-3590cee528af",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "a1e60653-5e28-49ee-9798-d16520b553c3",
+          "card_slug": "delamain-cab",
+          "preferred_printing_id": "5b9cdefa-29f4-4a3a-a426-eea46302ef60",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "2902da45-ec28-4971-a731-ea1eda4c6ba1",
+          "card_slug": "hanako-arasaka-in-a-gilded-cage",
+          "preferred_printing_id": "7386d22f-1065-4043-a6c4-9cee6256fe8a",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "b665e103-456b-4c51-9551-95b0bc87212a",
+          "card_slug": "jackie-welles-ride-or-die-choom",
+          "preferred_printing_id": "12d44604-ad7b-4e82-b517-9edb0be44427",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "920cabc9-f350-4f61-96c6-69e649271456",
+          "card_slug": "modded-kusanagi",
+          "preferred_printing_id": "50e8101a-3d0e-45ea-9444-22007f7f9cb0",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "3c144d6a-0c1a-43e9-bd35-85d6fc46adef",
+          "card_slug": "nadia-fighting-through-grief",
+          "preferred_printing_id": "4bab255b-763a-4762-b5e2-430316526b8a",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "b88d436f-1ec7-4f62-9dbc-c5f5e0d0a0df",
+          "card_slug": "zetatech-faceplate",
+          "preferred_printing_id": "79cdc9a5-d94d-4df4-9f88-aa02fb0357b3",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "40c98fdc-45d0-458d-be2c-2697dc337ca5",
+          "card_slug": "netwatch-netdriver",
+          "preferred_printing_id": "07f119d6-8fb2-4b23-9862-818a7e941010",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "0cd37c43-e722-48eb-91ef-4c1bd1645215",
+          "card_slug": "floor-it",
+          "preferred_printing_id": "91f9d30c-f74d-4be4-8505-52f05d309c92",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "20484778-9294-4148-bd8c-fa78572f4452",
+          "card_slug": "peace-offering",
+          "preferred_printing_id": "8570122a-52aa-4a6b-8d72-4c8848df0f9b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "1535c19d-54e5-4289-9cb7-15ab429c0092",
+          "card_slug": "take-control",
+          "preferred_printing_id": "bc1401d4-5b9b-495a-853e-0a22a11f6f4c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "19f34c9b-a24a-43be-bd9f-62c37435e994",
+          "card_slug": "chrome-reverie",
+          "preferred_printing_id": "3f0319b8-e315-4e71-85b7-147a5b8ceba5",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "5b8f8d4f-c62e-4bde-a086-2ce15bd9449d",
+          "card_slug": "unlikely-bond",
+          "preferred_printing_id": "b21f86a3-cb77-44a3-bf94-4c5e068ac2c8",
+          "quantity": 3
+        }
+      ],
+      "display_name": "Deck",
+      "id": "7872",
+      "zone_code": "deck"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "includes": {
+    "Entry": [
+      {
+        "fields": {
+          "includeInToc": false,
+          "internalName": "Current errata",
+          "order": 1,
+          "pageSlug": "wncerrata",
+          "sectionStyle": "standard",
+          "slug": "wncerrata",
+          "subsectionEntries": [
+            {
+              "sys": {
+                "id": "66xR1ZQRxfYdSgkuHYKRCq",
+                "linkType": "Entry",
+                "type": "Link"
+              }
+            }
+          ],
+          "title": "Welcome to Night City Card Errata"
+        },
+        "metadata": {
+          "concepts": [],
+          "tags": []
+        },
+        "sys": {
+          "contentType": {
+            "sys": {
+              "id": "cyberpunkPageSection",
+              "linkType": "ContentType",
+              "type": "Link"
+            }
+          },
+          "createdAt": "2026-08-29T20:58:53.541Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "linkType": "Environment",
+              "type": "Link"
+            }
+          },
+          "id": "4IKuUsRusvWiLLtNbEWt9C",
+          "locale": "en-US",
+          "publishedVersion": 9,
+          "revision": 1,
+          "space": {
+            "sys": {
+              "id": "udihssg1zwbu",
+              "linkType": "Space",
+              "type": "Link"
+            }
+          },
+          "type": "Entry",
+          "updatedAt": "2026-08-29T20:58:53.541Z"
+        }
+      },
+      {
+        "fields": {
+          "blockStyle": "standard",
+          "bodyMarkdown": "### Johnny Silverhand: Never Stop Fighting (Beta Iconic Rare)\n\nThe Beta Iconic Rare variant of *Johnny Silverhand: Never Stop Fighting* was erroneously printed with the Eurodollar \u201cSell\u201d tag. Consistent with all other versions of *Johnny Silverhand: Never Stop Fighting*, this card cannot be sold for an Eddie during gameplay.\n\n![Johnny Iconic Errata](//images.ctfassets.net/udihssg1zwbu/2IJe3zHqouiYKuEyh7HFZC/cd31efcae8ee090aac5f1627ad1e9bb0/Jonny_Fixed_Errata_Full.png)\n\n### Kiroshi Optics\n\nThe reminder text about how equipping Gear works on *Kiroshi Optics* is inconsistent with other Gear cards in *Cyberpunk TCG*. The reminder text has been updated to \u201cEquip to a friendly Unit or face-up Legend\u201d, in line with all other Gear cards.\n\n![Kiroshi Optics Errata](//images.ctfassets.net/udihssg1zwbu/5Ypa8AjTOsJgrGat0gW9G9/57725b075aa355a80c7701824ba5a847/Kiroshi_Fixed_Errata_Full.png)\n\n### Nocturne OP55N1\n\n*Nocturne OP55N1* was printed with an incorrect artist credit. The card text has been revised to properly credit the creator of this art piece \u2014 Daniel Valaisis.\n\n![Nocturne Errata](//images.ctfassets.net/udihssg1zwbu/Wyzig3Hhgp8YWrIH1HMpR/1e9b9d83e92a585712bb0ac7fc3a63f3/Nocturne_Fixed_Errata.png)\n\n### Judy \u00c1lvarez: Nothing to Doubt\n\nThe printed artist credit on *Judy \u00c1lvarez: Nothing to Doubt* contains a typo. It has been corrected to properly credit the artist \u2014 Ilya Kuvshinov.\n\n![Judy Unit Errata](//images.ctfassets.net/udihssg1zwbu/60Tho0nZ6FF2u6OEZynVc6/ea73517d36cd85c367827ae2499396f5/Judy_Fixed_Errata_Full.png)",
+          "internalName": "WNC Errata",
+          "order": 1,
+          "slug": "wncerrata"
+        },
+        "metadata": {
+          "concepts": [],
+          "tags": []
+        },
+        "sys": {
+          "contentType": {
+            "sys": {
+              "id": "cyberpunkPageMarkdownBlock",
+              "linkType": "ContentType",
+              "type": "Link"
+            }
+          },
+          "createdAt": "2026-08-29T20:58:59.218Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "linkType": "Environment",
+              "type": "Link"
+            }
+          },
+          "id": "66xR1ZQRxfYdSgkuHYKRCq",
+          "locale": "en-US",
+          "publishedVersion": 49,
+          "revision": 2,
+          "space": {
+            "sys": {
+              "id": "udihssg1zwbu",
+              "linkType": "Space",
+              "type": "Link"
+            }
+          },
+          "type": "Entry",
+          "updatedAt": "2026-09-07T06:54:35.485Z"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "fields": {
+        "enableToc": false,
+        "internalName": "Card Errata",
+        "introMarkdown": "After a card has been created, it\u2019s sometimes necessary to make small tweaks to its printed text. On this page you\u2019ll find a record of all the changes and clarifications we\u2019ve made to card text to date.\n\nDuring gameplay, every card on this page should be played as if it bears the updated text and characteristics associated with it. The updated text shown here supersedes all printed text at all levels of play.",
+        "pageTitle": "Card Errata and Text Clarifications",
+        "sectionEntries": [
+          {
+            "sys": {
+              "id": "4IKuUsRusvWiLLtNbEWt9C",
+              "linkType": "Entry",
+              "type": "Link"
+            }
+          }
+        ],
+        "showInNav": false,
+        "slug": "errata"
+      },
+      "metadata": {
+        "concepts": [],
+        "tags": []
+      },
+      "sys": {
+        "contentType": {
+          "sys": {
+            "id": "cyberpunkPage",
+            "linkType": "ContentType",
+            "type": "Link"
+          }
+        },
+        "createdAt": "2026-08-29T20:59:04.847Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "linkType": "Environment",
+            "type": "Link"
+          }
+        },
+        "id": "2YKKyXChkMINCe87yZBCek",
+        "locale": "en-US",
+        "publishedVersion": 7,
+        "revision": 1,
+        "space": {
+          "sys": {
+            "id": "udihssg1zwbu",
+            "linkType": "Space",
+            "type": "Link"
+          }
+        },
+        "type": "Entry",
+        "updatedAt": "2026-08-29T20:59:04.847Z"
+      }
+    }
+  ],
+  "limit": 100,
+  "skip": 0,
+  "sys": {
+    "type": "Array"
+  },
+  "total": 1
+}

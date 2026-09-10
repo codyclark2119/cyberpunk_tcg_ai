@@ -1,0 +1,177 @@
+{
+  "card_count": 43,
+  "created_at": "2026-09-02T16:13:44.753Z",
+  "credit": "V",
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "99ac2660-337d-4f02-984a-fb3d1b7a9990",
+  "is_valid": true,
+  "name": "New Deck",
+  "owner": {
+    "owner_pseudonym": "author-59478d684445"
+  },
+  "slug": "new-deck-1",
+  "stats": {
+    "avgCost": 3.3,
+    "avgPower": 7,
+    "colorDistribution": {
+      "Green": 11,
+      "Red": 29
+    },
+    "costCurve": [
+      0,
+      12,
+      5,
+      6,
+      5,
+      3,
+      6,
+      3
+    ],
+    "deckCount": 40,
+    "gearCount": 5,
+    "legendCount": 3,
+    "programCount": 20,
+    "ramBudget": {
+      "Green": 2,
+      "Red": 4
+    },
+    "ramUsage": {
+      "Green": 2,
+      "Red": 3
+    },
+    "totalCards": 43,
+    "unitCount": 15
+  },
+  "updated_at": "2026-09-03T10:10:24.507Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "380b5e52-2651-4cde-8222-1db2ae6469e2",
+          "card_slug": "hanako-arasaka-daughter-of-the-emperor",
+          "preferred_printing_id": "2c4a77e8-0fda-4ec1-9519-1d15e0f172b3",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "81a8dec7-9541-4020-93e1-7d798a57dcbc",
+          "card_slug": "v-streetkid",
+          "preferred_printing_id": "3fc63c58-5954-4744-a5af-047bfc5cb159",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "eff41c12-b872-4101-9779-00e691532893",
+          "card_slug": "adam-smasher-ender-of-legends",
+          "preferred_printing_id": "a9c1137e-2e33-4293-9dcc-9351c9a0bbee",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "663",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 40,
+      "cards": [
+        {
+          "card_entity_id": "71652e73-984a-4630-be47-af947f87d5c1",
+          "card_slug": "corpo-security",
+          "preferred_printing_id": "80dcc139-d31d-4b89-86ff-cdbdd2664953",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "0974a7af-dcd7-44d9-b57a-b6a4719afcd6",
+          "card_slug": "pepe-najarro-working-doubles",
+          "preferred_printing_id": "0de81196-f1d3-4fd0-ae6a-062dae3f3f2c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "d6f16c44-6d56-48ff-8130-154eea5540ca",
+          "card_slug": "maxtac-av",
+          "preferred_printing_id": "f1fa787d-e936-42a8-b42f-14999e722793",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "e8aa7757-e5e3-4137-8970-4fa546b9bed9",
+          "card_slug": "animals-wrecker",
+          "preferred_printing_id": "7514dd38-6e2d-43dd-9715-6b3a32615382",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "6cf6456d-d020-4c6c-9041-66d503a01a0a",
+          "card_slug": "yorinobu-arasaka-steel-dragon",
+          "preferred_printing_id": "c057ccc4-bb15-4efd-8115-8d223568134b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "28198e04-60e2-4f81-9786-903a9a947d7a",
+          "card_slug": "mantis-blades",
+          "preferred_printing_id": "7ffa8ba4-f187-4ba0-a719-fa8ebf45a03b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "7da95cf0-f749-439f-b40a-9d3057d2c995",
+          "card_slug": "riot-shield",
+          "preferred_printing_id": "ce570725-0de7-438a-a9c8-33074a7180ba",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "1f969c27-dddb-4971-9ab5-bd728c3e3e52",
+          "card_slug": "all-is-lost",
+          "preferred_printing_id": "d1a3c0e0-e0e7-418d-afb4-e6e43400c42e",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "2697ed9d-72fc-4658-9c94-977668911a67",
+          "card_slug": "detonate",
+          "preferred_printing_id": "bec995b7-b76b-4605-9c36-3d7697cdd4f5",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "a708461f-1f91-4789-bb0d-96e3de5fcf44",
+          "card_slug": "industrial-assembly",
+          "preferred_printing_id": "9103b5db-bf95-4385-8941-308cb0353c9a",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "3eb0f8bf-afb9-42a7-a4fa-710e2eb5c89c",
+          "card_slug": "bonnie-and-clyde",
+          "preferred_printing_id": "26d60270-1b43-4af3-a8b7-1c3db9675cfa",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "144c3559-3518-4c01-b9e6-af42b7166661",
+          "card_slug": "over-the-edge",
+          "preferred_printing_id": "f1cf4133-45ef-4de5-abfc-757de1613731",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "050d0502-94b0-4bee-a7e6-a9b00f31b4ae",
+          "card_slug": "shattered-memories",
+          "preferred_printing_id": "3401c7cf-45c5-4fe4-a883-284a9334262d",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "81fb66ee-b054-4f78-b0c9-7d2c9ff53435",
+          "card_slug": "carnage-at-the-colosseum",
+          "preferred_printing_id": "36128749-4cb1-440d-b4de-4fd463cc2f5c",
+          "quantity": 3
+        }
+      ],
+      "display_name": "Deck",
+      "id": "664",
+      "zone_code": "deck"
+    }
+  ]
+}

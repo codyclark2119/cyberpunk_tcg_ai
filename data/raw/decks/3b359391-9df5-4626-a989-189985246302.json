@@ -1,0 +1,183 @@
+{
+  "card_count": 43,
+  "created_at": "2026-09-03T12:20:54.278Z",
+  "credit": "Grayson",
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "3b359391-9df5-4626-a989-189985246302",
+  "is_valid": true,
+  "name": "Armed to the Teeth",
+  "owner": {
+    "owner_pseudonym": "author-1bff47ac0e09"
+  },
+  "slug": "new-deck",
+  "stats": {
+    "avgCost": 2.5,
+    "avgPower": 2.8,
+    "colorDistribution": {
+      "Red": 18,
+      "Yellow": 22
+    },
+    "costCurve": [
+      0,
+      9,
+      11,
+      14,
+      2,
+      4,
+      0,
+      0
+    ],
+    "deckCount": 40,
+    "gearCount": 18,
+    "legendCount": 3,
+    "programCount": 8,
+    "ramBudget": {
+      "Red": 4,
+      "Yellow": 2
+    },
+    "ramUsage": {
+      "Red": 4,
+      "Yellow": 2
+    },
+    "totalCards": 43,
+    "unitCount": 14
+  },
+  "updated_at": "2026-09-04T23:14:56.903Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "91df478a-91d5-4d42-a624-4c20ec61121c",
+          "card_slug": "dexter-deshawn-off-the-grid",
+          "preferred_printing_id": "9d04877f-050d-485d-9447-1bef7ee6ed40",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "3b3f941d-aa58-4337-99dc-4af3fd3ccd47",
+          "card_slug": "dum-dum-maelstrom-triggerman",
+          "preferred_printing_id": "b3b78f89-424e-41b6-9fa9-aea256568dcc",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "9e681d3e-cbfd-4c7b-a69a-72a83dc8b847",
+          "card_slug": "royce-psycho-on-the-edge",
+          "preferred_printing_id": "f712b214-b109-4e69-bc74-4991905024f7",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "2045",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 40,
+      "cards": [
+        {
+          "card_entity_id": "fee335a7-2546-48a5-9bb8-b0886014ce66",
+          "card_slug": "ruthless-lowlife",
+          "preferred_printing_id": "e1b674d0-4ac7-4523-be19-809308871d49",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "b3b40c68-705b-41ff-ae10-4132497c4a39",
+          "card_slug": "sketchy-ripper",
+          "preferred_printing_id": "12f0398c-bcc3-4944-af72-ac2ae9f36761",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "ce45cb9d-430a-4ccf-bb4b-acf0b76120e0",
+          "card_slug": "augmented-negotiators",
+          "preferred_printing_id": "a195323a-e29e-4c05-8e6c-7f1638c8264c",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "f57094f7-0720-4ba5-9a71-aafbc714d65a",
+          "card_slug": "maelstrom-goons",
+          "preferred_printing_id": "e14bdd12-1214-4104-bfdd-ae023c21527c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "c688ca08-b3b7-441d-b161-78b9a63a8a9e",
+          "card_slug": "el-sombrero-n-la-venganza-lenta",
+          "preferred_printing_id": "94180516-28a6-4f5c-b79e-de38a95ed47b",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "92d23553-8b0d-49cd-8cbe-6f00b3377298",
+          "card_slug": "viktor-vektor-drop-your-illusions",
+          "preferred_printing_id": "2285cd3a-7010-4ba4-b23a-ba40aba296f9",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "654f2289-5d75-4f8b-bd35-702031fbb214",
+          "card_slug": "kiroshi-optics",
+          "preferred_printing_id": "ec3368a9-79f1-4dfc-9cf7-1cb464ec1c88",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "6720e7fd-d1e8-4c8a-9ff2-f51f62241902",
+          "card_slug": "mandibular-upgrade",
+          "preferred_printing_id": "219b7a29-0f8b-4750-bc46-0f39eec6721b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "28198e04-60e2-4f81-9786-903a9a947d7a",
+          "card_slug": "mantis-blades",
+          "preferred_printing_id": "7ffa8ba4-f187-4ba0-a719-fa8ebf45a03b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "4670d02b-b97a-4771-bb7e-65bdc012530e",
+          "card_slug": "satori-sword-of-saburo",
+          "preferred_printing_id": "11a8fed4-5401-4cfc-901b-ab9b5b94d0ab",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "b88d436f-1ec7-4f62-9dbc-c5f5e0d0a0df",
+          "card_slug": "zetatech-faceplate",
+          "preferred_printing_id": "79cdc9a5-d94d-4df4-9f88-aa02fb0357b3",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "1d8f611c-dd08-48d1-82eb-451d56dcf651",
+          "card_slug": "deadman-transmitter",
+          "preferred_printing_id": "32957075-42ff-47e3-8252-e78877ef61f7",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "59ddecca-1501-492a-b8b1-d4b38d4486c9",
+          "card_slug": "appetite-for-destruction",
+          "preferred_printing_id": "f274789d-69f2-4acf-a511-f728c67d1a13",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "87e001dd-8604-4523-af6e-d768118ccf98",
+          "card_slug": "cyberpsychosis",
+          "preferred_printing_id": "5aafe80b-7c7d-4060-8677-a2881a21dd72",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "27c01b18-2a9c-4d66-ad21-b75869fba666",
+          "card_slug": "gunpoint-diplomacy",
+          "preferred_printing_id": "efc5dfdd-f393-4bbe-a7bc-ac959ba1e6bc",
+          "quantity": 2
+        }
+      ],
+      "display_name": "Deck",
+      "id": "2046",
+      "zone_code": "deck"
+    }
+  ]
+}

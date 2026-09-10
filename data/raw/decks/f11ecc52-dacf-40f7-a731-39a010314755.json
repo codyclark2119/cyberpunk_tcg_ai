@@ -1,0 +1,195 @@
+{
+  "card_count": 44,
+  "created_at": "2026-09-05T23:42:17.473Z",
+  "credit": null,
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "f11ecc52-dacf-40f7-a731-39a010314755",
+  "is_valid": true,
+  "name": "(GGR) Control",
+  "owner": {
+    "owner_pseudonym": "author-810952c0ed02"
+  },
+  "slug": "new-deck",
+  "stats": {
+    "avgCost": 3.6,
+    "avgPower": 5.4,
+    "colorDistribution": {
+      "Green": 37,
+      "Red": 4
+    },
+    "costCurve": [
+      0,
+      6,
+      9,
+      7,
+      6,
+      7,
+      0,
+      6
+    ],
+    "deckCount": 41,
+    "gearCount": 0,
+    "legendCount": 3,
+    "programCount": 25,
+    "ramBudget": {
+      "Green": 4,
+      "Red": 2
+    },
+    "ramUsage": {
+      "Green": 4,
+      "Red": 2
+    },
+    "totalCards": 44,
+    "unitCount": 16
+  },
+  "updated_at": "2026-09-07T05:05:38.860Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "501a3796-9983-400f-86e4-97ffac5d5451",
+          "card_slug": "padre-man-of-the-cross",
+          "preferred_printing_id": "c7f0583f-2493-4e1f-9967-977bc0c6fa15",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "04a82ebf-eba1-4888-a95d-f01b9bbd0167",
+          "card_slug": "jackie-welles-mama-s-favorite",
+          "preferred_printing_id": "9f61ebda-53fd-4b23-8383-d0e0bd32b847",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "eff41c12-b872-4101-9779-00e691532893",
+          "card_slug": "adam-smasher-ender-of-legends",
+          "preferred_printing_id": "a9c1137e-2e33-4293-9dcc-9351c9a0bbee",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "6019",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 41,
+      "cards": [
+        {
+          "card_entity_id": "71652e73-984a-4630-be47-af947f87d5c1",
+          "card_slug": "corpo-security",
+          "preferred_printing_id": "80dcc139-d31d-4b89-86ff-cdbdd2664953",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "4a8dfe3f-980d-4370-ac10-6bd989042cdf",
+          "card_slug": "field-operator",
+          "preferred_printing_id": "876dfa5c-6df4-4930-b284-f2c466e6b90c",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "5d6afeed-1532-4a01-bb40-a011030a7785",
+          "card_slug": "valentino-street-racer",
+          "preferred_printing_id": "dc15db71-3443-4de0-b988-c62601bae5e1",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "0974a7af-dcd7-44d9-b57a-b6a4719afcd6",
+          "card_slug": "pepe-najarro-working-doubles",
+          "preferred_printing_id": "0de81196-f1d3-4fd0-ae6a-062dae3f3f2c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "9e465b11-9743-4275-a71d-d701b059eef0",
+          "card_slug": "royce-don-t-call-me-simon",
+          "preferred_printing_id": "b749ce16-1b44-47d8-bce4-4fd373007a5c",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "9611a3ba-d365-453f-89ed-c986a1948edc",
+          "card_slug": "sandayu-oda-hanako-s-guardian",
+          "preferred_printing_id": "f452a0ca-3204-48d5-8565-ec746f27959b",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "a29490bb-2836-48b6-a4f9-a44b25c8bfa2",
+          "card_slug": "saul-bright-stormrider",
+          "preferred_printing_id": "60e476b4-51ab-4b10-8861-a8362b4232d7",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "20484778-9294-4148-bd8c-fa78572f4452",
+          "card_slug": "peace-offering",
+          "preferred_printing_id": "8570122a-52aa-4a6b-8d72-4c8848df0f9b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "f3ba5ef7-5e91-4956-a887-b88a4b854867",
+          "card_slug": "synapse-burnout",
+          "preferred_printing_id": "4277845b-1209-46df-8353-8fd36f56148a",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "71fb410b-b56e-42b2-a793-4c49e935b9f1",
+          "card_slug": "corporate-surveillance",
+          "preferred_printing_id": "d3dc7194-a545-4588-9702-b094c27ce359",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "c5d2fed1-1470-4ac5-9f84-bf66705901ce",
+          "card_slug": "fool-on-the-hill",
+          "preferred_printing_id": "7751b719-978b-44b1-a82f-b2881d3a416e",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "1535c19d-54e5-4289-9cb7-15ab429c0092",
+          "card_slug": "take-control",
+          "preferred_printing_id": "bc1401d4-5b9b-495a-853e-0a22a11f6f4c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "144c3559-3518-4c01-b9e6-af42b7166661",
+          "card_slug": "over-the-edge",
+          "preferred_printing_id": "f1cf4133-45ef-4de5-abfc-757de1613731",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "0f7c1c54-0e2e-44a5-ac7f-5263fbab21d3",
+          "card_slug": "memory-relapse",
+          "preferred_printing_id": "ef9f2959-de87-4a54-be45-5c9dcc507aba",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "404748b4-f30e-4bf1-8991-5ad449da755a",
+          "card_slug": "we-gotta-live-together",
+          "preferred_printing_id": "63821536-cdf5-4347-812a-0bf72d727596",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "3126fa21-ea19-4096-8233-d63797bb9fe4",
+          "card_slug": "wild-in-the-streets",
+          "preferred_printing_id": "54f0308f-8fb2-4861-a414-c15ca24426c3",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "17a80b46-c583-4867-97ac-7855494363a9",
+          "card_slug": "don-t-fear-the-reaper",
+          "preferred_printing_id": "e96d3167-5115-4c82-9b35-546cba0aaead",
+          "quantity": 2
+        }
+      ],
+      "display_name": "Deck",
+      "id": "6020",
+      "zone_code": "deck"
+    }
+  ]
+}

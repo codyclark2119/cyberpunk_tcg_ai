@@ -1,0 +1,246 @@
+{
+  "card_count": 53,
+  "created_at": "2026-09-05T12:30:06.325Z",
+  "credit": null,
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "b35fab74-eceb-46f4-b291-60dfb4cbadb4",
+  "is_valid": true,
+  "name": "New Deck",
+  "owner": {
+    "owner_pseudonym": "author-088560c29c5f"
+  },
+  "slug": "new-deck-3",
+  "stats": {
+    "avgCost": 2.5,
+    "avgPower": 3.4,
+    "colorDistribution": {
+      "Blue": 14,
+      "Red": 16,
+      "Yellow": 20
+    },
+    "costCurve": [
+      0,
+      20,
+      8,
+      6,
+      8,
+      7,
+      1,
+      0
+    ],
+    "deckCount": 50,
+    "gearCount": 9,
+    "legendCount": 3,
+    "programCount": 22,
+    "ramBudget": {
+      "Blue": 2,
+      "Red": 2,
+      "Yellow": 2
+    },
+    "ramUsage": {
+      "Blue": 2,
+      "Red": 2,
+      "Yellow": 2
+    },
+    "totalCards": 53,
+    "unitCount": 19
+  },
+  "updated_at": "2026-09-05T12:30:07.143Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "91df478a-91d5-4d42-a624-4c20ec61121c",
+          "card_slug": "dexter-deshawn-off-the-grid",
+          "preferred_printing_id": "9a298f42-3a9f-4510-b2fd-9cf1b34ade27",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "fc516d53-5fd8-43dd-8349-9e60f0606efa",
+          "card_slug": "muamar-reyes-el-capita-n",
+          "preferred_printing_id": "dbbf4a6c-340d-4356-81ad-776940a7ee32",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "99f5e311-8dfd-42a9-abd0-2e50ac68679e",
+          "card_slug": "wakako-okada-peace-and-harmony",
+          "preferred_printing_id": "8f7a7d0b-5935-4732-a9ba-76b19467d5a0",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "5157",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 50,
+      "cards": [
+        {
+          "card_entity_id": "b05cb065-309e-45a3-bbe0-20f4b6ea71aa",
+          "card_slug": "secondhand-bombus",
+          "preferred_printing_id": "fcbb6d58-6666-4bd3-8ff0-64930fb0f422",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "ce45cb9d-430a-4ccf-bb4b-acf0b76120e0",
+          "card_slug": "augmented-negotiators",
+          "preferred_printing_id": "a195323a-e29e-4c05-8e6c-7f1638c8264c",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "383abfb4-eedb-47c1-87f0-3ae4973c3619",
+          "card_slug": "misty-olszewski-mender-of-broken-spirits",
+          "preferred_printing_id": "17252514-02ba-4d0d-a9cc-3590cee528af",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "2902da45-ec28-4971-a731-ea1eda4c6ba1",
+          "card_slug": "hanako-arasaka-in-a-gilded-cage",
+          "preferred_printing_id": "7386d22f-1065-4043-a6c4-9cee6256fe8a",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "21f68be2-c664-4ae0-a7ef-965a3a5a14c8",
+          "card_slug": "meredith-stout-stone-cold-corpo",
+          "preferred_printing_id": "5939771d-bdcc-4b42-aea4-376311189e93",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "5a5a177c-6ed8-4bd9-8b11-13c2b64414e2",
+          "card_slug": "t-bug-amateur-philosopher",
+          "preferred_printing_id": "e2e3d98d-0159-4a79-b543-e37264f23118",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "0273f402-94fb-4b59-90ec-a1057c2d1284",
+          "card_slug": "caliber-totentanz-s-top-dog",
+          "preferred_printing_id": "4b5dc479-0db1-46dd-859f-e7dc34d50f03",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "9d994a42-4a63-44ad-ad7a-edead6af06a2",
+          "card_slug": "rogue-amendiares-queen-of-the-afterlife",
+          "preferred_printing_id": "3193a6bd-3e99-4501-9c5c-8d5ea32c779c",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "9e465b11-9743-4275-a71d-d701b059eef0",
+          "card_slug": "royce-don-t-call-me-simon",
+          "preferred_printing_id": "b749ce16-1b44-47d8-bce4-4fd373007a5c",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "7a62beca-ac54-4c0d-847d-ed85838c5093",
+          "card_slug": "screw-lovelorn-fool",
+          "preferred_printing_id": "a7117b0f-74ab-44b5-87fb-de267d0f2164",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "9ed58d18-df78-4689-b28f-77260243c522",
+          "card_slug": "v-roamer-of-the-badlands",
+          "preferred_printing_id": "c1747b7d-de5c-43eb-a4ed-b632f1861712",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "b665e103-456b-4c51-9551-95b0bc87212a",
+          "card_slug": "jackie-welles-ride-or-die-choom",
+          "preferred_printing_id": "12d44604-ad7b-4e82-b517-9edb0be44427",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "654f2289-5d75-4f8b-bd35-702031fbb214",
+          "card_slug": "kiroshi-optics",
+          "preferred_printing_id": "ec3368a9-79f1-4dfc-9cf7-1cb464ec1c88",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "6720e7fd-d1e8-4c8a-9ff2-f51f62241902",
+          "card_slug": "mandibular-upgrade",
+          "preferred_printing_id": "219b7a29-0f8b-4750-bc46-0f39eec6721b",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "b88d436f-1ec7-4f62-9dbc-c5f5e0d0a0df",
+          "card_slug": "zetatech-faceplate",
+          "preferred_printing_id": "79cdc9a5-d94d-4df4-9f88-aa02fb0357b3",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "40c98fdc-45d0-458d-be2c-2697dc337ca5",
+          "card_slug": "netwatch-netdriver",
+          "preferred_printing_id": "07f119d6-8fb2-4b23-9862-818a7e941010",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "d039e4b3-9b83-40da-8d8f-b1dfb1f172f1",
+          "card_slug": "afterparty-at-lizzie-s",
+          "preferred_printing_id": "d53925ee-df55-4b71-8ca0-13ec3ede2076",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "1f969c27-dddb-4971-9ab5-bd728c3e3e52",
+          "card_slug": "all-is-lost",
+          "preferred_printing_id": "d1a3c0e0-e0e7-418d-afb4-e6e43400c42e",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "2697ed9d-72fc-4658-9c94-977668911a67",
+          "card_slug": "detonate",
+          "preferred_printing_id": "bec995b7-b76b-4605-9c36-3d7697cdd4f5",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "0cd37c43-e722-48eb-91ef-4c1bd1645215",
+          "card_slug": "floor-it",
+          "preferred_printing_id": "91f9d30c-f74d-4be4-8505-52f05d309c92",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "a708461f-1f91-4789-bb0d-96e3de5fcf44",
+          "card_slug": "industrial-assembly",
+          "preferred_printing_id": "9103b5db-bf95-4385-8941-308cb0353c9a",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "ec857ab0-995e-4c32-84b6-7ba57b2f6137",
+          "card_slug": "trust-no-one",
+          "preferred_printing_id": "70a2a18e-05c2-4a49-9236-e33b2c9819a5",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "ad13a7bc-c49d-4166-8a9c-965e7bfa9b8f",
+          "card_slug": "reboot-optics",
+          "preferred_printing_id": "fb096d3f-48eb-47c0-a065-81b39691e12f",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "050d0502-94b0-4bee-a7e6-a9b00f31b4ae",
+          "card_slug": "shattered-memories",
+          "preferred_printing_id": "3401c7cf-45c5-4fe4-a883-284a9334262d",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "5b8f8d4f-c62e-4bde-a086-2ce15bd9449d",
+          "card_slug": "unlikely-bond",
+          "preferred_printing_id": "b21f86a3-cb77-44a3-bf94-4c5e068ac2c8",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Deck",
+      "id": "5158",
+      "zone_code": "deck"
+    }
+  ]
+}

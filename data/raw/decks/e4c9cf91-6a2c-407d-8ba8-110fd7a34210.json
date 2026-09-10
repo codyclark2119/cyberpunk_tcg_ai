@@ -1,0 +1,231 @@
+{
+  "card_count": 53,
+  "created_at": "2026-09-02T16:56:43.096Z",
+  "credit": "ArbokKing",
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "e4c9cf91-6a2c-407d-8ba8-110fd7a34210",
+  "is_valid": true,
+  "name": "Nomadic Paradise",
+  "owner": {
+    "owner_pseudonym": "author-0093cc7696cc"
+  },
+  "slug": "new-deck",
+  "stats": {
+    "avgCost": 2.9,
+    "avgPower": 3.8,
+    "colorDistribution": {
+      "Green": 29,
+      "Red": 21
+    },
+    "costCurve": [
+      0,
+      10,
+      14,
+      8,
+      8,
+      8,
+      1,
+      1
+    ],
+    "deckCount": 50,
+    "gearCount": 7,
+    "legendCount": 3,
+    "programCount": 23,
+    "ramBudget": {
+      "Green": 4,
+      "Red": 2
+    },
+    "ramUsage": {
+      "Green": 4,
+      "Red": 2
+    },
+    "totalCards": 53,
+    "unitCount": 20
+  },
+  "updated_at": "2026-09-03T11:15:31.507Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "501a3796-9983-400f-86e4-97ffac5d5451",
+          "card_slug": "padre-man-of-the-cross",
+          "preferred_printing_id": null,
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "950f045c-f5a4-4318-9907-b630d64de754",
+          "card_slug": "panam-palmer-nomad-cavalry",
+          "preferred_printing_id": null,
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "81a8dec7-9541-4020-93e1-7d798a57dcbc",
+          "card_slug": "v-streetkid",
+          "preferred_printing_id": null,
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "876",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 50,
+      "cards": [
+        {
+          "card_entity_id": "e8b0432c-4d2d-4464-9a00-f3626917a7f0",
+          "card_slug": "japantown-jonin",
+          "preferred_printing_id": null,
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "31e5b986-1e67-439c-81fc-49f8938bd002",
+          "card_slug": "tyger-s-whisper",
+          "preferred_printing_id": null,
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "1b516742-cdf3-4597-8ba1-be787240ab3b",
+          "card_slug": "la-llorona-ghost-of-the-past",
+          "preferred_printing_id": null,
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "3c4e7fcb-933d-4712-9ce7-6052a14f8e94",
+          "card_slug": "swordwise-huscle",
+          "preferred_printing_id": null,
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "5cf0c12a-814e-4801-8171-7fe8c09fad21",
+          "card_slug": "valentino-guerrera",
+          "preferred_printing_id": null,
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "e48c9d39-ef27-4b8f-8690-d75c3a4807b0",
+          "card_slug": "6th-street-recruits",
+          "preferred_printing_id": null,
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "08e6a687-56b7-4ac1-982f-8a8d6d0c0bc5",
+          "card_slug": "goro-takemura-losing-his-way",
+          "preferred_printing_id": null,
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "92edc648-10d6-43d3-b4ab-4ad65a5c7425",
+          "card_slug": "riding-nomad",
+          "preferred_printing_id": null,
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "67b47cff-2237-4765-86fb-9b2b3abecbb1",
+          "card_slug": "wraith-marauders",
+          "preferred_printing_id": null,
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "34774f04-4f16-40eb-8ee4-999144e572ab",
+          "card_slug": "panam-palmer-strength-through-family",
+          "preferred_printing_id": null,
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "78fee308-5d4e-491c-9596-423dc20da5e3",
+          "card_slug": "maxtac-heavy",
+          "preferred_printing_id": null,
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "28198e04-60e2-4f81-9786-903a9a947d7a",
+          "card_slug": "mantis-blades",
+          "preferred_printing_id": null,
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "5233bacc-f39f-4383-8e25-57ef634735ca",
+          "card_slug": "arasaka-emergency-radioport",
+          "preferred_printing_id": null,
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "78ea68b3-1260-416b-9f88-d6be4586232b",
+          "card_slug": "overwatch-panam-s-gift",
+          "preferred_printing_id": null,
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "a708461f-1f91-4789-bb0d-96e3de5fcf44",
+          "card_slug": "industrial-assembly",
+          "preferred_printing_id": null,
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "20484778-9294-4148-bd8c-fa78572f4452",
+          "card_slug": "peace-offering",
+          "preferred_printing_id": null,
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "f3ba5ef7-5e91-4956-a887-b88a4b854867",
+          "card_slug": "synapse-burnout",
+          "preferred_printing_id": null,
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "71fb410b-b56e-42b2-a793-4c49e935b9f1",
+          "card_slug": "corporate-surveillance",
+          "preferred_printing_id": null,
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "c5d2fed1-1470-4ac5-9f84-bf66705901ce",
+          "card_slug": "fool-on-the-hill",
+          "preferred_printing_id": null,
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "1535c19d-54e5-4289-9cb7-15ab429c0092",
+          "card_slug": "take-control",
+          "preferred_printing_id": null,
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "144c3559-3518-4c01-b9e6-af42b7166661",
+          "card_slug": "over-the-edge",
+          "preferred_printing_id": null,
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "0f7c1c54-0e2e-44a5-ac7f-5263fbab21d3",
+          "card_slug": "memory-relapse",
+          "preferred_printing_id": null,
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "3126fa21-ea19-4096-8233-d63797bb9fe4",
+          "card_slug": "wild-in-the-streets",
+          "preferred_printing_id": null,
+          "quantity": 3
+        }
+      ],
+      "display_name": "Deck",
+      "id": "877",
+      "zone_code": "deck"
+    }
+  ]
+}

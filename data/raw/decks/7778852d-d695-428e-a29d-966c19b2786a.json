@@ -1,0 +1,189 @@
+{
+  "card_count": 43,
+  "created_at": "2026-09-06T22:02:12.838Z",
+  "credit": null,
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "7778852d-d695-428e-a29d-966c19b2786a",
+  "is_valid": true,
+  "name": "R/G Rebel Yell",
+  "owner": {
+    "owner_pseudonym": "author-77fc80fc0b22"
+  },
+  "slug": "new-deck-3",
+  "stats": {
+    "avgCost": 3.7,
+    "avgPower": 7.6,
+    "colorDistribution": {
+      "Green": 13,
+      "Red": 27
+    },
+    "costCurve": [
+      0,
+      8,
+      5,
+      8,
+      5,
+      4,
+      5,
+      5
+    ],
+    "deckCount": 40,
+    "gearCount": 6,
+    "legendCount": 3,
+    "programCount": 14,
+    "ramBudget": {
+      "Green": 2,
+      "Red": 4
+    },
+    "ramUsage": {
+      "Green": 2,
+      "Red": 4
+    },
+    "totalCards": 43,
+    "unitCount": 20
+  },
+  "updated_at": "2026-09-07T01:13:46.660Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "91df478a-91d5-4d42-a624-4c20ec61121c",
+          "card_slug": "dexter-deshawn-off-the-grid",
+          "preferred_printing_id": "9a298f42-3a9f-4510-b2fd-9cf1b34ade27",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "380b5e52-2651-4cde-8222-1db2ae6469e2",
+          "card_slug": "hanako-arasaka-daughter-of-the-emperor",
+          "preferred_printing_id": "2c4a77e8-0fda-4ec1-9519-1d15e0f172b3",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "56947a14-0b1e-4c3d-89e0-17839bcf4280",
+          "card_slug": "johnny-silverhand-rocking-renegade",
+          "preferred_printing_id": "a8a7d286-0c66-4f01-aca7-45570474d9e4",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "7531",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 40,
+      "cards": [
+        {
+          "card_entity_id": "1b516742-cdf3-4597-8ba1-be787240ab3b",
+          "card_slug": "la-llorona-ghost-of-the-past",
+          "preferred_printing_id": "e3d1d8a0-1d53-4c85-84ca-66439fd3639a",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "e48c9d39-ef27-4b8f-8690-d75c3a4807b0",
+          "card_slug": "6th-street-recruits",
+          "preferred_printing_id": "756f3e53-9ff3-4c01-9f33-bb27a1cd5957",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "d6f16c44-6d56-48ff-8130-154eea5540ca",
+          "card_slug": "maxtac-av",
+          "preferred_printing_id": "f1fa787d-e936-42a8-b42f-14999e722793",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "9ed58d18-df78-4689-b28f-77260243c522",
+          "card_slug": "v-roamer-of-the-badlands",
+          "preferred_printing_id": "c1747b7d-de5c-43eb-a4ed-b632f1861712",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "e8aa7757-e5e3-4137-8970-4fa546b9bed9",
+          "card_slug": "animals-wrecker",
+          "preferred_printing_id": "7514dd38-6e2d-43dd-9715-6b3a32615382",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "9a4002b0-0f0b-4c9a-a198-691d058b6dcc",
+          "card_slug": "johnny-silverhand-never-stop-fighting",
+          "preferred_printing_id": "14ab188f-2ce3-4790-8823-5a352371ff1f",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "9611a3ba-d365-453f-89ed-c986a1948edc",
+          "card_slug": "sandayu-oda-hanako-s-guardian",
+          "preferred_printing_id": "f452a0ca-3204-48d5-8565-ec746f27959b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "a29490bb-2836-48b6-a4f9-a44b25c8bfa2",
+          "card_slug": "saul-bright-stormrider",
+          "preferred_printing_id": "60e476b4-51ab-4b10-8861-a8362b4232d7",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "28198e04-60e2-4f81-9786-903a9a947d7a",
+          "card_slug": "mantis-blades",
+          "preferred_printing_id": "7ffa8ba4-f187-4ba0-a719-fa8ebf45a03b",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "4670d02b-b97a-4771-bb7e-65bdc012530e",
+          "card_slug": "satori-sword-of-saburo",
+          "preferred_printing_id": "11a8fed4-5401-4cfc-901b-ab9b5b94d0ab",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "1d8f611c-dd08-48d1-82eb-451d56dcf651",
+          "card_slug": "deadman-transmitter",
+          "preferred_printing_id": "32957075-42ff-47e3-8252-e78877ef61f7",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "a708461f-1f91-4789-bb0d-96e3de5fcf44",
+          "card_slug": "industrial-assembly",
+          "preferred_printing_id": "9103b5db-bf95-4385-8941-308cb0353c9a",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "20484778-9294-4148-bd8c-fa78572f4452",
+          "card_slug": "peace-offering",
+          "preferred_printing_id": "8570122a-52aa-4a6b-8d72-4c8848df0f9b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "71fb410b-b56e-42b2-a793-4c49e935b9f1",
+          "card_slug": "corporate-surveillance",
+          "preferred_printing_id": "d3dc7194-a545-4588-9702-b094c27ce359",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "59ddecca-1501-492a-b8b1-d4b38d4486c9",
+          "card_slug": "appetite-for-destruction",
+          "preferred_printing_id": "f274789d-69f2-4acf-a511-f728c67d1a13",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "27c01b18-2a9c-4d66-ad21-b75869fba666",
+          "card_slug": "gunpoint-diplomacy",
+          "preferred_printing_id": "efc5dfdd-f393-4bbe-a7bc-ac959ba1e6bc",
+          "quantity": 2
+        }
+      ],
+      "display_name": "Deck",
+      "id": "7532",
+      "zone_code": "deck"
+    }
+  ]
+}

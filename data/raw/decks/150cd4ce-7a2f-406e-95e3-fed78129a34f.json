@@ -1,0 +1,189 @@
+{
+  "card_count": 43,
+  "created_at": "2026-09-05T21:37:49.848Z",
+  "credit": null,
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "150cd4ce-7a2f-406e-95e3-fed78129a34f",
+  "is_valid": true,
+  "name": "overwatch",
+  "owner": {
+    "owner_pseudonym": "author-09c0e732d7c5"
+  },
+  "slug": "overwatch",
+  "stats": {
+    "avgCost": 3.9,
+    "avgPower": 4.7,
+    "colorDistribution": {
+      "Blue": 7,
+      "Green": 33
+    },
+    "costCurve": [
+      0,
+      3,
+      2,
+      16,
+      8,
+      5,
+      0,
+      6
+    ],
+    "deckCount": 40,
+    "gearCount": 9,
+    "legendCount": 3,
+    "programCount": 12,
+    "ramBudget": {
+      "Blue": 2,
+      "Green": 4
+    },
+    "ramUsage": {
+      "Blue": 2,
+      "Green": 4
+    },
+    "totalCards": 43,
+    "unitCount": 19
+  },
+  "updated_at": "2026-09-05T21:37:50.983Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "55807eb7-8a8e-44a9-97a2-c8ac993e7b43",
+          "card_slug": "evelyn-parker-beautiful-enigma",
+          "preferred_printing_id": "ba766c1d-d929-4a22-bc91-7400784536c8",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "501a3796-9983-400f-86e4-97ffac5d5451",
+          "card_slug": "padre-man-of-the-cross",
+          "preferred_printing_id": "c7f0583f-2493-4e1f-9967-977bc0c6fa15",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "950f045c-f5a4-4318-9907-b630d64de754",
+          "card_slug": "panam-palmer-nomad-cavalry",
+          "preferred_printing_id": "6e4ee31b-82d1-421c-b658-ba3f79520365",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "5837",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 40,
+      "cards": [
+        {
+          "card_entity_id": "4a8dfe3f-980d-4370-ac10-6bd989042cdf",
+          "card_slug": "field-operator",
+          "preferred_printing_id": "876dfa5c-6df4-4930-b284-f2c466e6b90c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "2a8802d3-598c-4ce3-9051-59ecf965ffbf",
+          "card_slug": "maxtac-squadron",
+          "preferred_printing_id": "22b276f4-7cf6-4b14-a220-8368a0839287",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "ef77dd1f-3abd-4ce2-becc-97dd768a5022",
+          "card_slug": "mox-inciters",
+          "preferred_printing_id": "354fd7d3-070d-4767-989c-5b3efbd9f30d",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "5d6afeed-1532-4a01-bb40-a011030a7785",
+          "card_slug": "valentino-street-racer",
+          "preferred_printing_id": "dc15db71-3443-4de0-b988-c62601bae5e1",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "0974a7af-dcd7-44d9-b57a-b6a4719afcd6",
+          "card_slug": "pepe-najarro-working-doubles",
+          "preferred_printing_id": "0de81196-f1d3-4fd0-ae6a-062dae3f3f2c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "92edc648-10d6-43d3-b4ab-4ad65a5c7425",
+          "card_slug": "riding-nomad",
+          "preferred_printing_id": "1ee3ba07-86b0-4309-be55-4b4698f700b8",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "78fee308-5d4e-491c-9596-423dc20da5e3",
+          "card_slug": "maxtac-heavy",
+          "preferred_printing_id": "060f0c56-cbb7-45fd-a0cd-9c7b9d0f8103",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "783a9082-b79c-4b45-bf66-48728ff9b92d",
+          "card_slug": "placide-voodoo-sentinel",
+          "preferred_printing_id": "81c55c1f-362e-4ffd-8f9b-4162b298dbd5",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "40c98fdc-45d0-458d-be2c-2697dc337ca5",
+          "card_slug": "netwatch-netdriver",
+          "preferred_printing_id": "07f119d6-8fb2-4b23-9862-818a7e941010",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "55153b49-c3a7-4208-a47b-0a91fa7e3b5c",
+          "card_slug": "sandevistan",
+          "preferred_printing_id": "97de62e2-3fea-4324-8367-87d1f1d674ed",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "78ea68b3-1260-416b-9f88-d6be4586232b",
+          "card_slug": "overwatch-panam-s-gift",
+          "preferred_printing_id": "336131d1-3bc8-4b39-b893-5fce9be8ce7f",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "20484778-9294-4148-bd8c-fa78572f4452",
+          "card_slug": "peace-offering",
+          "preferred_printing_id": "8570122a-52aa-4a6b-8d72-4c8848df0f9b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "71fb410b-b56e-42b2-a793-4c49e935b9f1",
+          "card_slug": "corporate-surveillance",
+          "preferred_printing_id": "d3dc7194-a545-4588-9702-b094c27ce359",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "0f7c1c54-0e2e-44a5-ac7f-5263fbab21d3",
+          "card_slug": "memory-relapse",
+          "preferred_printing_id": "ef9f2959-de87-4a54-be45-5c9dcc507aba",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "404748b4-f30e-4bf1-8991-5ad449da755a",
+          "card_slug": "we-gotta-live-together",
+          "preferred_printing_id": "63821536-cdf5-4347-812a-0bf72d727596",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "17a80b46-c583-4867-97ac-7855494363a9",
+          "card_slug": "don-t-fear-the-reaper",
+          "preferred_printing_id": "e96d3167-5115-4c82-9b35-546cba0aaead",
+          "quantity": 2
+        }
+      ],
+      "display_name": "Deck",
+      "id": "5838",
+      "zone_code": "deck"
+    }
+  ]
+}

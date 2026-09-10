@@ -1,0 +1,207 @@
+{
+  "card_count": 43,
+  "created_at": "2026-09-07T01:30:23.854Z",
+  "credit": null,
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "0fc3d232-94cd-49f6-8077-af336f7f7663",
+  "is_valid": true,
+  "name": "GGR Arasaka",
+  "owner": {
+    "owner_pseudonym": "author-627cf961e3e8"
+  },
+  "slug": "new-deck-2",
+  "stats": {
+    "avgCost": 3.4,
+    "avgPower": 4.5,
+    "colorDistribution": {
+      "Green": 22,
+      "Red": 18
+    },
+    "costCurve": [
+      0,
+      5,
+      10,
+      9,
+      8,
+      3,
+      0,
+      5
+    ],
+    "deckCount": 40,
+    "gearCount": 8,
+    "legendCount": 3,
+    "programCount": 12,
+    "ramBudget": {
+      "Green": 4,
+      "Red": 2
+    },
+    "ramUsage": {
+      "Green": 4,
+      "Red": 2
+    },
+    "totalCards": 43,
+    "unitCount": 20
+  },
+  "updated_at": "2026-09-07T01:33:46.048Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "424c9c0f-cc01-40ec-8404-75957985c7f8",
+          "card_slug": "goro-takemura-vengeful-bodyguard",
+          "preferred_printing_id": "0f6e52f0-511f-4ae9-a380-5e718b26e58a",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "cf50fa24-bf94-4c35-bcc1-c6d56a6f68d8",
+          "card_slug": "saburo-arasaka-stubborn-patriarch",
+          "preferred_printing_id": "6ac7adce-01af-4b5b-956b-698eda0bed14",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "31fa5825-946a-4ca2-afa8-8f07b9898d6a",
+          "card_slug": "yorinobu-arasaka-embracing-destruction",
+          "preferred_printing_id": "f70b75b5-aa2f-4c2d-b8c3-01fcb2a670ec",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "7845",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 40,
+      "cards": [
+        {
+          "card_entity_id": "71652e73-984a-4630-be47-af947f87d5c1",
+          "card_slug": "corpo-security",
+          "preferred_printing_id": "80dcc139-d31d-4b89-86ff-cdbdd2664953",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "4a8dfe3f-980d-4370-ac10-6bd989042cdf",
+          "card_slug": "field-operator",
+          "preferred_printing_id": "876dfa5c-6df4-4930-b284-f2c466e6b90c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "1b516742-cdf3-4597-8ba1-be787240ab3b",
+          "card_slug": "la-llorona-ghost-of-the-past",
+          "preferred_printing_id": "e3d1d8a0-1d53-4c85-84ca-66439fd3639a",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "08e6a687-56b7-4ac1-982f-8a8d6d0c0bc5",
+          "card_slug": "goro-takemura-losing-his-way",
+          "preferred_printing_id": "42e03e7a-923d-4f2b-8d79-191e69873947",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "21f68be2-c664-4ae0-a7ef-965a3a5a14c8",
+          "card_slug": "meredith-stout-stone-cold-corpo",
+          "preferred_printing_id": "5939771d-bdcc-4b42-aea4-376311189e93",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "7a62beca-ac54-4c0d-847d-ed85838c5093",
+          "card_slug": "screw-lovelorn-fool",
+          "preferred_printing_id": "a7117b0f-74ab-44b5-87fb-de267d0f2164",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "066641c5-acc2-45f4-ba67-16a8d20cce73",
+          "card_slug": "minotaur",
+          "preferred_printing_id": "19587d4f-6d47-44fe-b4da-99743e2742f7",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "9611a3ba-d365-453f-89ed-c986a1948edc",
+          "card_slug": "sandayu-oda-hanako-s-guardian",
+          "preferred_printing_id": "f452a0ca-3204-48d5-8565-ec746f27959b",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "5233bacc-f39f-4383-8e25-57ef634735ca",
+          "card_slug": "arasaka-emergency-radioport",
+          "preferred_printing_id": "d2da65d5-fdaf-44f4-a692-a5672d2c1cca",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "4670d02b-b97a-4771-bb7e-65bdc012530e",
+          "card_slug": "satori-sword-of-saburo",
+          "preferred_printing_id": "11a8fed4-5401-4cfc-901b-ab9b5b94d0ab",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "55153b49-c3a7-4208-a47b-0a91fa7e3b5c",
+          "card_slug": "sandevistan",
+          "preferred_printing_id": "97de62e2-3fea-4324-8367-87d1f1d674ed",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "78ea68b3-1260-416b-9f88-d6be4586232b",
+          "card_slug": "overwatch-panam-s-gift",
+          "preferred_printing_id": "336131d1-3bc8-4b39-b893-5fce9be8ce7f",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "1f969c27-dddb-4971-9ab5-bd728c3e3e52",
+          "card_slug": "all-is-lost",
+          "preferred_printing_id": "d1a3c0e0-e0e7-418d-afb4-e6e43400c42e",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "2697ed9d-72fc-4658-9c94-977668911a67",
+          "card_slug": "detonate",
+          "preferred_printing_id": "bec995b7-b76b-4605-9c36-3d7697cdd4f5",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "a708461f-1f91-4789-bb0d-96e3de5fcf44",
+          "card_slug": "industrial-assembly",
+          "preferred_printing_id": "9103b5db-bf95-4385-8941-308cb0353c9a",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "c5d2fed1-1470-4ac5-9f84-bf66705901ce",
+          "card_slug": "fool-on-the-hill",
+          "preferred_printing_id": "7751b719-978b-44b1-a82f-b2881d3a416e",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "0f7c1c54-0e2e-44a5-ac7f-5263fbab21d3",
+          "card_slug": "memory-relapse",
+          "preferred_printing_id": "ef9f2959-de87-4a54-be45-5c9dcc507aba",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "3126fa21-ea19-4096-8233-d63797bb9fe4",
+          "card_slug": "wild-in-the-streets",
+          "preferred_printing_id": "54f0308f-8fb2-4861-a414-c15ca24426c3",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "17a80b46-c583-4867-97ac-7855494363a9",
+          "card_slug": "don-t-fear-the-reaper",
+          "preferred_printing_id": "e96d3167-5115-4c82-9b35-546cba0aaead",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Deck",
+      "id": "7846",
+      "zone_code": "deck"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "card_count": 43,
+  "created_at": "2026-09-03T13:31:49.608Z",
+  "credit": null,
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "118a68f3-7d9e-4b2a-adb5-7d67607aad3f",
+  "is_valid": true,
+  "name": "Rocker Panam",
+  "owner": {
+    "owner_pseudonym": "author-0919b3a6bbbb"
+  },
+  "slug": "new-deck",
+  "stats": {
+    "avgCost": 2.9,
+    "avgPower": 6.1,
+    "colorDistribution": {
+      "Green": 15,
+      "Red": 17,
+      "Yellow": 8
+    },
+    "costCurve": [
+      0,
+      12,
+      9,
+      3,
+      9,
+      3,
+      4,
+      0
+    ],
+    "deckCount": 40,
+    "gearCount": 12,
+    "legendCount": 3,
+    "programCount": 12,
+    "ramBudget": {
+      "Green": 2,
+      "Red": 2,
+      "Yellow": 2
+    },
+    "ramUsage": {
+      "Green": 2,
+      "Red": 2,
+      "Yellow": 2
+    },
+    "totalCards": 43,
+    "unitCount": 16
+  },
+  "updated_at": "2026-09-03T13:33:38.133Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "56947a14-0b1e-4c3d-89e0-17839bcf4280",
+          "card_slug": "johnny-silverhand-rocking-renegade",
+          "preferred_printing_id": "a8a7d286-0c66-4f01-aca7-45570474d9e4",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "fc516d53-5fd8-43dd-8349-9e60f0606efa",
+          "card_slug": "muamar-reyes-el-capita-n",
+          "preferred_printing_id": "dbbf4a6c-340d-4356-81ad-776940a7ee32",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "950f045c-f5a4-4318-9907-b630d64de754",
+          "card_slug": "panam-palmer-nomad-cavalry",
+          "preferred_printing_id": "6e4ee31b-82d1-421c-b658-ba3f79520365",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "2121",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 40,
+      "cards": [
+        {
+          "card_entity_id": "3c4e7fcb-933d-4712-9ce7-6052a14f8e94",
+          "card_slug": "swordwise-huscle",
+          "preferred_printing_id": "1c053198-187e-49ab-a9e0-0661b4c3b337",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "5c4d4058-9185-4305-9e8f-7eca41cf6674",
+          "card_slug": "kerry-eurodyne-the-last-rockerboy",
+          "preferred_printing_id": "c26c7db6-f540-4073-ab33-b09335631764",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "0974a7af-dcd7-44d9-b57a-b6a4719afcd6",
+          "card_slug": "pepe-najarro-working-doubles",
+          "preferred_printing_id": "0de81196-f1d3-4fd0-ae6a-062dae3f3f2c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "7ea6eecc-e55e-4634-93eb-b2b46e79635d",
+          "card_slug": "rockn-rockerboy",
+          "preferred_printing_id": "07aaea5c-5aef-466e-956a-2e68930669c0",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "b665e103-456b-4c51-9551-95b0bc87212a",
+          "card_slug": "jackie-welles-ride-or-die-choom",
+          "preferred_printing_id": "12d44604-ad7b-4e82-b517-9edb0be44427",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "9a4002b0-0f0b-4c9a-a198-691d058b6dcc",
+          "card_slug": "johnny-silverhand-never-stop-fighting",
+          "preferred_printing_id": "14ab188f-2ce3-4790-8823-5a352371ff1f",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "28198e04-60e2-4f81-9786-903a9a947d7a",
+          "card_slug": "mantis-blades",
+          "preferred_printing_id": "7ffa8ba4-f187-4ba0-a719-fa8ebf45a03b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "7da95cf0-f749-439f-b40a-9d3057d2c995",
+          "card_slug": "riot-shield",
+          "preferred_printing_id": "ce570725-0de7-438a-a9c8-33074a7180ba",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "4670d02b-b97a-4771-bb7e-65bdc012530e",
+          "card_slug": "satori-sword-of-saburo",
+          "preferred_printing_id": "11a8fed4-5401-4cfc-901b-ab9b5b94d0ab",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "b88d436f-1ec7-4f62-9dbc-c5f5e0d0a0df",
+          "card_slug": "zetatech-faceplate",
+          "preferred_printing_id": "79cdc9a5-d94d-4df4-9f88-aa02fb0357b3",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "2697ed9d-72fc-4658-9c94-977668911a67",
+          "card_slug": "detonate",
+          "preferred_printing_id": "bec995b7-b76b-4605-9c36-3d7697cdd4f5",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "20484778-9294-4148-bd8c-fa78572f4452",
+          "card_slug": "peace-offering",
+          "preferred_printing_id": "8570122a-52aa-4a6b-8d72-4c8848df0f9b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "f3ba5ef7-5e91-4956-a887-b88a4b854867",
+          "card_slug": "synapse-burnout",
+          "preferred_printing_id": "4277845b-1209-46df-8353-8fd36f56148a",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "0f7c1c54-0e2e-44a5-ac7f-5263fbab21d3",
+          "card_slug": "memory-relapse",
+          "preferred_printing_id": "ef9f2959-de87-4a54-be45-5c9dcc507aba",
+          "quantity": 3
+        }
+      ],
+      "display_name": "Deck",
+      "id": "2122",
+      "zone_code": "deck"
+    }
+  ]
+}

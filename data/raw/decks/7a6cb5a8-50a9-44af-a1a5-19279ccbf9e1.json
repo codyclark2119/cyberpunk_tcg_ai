@@ -1,0 +1,213 @@
+{
+  "card_count": 53,
+  "created_at": "2026-09-05T00:50:14.735Z",
+  "credit": null,
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "7a6cb5a8-50a9-44af-a1a5-19279ccbf9e1",
+  "is_valid": true,
+  "name": "Braindance Bash",
+  "owner": {
+    "owner_pseudonym": "author-0fcfecdea280"
+  },
+  "slug": "brain-bug",
+  "stats": {
+    "avgCost": 3.8,
+    "avgPower": 4.5,
+    "colorDistribution": {
+      "Blue": 40,
+      "Red": 10
+    },
+    "costCurve": [
+      0,
+      5,
+      6,
+      14,
+      6,
+      12,
+      5,
+      2
+    ],
+    "deckCount": 50,
+    "gearCount": 5,
+    "legendCount": 3,
+    "programCount": 21,
+    "ramBudget": {
+      "Blue": 4,
+      "Red": 2
+    },
+    "ramUsage": {
+      "Blue": 4,
+      "Red": 2
+    },
+    "totalCards": 53,
+    "unitCount": 24
+  },
+  "updated_at": "2026-09-05T01:32:44.635Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "12475e77-0e16-420e-a935-65eb74290de8",
+          "card_slug": "alt-cunningham-soulkiller-architect",
+          "preferred_printing_id": "7a6a5336-2b6c-4d8a-b1f0-595a787255ce",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "4560f3d0-5f63-466b-93b7-fc9d822a556e",
+          "card_slug": "judy-a-lvarez-braindance-maestro",
+          "preferred_printing_id": "0324e335-2f17-496c-9789-59f93ed6d31e",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "81a8dec7-9541-4020-93e1-7d798a57dcbc",
+          "card_slug": "v-streetkid",
+          "preferred_printing_id": "20debd66-ff1c-42c3-9869-928cba33ccb5",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "4463",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 50,
+      "cards": [
+        {
+          "card_entity_id": "3bb1f191-927e-45b3-86ca-cb30baabfe0d",
+          "card_slug": "delamain-rideshare-ai",
+          "preferred_printing_id": "32f8d89a-1e4b-46b8-9323-77c297c5b5ae",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "21f68be2-c664-4ae0-a7ef-965a3a5a14c8",
+          "card_slug": "meredith-stout-stone-cold-corpo",
+          "preferred_printing_id": "96e76b12-4e53-4e2c-aca3-3fedf6f21e18",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "65a14367-da52-4578-8162-3c4bac11007d",
+          "card_slug": "rita-wheeler-no-stupid-questions",
+          "preferred_printing_id": "6b5606c9-12a2-46d6-b13f-a672c6bd5f07",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "6b078eff-4cef-4beb-a299-ed388a72ce45",
+          "card_slug": "lizzy-wizzy-delicate-weapon",
+          "preferred_printing_id": "929b5e98-ab82-4e36-bb72-a00a223ded77",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "5380dea3-4d21-445b-af02-487b45d40395",
+          "card_slug": "maman-brigitte-spirit-of-death",
+          "preferred_printing_id": "220bef49-2e98-4bc6-b023-5bb8f492b29b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "619429c9-132f-496e-8aa0-414e850c87ec",
+          "card_slug": "mt0d12-flathead",
+          "preferred_printing_id": "d4a627d7-2ea9-4080-9f54-435a7d77fb27",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "9d994a42-4a63-44ad-ad7a-edead6af06a2",
+          "card_slug": "rogue-amendiares-queen-of-the-afterlife",
+          "preferred_printing_id": "807c871c-bebe-4343-9b68-1f89af5ed0da",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "9a4002b0-0f0b-4c9a-a198-691d058b6dcc",
+          "card_slug": "johnny-silverhand-never-stop-fighting",
+          "preferred_printing_id": "7b113940-7325-4304-b07a-61719b47a49c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "783a9082-b79c-4b45-bf66-48728ff9b92d",
+          "card_slug": "placide-voodoo-sentinel",
+          "preferred_printing_id": "0ff059f8-90c3-47ef-ba3b-cd380f30f14e",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "df06b6e2-1675-48a3-bfe2-d0bc4c5f35eb",
+          "card_slug": "dying-night-v-s-pistol",
+          "preferred_printing_id": "1dc3c618-a40a-4717-bf4d-a573915c8ac0",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "40c98fdc-45d0-458d-be2c-2697dc337ca5",
+          "card_slug": "netwatch-netdriver",
+          "preferred_printing_id": "e2a34251-d2d9-46e0-9840-ca69a358a6ae",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "2697ed9d-72fc-4658-9c94-977668911a67",
+          "card_slug": "detonate",
+          "preferred_printing_id": "0ecf513b-64fd-4932-a004-b02b43b21e88",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "ec857ab0-995e-4c32-84b6-7ba57b2f6137",
+          "card_slug": "trust-no-one",
+          "preferred_printing_id": "a0d5fd79-b00b-408d-89c5-ff8721da568c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "ad13a7bc-c49d-4166-8a9c-965e7bfa9b8f",
+          "card_slug": "reboot-optics",
+          "preferred_printing_id": "f393f463-2e62-4d77-aaf4-ed1bafaee8c5",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "2993d637-d44d-4add-8473-26d67c0d1bc0",
+          "card_slug": "three-mouths-one-desire",
+          "preferred_printing_id": "0449bc78-983b-4681-b062-0738de3c487b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "e4af26f0-e25d-4e30-8bac-6701f54f3e97",
+          "card_slug": "nocturne-op55-n1",
+          "preferred_printing_id": "dfd5d1df-2b47-4ddd-9d6a-35430a892cfc",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "144c3559-3518-4c01-b9e6-af42b7166661",
+          "card_slug": "over-the-edge",
+          "preferred_printing_id": "de9b7361-6d1c-4a27-bcfb-50ec7a78e518",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "7977a175-0516-478e-b166-3edb035849a4",
+          "card_slug": "pyramid-song",
+          "preferred_printing_id": "bab79ef1-57fb-4b24-b50a-e08899699862",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "c29aefc5-c8dd-4188-95d9-e46c5ee289eb",
+          "card_slug": "les-e-le-mens",
+          "preferred_printing_id": "7e86c639-5225-4a91-be33-6ab86c9adfe2",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "9a0fd5a3-a00b-425c-a251-755eeab12bfe",
+          "card_slug": "towerfall",
+          "preferred_printing_id": "4d8a1ccb-6d46-45b1-839a-fd3b7fa84b72",
+          "quantity": 2
+        }
+      ],
+      "display_name": "Deck",
+      "id": "4464",
+      "zone_code": "deck"
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "card_count": 43,
+  "created_at": "2026-09-05T21:51:16.778Z",
+  "credit": null,
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "8253fccd-fcbf-4fe0-b890-b9593a632192",
+  "is_valid": true,
+  "name": "Newbie Shnewbie Deck (sponsored by BF)",
+  "owner": {
+    "owner_pseudonym": "author-27646e186df4"
+  },
+  "slug": "newbie-shnewbie-deck-sponsored-by-bf",
+  "stats": {
+    "avgCost": 3.6,
+    "avgPower": 3.9,
+    "colorDistribution": {
+      "Green": 23,
+      "Yellow": 17
+    },
+    "costCurve": [
+      0,
+      4,
+      10,
+      5,
+      8,
+      6,
+      5,
+      2
+    ],
+    "deckCount": 40,
+    "gearCount": 12,
+    "legendCount": 3,
+    "programCount": 13,
+    "ramBudget": {
+      "Green": 4,
+      "Yellow": 2
+    },
+    "ramUsage": {
+      "Green": 4,
+      "Yellow": 2
+    },
+    "totalCards": 43,
+    "unitCount": 15
+  },
+  "updated_at": "2026-09-05T21:51:36.490Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "950f045c-f5a4-4318-9907-b630d64de754",
+          "card_slug": "panam-palmer-nomad-cavalry",
+          "preferred_printing_id": "6e4ee31b-82d1-421c-b658-ba3f79520365",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "f090dc44-d7f0-4aec-a19e-9213155a6611",
+          "card_slug": "viktor-vektor-sit-down-and-relax",
+          "preferred_printing_id": "7d539173-4022-402e-a9f4-100338935fd2",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "72358c7d-9f29-4ef6-a682-f5bfc72c7714",
+          "card_slug": "goro-takemura-hands-unclean",
+          "preferred_printing_id": "2ba68619-7050-44c5-b0ce-b32d48b8f40f",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "5855",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 40,
+      "cards": [
+        {
+          "card_entity_id": "b05cb065-309e-45a3-bbe0-20f4b6ea71aa",
+          "card_slug": "secondhand-bombus",
+          "preferred_printing_id": "fcbb6d58-6666-4bd3-8ff0-64930fb0f422",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "b3b40c68-705b-41ff-ae10-4132497c4a39",
+          "card_slug": "sketchy-ripper",
+          "preferred_printing_id": "12f0398c-bcc3-4944-af72-ac2ae9f36761",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "f57094f7-0720-4ba5-9a71-aafbc714d65a",
+          "card_slug": "maelstrom-goons",
+          "preferred_printing_id": "e14bdd12-1214-4104-bfdd-ae023c21527c",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "647bb074-197f-4059-bac5-251b47c98287",
+          "card_slug": "viktor-vektor-you-might-feel-a-little-pinch",
+          "preferred_printing_id": "4eca7fcd-85c1-43d0-8a07-4227312ab0db",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "35c1fda3-60f9-4779-b690-30b283d52297",
+          "card_slug": "maelstrom-zealots",
+          "preferred_printing_id": "43e5568f-a609-4eff-8502-e81ba9134d2c",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "3ce6b982-7bba-46f1-8832-8867ec3588d4",
+          "card_slug": "offduty-malfini",
+          "preferred_printing_id": "fbefb447-34a3-4d53-9b23-d1bf141f8eec",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "5a5a177c-6ed8-4bd9-8b11-13c2b64414e2",
+          "card_slug": "t-bug-amateur-philosopher",
+          "preferred_printing_id": "e2e3d98d-0159-4a79-b543-e37264f23118",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "95840ebd-d00a-49ff-b4e5-e2064cfc13a9",
+          "card_slug": "maxtac-suppression-team",
+          "preferred_printing_id": "47f55164-e5da-494e-9d55-02bd0b7f97c1",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "92d23553-8b0d-49cd-8cbe-6f00b3377298",
+          "card_slug": "viktor-vektor-drop-your-illusions",
+          "preferred_printing_id": "2285cd3a-7010-4ba4-b23a-ba40aba296f9",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "3c144d6a-0c1a-43e9-bd35-85d6fc46adef",
+          "card_slug": "nadia-fighting-through-grief",
+          "preferred_printing_id": "4bab255b-763a-4762-b5e2-430316526b8a",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "34774f04-4f16-40eb-8ee4-999144e572ab",
+          "card_slug": "panam-palmer-strength-through-family",
+          "preferred_printing_id": "9231f9ff-1ba5-4c4f-bd78-70e0780b58e5",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "6720e7fd-d1e8-4c8a-9ff2-f51f62241902",
+          "card_slug": "mandibular-upgrade",
+          "preferred_printing_id": "219b7a29-0f8b-4750-bc46-0f39eec6721b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "7da95cf0-f749-439f-b40a-9d3057d2c995",
+          "card_slug": "riot-shield",
+          "preferred_printing_id": "ce570725-0de7-438a-a9c8-33074a7180ba",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "78ea68b3-1260-416b-9f88-d6be4586232b",
+          "card_slug": "overwatch-panam-s-gift",
+          "preferred_printing_id": "336131d1-3bc8-4b39-b893-5fce9be8ce7f",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "1d7f3d02-27b5-4ab8-af99-f8f2e0fd62cf",
+          "card_slug": "zetatech-berserk",
+          "preferred_printing_id": "8b8bcfcd-37c8-4bca-8c25-17a3b3363349",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "f3ba5ef7-5e91-4956-a887-b88a4b854867",
+          "card_slug": "synapse-burnout",
+          "preferred_printing_id": "4277845b-1209-46df-8353-8fd36f56148a",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "71fb410b-b56e-42b2-a793-4c49e935b9f1",
+          "card_slug": "corporate-surveillance",
+          "preferred_printing_id": "d3dc7194-a545-4588-9702-b094c27ce359",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "c5d2fed1-1470-4ac5-9f84-bf66705901ce",
+          "card_slug": "fool-on-the-hill",
+          "preferred_printing_id": "7751b719-978b-44b1-a82f-b2881d3a416e",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "5ea00b3a-7e85-4c7d-91ad-90e0cf370c27",
+          "card_slug": "the-heist",
+          "preferred_printing_id": "a1e2c25e-fb27-458f-984d-df422f879664",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "87e001dd-8604-4523-af6e-d768118ccf98",
+          "card_slug": "cyberpsychosis",
+          "preferred_printing_id": "5aafe80b-7c7d-4060-8677-a2881a21dd72",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "0f7c1c54-0e2e-44a5-ac7f-5263fbab21d3",
+          "card_slug": "memory-relapse",
+          "preferred_printing_id": "ef9f2959-de87-4a54-be45-5c9dcc507aba",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "3126fa21-ea19-4096-8233-d63797bb9fe4",
+          "card_slug": "wild-in-the-streets",
+          "preferred_printing_id": "54f0308f-8fb2-4861-a414-c15ca24426c3",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "17a80b46-c583-4867-97ac-7855494363a9",
+          "card_slug": "don-t-fear-the-reaper",
+          "preferred_printing_id": "e96d3167-5115-4c82-9b35-546cba0aaead",
+          "quantity": 2
+        }
+      ],
+      "display_name": "Deck",
+      "id": "5856",
+      "zone_code": "deck"
+    }
+  ]
+}

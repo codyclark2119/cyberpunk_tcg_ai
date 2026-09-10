@@ -1,0 +1,183 @@
+{
+  "card_count": 43,
+  "created_at": "2026-09-03T11:23:19.256Z",
+  "credit": "GreenOut",
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "3cb5b2c3-ad3b-4696-997b-759b7c067181",
+  "is_valid": true,
+  "name": "TheGangers",
+  "owner": {
+    "owner_pseudonym": "author-7713a01a7eaa"
+  },
+  "slug": "new-deck",
+  "stats": {
+    "avgCost": 3,
+    "avgPower": 5.4,
+    "colorDistribution": {
+      "Blue": 12,
+      "Red": 28
+    },
+    "costCurve": [
+      0,
+      13,
+      3,
+      10,
+      6,
+      3,
+      2,
+      3
+    ],
+    "deckCount": 40,
+    "gearCount": 6,
+    "legendCount": 3,
+    "programCount": 19,
+    "ramBudget": {
+      "Blue": 2,
+      "Red": 4
+    },
+    "ramUsage": {
+      "Blue": 2,
+      "Red": 3
+    },
+    "totalCards": 43,
+    "unitCount": 15
+  },
+  "updated_at": "2026-09-03T11:44:51.598Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "55807eb7-8a8e-44a9-97a2-c8ac993e7b43",
+          "card_slug": "evelyn-parker-beautiful-enigma",
+          "preferred_printing_id": "ba766c1d-d929-4a22-bc91-7400784536c8",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "81a8dec7-9541-4020-93e1-7d798a57dcbc",
+          "card_slug": "v-streetkid",
+          "preferred_printing_id": "3fc63c58-5954-4744-a5af-047bfc5cb159",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "eff41c12-b872-4101-9779-00e691532893",
+          "card_slug": "adam-smasher-ender-of-legends",
+          "preferred_printing_id": "a9c1137e-2e33-4293-9dcc-9351c9a0bbee",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "1993",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 40,
+      "cards": [
+        {
+          "card_entity_id": "1b516742-cdf3-4597-8ba1-be787240ab3b",
+          "card_slug": "la-llorona-ghost-of-the-past",
+          "preferred_printing_id": "e3d1d8a0-1d53-4c85-84ca-66439fd3639a",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "e48c9d39-ef27-4b8f-8690-d75c3a4807b0",
+          "card_slug": "6th-street-recruits",
+          "preferred_printing_id": "756f3e53-9ff3-4c01-9f33-bb27a1cd5957",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "21f68be2-c664-4ae0-a7ef-965a3a5a14c8",
+          "card_slug": "meredith-stout-stone-cold-corpo",
+          "preferred_printing_id": "5939771d-bdcc-4b42-aea4-376311189e93",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "9d994a42-4a63-44ad-ad7a-edead6af06a2",
+          "card_slug": "rogue-amendiares-queen-of-the-afterlife",
+          "preferred_printing_id": "3193a6bd-3e99-4501-9c5c-8d5ea32c779c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "6cf6456d-d020-4c6c-9041-66d503a01a0a",
+          "card_slug": "yorinobu-arasaka-steel-dragon",
+          "preferred_printing_id": "c057ccc4-bb15-4efd-8115-8d223568134b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "28198e04-60e2-4f81-9786-903a9a947d7a",
+          "card_slug": "mantis-blades",
+          "preferred_printing_id": "7ffa8ba4-f187-4ba0-a719-fa8ebf45a03b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "40c98fdc-45d0-458d-be2c-2697dc337ca5",
+          "card_slug": "netwatch-netdriver",
+          "preferred_printing_id": "07f119d6-8fb2-4b23-9862-818a7e941010",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "1f969c27-dddb-4971-9ab5-bd728c3e3e52",
+          "card_slug": "all-is-lost",
+          "preferred_printing_id": "d1a3c0e0-e0e7-418d-afb4-e6e43400c42e",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "2697ed9d-72fc-4658-9c94-977668911a67",
+          "card_slug": "detonate",
+          "preferred_printing_id": "bec995b7-b76b-4605-9c36-3d7697cdd4f5",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "0cd37c43-e722-48eb-91ef-4c1bd1645215",
+          "card_slug": "floor-it",
+          "preferred_printing_id": "91f9d30c-f74d-4be4-8505-52f05d309c92",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "a708461f-1f91-4789-bb0d-96e3de5fcf44",
+          "card_slug": "industrial-assembly",
+          "preferred_printing_id": "9103b5db-bf95-4385-8941-308cb0353c9a",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "ad13a7bc-c49d-4166-8a9c-965e7bfa9b8f",
+          "card_slug": "reboot-optics",
+          "preferred_printing_id": "fb096d3f-48eb-47c0-a065-81b39691e12f",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "3eb0f8bf-afb9-42a7-a4fa-710e2eb5c89c",
+          "card_slug": "bonnie-and-clyde",
+          "preferred_printing_id": "26d60270-1b43-4af3-a8b7-1c3db9675cfa",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "144c3559-3518-4c01-b9e6-af42b7166661",
+          "card_slug": "over-the-edge",
+          "preferred_printing_id": "f1cf4133-45ef-4de5-abfc-757de1613731",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "81fb66ee-b054-4f78-b0c9-7d2c9ff53435",
+          "card_slug": "carnage-at-the-colosseum",
+          "preferred_printing_id": "36128749-4cb1-440d-b4de-4fd463cc2f5c",
+          "quantity": 2
+        }
+      ],
+      "display_name": "Deck",
+      "id": "1994",
+      "zone_code": "deck"
+    }
+  ]
+}

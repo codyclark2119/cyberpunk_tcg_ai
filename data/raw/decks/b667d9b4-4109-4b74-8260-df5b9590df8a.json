@@ -1,0 +1,189 @@
+{
+  "card_count": 43,
+  "created_at": "2026-09-05T01:01:37.153Z",
+  "credit": null,
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "b667d9b4-4109-4b74-8260-df5b9590df8a",
+  "is_valid": true,
+  "name": "New Deck",
+  "owner": {
+    "owner_pseudonym": "author-d0945d1d575e"
+  },
+  "slug": "new-deck",
+  "stats": {
+    "avgCost": 3.3,
+    "avgPower": 5.1,
+    "colorDistribution": {
+      "Green": 23,
+      "Red": 17
+    },
+    "costCurve": [
+      0,
+      6,
+      8,
+      6,
+      12,
+      4,
+      3,
+      1
+    ],
+    "deckCount": 40,
+    "gearCount": 13,
+    "legendCount": 3,
+    "programCount": 11,
+    "ramBudget": {
+      "Green": 4,
+      "Red": 2
+    },
+    "ramUsage": {
+      "Green": 4,
+      "Red": 2
+    },
+    "totalCards": 43,
+    "unitCount": 16
+  },
+  "updated_at": "2026-09-05T03:07:31.211Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "380b5e52-2651-4cde-8222-1db2ae6469e2",
+          "card_slug": "hanako-arasaka-daughter-of-the-emperor",
+          "preferred_printing_id": "2c4a77e8-0fda-4ec1-9519-1d15e0f172b3",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "56947a14-0b1e-4c3d-89e0-17839bcf4280",
+          "card_slug": "johnny-silverhand-rocking-renegade",
+          "preferred_printing_id": "a8a7d286-0c66-4f01-aca7-45570474d9e4",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "72358c7d-9f29-4ef6-a682-f5bfc72c7714",
+          "card_slug": "goro-takemura-hands-unclean",
+          "preferred_printing_id": "2ba68619-7050-44c5-b0ce-b32d48b8f40f",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "4487",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 40,
+      "cards": [
+        {
+          "card_entity_id": "2a8802d3-598c-4ce3-9051-59ecf965ffbf",
+          "card_slug": "maxtac-squadron",
+          "preferred_printing_id": "22b276f4-7cf6-4b14-a220-8368a0839287",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "e48c9d39-ef27-4b8f-8690-d75c3a4807b0",
+          "card_slug": "6th-street-recruits",
+          "preferred_printing_id": "756f3e53-9ff3-4c01-9f33-bb27a1cd5957",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "35c1fda3-60f9-4779-b690-30b283d52297",
+          "card_slug": "maelstrom-zealots",
+          "preferred_printing_id": "43e5568f-a609-4eff-8502-e81ba9134d2c",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "21f68be2-c664-4ae0-a7ef-965a3a5a14c8",
+          "card_slug": "meredith-stout-stone-cold-corpo",
+          "preferred_printing_id": "5939771d-bdcc-4b42-aea4-376311189e93",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "9ed58d18-df78-4689-b28f-77260243c522",
+          "card_slug": "v-roamer-of-the-badlands",
+          "preferred_printing_id": "c1747b7d-de5c-43eb-a4ed-b632f1861712",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "9a4002b0-0f0b-4c9a-a198-691d058b6dcc",
+          "card_slug": "johnny-silverhand-never-stop-fighting",
+          "preferred_printing_id": "14ab188f-2ce3-4790-8823-5a352371ff1f",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "28198e04-60e2-4f81-9786-903a9a947d7a",
+          "card_slug": "mantis-blades",
+          "preferred_printing_id": "7ffa8ba4-f187-4ba0-a719-fa8ebf45a03b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "7da95cf0-f749-439f-b40a-9d3057d2c995",
+          "card_slug": "riot-shield",
+          "preferred_printing_id": "ce570725-0de7-438a-a9c8-33074a7180ba",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "4670d02b-b97a-4771-bb7e-65bdc012530e",
+          "card_slug": "satori-sword-of-saburo",
+          "preferred_printing_id": "11a8fed4-5401-4cfc-901b-ab9b5b94d0ab",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "55153b49-c3a7-4208-a47b-0a91fa7e3b5c",
+          "card_slug": "sandevistan",
+          "preferred_printing_id": "97de62e2-3fea-4324-8367-87d1f1d674ed",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "78ea68b3-1260-416b-9f88-d6be4586232b",
+          "card_slug": "overwatch-panam-s-gift",
+          "preferred_printing_id": "336131d1-3bc8-4b39-b893-5fce9be8ce7f",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "f3ba5ef7-5e91-4956-a887-b88a4b854867",
+          "card_slug": "synapse-burnout",
+          "preferred_printing_id": "4277845b-1209-46df-8353-8fd36f56148a",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "71fb410b-b56e-42b2-a793-4c49e935b9f1",
+          "card_slug": "corporate-surveillance",
+          "preferred_printing_id": "d3dc7194-a545-4588-9702-b094c27ce359",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "0f7c1c54-0e2e-44a5-ac7f-5263fbab21d3",
+          "card_slug": "memory-relapse",
+          "preferred_printing_id": "ef9f2959-de87-4a54-be45-5c9dcc507aba",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "3126fa21-ea19-4096-8233-d63797bb9fe4",
+          "card_slug": "wild-in-the-streets",
+          "preferred_printing_id": "54f0308f-8fb2-4861-a414-c15ca24426c3",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "17a80b46-c583-4867-97ac-7855494363a9",
+          "card_slug": "don-t-fear-the-reaper",
+          "preferred_printing_id": "e96d3167-5115-4c82-9b35-546cba0aaead",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Deck",
+      "id": "4488",
+      "zone_code": "deck"
+    }
+  ]
+}

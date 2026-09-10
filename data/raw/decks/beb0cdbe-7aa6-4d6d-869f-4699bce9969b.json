@@ -1,0 +1,177 @@
+{
+  "card_count": 43,
+  "created_at": "2026-09-03T14:24:53.214Z",
+  "credit": null,
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "beb0cdbe-7aa6-4d6d-869f-4699bce9969b",
+  "is_valid": true,
+  "name": "fixed",
+  "owner": {
+    "owner_pseudonym": "author-19203b17c128"
+  },
+  "slug": "new-deck",
+  "stats": {
+    "avgCost": 4.3,
+    "avgPower": 4.4,
+    "colorDistribution": {
+      "Green": 33,
+      "Yellow": 7
+    },
+    "costCurve": [
+      0,
+      3,
+      3,
+      6,
+      12,
+      7,
+      3,
+      6
+    ],
+    "deckCount": 40,
+    "gearCount": 3,
+    "legendCount": 3,
+    "programCount": 12,
+    "ramBudget": {
+      "Green": 4,
+      "Yellow": 2
+    },
+    "ramUsage": {
+      "Green": 4,
+      "Yellow": 2
+    },
+    "totalCards": 43,
+    "unitCount": 25
+  },
+  "updated_at": "2026-09-03T14:25:22.140Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "380b5e52-2651-4cde-8222-1db2ae6469e2",
+          "card_slug": "hanako-arasaka-daughter-of-the-emperor",
+          "preferred_printing_id": "2c4a77e8-0fda-4ec1-9519-1d15e0f172b3",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "fc516d53-5fd8-43dd-8349-9e60f0606efa",
+          "card_slug": "muamar-reyes-el-capita-n",
+          "preferred_printing_id": "dbbf4a6c-340d-4356-81ad-776940a7ee32",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "501a3796-9983-400f-86e4-97ffac5d5451",
+          "card_slug": "padre-man-of-the-cross",
+          "preferred_printing_id": "c7f0583f-2493-4e1f-9967-977bc0c6fa15",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "2163",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 40,
+      "cards": [
+        {
+          "card_entity_id": "4a8dfe3f-980d-4370-ac10-6bd989042cdf",
+          "card_slug": "field-operator",
+          "preferred_printing_id": "876dfa5c-6df4-4930-b284-f2c466e6b90c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "2a8802d3-598c-4ce3-9051-59ecf965ffbf",
+          "card_slug": "maxtac-squadron",
+          "preferred_printing_id": "22b276f4-7cf6-4b14-a220-8368a0839287",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "08e6a687-56b7-4ac1-982f-8a8d6d0c0bc5",
+          "card_slug": "goro-takemura-losing-his-way",
+          "preferred_printing_id": "42e03e7a-923d-4f2b-8d79-191e69873947",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "c4ef7be4-4817-4fae-9016-582e999d4996",
+          "card_slug": "pacifica-netrunner",
+          "preferred_printing_id": "b43f5006-7388-4189-81ff-343b5428305b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "5a5a177c-6ed8-4bd9-8b11-13c2b64414e2",
+          "card_slug": "t-bug-amateur-philosopher",
+          "preferred_printing_id": "e2e3d98d-0159-4a79-b543-e37264f23118",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "0273f402-94fb-4b59-90ec-a1057c2d1284",
+          "card_slug": "caliber-totentanz-s-top-dog",
+          "preferred_printing_id": "4b5dc479-0db1-46dd-859f-e7dc34d50f03",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "67b47cff-2237-4765-86fb-9b2b3abecbb1",
+          "card_slug": "wraith-marauders",
+          "preferred_printing_id": "0944037e-5b14-4332-b345-7935924c2125",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "2a9deb43-bf9a-41db-9a05-bb0d357bb08e",
+          "card_slug": "heywood-ripperdoc",
+          "preferred_printing_id": "2fc5ac93-dae5-4af5-a813-77abc0cc8dfd",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "9611a3ba-d365-453f-89ed-c986a1948edc",
+          "card_slug": "sandayu-oda-hanako-s-guardian",
+          "preferred_printing_id": "f452a0ca-3204-48d5-8565-ec746f27959b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "78ea68b3-1260-416b-9f88-d6be4586232b",
+          "card_slug": "overwatch-panam-s-gift",
+          "preferred_printing_id": "336131d1-3bc8-4b39-b893-5fce9be8ce7f",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "f3ba5ef7-5e91-4956-a887-b88a4b854867",
+          "card_slug": "synapse-burnout",
+          "preferred_printing_id": "4277845b-1209-46df-8353-8fd36f56148a",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "1535c19d-54e5-4289-9cb7-15ab429c0092",
+          "card_slug": "take-control",
+          "preferred_printing_id": "bc1401d4-5b9b-495a-853e-0a22a11f6f4c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "3126fa21-ea19-4096-8233-d63797bb9fe4",
+          "card_slug": "wild-in-the-streets",
+          "preferred_printing_id": "54f0308f-8fb2-4861-a414-c15ca24426c3",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "17a80b46-c583-4867-97ac-7855494363a9",
+          "card_slug": "don-t-fear-the-reaper",
+          "preferred_printing_id": "e96d3167-5115-4c82-9b35-546cba0aaead",
+          "quantity": 3
+        }
+      ],
+      "display_name": "Deck",
+      "id": "2164",
+      "zone_code": "deck"
+    }
+  ]
+}

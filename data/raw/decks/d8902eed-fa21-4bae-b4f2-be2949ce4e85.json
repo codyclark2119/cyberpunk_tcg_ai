@@ -1,0 +1,177 @@
+{
+  "card_count": 43,
+  "created_at": "2026-09-02T16:15:51.906Z",
+  "credit": "Auren",
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "d8902eed-fa21-4bae-b4f2-be2949ce4e85",
+  "is_valid": true,
+  "name": "Cyberpsycho Royce",
+  "owner": {
+    "owner_pseudonym": "author-94d07c8f34eb"
+  },
+  "slug": "cyberpsycho-royce",
+  "stats": {
+    "avgCost": 2.4,
+    "avgPower": 3,
+    "colorDistribution": {
+      "Red": 9,
+      "Yellow": 31
+    },
+    "costCurve": [
+      0,
+      12,
+      11,
+      9,
+      6,
+      2,
+      0,
+      0
+    ],
+    "deckCount": 40,
+    "gearCount": 14,
+    "legendCount": 3,
+    "programCount": 11,
+    "ramBudget": {
+      "Red": 2,
+      "Yellow": 4
+    },
+    "ramUsage": {
+      "Red": 1,
+      "Yellow": 4
+    },
+    "totalCards": 43,
+    "unitCount": 15
+  },
+  "updated_at": "2026-09-03T01:58:45.622Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "e64e2978-695b-4fc5-b17b-62c710a11c47",
+          "card_slug": "river-ward-detective-on-the-hunt",
+          "preferred_printing_id": "b3895f75-e147-49b0-a6d8-6fb35b356b2e",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "f090dc44-d7f0-4aec-a19e-9213155a6611",
+          "card_slug": "viktor-vektor-sit-down-and-relax",
+          "preferred_printing_id": "7d539173-4022-402e-a9f4-100338935fd2",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "9e681d3e-cbfd-4c7b-a69a-72a83dc8b847",
+          "card_slug": "royce-psycho-on-the-edge",
+          "preferred_printing_id": "3e2e228b-dbfb-484b-b82d-6972ff184aab",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "679",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 40,
+      "cards": [
+        {
+          "card_entity_id": "b3b40c68-705b-41ff-ae10-4132497c4a39",
+          "card_slug": "sketchy-ripper",
+          "preferred_printing_id": "12f0398c-bcc3-4944-af72-ac2ae9f36761",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "ce45cb9d-430a-4ccf-bb4b-acf0b76120e0",
+          "card_slug": "augmented-negotiators",
+          "preferred_printing_id": "a195323a-e29e-4c05-8e6c-7f1638c8264c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "647bb074-197f-4059-bac5-251b47c98287",
+          "card_slug": "viktor-vektor-you-might-feel-a-little-pinch",
+          "preferred_printing_id": "4eca7fcd-85c1-43d0-8a07-4227312ab0db",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "5c4d4058-9185-4305-9e8f-7eca41cf6674",
+          "card_slug": "kerry-eurodyne-the-last-rockerboy",
+          "preferred_printing_id": "c26c7db6-f540-4073-ab33-b09335631764",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "21f68be2-c664-4ae0-a7ef-965a3a5a14c8",
+          "card_slug": "meredith-stout-stone-cold-corpo",
+          "preferred_printing_id": "5939771d-bdcc-4b42-aea4-376311189e93",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "654f2289-5d75-4f8b-bd35-702031fbb214",
+          "card_slug": "kiroshi-optics",
+          "preferred_printing_id": "ec3368a9-79f1-4dfc-9cf7-1cb464ec1c88",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "6720e7fd-d1e8-4c8a-9ff2-f51f62241902",
+          "card_slug": "mandibular-upgrade",
+          "preferred_printing_id": "219b7a29-0f8b-4750-bc46-0f39eec6721b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "28198e04-60e2-4f81-9786-903a9a947d7a",
+          "card_slug": "mantis-blades",
+          "preferred_printing_id": "7ffa8ba4-f187-4ba0-a719-fa8ebf45a03b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "6a5a1e34-fdd3-42de-b6bd-4b2553d6df39",
+          "card_slug": "adrenaline-converter",
+          "preferred_printing_id": "535df2a9-d2af-463c-85dd-dafe67cab8fb",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "b88d436f-1ec7-4f62-9dbc-c5f5e0d0a0df",
+          "card_slug": "zetatech-faceplate",
+          "preferred_printing_id": "79cdc9a5-d94d-4df4-9f88-aa02fb0357b3",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "d039e4b3-9b83-40da-8d8f-b1dfb1f172f1",
+          "card_slug": "afterparty-at-lizzie-s",
+          "preferred_printing_id": "d53925ee-df55-4b71-8ca0-13ec3ede2076",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "5ea00b3a-7e85-4c7d-91ad-90e0cf370c27",
+          "card_slug": "the-heist",
+          "preferred_printing_id": "a1e2c25e-fb27-458f-984d-df422f879664",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "87e001dd-8604-4523-af6e-d768118ccf98",
+          "card_slug": "cyberpsychosis",
+          "preferred_printing_id": "5aafe80b-7c7d-4060-8677-a2881a21dd72",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "84561b4c-67f0-4b2e-80ac-6b9c0a2396e3",
+          "card_slug": "bootleg-black-sapphire-show",
+          "preferred_printing_id": "decc76ed-f5ed-4f02-90d7-e01e2a3975e0",
+          "quantity": 2
+        }
+      ],
+      "display_name": "Deck",
+      "id": "681",
+      "zone_code": "deck"
+    }
+  ]
+}

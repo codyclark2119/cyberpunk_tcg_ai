@@ -1,0 +1,189 @@
+{
+  "card_count": 44,
+  "created_at": "2026-09-05T21:34:00.597Z",
+  "credit": null,
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "ff54056f-02f6-494d-bffa-8852d90f70fb",
+  "is_valid": true,
+  "name": "mercs",
+  "owner": {
+    "owner_pseudonym": "author-09c0e732d7c5"
+  },
+  "slug": "new-deck-2",
+  "stats": {
+    "avgCost": 2.8,
+    "avgPower": 5.7,
+    "colorDistribution": {
+      "Green": 27,
+      "Yellow": 14
+    },
+    "costCurve": [
+      0,
+      10,
+      11,
+      6,
+      7,
+      5,
+      2,
+      0
+    ],
+    "deckCount": 41,
+    "gearCount": 10,
+    "legendCount": 3,
+    "programCount": 13,
+    "ramBudget": {
+      "Green": 4,
+      "Yellow": 2
+    },
+    "ramUsage": {
+      "Green": 3,
+      "Yellow": 2
+    },
+    "totalCards": 44,
+    "unitCount": 18
+  },
+  "updated_at": "2026-09-05T21:35:44.904Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "950f045c-f5a4-4318-9907-b630d64de754",
+          "card_slug": "panam-palmer-nomad-cavalry",
+          "preferred_printing_id": "6e4ee31b-82d1-421c-b658-ba3f79520365",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "04a82ebf-eba1-4888-a95d-f01b9bbd0167",
+          "card_slug": "jackie-welles-mama-s-favorite",
+          "preferred_printing_id": "9f61ebda-53fd-4b23-8383-d0e0bd32b847",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "012b0300-6af1-417e-86a2-dc208a60ac15",
+          "card_slug": "rogue-amendiares-preem-solo",
+          "preferred_printing_id": "2dd7547d-5098-4082-a98b-f39a583a222f",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "5823",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 41,
+      "cards": [
+        {
+          "card_entity_id": "71652e73-984a-4630-be47-af947f87d5c1",
+          "card_slug": "corpo-security",
+          "preferred_printing_id": "80dcc139-d31d-4b89-86ff-cdbdd2664953",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "2a8802d3-598c-4ce3-9051-59ecf965ffbf",
+          "card_slug": "maxtac-squadron",
+          "preferred_printing_id": "22b276f4-7cf6-4b14-a220-8368a0839287",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "3ce6b982-7bba-46f1-8832-8867ec3588d4",
+          "card_slug": "offduty-malfini",
+          "preferred_printing_id": "fbefb447-34a3-4d53-9b23-d1bf141f8eec",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "0974a7af-dcd7-44d9-b57a-b6a4719afcd6",
+          "card_slug": "pepe-najarro-working-doubles",
+          "preferred_printing_id": "0de81196-f1d3-4fd0-ae6a-062dae3f3f2c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "d6f16c44-6d56-48ff-8130-154eea5540ca",
+          "card_slug": "maxtac-av",
+          "preferred_printing_id": "f1fa787d-e936-42a8-b42f-14999e722793",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "7ea6eecc-e55e-4634-93eb-b2b46e79635d",
+          "card_slug": "rockn-rockerboy",
+          "preferred_printing_id": "07aaea5c-5aef-466e-956a-2e68930669c0",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "b665e103-456b-4c51-9551-95b0bc87212a",
+          "card_slug": "jackie-welles-ride-or-die-choom",
+          "preferred_printing_id": "12d44604-ad7b-4e82-b517-9edb0be44427",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "6720e7fd-d1e8-4c8a-9ff2-f51f62241902",
+          "card_slug": "mandibular-upgrade",
+          "preferred_printing_id": "219b7a29-0f8b-4750-bc46-0f39eec6721b",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "7da95cf0-f749-439f-b40a-9d3057d2c995",
+          "card_slug": "riot-shield",
+          "preferred_printing_id": "ce570725-0de7-438a-a9c8-33074a7180ba",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "b88d436f-1ec7-4f62-9dbc-c5f5e0d0a0df",
+          "card_slug": "zetatech-faceplate",
+          "preferred_printing_id": "79cdc9a5-d94d-4df4-9f88-aa02fb0357b3",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "55153b49-c3a7-4208-a47b-0a91fa7e3b5c",
+          "card_slug": "sandevistan",
+          "preferred_printing_id": "97de62e2-3fea-4324-8367-87d1f1d674ed",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "d039e4b3-9b83-40da-8d8f-b1dfb1f172f1",
+          "card_slug": "afterparty-at-lizzie-s",
+          "preferred_printing_id": "d53925ee-df55-4b71-8ca0-13ec3ede2076",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "20484778-9294-4148-bd8c-fa78572f4452",
+          "card_slug": "peace-offering",
+          "preferred_printing_id": "8570122a-52aa-4a6b-8d72-4c8848df0f9b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "f3ba5ef7-5e91-4956-a887-b88a4b854867",
+          "card_slug": "synapse-burnout",
+          "preferred_printing_id": "4277845b-1209-46df-8353-8fd36f56148a",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "c5d2fed1-1470-4ac5-9f84-bf66705901ce",
+          "card_slug": "fool-on-the-hill",
+          "preferred_printing_id": "7751b719-978b-44b1-a82f-b2881d3a416e",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "0f7c1c54-0e2e-44a5-ac7f-5263fbab21d3",
+          "card_slug": "memory-relapse",
+          "preferred_printing_id": "ef9f2959-de87-4a54-be45-5c9dcc507aba",
+          "quantity": 2
+        }
+      ],
+      "display_name": "Deck",
+      "id": "5824",
+      "zone_code": "deck"
+    }
+  ]
+}

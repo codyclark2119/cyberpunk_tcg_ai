@@ -1,0 +1,195 @@
+{
+  "card_count": 43,
+  "created_at": "2026-09-03T05:28:15.035Z",
+  "credit": null,
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "ced835a4-90e0-4158-b3ee-5c7dddaf045c",
+  "is_valid": true,
+  "name": "RRB Control",
+  "owner": {
+    "owner_pseudonym": "author-1bb3c0d09935"
+  },
+  "slug": "rrb-control",
+  "stats": {
+    "avgCost": 3.1,
+    "avgPower": 4.5,
+    "colorDistribution": {
+      "Blue": 25,
+      "Red": 15
+    },
+    "costCurve": [
+      0,
+      9,
+      9,
+      10,
+      4,
+      3,
+      2,
+      3
+    ],
+    "deckCount": 40,
+    "gearCount": 0,
+    "legendCount": 3,
+    "programCount": 23,
+    "ramBudget": {
+      "Blue": 2,
+      "Red": 4
+    },
+    "ramUsage": {
+      "Blue": 2,
+      "Red": 3
+    },
+    "totalCards": 43,
+    "unitCount": 17
+  },
+  "updated_at": "2026-09-03T05:40:23.614Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "4560f3d0-5f63-466b-93b7-fc9d822a556e",
+          "card_slug": "judy-a-lvarez-braindance-maestro",
+          "preferred_printing_id": "8d0ad645-ac9a-4ecb-93d0-4c2061a4c477",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "81a8dec7-9541-4020-93e1-7d798a57dcbc",
+          "card_slug": "v-streetkid",
+          "preferred_printing_id": "3fc63c58-5954-4744-a5af-047bfc5cb159",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "eff41c12-b872-4101-9779-00e691532893",
+          "card_slug": "adam-smasher-ender-of-legends",
+          "preferred_printing_id": "a9c1137e-2e33-4293-9dcc-9351c9a0bbee",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "1593",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 40,
+      "cards": [
+        {
+          "card_entity_id": "b0453570-7ed8-4031-9562-cb73d7a979e5",
+          "card_slug": "jacked-in-voodoo-boy",
+          "preferred_printing_id": "8e2f2d0c-0e92-4744-a510-a9c7ac371d81",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "fee335a7-2546-48a5-9bb8-b0886014ce66",
+          "card_slug": "ruthless-lowlife",
+          "preferred_printing_id": "e1b674d0-4ac7-4523-be19-809308871d49",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "1b516742-cdf3-4597-8ba1-be787240ab3b",
+          "card_slug": "la-llorona-ghost-of-the-past",
+          "preferred_printing_id": "e3d1d8a0-1d53-4c85-84ca-66439fd3639a",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "21f68be2-c664-4ae0-a7ef-965a3a5a14c8",
+          "card_slug": "meredith-stout-stone-cold-corpo",
+          "preferred_printing_id": "5939771d-bdcc-4b42-aea4-376311189e93",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "65a14367-da52-4578-8162-3c4bac11007d",
+          "card_slug": "rita-wheeler-no-stupid-questions",
+          "preferred_printing_id": "5d795b32-9ad8-4c94-abd4-d01e389db389",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "6b078eff-4cef-4beb-a299-ed388a72ce45",
+          "card_slug": "lizzy-wizzy-delicate-weapon",
+          "preferred_printing_id": "7072a2d2-ec4f-4575-909e-15a107dfef79",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "9d994a42-4a63-44ad-ad7a-edead6af06a2",
+          "card_slug": "rogue-amendiares-queen-of-the-afterlife",
+          "preferred_printing_id": "3193a6bd-3e99-4501-9c5c-8d5ea32c779c",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "6cf6456d-d020-4c6c-9041-66d503a01a0a",
+          "card_slug": "yorinobu-arasaka-steel-dragon",
+          "preferred_printing_id": "c057ccc4-bb15-4efd-8115-8d223568134b",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "783a9082-b79c-4b45-bf66-48728ff9b92d",
+          "card_slug": "placide-voodoo-sentinel",
+          "preferred_printing_id": "81c55c1f-362e-4ffd-8f9b-4162b298dbd5",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "0cd37c43-e722-48eb-91ef-4c1bd1645215",
+          "card_slug": "floor-it",
+          "preferred_printing_id": "91f9d30c-f74d-4be4-8505-52f05d309c92",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "a708461f-1f91-4789-bb0d-96e3de5fcf44",
+          "card_slug": "industrial-assembly",
+          "preferred_printing_id": "9103b5db-bf95-4385-8941-308cb0353c9a",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "ec857ab0-995e-4c32-84b6-7ba57b2f6137",
+          "card_slug": "trust-no-one",
+          "preferred_printing_id": "70a2a18e-05c2-4a49-9236-e33b2c9819a5",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "ad13a7bc-c49d-4166-8a9c-965e7bfa9b8f",
+          "card_slug": "reboot-optics",
+          "preferred_printing_id": "fb096d3f-48eb-47c0-a065-81b39691e12f",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "3eb0f8bf-afb9-42a7-a4fa-710e2eb5c89c",
+          "card_slug": "bonnie-and-clyde",
+          "preferred_printing_id": "26d60270-1b43-4af3-a8b7-1c3db9675cfa",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "19f34c9b-a24a-43be-bd9f-62c37435e994",
+          "card_slug": "chrome-reverie",
+          "preferred_printing_id": "3f0319b8-e315-4e71-85b7-147a5b8ceba5",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "e4af26f0-e25d-4e30-8bac-6701f54f3e97",
+          "card_slug": "nocturne-op55-n1",
+          "preferred_printing_id": "70c7f11e-e41d-44f2-b5cd-e8568915d6ac",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "81fb66ee-b054-4f78-b0c9-7d2c9ff53435",
+          "card_slug": "carnage-at-the-colosseum",
+          "preferred_printing_id": "36128749-4cb1-440d-b4de-4fd463cc2f5c",
+          "quantity": 2
+        }
+      ],
+      "display_name": "Deck",
+      "id": "1594",
+      "zone_code": "deck"
+    }
+  ]
+}

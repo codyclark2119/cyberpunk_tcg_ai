@@ -1,0 +1,183 @@
+{
+  "card_count": 43,
+  "created_at": "2026-09-05T06:24:32.703Z",
+  "credit": null,
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "7c387af3-a598-47d4-9b44-d920ab19b955",
+  "is_valid": true,
+  "name": "New Deck",
+  "owner": {
+    "owner_pseudonym": "author-317de3aa9be6"
+  },
+  "slug": "new-deck",
+  "stats": {
+    "avgCost": 3.2,
+    "avgPower": 3.8,
+    "colorDistribution": {
+      "Red": 8,
+      "Yellow": 32
+    },
+    "costCurve": [
+      0,
+      7,
+      12,
+      3,
+      8,
+      7,
+      0,
+      3
+    ],
+    "deckCount": 40,
+    "gearCount": 12,
+    "legendCount": 3,
+    "programCount": 13,
+    "ramBudget": {
+      "Red": 2,
+      "Yellow": 4
+    },
+    "ramUsage": {
+      "Red": 2,
+      "Yellow": 4
+    },
+    "totalCards": 43,
+    "unitCount": 15
+  },
+  "updated_at": "2026-09-07T07:16:12.042Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "3b3f941d-aa58-4337-99dc-4af3fd3ccd47",
+          "card_slug": "dum-dum-maelstrom-triggerman",
+          "preferred_printing_id": "33cfbdb0-a169-458a-86dc-9123697654d7",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "9e681d3e-cbfd-4c7b-a69a-72a83dc8b847",
+          "card_slug": "royce-psycho-on-the-edge",
+          "preferred_printing_id": "f712b214-b109-4e69-bc74-4991905024f7",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "012b0300-6af1-417e-86a2-dc208a60ac15",
+          "card_slug": "rogue-amendiares-preem-solo",
+          "preferred_printing_id": "2dd7547d-5098-4082-a98b-f39a583a222f",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "4905",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 40,
+      "cards": [
+        {
+          "card_entity_id": "b05cb065-309e-45a3-bbe0-20f4b6ea71aa",
+          "card_slug": "secondhand-bombus",
+          "preferred_printing_id": "fcbb6d58-6666-4bd3-8ff0-64930fb0f422",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "2902da45-ec28-4971-a731-ea1eda4c6ba1",
+          "card_slug": "hanako-arasaka-in-a-gilded-cage",
+          "preferred_printing_id": "7386d22f-1065-4043-a6c4-9cee6256fe8a",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "21f68be2-c664-4ae0-a7ef-965a3a5a14c8",
+          "card_slug": "meredith-stout-stone-cold-corpo",
+          "preferred_printing_id": "5939771d-bdcc-4b42-aea4-376311189e93",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "0273f402-94fb-4b59-90ec-a1057c2d1284",
+          "card_slug": "caliber-totentanz-s-top-dog",
+          "preferred_printing_id": "4b5dc479-0db1-46dd-859f-e7dc34d50f03",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "858e95f5-2efb-460e-b890-e8a5140e11c9",
+          "card_slug": "alt-cunningham-mother-of-daemons",
+          "preferred_printing_id": "e782dd02-a136-4bf8-b04b-328c65b84f19",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "28198e04-60e2-4f81-9786-903a9a947d7a",
+          "card_slug": "mantis-blades",
+          "preferred_printing_id": "7ffa8ba4-f187-4ba0-a719-fa8ebf45a03b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "6a5a1e34-fdd3-42de-b6bd-4b2553d6df39",
+          "card_slug": "adrenaline-converter",
+          "preferred_printing_id": "535df2a9-d2af-463c-85dd-dafe67cab8fb",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "b88d436f-1ec7-4f62-9dbc-c5f5e0d0a0df",
+          "card_slug": "zetatech-faceplate",
+          "preferred_printing_id": "79cdc9a5-d94d-4df4-9f88-aa02fb0357b3",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "6dd172b1-2341-473f-8837-a9efe6a75701",
+          "card_slug": "gorilla-arms",
+          "preferred_printing_id": "e1959b9e-d32d-43be-94c3-a595809e0c28",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "1263e2bf-bc15-4550-ad07-b028602d1354",
+          "card_slug": "the-relic-experimental-biochip",
+          "preferred_printing_id": "38d14168-c182-4a34-a3b2-1b8380ab6635",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "d039e4b3-9b83-40da-8d8f-b1dfb1f172f1",
+          "card_slug": "afterparty-at-lizzie-s",
+          "preferred_printing_id": "d53925ee-df55-4b71-8ca0-13ec3ede2076",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "2697ed9d-72fc-4658-9c94-977668911a67",
+          "card_slug": "detonate",
+          "preferred_printing_id": "bec995b7-b76b-4605-9c36-3d7697cdd4f5",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "b4cba235-816d-4888-a308-1c397b9288e7",
+          "card_slug": "safety-override",
+          "preferred_printing_id": "5d987aa8-baed-45b2-986c-a21e04a53331",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "793d9650-0a59-4c89-9d85-05a9d6873d2e",
+          "card_slug": "live-with-the-aftermath",
+          "preferred_printing_id": "f931c82e-a382-4f60-808c-5910ac9850be",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "84561b4c-67f0-4b2e-80ac-6b9c0a2396e3",
+          "card_slug": "bootleg-black-sapphire-show",
+          "preferred_printing_id": "decc76ed-f5ed-4f02-90d7-e01e2a3975e0",
+          "quantity": 3
+        }
+      ],
+      "display_name": "Deck",
+      "id": "4906",
+      "zone_code": "deck"
+    }
+  ]
+}

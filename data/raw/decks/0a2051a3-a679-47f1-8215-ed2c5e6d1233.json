@@ -1,0 +1,195 @@
+{
+  "card_count": 43,
+  "created_at": "2026-09-04T15:51:27.219Z",
+  "credit": null,
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "0a2051a3-a679-47f1-8215-ed2c5e6d1233",
+  "is_valid": true,
+  "name": "New Deck",
+  "owner": {
+    "owner_pseudonym": "author-5b2deeabb4d2"
+  },
+  "slug": "new-deck",
+  "stats": {
+    "avgCost": 2.2,
+    "avgPower": 2.8,
+    "colorDistribution": {
+      "Blue": 11,
+      "Yellow": 29
+    },
+    "costCurve": [
+      0,
+      11,
+      16,
+      11,
+      0,
+      2,
+      0,
+      0
+    ],
+    "deckCount": 40,
+    "gearCount": 12,
+    "legendCount": 3,
+    "programCount": 16,
+    "ramBudget": {
+      "Blue": 2,
+      "Yellow": 4
+    },
+    "ramUsage": {
+      "Blue": 2,
+      "Yellow": 4
+    },
+    "totalCards": 43,
+    "unitCount": 12
+  },
+  "updated_at": "2026-09-04T16:07:47.383Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "3b3f941d-aa58-4337-99dc-4af3fd3ccd47",
+          "card_slug": "dum-dum-maelstrom-triggerman",
+          "preferred_printing_id": "aaac486c-dbfd-4137-b373-24a2df29522c",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "40502c1f-78a2-426a-a706-c60ebd4b31e3",
+          "card_slug": "jackie-welles-pour-one-out-for-me",
+          "preferred_printing_id": "a33d3324-fe48-4a9f-80a8-8545a0a4727f",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "f090dc44-d7f0-4aec-a19e-9213155a6611",
+          "card_slug": "viktor-vektor-sit-down-and-relax",
+          "preferred_printing_id": "7d539173-4022-402e-a9f4-100338935fd2",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "3659",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 40,
+      "cards": [
+        {
+          "card_entity_id": "b05cb065-309e-45a3-bbe0-20f4b6ea71aa",
+          "card_slug": "secondhand-bombus",
+          "preferred_printing_id": "fcbb6d58-6666-4bd3-8ff0-64930fb0f422",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "b3b40c68-705b-41ff-ae10-4132497c4a39",
+          "card_slug": "sketchy-ripper",
+          "preferred_printing_id": "12f0398c-bcc3-4944-af72-ac2ae9f36761",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "ce45cb9d-430a-4ccf-bb4b-acf0b76120e0",
+          "card_slug": "augmented-negotiators",
+          "preferred_printing_id": "a195323a-e29e-4c05-8e6c-7f1638c8264c",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "f61b944a-32e3-4085-894b-7bd498325156",
+          "card_slug": "dexter-deshawn-one-last-chance",
+          "preferred_printing_id": "e2f38541-ecc9-41dc-ae15-164171391bff",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "647bb074-197f-4059-bac5-251b47c98287",
+          "card_slug": "viktor-vektor-you-might-feel-a-little-pinch",
+          "preferred_printing_id": "4eca7fcd-85c1-43d0-8a07-4227312ab0db",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "7ea6eecc-e55e-4634-93eb-b2b46e79635d",
+          "card_slug": "rockn-rockerboy",
+          "preferred_printing_id": "07aaea5c-5aef-466e-956a-2e68930669c0",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "6720e7fd-d1e8-4c8a-9ff2-f51f62241902",
+          "card_slug": "mandibular-upgrade",
+          "preferred_printing_id": "219b7a29-0f8b-4750-bc46-0f39eec6721b",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "6a5a1e34-fdd3-42de-b6bd-4b2553d6df39",
+          "card_slug": "adrenaline-converter",
+          "preferred_printing_id": "535df2a9-d2af-463c-85dd-dafe67cab8fb",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "df06b6e2-1675-48a3-bfe2-d0bc4c5f35eb",
+          "card_slug": "dying-night-v-s-pistol",
+          "preferred_printing_id": "2b1b6268-193f-4b9e-a63c-0cbc200d6db7",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "b88d436f-1ec7-4f62-9dbc-c5f5e0d0a0df",
+          "card_slug": "zetatech-faceplate",
+          "preferred_printing_id": "79cdc9a5-d94d-4df4-9f88-aa02fb0357b3",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "40c98fdc-45d0-458d-be2c-2697dc337ca5",
+          "card_slug": "netwatch-netdriver",
+          "preferred_printing_id": "07f119d6-8fb2-4b23-9862-818a7e941010",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "d039e4b3-9b83-40da-8d8f-b1dfb1f172f1",
+          "card_slug": "afterparty-at-lizzie-s",
+          "preferred_printing_id": "d53925ee-df55-4b71-8ca0-13ec3ede2076",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "0cd37c43-e722-48eb-91ef-4c1bd1645215",
+          "card_slug": "floor-it",
+          "preferred_printing_id": "91f9d30c-f74d-4be4-8505-52f05d309c92",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "ec857ab0-995e-4c32-84b6-7ba57b2f6137",
+          "card_slug": "trust-no-one",
+          "preferred_printing_id": "70a2a18e-05c2-4a49-9236-e33b2c9819a5",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "b4cba235-816d-4888-a308-1c397b9288e7",
+          "card_slug": "safety-override",
+          "preferred_printing_id": "5d987aa8-baed-45b2-986c-a21e04a53331",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "5ea00b3a-7e85-4c7d-91ad-90e0cf370c27",
+          "card_slug": "the-heist",
+          "preferred_printing_id": "a1e2c25e-fb27-458f-984d-df422f879664",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "87e001dd-8604-4523-af6e-d768118ccf98",
+          "card_slug": "cyberpsychosis",
+          "preferred_printing_id": "5aafe80b-7c7d-4060-8677-a2881a21dd72",
+          "quantity": 2
+        }
+      ],
+      "display_name": "Deck",
+      "id": "3660",
+      "zone_code": "deck"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "card_count": 43,
+  "created_at": "2026-09-06T20:55:19.057Z",
+  "credit": null,
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "1b834d10-f80b-4bdc-b9ef-4b178d7de54c",
+  "is_valid": true,
+  "name": "B/G Suppressing fire",
+  "owner": {
+    "owner_pseudonym": "author-77fc80fc0b22"
+  },
+  "slug": "new-deck-1",
+  "stats": {
+    "avgCost": 4.5,
+    "avgPower": 5.7,
+    "colorDistribution": {
+      "Blue": 16,
+      "Green": 24
+    },
+    "costCurve": [
+      0,
+      2,
+      2,
+      10,
+      8,
+      6,
+      4,
+      8
+    ],
+    "deckCount": 40,
+    "gearCount": 10,
+    "legendCount": 3,
+    "programCount": 11,
+    "ramBudget": {
+      "Blue": 2,
+      "Green": 4
+    },
+    "ramUsage": {
+      "Blue": 2,
+      "Green": 4
+    },
+    "totalCards": 43,
+    "unitCount": 19
+  },
+  "updated_at": "2026-09-07T01:31:25.288Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "12475e77-0e16-420e-a935-65eb74290de8",
+          "card_slug": "alt-cunningham-soulkiller-architect",
+          "preferred_printing_id": "cb23a651-dd1d-48f8-aca3-8d33fef79fdd",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "501a3796-9983-400f-86e4-97ffac5d5451",
+          "card_slug": "padre-man-of-the-cross",
+          "preferred_printing_id": "c7f0583f-2493-4e1f-9967-977bc0c6fa15",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "950f045c-f5a4-4318-9907-b630d64de754",
+          "card_slug": "panam-palmer-nomad-cavalry",
+          "preferred_printing_id": "6e4ee31b-82d1-421c-b658-ba3f79520365",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "7417",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 40,
+      "cards": [
+        {
+          "card_entity_id": "2a8802d3-598c-4ce3-9051-59ecf965ffbf",
+          "card_slug": "maxtac-squadron",
+          "preferred_printing_id": "22b276f4-7cf6-4b14-a220-8368a0839287",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "0974a7af-dcd7-44d9-b57a-b6a4719afcd6",
+          "card_slug": "pepe-najarro-working-doubles",
+          "preferred_printing_id": "0de81196-f1d3-4fd0-ae6a-062dae3f3f2c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "6b078eff-4cef-4beb-a299-ed388a72ce45",
+          "card_slug": "lizzy-wizzy-delicate-weapon",
+          "preferred_printing_id": "7072a2d2-ec4f-4575-909e-15a107dfef79",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "9d994a42-4a63-44ad-ad7a-edead6af06a2",
+          "card_slug": "rogue-amendiares-queen-of-the-afterlife",
+          "preferred_printing_id": "3193a6bd-3e99-4501-9c5c-8d5ea32c779c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "34774f04-4f16-40eb-8ee4-999144e572ab",
+          "card_slug": "panam-palmer-strength-through-family",
+          "preferred_printing_id": "9231f9ff-1ba5-4c4f-bd78-70e0780b58e5",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "78fee308-5d4e-491c-9596-423dc20da5e3",
+          "card_slug": "maxtac-heavy",
+          "preferred_printing_id": "060f0c56-cbb7-45fd-a0cd-9c7b9d0f8103",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "9611a3ba-d365-453f-89ed-c986a1948edc",
+          "card_slug": "sandayu-oda-hanako-s-guardian",
+          "preferred_printing_id": "f452a0ca-3204-48d5-8565-ec746f27959b",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "783a9082-b79c-4b45-bf66-48728ff9b92d",
+          "card_slug": "placide-voodoo-sentinel",
+          "preferred_printing_id": "81c55c1f-362e-4ffd-8f9b-4162b298dbd5",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "40c98fdc-45d0-458d-be2c-2697dc337ca5",
+          "card_slug": "netwatch-netdriver",
+          "preferred_printing_id": "07f119d6-8fb2-4b23-9862-818a7e941010",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "55153b49-c3a7-4208-a47b-0a91fa7e3b5c",
+          "card_slug": "sandevistan",
+          "preferred_printing_id": "97de62e2-3fea-4324-8367-87d1f1d674ed",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "78ea68b3-1260-416b-9f88-d6be4586232b",
+          "card_slug": "overwatch-panam-s-gift",
+          "preferred_printing_id": "336131d1-3bc8-4b39-b893-5fce9be8ce7f",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "1d7f3d02-27b5-4ab8-af99-f8f2e0fd62cf",
+          "card_slug": "zetatech-berserk",
+          "preferred_printing_id": "8b8bcfcd-37c8-4bca-8c25-17a3b3363349",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "20484778-9294-4148-bd8c-fa78572f4452",
+          "card_slug": "peace-offering",
+          "preferred_printing_id": "8570122a-52aa-4a6b-8d72-4c8848df0f9b",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "ad13a7bc-c49d-4166-8a9c-965e7bfa9b8f",
+          "card_slug": "reboot-optics",
+          "preferred_printing_id": "fb096d3f-48eb-47c0-a065-81b39691e12f",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "e4af26f0-e25d-4e30-8bac-6701f54f3e97",
+          "card_slug": "nocturne-op55-n1",
+          "preferred_printing_id": "70c7f11e-e41d-44f2-b5cd-e8568915d6ac",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "0f7c1c54-0e2e-44a5-ac7f-5263fbab21d3",
+          "card_slug": "memory-relapse",
+          "preferred_printing_id": "ef9f2959-de87-4a54-be45-5c9dcc507aba",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "17a80b46-c583-4867-97ac-7855494363a9",
+          "card_slug": "don-t-fear-the-reaper",
+          "preferred_printing_id": "e96d3167-5115-4c82-9b35-546cba0aaead",
+          "quantity": 2
+        }
+      ],
+      "display_name": "Deck",
+      "id": "7418",
+      "zone_code": "deck"
+    }
+  ]
+}

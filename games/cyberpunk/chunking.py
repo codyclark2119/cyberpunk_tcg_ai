@@ -1,8 +1,18 @@
 """Chunk the Cyberpunk TCG rules corpus and card database for retrieval.
 
-Three outputs: rule chunks, card chunks, and the two concatenated into
-`corpus_chunks.jsonl`, which is what the retrieval index is actually built
-over.
+Four outputs: rule chunks, card chunks, errata chunks, and all three
+concatenated into `corpus_chunks.jsonl`, which is what the retrieval index is
+actually built over.
+
+ERRATA ARE CHUNKED, AND CARDS ARE ANNOTATED WITH THEM
+
+Errata are the one part of this corpus that overrides another part: the
+official page says the updated text "supersedes all printed text at all
+levels of play". Retrieval can return a card chunk without the erratum that
+corrects it, so the card's own chunk carries a line saying an erratum exists.
+That line is the point -- a model reading only the card would otherwise have
+no way to know its text had been superseded, and would answer confidently
+from stale text.
 
 WHY ONE MERGED INDEX IS ENOUGH HERE, AND WHEN IT STOPS BEING
 
@@ -47,6 +57,7 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 sys.path.insert(0, str(REPO_ROOT))
 
+from games.cyberpunk.errata import to_text as errata_to_text
 from harness.core.io import read_jsonl, write_jsonl_atomic, guard_shrink
 
 DEFAULT_RULES_MAX_CHARS = 1200
@@ -94,7 +105,7 @@ def chunk_rules(rules: list[dict], max_chars: int = DEFAULT_RULES_MAX_CHARS) -> 
     return chunks
 
 
-def card_to_text(card: dict) -> str:
+def card_to_text(card: dict, errata: list[dict] | None = None) -> str:
     """Render one parsed card record as retrievable prose.
 
     Field order mirrors how a player reads the physical card: name and
@@ -139,19 +150,62 @@ def card_to_text(card: dict) -> str:
     if card.get("text"):
         lines.append(f"Rules text: {card['text']}")
 
+    # Last line on purpose: it is the one that changes how everything above it
+    # should be read, and it must survive any truncation that keeps the tail.
+    for entry in errata or []:
+        lines.append(
+            f"ERRATA ({entry['heading']}): {entry['text']} "
+            f"This supersedes the printed text above.")
+
     return "\n".join(lines)
 
 
-def chunk_cards(cards: list[dict]) -> list[dict]:
+def chunk_cards(cards: list[dict], errata: list[dict] | None = None) -> list[dict]:
+    by_card: dict = {}
+    for entry in errata or []:
+        by_card.setdefault(entry["card_id"], []).append(entry)
     return [
         {
             "chunk_id": f"card:{card['id']}",
-            "text": card_to_text(card),
+            "text": card_to_text(card, by_card.get(card["id"])),
             "card_id": card["id"],
             "card_name": card["display_name"],
+            "has_errata": card["id"] in by_card,
             "source": "cards",
         }
         for card in cards
+    ]
+
+
+def merge_chunks(*chunk_sets: list[dict]) -> list[dict]:
+    """Concatenate every per-source chunk set into the retrieval corpus.
+
+    A function rather than three lines inline in `main`, so the two things
+    that can go wrong here are testable without writing files: a source
+    silently left out of the merge, and a `chunk_id` shared between two
+    sources, which would make one chunk unreachable in the index.
+    """
+    corpus = [chunk for chunk_set in chunk_sets for chunk in chunk_set]
+    chunk_ids = [c["chunk_id"] for c in corpus]
+    if len(set(chunk_ids)) != len(chunk_ids):
+        duplicated = sorted({c for c in chunk_ids if chunk_ids.count(c) > 1})
+        raise ValueError(
+            f"chunk_id shared between sources: {duplicated[:5]} -- the merged "
+            f"index would silently drop one of each pair")
+    return corpus
+
+
+def chunk_errata(errata: list[dict]) -> list[dict]:
+    """One erratum is one chunk -- they are already short and self-contained."""
+    return [
+        {
+            "chunk_id": entry["id"],
+            "text": errata_to_text(entry),
+            "card_id": entry["card_id"],
+            "card_name": entry["card_name"],
+            "source": "errata",
+        }
+        for entry in errata
     ]
 
 
@@ -166,6 +220,10 @@ def main():
                     default=REPO_ROOT / "data/processed/rule_chunks.jsonl")
     ap.add_argument("--cards-output", type=Path,
                     default=REPO_ROOT / "data/processed/card_chunks.jsonl")
+    ap.add_argument("--errata-input", type=Path,
+                    default=REPO_ROOT / "data/processed/errata.jsonl")
+    ap.add_argument("--errata-output", type=Path,
+                    default=REPO_ROOT / "data/processed/errata_chunks.jsonl")
     ap.add_argument("--corpus-output", type=Path,
                     default=REPO_ROOT / "data/processed/corpus_chunks.jsonl")
     ap.add_argument("--max-chars", type=int, default=DEFAULT_RULES_MAX_CHARS)
@@ -178,20 +236,28 @@ def main():
     write_jsonl_atomic(args.rules_output, rule_chunks)
     print(f"wrote {len(rule_chunks)} rule chunks -> {args.rules_output}")
 
+    # `missing_ok=True` here alone: a game can genuinely have no errata yet,
+    # and a missing errata file must not block chunking the rest of the
+    # corpus. The count is printed either way so an accidentally-empty errata
+    # set is visible rather than assumed.
+    errata = read_jsonl(args.errata_input, missing_ok=True)
+
     cards = read_jsonl(args.cards_input, missing_ok=False)
-    card_chunks = chunk_cards(cards)
+    card_chunks = chunk_cards(cards, errata)
     guard_shrink(args.cards_output, len(card_chunks), min_ratio=0.9, force=args.force)
     write_jsonl_atomic(args.cards_output, card_chunks)
+    annotated = sum(1 for c in card_chunks if c["has_errata"])
     print(f"wrote {len(card_chunks)} card chunks -> {args.cards_output}")
+    print(f"  {annotated} carry an errata note")
+
+    errata_chunks = chunk_errata(errata)
+    guard_shrink(args.errata_output, len(errata_chunks), min_ratio=0.9, force=args.force)
+    write_jsonl_atomic(args.errata_output, errata_chunks)
+    print(f"wrote {len(errata_chunks)} errata chunks -> {args.errata_output}")
 
     # Rules first, so the merged file's order is stable and reviewable rather
     # than depending on which source happened to be read first.
-    corpus = rule_chunks + card_chunks
-    chunk_ids = [c["chunk_id"] for c in corpus]
-    if len(set(chunk_ids)) != len(chunk_ids):
-        raise SystemExit(
-            "a chunk_id is shared between the rule and card chunk sets -- the "
-            "merged index would silently drop one of them")
+    corpus = merge_chunks(rule_chunks, card_chunks, errata_chunks)
     guard_shrink(args.corpus_output, len(corpus), min_ratio=0.9, force=args.force)
     write_jsonl_atomic(args.corpus_output, corpus)
     ratio = len(card_chunks) / len(rule_chunks) if rule_chunks else float("inf")

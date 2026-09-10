@@ -1,0 +1,177 @@
+{
+  "card_count": 43,
+  "created_at": "2026-09-06T08:29:09.804Z",
+  "credit": null,
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "41d59783-fd3e-46d7-b274-894b70cf44d8",
+  "is_valid": true,
+  "name": "Alt Cunningham: Mother of Gears",
+  "owner": {
+    "owner_pseudonym": "author-f8d9fa0e821c"
+  },
+  "slug": "new-deck",
+  "stats": {
+    "avgCost": 3,
+    "avgPower": 4.9,
+    "colorDistribution": {
+      "Red": 11,
+      "Yellow": 29
+    },
+    "costCurve": [
+      0,
+      9,
+      15,
+      6,
+      2,
+      0,
+      3,
+      5
+    ],
+    "deckCount": 40,
+    "gearCount": 15,
+    "legendCount": 3,
+    "programCount": 9,
+    "ramBudget": {
+      "Red": 2,
+      "Yellow": 4
+    },
+    "ramUsage": {
+      "Red": 2,
+      "Yellow": 4
+    },
+    "totalCards": 43,
+    "unitCount": 16
+  },
+  "updated_at": "2026-09-06T08:30:16.274Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "e64e2978-695b-4fc5-b17b-62c710a11c47",
+          "card_slug": "river-ward-detective-on-the-hunt",
+          "preferred_printing_id": "b3895f75-e147-49b0-a6d8-6fb35b356b2e",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "f090dc44-d7f0-4aec-a19e-9213155a6611",
+          "card_slug": "viktor-vektor-sit-down-and-relax",
+          "preferred_printing_id": "7d539173-4022-402e-a9f4-100338935fd2",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "eff41c12-b872-4101-9779-00e691532893",
+          "card_slug": "adam-smasher-ender-of-legends",
+          "preferred_printing_id": "a9c1137e-2e33-4293-9dcc-9351c9a0bbee",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "6709",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 40,
+      "cards": [
+        {
+          "card_entity_id": "b3b40c68-705b-41ff-ae10-4132497c4a39",
+          "card_slug": "sketchy-ripper",
+          "preferred_printing_id": "12f0398c-bcc3-4944-af72-ac2ae9f36761",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "647bb074-197f-4059-bac5-251b47c98287",
+          "card_slug": "viktor-vektor-you-might-feel-a-little-pinch",
+          "preferred_printing_id": "4eca7fcd-85c1-43d0-8a07-4227312ab0db",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "1f71ec32-3c11-466b-bcdd-a8a3009ea8ac",
+          "card_slug": "gilded-mato-n",
+          "preferred_printing_id": "846b55b4-5e12-44b6-a204-53bd8c862888",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "2a4a1f1a-9888-403e-90a9-4021c3f52674",
+          "card_slug": "trauma-team-operatives",
+          "preferred_printing_id": "0d6c1f36-628b-4631-a96d-2000f6fb054e",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "858e95f5-2efb-460e-b890-e8a5140e11c9",
+          "card_slug": "alt-cunningham-mother-of-daemons",
+          "preferred_printing_id": "e782dd02-a136-4bf8-b04b-328c65b84f19",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "066641c5-acc2-45f4-ba67-16a8d20cce73",
+          "card_slug": "minotaur",
+          "preferred_printing_id": "19587d4f-6d47-44fe-b4da-99743e2742f7",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "6720e7fd-d1e8-4c8a-9ff2-f51f62241902",
+          "card_slug": "mandibular-upgrade",
+          "preferred_printing_id": "219b7a29-0f8b-4750-bc46-0f39eec6721b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "28198e04-60e2-4f81-9786-903a9a947d7a",
+          "card_slug": "mantis-blades",
+          "preferred_printing_id": "7ffa8ba4-f187-4ba0-a719-fa8ebf45a03b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "6a5a1e34-fdd3-42de-b6bd-4b2553d6df39",
+          "card_slug": "adrenaline-converter",
+          "preferred_printing_id": "535df2a9-d2af-463c-85dd-dafe67cab8fb",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "4670d02b-b97a-4771-bb7e-65bdc012530e",
+          "card_slug": "satori-sword-of-saburo",
+          "preferred_printing_id": "11a8fed4-5401-4cfc-901b-ab9b5b94d0ab",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "b88d436f-1ec7-4f62-9dbc-c5f5e0d0a0df",
+          "card_slug": "zetatech-faceplate",
+          "preferred_printing_id": "79cdc9a5-d94d-4df4-9f88-aa02fb0357b3",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "1f969c27-dddb-4971-9ab5-bd728c3e3e52",
+          "card_slug": "all-is-lost",
+          "preferred_printing_id": "d1a3c0e0-e0e7-418d-afb4-e6e43400c42e",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "5ea00b3a-7e85-4c7d-91ad-90e0cf370c27",
+          "card_slug": "the-heist",
+          "preferred_printing_id": "a1e2c25e-fb27-458f-984d-df422f879664",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "793d9650-0a59-4c89-9d85-05a9d6873d2e",
+          "card_slug": "live-with-the-aftermath",
+          "preferred_printing_id": "f931c82e-a382-4f60-808c-5910ac9850be",
+          "quantity": 3
+        }
+      ],
+      "display_name": "Deck",
+      "id": "6710",
+      "zone_code": "deck"
+    }
+  ]
+}

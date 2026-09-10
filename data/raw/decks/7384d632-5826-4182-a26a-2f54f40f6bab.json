@@ -1,0 +1,201 @@
+{
+  "card_count": 43,
+  "created_at": "2026-09-05T02:08:42.482Z",
+  "credit": "Shmeeth",
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "7384d632-5826-4182-a26a-2f54f40f6bab",
+  "is_valid": true,
+  "name": "GGY Blockers/Gear",
+  "owner": {
+    "owner_pseudonym": "author-d09b681abcfe"
+  },
+  "slug": "new-deck",
+  "stats": {
+    "avgCost": 3.2,
+    "avgPower": 4.1,
+    "colorDistribution": {
+      "Green": 27,
+      "Yellow": 13
+    },
+    "costCurve": [
+      0,
+      5,
+      12,
+      12,
+      5,
+      0,
+      0,
+      6
+    ],
+    "deckCount": 40,
+    "gearCount": 10,
+    "legendCount": 3,
+    "programCount": 12,
+    "ramBudget": {
+      "Green": 4,
+      "Yellow": 2
+    },
+    "ramUsage": {
+      "Green": 3,
+      "Yellow": 2
+    },
+    "totalCards": 43,
+    "unitCount": 18
+  },
+  "updated_at": "2026-09-07T07:08:58.634Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "424c9c0f-cc01-40ec-8404-75957985c7f8",
+          "card_slug": "goro-takemura-vengeful-bodyguard",
+          "preferred_printing_id": "0f6e52f0-511f-4ae9-a380-5e718b26e58a",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "380b5e52-2651-4cde-8222-1db2ae6469e2",
+          "card_slug": "hanako-arasaka-daughter-of-the-emperor",
+          "preferred_printing_id": "2c4a77e8-0fda-4ec1-9519-1d15e0f172b3",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "e64e2978-695b-4fc5-b17b-62c710a11c47",
+          "card_slug": "river-ward-detective-on-the-hunt",
+          "preferred_printing_id": "b3895f75-e147-49b0-a6d8-6fb35b356b2e",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "4571",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 40,
+      "cards": [
+        {
+          "card_entity_id": "71652e73-984a-4630-be47-af947f87d5c1",
+          "card_slug": "corpo-security",
+          "preferred_printing_id": "80dcc139-d31d-4b89-86ff-cdbdd2664953",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "ce45cb9d-430a-4ccf-bb4b-acf0b76120e0",
+          "card_slug": "augmented-negotiators",
+          "preferred_printing_id": "a195323a-e29e-4c05-8e6c-7f1638c8264c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "2a8802d3-598c-4ce3-9051-59ecf965ffbf",
+          "card_slug": "maxtac-squadron",
+          "preferred_printing_id": "22b276f4-7cf6-4b14-a220-8368a0839287",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "647bb074-197f-4059-bac5-251b47c98287",
+          "card_slug": "viktor-vektor-you-might-feel-a-little-pinch",
+          "preferred_printing_id": "4eca7fcd-85c1-43d0-8a07-4227312ab0db",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "35c1fda3-60f9-4779-b690-30b283d52297",
+          "card_slug": "maelstrom-zealots",
+          "preferred_printing_id": "43e5568f-a609-4eff-8502-e81ba9134d2c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "78fee308-5d4e-491c-9596-423dc20da5e3",
+          "card_slug": "maxtac-heavy",
+          "preferred_printing_id": "060f0c56-cbb7-45fd-a0cd-9c7b9d0f8103",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "9611a3ba-d365-453f-89ed-c986a1948edc",
+          "card_slug": "sandayu-oda-hanako-s-guardian",
+          "preferred_printing_id": "f452a0ca-3204-48d5-8565-ec746f27959b",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "a29490bb-2836-48b6-a4f9-a44b25c8bfa2",
+          "card_slug": "saul-bright-stormrider",
+          "preferred_printing_id": "60e476b4-51ab-4b10-8861-a8362b4232d7",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "6720e7fd-d1e8-4c8a-9ff2-f51f62241902",
+          "card_slug": "mandibular-upgrade",
+          "preferred_printing_id": "219b7a29-0f8b-4750-bc46-0f39eec6721b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "7da95cf0-f749-439f-b40a-9d3057d2c995",
+          "card_slug": "riot-shield",
+          "preferred_printing_id": "ce570725-0de7-438a-a9c8-33074a7180ba",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "b88d436f-1ec7-4f62-9dbc-c5f5e0d0a0df",
+          "card_slug": "zetatech-faceplate",
+          "preferred_printing_id": "79cdc9a5-d94d-4df4-9f88-aa02fb0357b3",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "55153b49-c3a7-4208-a47b-0a91fa7e3b5c",
+          "card_slug": "sandevistan",
+          "preferred_printing_id": "97de62e2-3fea-4324-8367-87d1f1d674ed",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "20484778-9294-4148-bd8c-fa78572f4452",
+          "card_slug": "peace-offering",
+          "preferred_printing_id": "8570122a-52aa-4a6b-8d72-4c8848df0f9b",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "c5d2fed1-1470-4ac5-9f84-bf66705901ce",
+          "card_slug": "fool-on-the-hill",
+          "preferred_printing_id": "7751b719-978b-44b1-a82f-b2881d3a416e",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "1535c19d-54e5-4289-9cb7-15ab429c0092",
+          "card_slug": "take-control",
+          "preferred_printing_id": "bc1401d4-5b9b-495a-853e-0a22a11f6f4c",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "87e001dd-8604-4523-af6e-d768118ccf98",
+          "card_slug": "cyberpsychosis",
+          "preferred_printing_id": "5aafe80b-7c7d-4060-8677-a2881a21dd72",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "0f7c1c54-0e2e-44a5-ac7f-5263fbab21d3",
+          "card_slug": "memory-relapse",
+          "preferred_printing_id": "ef9f2959-de87-4a54-be45-5c9dcc507aba",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "17a80b46-c583-4867-97ac-7855494363a9",
+          "card_slug": "don-t-fear-the-reaper",
+          "preferred_printing_id": "e96d3167-5115-4c82-9b35-546cba0aaead",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Deck",
+      "id": "4572",
+      "zone_code": "deck"
+    }
+  ]
+}

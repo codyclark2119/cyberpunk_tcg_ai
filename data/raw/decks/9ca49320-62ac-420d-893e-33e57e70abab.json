@@ -1,0 +1,177 @@
+{
+  "card_count": 43,
+  "created_at": "2026-09-05T11:19:14.311Z",
+  "credit": null,
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "9ca49320-62ac-420d-893e-33e57e70abab",
+  "is_valid": true,
+  "name": "Royce The Destroyer",
+  "owner": {
+    "owner_pseudonym": "author-e442bd26d38d"
+  },
+  "slug": "new-deck-1",
+  "stats": {
+    "avgCost": 2.6,
+    "avgPower": 5.2,
+    "colorDistribution": {
+      "Red": 20,
+      "Yellow": 20
+    },
+    "costCurve": [
+      0,
+      9,
+      15,
+      8,
+      2,
+      3,
+      3,
+      0
+    ],
+    "deckCount": 40,
+    "gearCount": 18,
+    "legendCount": 3,
+    "programCount": 6,
+    "ramBudget": {
+      "Red": 2,
+      "Yellow": 4
+    },
+    "ramUsage": {
+      "Red": 2,
+      "Yellow": 4
+    },
+    "totalCards": 43,
+    "unitCount": 16
+  },
+  "updated_at": "2026-09-05T11:24:48.187Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "e64e2978-695b-4fc5-b17b-62c710a11c47",
+          "card_slug": "river-ward-detective-on-the-hunt",
+          "preferred_printing_id": "e59b67b3-a388-4228-94a3-84ee12e68937",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "9e681d3e-cbfd-4c7b-a69a-72a83dc8b847",
+          "card_slug": "royce-psycho-on-the-edge",
+          "preferred_printing_id": "f712b214-b109-4e69-bc74-4991905024f7",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "012b0300-6af1-417e-86a2-dc208a60ac15",
+          "card_slug": "rogue-amendiares-preem-solo",
+          "preferred_printing_id": "6b75ec33-da55-46c7-a88c-f0fb89263253",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "5109",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 40,
+      "cards": [
+        {
+          "card_entity_id": "ce45cb9d-430a-4ccf-bb4b-acf0b76120e0",
+          "card_slug": "augmented-negotiators",
+          "preferred_printing_id": "a195323a-e29e-4c05-8e6c-7f1638c8264c",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "3c4e7fcb-933d-4712-9ce7-6052a14f8e94",
+          "card_slug": "swordwise-huscle",
+          "preferred_printing_id": "1c053198-187e-49ab-a9e0-0661b4c3b337",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "5cf0c12a-814e-4801-8171-7fe8c09fad21",
+          "card_slug": "valentino-guerrera",
+          "preferred_printing_id": "67b82386-5cb0-4ae7-b940-ac0d982b773c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "21f68be2-c664-4ae0-a7ef-965a3a5a14c8",
+          "card_slug": "meredith-stout-stone-cold-corpo",
+          "preferred_printing_id": "5939771d-bdcc-4b42-aea4-376311189e93",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "7ea6eecc-e55e-4634-93eb-b2b46e79635d",
+          "card_slug": "rockn-rockerboy",
+          "preferred_printing_id": "07aaea5c-5aef-466e-956a-2e68930669c0",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "b665e103-456b-4c51-9551-95b0bc87212a",
+          "card_slug": "jackie-welles-ride-or-die-choom",
+          "preferred_printing_id": "12d44604-ad7b-4e82-b517-9edb0be44427",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "6720e7fd-d1e8-4c8a-9ff2-f51f62241902",
+          "card_slug": "mandibular-upgrade",
+          "preferred_printing_id": "219b7a29-0f8b-4750-bc46-0f39eec6721b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "28198e04-60e2-4f81-9786-903a9a947d7a",
+          "card_slug": "mantis-blades",
+          "preferred_printing_id": "2ec85468-7593-4af5-b0d9-aecc1bc82366",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "6a5a1e34-fdd3-42de-b6bd-4b2553d6df39",
+          "card_slug": "adrenaline-converter",
+          "preferred_printing_id": "535df2a9-d2af-463c-85dd-dafe67cab8fb",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "5233bacc-f39f-4383-8e25-57ef634735ca",
+          "card_slug": "arasaka-emergency-radioport",
+          "preferred_printing_id": "d2da65d5-fdaf-44f4-a692-a5672d2c1cca",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "4670d02b-b97a-4771-bb7e-65bdc012530e",
+          "card_slug": "satori-sword-of-saburo",
+          "preferred_printing_id": "11a8fed4-5401-4cfc-901b-ab9b5b94d0ab",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "b88d436f-1ec7-4f62-9dbc-c5f5e0d0a0df",
+          "card_slug": "zetatech-faceplate",
+          "preferred_printing_id": "79cdc9a5-d94d-4df4-9f88-aa02fb0357b3",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "2697ed9d-72fc-4658-9c94-977668911a67",
+          "card_slug": "detonate",
+          "preferred_printing_id": "bec995b7-b76b-4605-9c36-3d7697cdd4f5",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "b4cba235-816d-4888-a308-1c397b9288e7",
+          "card_slug": "safety-override",
+          "preferred_printing_id": "5d987aa8-baed-45b2-986c-a21e04a53331",
+          "quantity": 3
+        }
+      ],
+      "display_name": "Deck",
+      "id": "5110",
+      "zone_code": "deck"
+    }
+  ]
+}

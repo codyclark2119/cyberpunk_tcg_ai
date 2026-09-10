@@ -1,0 +1,201 @@
+{
+  "card_count": 43,
+  "created_at": "2026-09-03T06:12:59.331Z",
+  "credit": null,
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "6541a63c-e041-4078-952c-8f822f6fe463",
+  "is_valid": true,
+  "name": "Y/B",
+  "owner": {
+    "owner_pseudonym": "author-1640c346f9da"
+  },
+  "slug": "new-deck",
+  "stats": {
+    "avgCost": 3.9,
+    "avgPower": 5.2,
+    "colorDistribution": {
+      "Blue": 10,
+      "Yellow": 30
+    },
+    "costCurve": [
+      0,
+      2,
+      9,
+      10,
+      2,
+      9,
+      4,
+      4
+    ],
+    "deckCount": 40,
+    "gearCount": 11,
+    "legendCount": 3,
+    "programCount": 11,
+    "ramBudget": {
+      "Blue": 2,
+      "Yellow": 4
+    },
+    "ramUsage": {
+      "Blue": 2,
+      "Yellow": 4
+    },
+    "totalCards": 43,
+    "unitCount": 18
+  },
+  "updated_at": "2026-09-04T16:56:05.933Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "5a441989-2997-40a2-a72e-08ca1442a7f3",
+          "card_slug": "kerry-eurodyne-axe-attitude-audience",
+          "preferred_printing_id": "e54e06c0-3f9c-412a-8dea-942eebecd687",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "e2dc863c-5bc9-4ad7-9138-2d5b966ed901",
+          "card_slug": "sasha-yakovleva-won-t-let-you-down",
+          "preferred_printing_id": "2647f881-5a7e-4ffb-b231-6574dc531f43",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "012b0300-6af1-417e-86a2-dc208a60ac15",
+          "card_slug": "rogue-amendiares-preem-solo",
+          "preferred_printing_id": "2dd7547d-5098-4082-a98b-f39a583a222f",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "1645",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 40,
+      "cards": [
+        {
+          "card_entity_id": "ce45cb9d-430a-4ccf-bb4b-acf0b76120e0",
+          "card_slug": "augmented-negotiators",
+          "preferred_printing_id": "a195323a-e29e-4c05-8e6c-7f1638c8264c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "f61b944a-32e3-4085-894b-7bd498325156",
+          "card_slug": "dexter-deshawn-one-last-chance",
+          "preferred_printing_id": "e2f38541-ecc9-41dc-ae15-164171391bff",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "6b078eff-4cef-4beb-a299-ed388a72ce45",
+          "card_slug": "lizzy-wizzy-delicate-weapon",
+          "preferred_printing_id": "7072a2d2-ec4f-4575-909e-15a107dfef79",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "9d994a42-4a63-44ad-ad7a-edead6af06a2",
+          "card_slug": "rogue-amendiares-queen-of-the-afterlife",
+          "preferred_printing_id": "3193a6bd-3e99-4501-9c5c-8d5ea32c779c",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "b665e103-456b-4c51-9551-95b0bc87212a",
+          "card_slug": "jackie-welles-ride-or-die-choom",
+          "preferred_printing_id": "12d44604-ad7b-4e82-b517-9edb0be44427",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "2a4a1f1a-9888-403e-90a9-4021c3f52674",
+          "card_slug": "trauma-team-operatives",
+          "preferred_printing_id": "0d6c1f36-628b-4631-a96d-2000f6fb054e",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "858e95f5-2efb-460e-b890-e8a5140e11c9",
+          "card_slug": "alt-cunningham-mother-of-daemons",
+          "preferred_printing_id": "e782dd02-a136-4bf8-b04b-328c65b84f19",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "783a9082-b79c-4b45-bf66-48728ff9b92d",
+          "card_slug": "placide-voodoo-sentinel",
+          "preferred_printing_id": "81c55c1f-362e-4ffd-8f9b-4162b298dbd5",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "6a5a1e34-fdd3-42de-b6bd-4b2553d6df39",
+          "card_slug": "adrenaline-converter",
+          "preferred_printing_id": "535df2a9-d2af-463c-85dd-dafe67cab8fb",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "b88d436f-1ec7-4f62-9dbc-c5f5e0d0a0df",
+          "card_slug": "zetatech-faceplate",
+          "preferred_printing_id": "79cdc9a5-d94d-4df4-9f88-aa02fb0357b3",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "40c98fdc-45d0-458d-be2c-2697dc337ca5",
+          "card_slug": "netwatch-netdriver",
+          "preferred_printing_id": "07f119d6-8fb2-4b23-9862-818a7e941010",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "6dd172b1-2341-473f-8837-a9efe6a75701",
+          "card_slug": "gorilla-arms",
+          "preferred_printing_id": "e1959b9e-d32d-43be-94c3-a595809e0c28",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "1263e2bf-bc15-4550-ad07-b028602d1354",
+          "card_slug": "the-relic-experimental-biochip",
+          "preferred_printing_id": "38d14168-c182-4a34-a3b2-1b8380ab6635",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "d039e4b3-9b83-40da-8d8f-b1dfb1f172f1",
+          "card_slug": "afterparty-at-lizzie-s",
+          "preferred_printing_id": "d53925ee-df55-4b71-8ca0-13ec3ede2076",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "b4cba235-816d-4888-a308-1c397b9288e7",
+          "card_slug": "safety-override",
+          "preferred_printing_id": "5d987aa8-baed-45b2-986c-a21e04a53331",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "5ea00b3a-7e85-4c7d-91ad-90e0cf370c27",
+          "card_slug": "the-heist",
+          "preferred_printing_id": "a1e2c25e-fb27-458f-984d-df422f879664",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "793d9650-0a59-4c89-9d85-05a9d6873d2e",
+          "card_slug": "live-with-the-aftermath",
+          "preferred_printing_id": "f931c82e-a382-4f60-808c-5910ac9850be",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "84561b4c-67f0-4b2e-80ac-6b9c0a2396e3",
+          "card_slug": "bootleg-black-sapphire-show",
+          "preferred_printing_id": "decc76ed-f5ed-4f02-90d7-e01e2a3975e0",
+          "quantity": 2
+        }
+      ],
+      "display_name": "Deck",
+      "id": "1646",
+      "zone_code": "deck"
+    }
+  ]
+}

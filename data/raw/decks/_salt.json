@@ -1,0 +1,4 @@
+{
+  "salt": "d52b7d48b9bfbee486084821c7a6a68e",
+  "note": "Salts the owner pseudonyms in this snapshot. Rotating it renames every author; keep it with the data."
+}

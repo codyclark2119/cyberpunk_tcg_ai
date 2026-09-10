@@ -1,0 +1,192 @@
+{
+  "card_count": 43,
+  "created_at": "2026-09-05T18:53:10.341Z",
+  "credit": "Brakdrud",
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "92aa6fee-9f88-4d08-927b-e45e7b437f32",
+  "is_valid": true,
+  "name": "Fixer Control",
+  "owner": {
+    "owner_pseudonym": "author-c0b83831a994"
+  },
+  "slug": "fixer-control",
+  "stats": {
+    "avgCost": 2.3,
+    "avgPower": 2.9,
+    "colorDistribution": {
+      "Blue": 22,
+      "Green": 14,
+      "Yellow": 4
+    },
+    "costCurve": [
+      0,
+      12,
+      14,
+      5,
+      7,
+      2,
+      0,
+      0
+    ],
+    "deckCount": 40,
+    "gearCount": 6,
+    "legendCount": 3,
+    "programCount": 17,
+    "ramBudget": {
+      "Blue": 2,
+      "Green": 2,
+      "Yellow": 2
+    },
+    "ramUsage": {
+      "Blue": 2,
+      "Green": 2,
+      "Yellow": 2
+    },
+    "totalCards": 43,
+    "unitCount": 17
+  },
+  "updated_at": "2026-09-05T18:53:17.095Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "fc516d53-5fd8-43dd-8349-9e60f0606efa",
+          "card_slug": "muamar-reyes-el-capita-n",
+          "preferred_printing_id": "2e06439f-fab6-4a65-a1fc-e5f4afc84eb0",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "501a3796-9983-400f-86e4-97ffac5d5451",
+          "card_slug": "padre-man-of-the-cross",
+          "preferred_printing_id": "abd75b6c-0205-4909-a990-237b4bed70e5",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "99f5e311-8dfd-42a9-abd0-2e50ac68679e",
+          "card_slug": "wakako-okada-peace-and-harmony",
+          "preferred_printing_id": "16e04a94-086a-4c20-b788-88ac016ec59b",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "5589",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 40,
+      "cards": [
+        {
+          "card_entity_id": "71652e73-984a-4630-be47-af947f87d5c1",
+          "card_slug": "corpo-security",
+          "preferred_printing_id": "80dcc139-d31d-4b89-86ff-cdbdd2664953",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "383abfb4-eedb-47c1-87f0-3ae4973c3619",
+          "card_slug": "misty-olszewski-mender-of-broken-spirits",
+          "preferred_printing_id": "17252514-02ba-4d0d-a9cc-3590cee528af",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "ef77dd1f-3abd-4ce2-becc-97dd768a5022",
+          "card_slug": "mox-inciters",
+          "preferred_printing_id": "354fd7d3-070d-4767-989c-5b3efbd9f30d",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "1f71ec32-3c11-466b-bcdd-a8a3009ea8ac",
+          "card_slug": "gilded-mato-n",
+          "preferred_printing_id": "846b55b4-5e12-44b6-a204-53bd8c862888",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "3ce6b982-7bba-46f1-8832-8867ec3588d4",
+          "card_slug": "offduty-malfini",
+          "preferred_printing_id": "fbefb447-34a3-4d53-9b23-d1bf141f8eec",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "65a14367-da52-4578-8162-3c4bac11007d",
+          "card_slug": "rita-wheeler-no-stupid-questions",
+          "preferred_printing_id": "5d795b32-9ad8-4c94-abd4-d01e389db389",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "b7a94000-c026-433e-82fa-901bf22db54e",
+          "card_slug": "westbrook-netrunner",
+          "preferred_printing_id": "5801d086-7e87-4645-95e2-68239230098d",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "9d994a42-4a63-44ad-ad7a-edead6af06a2",
+          "card_slug": "rogue-amendiares-queen-of-the-afterlife",
+          "preferred_printing_id": "807c871c-bebe-4343-9b68-1f89af5ed0da",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "39665784-d2f1-43e8-a958-894bac716d71",
+          "card_slug": "tetratronic-rippler",
+          "preferred_printing_id": "576f82ff-3c4d-4637-aa91-2773de43bbc8",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "7da95cf0-f749-439f-b40a-9d3057d2c995",
+          "card_slug": "riot-shield",
+          "preferred_printing_id": "ce570725-0de7-438a-a9c8-33074a7180ba",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "0cd37c43-e722-48eb-91ef-4c1bd1645215",
+          "card_slug": "floor-it",
+          "preferred_printing_id": "91f9d30c-f74d-4be4-8505-52f05d309c92",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "20484778-9294-4148-bd8c-fa78572f4452",
+          "card_slug": "peace-offering",
+          "preferred_printing_id": "8570122a-52aa-4a6b-8d72-4c8848df0f9b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "ec857ab0-995e-4c32-84b6-7ba57b2f6137",
+          "card_slug": "trust-no-one",
+          "preferred_printing_id": "70a2a18e-05c2-4a49-9236-e33b2c9819a5",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "71fb410b-b56e-42b2-a793-4c49e935b9f1",
+          "card_slug": "corporate-surveillance",
+          "preferred_printing_id": "d3dc7194-a545-4588-9702-b094c27ce359",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "ad13a7bc-c49d-4166-8a9c-965e7bfa9b8f",
+          "card_slug": "reboot-optics",
+          "preferred_printing_id": "fb096d3f-48eb-47c0-a065-81b39691e12f",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "1535c19d-54e5-4289-9cb7-15ab429c0092",
+          "card_slug": "take-control",
+          "preferred_printing_id": "bc1401d4-5b9b-495a-853e-0a22a11f6f4c",
+          "quantity": 2
+        }
+      ],
+      "display_name": "Deck",
+      "id": "5590",
+      "zone_code": "deck"
+    }
+  ]
+}

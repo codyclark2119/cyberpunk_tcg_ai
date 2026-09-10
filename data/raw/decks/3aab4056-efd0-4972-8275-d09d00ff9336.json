@@ -1,0 +1,195 @@
+{
+  "card_count": 53,
+  "created_at": "2026-09-04T22:57:19.320Z",
+  "credit": null,
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "3aab4056-efd0-4972-8275-d09d00ff9336",
+  "is_valid": true,
+  "name": "Gears",
+  "owner": {
+    "owner_pseudonym": "author-2f0fd72fdf67"
+  },
+  "slug": "new-deck-1",
+  "stats": {
+    "avgCost": 3.3,
+    "avgPower": 3.4,
+    "colorDistribution": {
+      "Green": 18,
+      "Yellow": 32
+    },
+    "costCurve": [
+      0,
+      6,
+      15,
+      9,
+      8,
+      3,
+      6,
+      3
+    ],
+    "deckCount": 50,
+    "gearCount": 11,
+    "legendCount": 3,
+    "programCount": 15,
+    "ramBudget": {
+      "Green": 2,
+      "Yellow": 4
+    },
+    "ramUsage": {
+      "Green": 2,
+      "Yellow": 3
+    },
+    "totalCards": 53,
+    "unitCount": 24
+  },
+  "updated_at": "2026-09-04T23:22:34.466Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "3b3f941d-aa58-4337-99dc-4af3fd3ccd47",
+          "card_slug": "dum-dum-maelstrom-triggerman",
+          "preferred_printing_id": "aaac486c-dbfd-4137-b373-24a2df29522c",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "424c9c0f-cc01-40ec-8404-75957985c7f8",
+          "card_slug": "goro-takemura-vengeful-bodyguard",
+          "preferred_printing_id": "0f6e52f0-511f-4ae9-a380-5e718b26e58a",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "e64e2978-695b-4fc5-b17b-62c710a11c47",
+          "card_slug": "river-ward-detective-on-the-hunt",
+          "preferred_printing_id": "b3895f75-e147-49b0-a6d8-6fb35b356b2e",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "4315",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 50,
+      "cards": [
+        {
+          "card_entity_id": "b05cb065-309e-45a3-bbe0-20f4b6ea71aa",
+          "card_slug": "secondhand-bombus",
+          "preferred_printing_id": "fcbb6d58-6666-4bd3-8ff0-64930fb0f422",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "4a8dfe3f-980d-4370-ac10-6bd989042cdf",
+          "card_slug": "field-operator",
+          "preferred_printing_id": "876dfa5c-6df4-4930-b284-f2c466e6b90c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "647bb074-197f-4059-bac5-251b47c98287",
+          "card_slug": "viktor-vektor-you-might-feel-a-little-pinch",
+          "preferred_printing_id": "4eca7fcd-85c1-43d0-8a07-4227312ab0db",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "35c1fda3-60f9-4779-b690-30b283d52297",
+          "card_slug": "maelstrom-zealots",
+          "preferred_printing_id": "43e5568f-a609-4eff-8502-e81ba9134d2c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "c4ef7be4-4817-4fae-9016-582e999d4996",
+          "card_slug": "pacifica-netrunner",
+          "preferred_printing_id": "b43f5006-7388-4189-81ff-343b5428305b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "92d23553-8b0d-49cd-8cbe-6f00b3377298",
+          "card_slug": "viktor-vektor-drop-your-illusions",
+          "preferred_printing_id": "2285cd3a-7010-4ba4-b23a-ba40aba296f9",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "b665e103-456b-4c51-9551-95b0bc87212a",
+          "card_slug": "jackie-welles-ride-or-die-choom",
+          "preferred_printing_id": "12d44604-ad7b-4e82-b517-9edb0be44427",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "858e95f5-2efb-460e-b890-e8a5140e11c9",
+          "card_slug": "alt-cunningham-mother-of-daemons",
+          "preferred_printing_id": "e782dd02-a136-4bf8-b04b-328c65b84f19",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "7da95cf0-f749-439f-b40a-9d3057d2c995",
+          "card_slug": "riot-shield",
+          "preferred_printing_id": "ce570725-0de7-438a-a9c8-33074a7180ba",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "b88d436f-1ec7-4f62-9dbc-c5f5e0d0a0df",
+          "card_slug": "zetatech-faceplate",
+          "preferred_printing_id": "79cdc9a5-d94d-4df4-9f88-aa02fb0357b3",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "6dd172b1-2341-473f-8837-a9efe6a75701",
+          "card_slug": "gorilla-arms",
+          "preferred_printing_id": "e1959b9e-d32d-43be-94c3-a595809e0c28",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "1d7f3d02-27b5-4ab8-af99-f8f2e0fd62cf",
+          "card_slug": "zetatech-berserk",
+          "preferred_printing_id": "8b8bcfcd-37c8-4bca-8c25-17a3b3363349",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "d039e4b3-9b83-40da-8d8f-b1dfb1f172f1",
+          "card_slug": "afterparty-at-lizzie-s",
+          "preferred_printing_id": "d53925ee-df55-4b71-8ca0-13ec3ede2076",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "f3ba5ef7-5e91-4956-a887-b88a4b854867",
+          "card_slug": "synapse-burnout",
+          "preferred_printing_id": "4277845b-1209-46df-8353-8fd36f56148a",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "b4cba235-816d-4888-a308-1c397b9288e7",
+          "card_slug": "safety-override",
+          "preferred_printing_id": "5d987aa8-baed-45b2-986c-a21e04a53331",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "5ea00b3a-7e85-4c7d-91ad-90e0cf370c27",
+          "card_slug": "the-heist",
+          "preferred_printing_id": "a1e2c25e-fb27-458f-984d-df422f879664",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "87e001dd-8604-4523-af6e-d768118ccf98",
+          "card_slug": "cyberpsychosis",
+          "preferred_printing_id": "5aafe80b-7c7d-4060-8677-a2881a21dd72",
+          "quantity": 3
+        }
+      ],
+      "display_name": "Deck",
+      "id": "4316",
+      "zone_code": "deck"
+    }
+  ]
+}

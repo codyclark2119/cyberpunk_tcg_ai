@@ -23,6 +23,15 @@ RULE_SECTIONS_PATH = DATA_DIR / "processed" / "rule_sections.jsonl"
 RULES_CHUNKS_PATH = DATA_DIR / "processed" / "rule_chunks.jsonl"
 CARDS_CHUNKS_PATH = DATA_DIR / "processed" / "card_chunks.jsonl"
 CARD_DATABASE_PATH = DATA_DIR / "processed" / "card_database.jsonl"
+ERRATA_PATH = DATA_DIR / "processed" / "errata.jsonl"
+
+# The community decklist snapshot. Deliberately NOT part of the retrieval
+# corpus: 272 decks against 229 rule/card/errata chunks would swamp the index
+# on every question, which is the crowding-out failure `chunking.py` documents.
+# They are a deckbuilding dataset and a label set for the deck rules, read
+# directly by the scripts that need them.
+DECKS_DIR = DATA_DIR / "raw" / "decks"
+ERRATA_CHUNKS_PATH = DATA_DIR / "processed" / "errata_chunks.jsonl"
 
 # The single index this game retrieves over. Unlike the One Piece instance of
 # this template, which needs two independently-budgeted indexes because card
@@ -53,6 +62,9 @@ GAME = GameConfig(
         "rules_chunks_path": RULES_CHUNKS_PATH,
         "cards_chunks_path": CARDS_CHUNKS_PATH,
         "card_database_path": CARD_DATABASE_PATH,
+        "errata_path": ERRATA_PATH,
+        "decks_dir": DECKS_DIR,
+        "errata_chunks_path": ERRATA_CHUNKS_PATH,
         "rules_version": prompts.RULES_VERSION,
     },
 )

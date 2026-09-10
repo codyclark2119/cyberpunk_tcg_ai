@@ -1,0 +1,195 @@
+{
+  "card_count": 43,
+  "created_at": "2026-09-05T00:48:18.252Z",
+  "credit": "LilT0",
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "91f2f3dd-fd80-4a07-ada1-c1a900b952b1",
+  "is_valid": true,
+  "name": "Gig Control (GGB)",
+  "owner": {
+    "owner_pseudonym": "author-d425c4345b13"
+  },
+  "slug": "new-deck",
+  "stats": {
+    "avgCost": 3.3,
+    "avgPower": 4.7,
+    "colorDistribution": {
+      "Blue": 16,
+      "Green": 24
+    },
+    "costCurve": [
+      0,
+      8,
+      11,
+      7,
+      4,
+      2,
+      2,
+      6
+    ],
+    "deckCount": 40,
+    "gearCount": 10,
+    "legendCount": 3,
+    "programCount": 10,
+    "ramBudget": {
+      "Blue": 2,
+      "Green": 4
+    },
+    "ramUsage": {
+      "Blue": 2,
+      "Green": 4
+    },
+    "totalCards": 43,
+    "unitCount": 20
+  },
+  "updated_at": "2026-09-05T00:53:24.144Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "380b5e52-2651-4cde-8222-1db2ae6469e2",
+          "card_slug": "hanako-arasaka-daughter-of-the-emperor",
+          "preferred_printing_id": "2c4a77e8-0fda-4ec1-9519-1d15e0f172b3",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "40502c1f-78a2-426a-a706-c60ebd4b31e3",
+          "card_slug": "jackie-welles-pour-one-out-for-me",
+          "preferred_printing_id": "a33d3324-fe48-4a9f-80a8-8545a0a4727f",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "501a3796-9983-400f-86e4-97ffac5d5451",
+          "card_slug": "padre-man-of-the-cross",
+          "preferred_printing_id": "c7f0583f-2493-4e1f-9967-977bc0c6fa15",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "4459",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 40,
+      "cards": [
+        {
+          "card_entity_id": "71652e73-984a-4630-be47-af947f87d5c1",
+          "card_slug": "corpo-security",
+          "preferred_printing_id": "80dcc139-d31d-4b89-86ff-cdbdd2664953",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "31e5b986-1e67-439c-81fc-49f8938bd002",
+          "card_slug": "tyger-s-whisper",
+          "preferred_printing_id": "28267ce7-17dc-42c4-b8c4-4235a7f3c3df",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "2a8802d3-598c-4ce3-9051-59ecf965ffbf",
+          "card_slug": "maxtac-squadron",
+          "preferred_printing_id": "22b276f4-7cf6-4b14-a220-8368a0839287",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "08e6a687-56b7-4ac1-982f-8a8d6d0c0bc5",
+          "card_slug": "goro-takemura-losing-his-way",
+          "preferred_printing_id": "42e03e7a-923d-4f2b-8d79-191e69873947",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "65a14367-da52-4578-8162-3c4bac11007d",
+          "card_slug": "rita-wheeler-no-stupid-questions",
+          "preferred_printing_id": "5d795b32-9ad8-4c94-abd4-d01e389db389",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "d6f16c44-6d56-48ff-8130-154eea5540ca",
+          "card_slug": "maxtac-av",
+          "preferred_printing_id": "f1fa787d-e936-42a8-b42f-14999e722793",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "34774f04-4f16-40eb-8ee4-999144e572ab",
+          "card_slug": "panam-palmer-strength-through-family",
+          "preferred_printing_id": "9231f9ff-1ba5-4c4f-bd78-70e0780b58e5",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "78fee308-5d4e-491c-9596-423dc20da5e3",
+          "card_slug": "maxtac-heavy",
+          "preferred_printing_id": "060f0c56-cbb7-45fd-a0cd-9c7b9d0f8103",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "783a9082-b79c-4b45-bf66-48728ff9b92d",
+          "card_slug": "placide-voodoo-sentinel",
+          "preferred_printing_id": "81c55c1f-362e-4ffd-8f9b-4162b298dbd5",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "39665784-d2f1-43e8-a958-894bac716d71",
+          "card_slug": "tetratronic-rippler",
+          "preferred_printing_id": "576f82ff-3c4d-4637-aa91-2773de43bbc8",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "df06b6e2-1675-48a3-bfe2-d0bc4c5f35eb",
+          "card_slug": "dying-night-v-s-pistol",
+          "preferred_printing_id": "2b1b6268-193f-4b9e-a63c-0cbc200d6db7",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "40c98fdc-45d0-458d-be2c-2697dc337ca5",
+          "card_slug": "netwatch-netdriver",
+          "preferred_printing_id": "07f119d6-8fb2-4b23-9862-818a7e941010",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "55153b49-c3a7-4208-a47b-0a91fa7e3b5c",
+          "card_slug": "sandevistan",
+          "preferred_printing_id": "97de62e2-3fea-4324-8367-87d1f1d674ed",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "20484778-9294-4148-bd8c-fa78572f4452",
+          "card_slug": "peace-offering",
+          "preferred_printing_id": "8570122a-52aa-4a6b-8d72-4c8848df0f9b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "ec857ab0-995e-4c32-84b6-7ba57b2f6137",
+          "card_slug": "trust-no-one",
+          "preferred_printing_id": "70a2a18e-05c2-4a49-9236-e33b2c9819a5",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "ad13a7bc-c49d-4166-8a9c-965e7bfa9b8f",
+          "card_slug": "reboot-optics",
+          "preferred_printing_id": "fb096d3f-48eb-47c0-a065-81b39691e12f",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "17a80b46-c583-4867-97ac-7855494363a9",
+          "card_slug": "don-t-fear-the-reaper",
+          "preferred_printing_id": "e96d3167-5115-4c82-9b35-546cba0aaead",
+          "quantity": 2
+        }
+      ],
+      "display_name": "Deck",
+      "id": "4460",
+      "zone_code": "deck"
+    }
+  ]
+}

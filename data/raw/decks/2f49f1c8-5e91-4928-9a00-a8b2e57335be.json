@@ -1,0 +1,183 @@
+{
+  "card_count": 43,
+  "created_at": "2026-09-03T16:25:53.903Z",
+  "credit": null,
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "2f49f1c8-5e91-4928-9a00-a8b2e57335be",
+  "is_valid": true,
+  "name": "Yellow Red Gear",
+  "owner": {
+    "owner_pseudonym": "author-9ecf0e27daab"
+  },
+  "slug": "new-deck-1",
+  "stats": {
+    "avgCost": 3.6,
+    "avgPower": 4.4,
+    "colorDistribution": {
+      "Red": 9,
+      "Yellow": 31
+    },
+    "costCurve": [
+      0,
+      3,
+      12,
+      6,
+      5,
+      8,
+      3,
+      3
+    ],
+    "deckCount": 40,
+    "gearCount": 16,
+    "legendCount": 3,
+    "programCount": 3,
+    "ramBudget": {
+      "Red": 2,
+      "Yellow": 4
+    },
+    "ramUsage": {
+      "Red": 2,
+      "Yellow": 4
+    },
+    "totalCards": 43,
+    "unitCount": 21
+  },
+  "updated_at": "2026-09-04T01:11:07.671Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "3b3f941d-aa58-4337-99dc-4af3fd3ccd47",
+          "card_slug": "dum-dum-maelstrom-triggerman",
+          "preferred_printing_id": "aaac486c-dbfd-4137-b373-24a2df29522c",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "f090dc44-d7f0-4aec-a19e-9213155a6611",
+          "card_slug": "viktor-vektor-sit-down-and-relax",
+          "preferred_printing_id": "7d539173-4022-402e-a9f4-100338935fd2",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "9e681d3e-cbfd-4c7b-a69a-72a83dc8b847",
+          "card_slug": "royce-psycho-on-the-edge",
+          "preferred_printing_id": "3e2e228b-dbfb-484b-b82d-6972ff184aab",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "2311",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 40,
+      "cards": [
+        {
+          "card_entity_id": "b3b40c68-705b-41ff-ae10-4132497c4a39",
+          "card_slug": "sketchy-ripper",
+          "preferred_printing_id": "12f0398c-bcc3-4944-af72-ac2ae9f36761",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "3c4e7fcb-933d-4712-9ce7-6052a14f8e94",
+          "card_slug": "swordwise-huscle",
+          "preferred_printing_id": "1c053198-187e-49ab-a9e0-0661b4c3b337",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "647bb074-197f-4059-bac5-251b47c98287",
+          "card_slug": "viktor-vektor-you-might-feel-a-little-pinch",
+          "preferred_printing_id": "4eca7fcd-85c1-43d0-8a07-4227312ab0db",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "1f71ec32-3c11-466b-bcdd-a8a3009ea8ac",
+          "card_slug": "gilded-mato-n",
+          "preferred_printing_id": "846b55b4-5e12-44b6-a204-53bd8c862888",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "5a5a177c-6ed8-4bd9-8b11-13c2b64414e2",
+          "card_slug": "t-bug-amateur-philosopher",
+          "preferred_printing_id": "e2e3d98d-0159-4a79-b543-e37264f23118",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "92d23553-8b0d-49cd-8cbe-6f00b3377298",
+          "card_slug": "viktor-vektor-drop-your-illusions",
+          "preferred_printing_id": "2285cd3a-7010-4ba4-b23a-ba40aba296f9",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "9a4002b0-0f0b-4c9a-a198-691d058b6dcc",
+          "card_slug": "johnny-silverhand-never-stop-fighting",
+          "preferred_printing_id": "14ab188f-2ce3-4790-8823-5a352371ff1f",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "858e95f5-2efb-460e-b890-e8a5140e11c9",
+          "card_slug": "alt-cunningham-mother-of-daemons",
+          "preferred_printing_id": "e782dd02-a136-4bf8-b04b-328c65b84f19",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "6720e7fd-d1e8-4c8a-9ff2-f51f62241902",
+          "card_slug": "mandibular-upgrade",
+          "preferred_printing_id": "219b7a29-0f8b-4750-bc46-0f39eec6721b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "6a5a1e34-fdd3-42de-b6bd-4b2553d6df39",
+          "card_slug": "adrenaline-converter",
+          "preferred_printing_id": "535df2a9-d2af-463c-85dd-dafe67cab8fb",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "5233bacc-f39f-4383-8e25-57ef634735ca",
+          "card_slug": "arasaka-emergency-radioport",
+          "preferred_printing_id": "d2da65d5-fdaf-44f4-a692-a5672d2c1cca",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "b88d436f-1ec7-4f62-9dbc-c5f5e0d0a0df",
+          "card_slug": "zetatech-faceplate",
+          "preferred_printing_id": "79cdc9a5-d94d-4df4-9f88-aa02fb0357b3",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "6dd172b1-2341-473f-8837-a9efe6a75701",
+          "card_slug": "gorilla-arms",
+          "preferred_printing_id": "e1959b9e-d32d-43be-94c3-a595809e0c28",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "1263e2bf-bc15-4550-ad07-b028602d1354",
+          "card_slug": "the-relic-experimental-biochip",
+          "preferred_printing_id": "38d14168-c182-4a34-a3b2-1b8380ab6635",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "84561b4c-67f0-4b2e-80ac-6b9c0a2396e3",
+          "card_slug": "bootleg-black-sapphire-show",
+          "preferred_printing_id": "decc76ed-f5ed-4f02-90d7-e01e2a3975e0",
+          "quantity": 3
+        }
+      ],
+      "display_name": "Deck",
+      "id": "2312",
+      "zone_code": "deck"
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "card_count": 43,
+  "created_at": "2026-09-06T08:54:30.364Z",
+  "credit": null,
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "c95257c5-84ab-4930-b44d-c19a3aebe3af",
+  "is_valid": true,
+  "name": "New Deck",
+  "owner": {
+    "owner_pseudonym": "author-4ff36e0a5489"
+  },
+  "slug": "new-deck",
+  "stats": {
+    "avgCost": 3,
+    "avgPower": 2,
+    "colorDistribution": {
+      "Blue": 36,
+      "Red": 4
+    },
+    "costCurve": [
+      0,
+      9,
+      11,
+      9,
+      2,
+      4,
+      3,
+      2
+    ],
+    "deckCount": 40,
+    "gearCount": 2,
+    "legendCount": 3,
+    "programCount": 23,
+    "ramBudget": {
+      "Blue": 4,
+      "Red": 2
+    },
+    "ramUsage": {
+      "Blue": 4,
+      "Red": 2
+    },
+    "totalCards": 43,
+    "unitCount": 15
+  },
+  "updated_at": "2026-09-06T09:07:41.166Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "40502c1f-78a2-426a-a706-c60ebd4b31e3",
+          "card_slug": "jackie-welles-pour-one-out-for-me",
+          "preferred_printing_id": "a33d3324-fe48-4a9f-80a8-8545a0a4727f",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "4560f3d0-5f63-466b-93b7-fc9d822a556e",
+          "card_slug": "judy-a-lvarez-braindance-maestro",
+          "preferred_printing_id": "8d0ad645-ac9a-4ecb-93d0-4c2061a4c477",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "81a8dec7-9541-4020-93e1-7d798a57dcbc",
+          "card_slug": "v-streetkid",
+          "preferred_printing_id": "3fc63c58-5954-4744-a5af-047bfc5cb159",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "6723",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 40,
+      "cards": [
+        {
+          "card_entity_id": "a3cc3d15-8e6a-4684-b2ca-c843b4a854e2",
+          "card_slug": "evelyn-parker-scheming-siren",
+          "preferred_printing_id": "7d174619-2183-4058-a89a-082c6b7b5a5c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "b0453570-7ed8-4031-9562-cb73d7a979e5",
+          "card_slug": "jacked-in-voodoo-boy",
+          "preferred_printing_id": "8e2f2d0c-0e92-4744-a510-a9c7ac371d81",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "e8b0432c-4d2d-4464-9a00-f3626917a7f0",
+          "card_slug": "japantown-jonin",
+          "preferred_printing_id": "30619097-d9d7-42fe-bf4c-cd4ae822792d",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "3bb1f191-927e-45b3-86ca-cb30baabfe0d",
+          "card_slug": "delamain-rideshare-ai",
+          "preferred_printing_id": "c7eba3a0-63cb-4311-988e-d487a7c0841a",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "6b078eff-4cef-4beb-a299-ed388a72ce45",
+          "card_slug": "lizzy-wizzy-delicate-weapon",
+          "preferred_printing_id": "7072a2d2-ec4f-4575-909e-15a107dfef79",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "783a9082-b79c-4b45-bf66-48728ff9b92d",
+          "card_slug": "placide-voodoo-sentinel",
+          "preferred_printing_id": "81c55c1f-362e-4ffd-8f9b-4162b298dbd5",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "39665784-d2f1-43e8-a958-894bac716d71",
+          "card_slug": "tetratronic-rippler",
+          "preferred_printing_id": "576f82ff-3c4d-4637-aa91-2773de43bbc8",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "2697ed9d-72fc-4658-9c94-977668911a67",
+          "card_slug": "detonate",
+          "preferred_printing_id": "bec995b7-b76b-4605-9c36-3d7697cdd4f5",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "0cd37c43-e722-48eb-91ef-4c1bd1645215",
+          "card_slug": "floor-it",
+          "preferred_printing_id": "91f9d30c-f74d-4be4-8505-52f05d309c92",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "ec857ab0-995e-4c32-84b6-7ba57b2f6137",
+          "card_slug": "trust-no-one",
+          "preferred_printing_id": "70a2a18e-05c2-4a49-9236-e33b2c9819a5",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "2993d637-d44d-4add-8473-26d67c0d1bc0",
+          "card_slug": "three-mouths-one-desire",
+          "preferred_printing_id": "573a88e9-ac01-4402-8e3d-2420dc4ca949",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "19f34c9b-a24a-43be-bd9f-62c37435e994",
+          "card_slug": "chrome-reverie",
+          "preferred_printing_id": "3f0319b8-e315-4e71-85b7-147a5b8ceba5",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "7977a175-0516-478e-b166-3edb035849a4",
+          "card_slug": "pyramid-song",
+          "preferred_printing_id": "3b1d0570-bb8e-4ea5-9ec7-c698d9c9f94d",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "5b8f8d4f-c62e-4bde-a086-2ce15bd9449d",
+          "card_slug": "unlikely-bond",
+          "preferred_printing_id": "b21f86a3-cb77-44a3-bf94-4c5e068ac2c8",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "c29aefc5-c8dd-4188-95d9-e46c5ee289eb",
+          "card_slug": "les-e-le-mens",
+          "preferred_printing_id": "14a0b813-d5e3-46e6-a001-aebbd3a95f11",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "9a0fd5a3-a00b-425c-a251-755eeab12bfe",
+          "card_slug": "towerfall",
+          "preferred_printing_id": "15920617-a06f-4302-9dfb-c85d3470c7eb",
+          "quantity": 3
+        }
+      ],
+      "display_name": "Deck",
+      "id": "6724",
+      "zone_code": "deck"
+    }
+  ]
+}

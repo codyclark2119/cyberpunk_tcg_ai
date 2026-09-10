@@ -1,0 +1,216 @@
+{
+  "card_count": 53,
+  "created_at": "2026-09-03T17:25:42.539Z",
+  "credit": null,
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "3e6ccc86-85aa-4080-a092-c43f26b4db9c",
+  "is_valid": true,
+  "name": "The visible hand of the empire",
+  "owner": {
+    "owner_pseudonym": "author-b34f7e632f4a"
+  },
+  "slug": "new-deck",
+  "stats": {
+    "avgCost": 3.4,
+    "avgPower": 4.8,
+    "colorDistribution": {
+      "Red": 50
+    },
+    "costCurve": [
+      0,
+      11,
+      9,
+      11,
+      3,
+      7,
+      3,
+      6
+    ],
+    "deckCount": 50,
+    "gearCount": 12,
+    "legendCount": 3,
+    "programCount": 18,
+    "ramBudget": {
+      "Red": 6
+    },
+    "ramUsage": {
+      "Red": 4
+    },
+    "totalCards": 53,
+    "unitCount": 20
+  },
+  "updated_at": "2026-09-07T04:21:02.939Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "91df478a-91d5-4d42-a624-4c20ec61121c",
+          "card_slug": "dexter-deshawn-off-the-grid",
+          "preferred_printing_id": "9a298f42-3a9f-4510-b2fd-9cf1b34ade27",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "9e681d3e-cbfd-4c7b-a69a-72a83dc8b847",
+          "card_slug": "royce-psycho-on-the-edge",
+          "preferred_printing_id": "3e2e228b-dbfb-484b-b82d-6972ff184aab",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "eff41c12-b872-4101-9779-00e691532893",
+          "card_slug": "adam-smasher-ender-of-legends",
+          "preferred_printing_id": "a9c1137e-2e33-4293-9dcc-9351c9a0bbee",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "2383",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 50,
+      "cards": [
+        {
+          "card_entity_id": "e8b0432c-4d2d-4464-9a00-f3626917a7f0",
+          "card_slug": "japantown-jonin",
+          "preferred_printing_id": "30619097-d9d7-42fe-bf4c-cd4ae822792d",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "3c4e7fcb-933d-4712-9ce7-6052a14f8e94",
+          "card_slug": "swordwise-huscle",
+          "preferred_printing_id": "1c053198-187e-49ab-a9e0-0661b4c3b337",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "21f68be2-c664-4ae0-a7ef-965a3a5a14c8",
+          "card_slug": "meredith-stout-stone-cold-corpo",
+          "preferred_printing_id": "5939771d-bdcc-4b42-aea4-376311189e93",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "c688ca08-b3b7-441d-b161-78b9a63a8a9e",
+          "card_slug": "el-sombrero-n-la-venganza-lenta",
+          "preferred_printing_id": "94180516-28a6-4f5c-b79e-de38a95ed47b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "9e465b11-9743-4275-a71d-d701b059eef0",
+          "card_slug": "royce-don-t-call-me-simon",
+          "preferred_printing_id": "b749ce16-1b44-47d8-bce4-4fd373007a5c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "7a62beca-ac54-4c0d-847d-ed85838c5093",
+          "card_slug": "screw-lovelorn-fool",
+          "preferred_printing_id": "a7117b0f-74ab-44b5-87fb-de267d0f2164",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "4c098450-e3ae-47e5-98d4-d51a2ab132ce",
+          "card_slug": "octant",
+          "preferred_printing_id": "089df0e6-0000-4e6c-b6d3-d9119466b624",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "6cf6456d-d020-4c6c-9041-66d503a01a0a",
+          "card_slug": "yorinobu-arasaka-steel-dragon",
+          "preferred_printing_id": "c057ccc4-bb15-4efd-8115-8d223568134b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "28198e04-60e2-4f81-9786-903a9a947d7a",
+          "card_slug": "mantis-blades",
+          "preferred_printing_id": "7ffa8ba4-f187-4ba0-a719-fa8ebf45a03b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "5233bacc-f39f-4383-8e25-57ef634735ca",
+          "card_slug": "arasaka-emergency-radioport",
+          "preferred_printing_id": "d2da65d5-fdaf-44f4-a692-a5672d2c1cca",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "4670d02b-b97a-4771-bb7e-65bdc012530e",
+          "card_slug": "satori-sword-of-saburo",
+          "preferred_printing_id": "11a8fed4-5401-4cfc-901b-ab9b5b94d0ab",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "1d8f611c-dd08-48d1-82eb-451d56dcf651",
+          "card_slug": "deadman-transmitter",
+          "preferred_printing_id": "32957075-42ff-47e3-8252-e78877ef61f7",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "1f969c27-dddb-4971-9ab5-bd728c3e3e52",
+          "card_slug": "all-is-lost",
+          "preferred_printing_id": "d1a3c0e0-e0e7-418d-afb4-e6e43400c42e",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "2697ed9d-72fc-4658-9c94-977668911a67",
+          "card_slug": "detonate",
+          "preferred_printing_id": "bec995b7-b76b-4605-9c36-3d7697cdd4f5",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "a708461f-1f91-4789-bb0d-96e3de5fcf44",
+          "card_slug": "industrial-assembly",
+          "preferred_printing_id": "9103b5db-bf95-4385-8941-308cb0353c9a",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "59ddecca-1501-492a-b8b1-d4b38d4486c9",
+          "card_slug": "appetite-for-destruction",
+          "preferred_printing_id": "f274789d-69f2-4acf-a511-f728c67d1a13",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "3eb0f8bf-afb9-42a7-a4fa-710e2eb5c89c",
+          "card_slug": "bonnie-and-clyde",
+          "preferred_printing_id": "26d60270-1b43-4af3-a8b7-1c3db9675cfa",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "144c3559-3518-4c01-b9e6-af42b7166661",
+          "card_slug": "over-the-edge",
+          "preferred_printing_id": "f1cf4133-45ef-4de5-abfc-757de1613731",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "27c01b18-2a9c-4d66-ad21-b75869fba666",
+          "card_slug": "gunpoint-diplomacy",
+          "preferred_printing_id": "efc5dfdd-f393-4bbe-a7bc-ac959ba1e6bc",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "050d0502-94b0-4bee-a7e6-a9b00f31b4ae",
+          "card_slug": "shattered-memories",
+          "preferred_printing_id": "3401c7cf-45c5-4fe4-a883-284a9334262d",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "81fb66ee-b054-4f78-b0c9-7d2c9ff53435",
+          "card_slug": "carnage-at-the-colosseum",
+          "preferred_printing_id": "36128749-4cb1-440d-b4de-4fd463cc2f5c",
+          "quantity": 3
+        }
+      ],
+      "display_name": "Deck",
+      "id": "2384",
+      "zone_code": "deck"
+    }
+  ]
+}

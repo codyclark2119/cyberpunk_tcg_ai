@@ -1,0 +1,237 @@
+{
+  "card_count": 53,
+  "created_at": "2026-09-04T01:45:48.971Z",
+  "credit": null,
+  "description": null,
+  "format": {
+    "code": "standard",
+    "id": "2597b437-684e-46a6-bc1d-5c54d1a58ea1",
+    "name": "Standard"
+  },
+  "game": {
+    "code": "cyberpunk",
+    "id": "81678d6f-c874-4da3-98cf-9b88ceee66a9",
+    "name": "Cyberpunk TCG"
+  },
+  "id": "4a46426d-2ac7-4b9e-a9bf-1502e6e9048b",
+  "is_valid": true,
+  "name": "maelstrom Assault",
+  "owner": {
+    "owner_pseudonym": "author-5c3c8316a426"
+  },
+  "slug": "new-deck",
+  "stats": {
+    "avgCost": 3.2,
+    "avgPower": 4,
+    "colorDistribution": {
+      "Red": 34,
+      "Yellow": 16
+    },
+    "costCurve": [
+      0,
+      7,
+      10,
+      17,
+      2,
+      10,
+      4,
+      0
+    ],
+    "deckCount": 50,
+    "gearCount": 8,
+    "legendCount": 3,
+    "programCount": 13,
+    "ramBudget": {
+      "Red": 4,
+      "Yellow": 2
+    },
+    "ramUsage": {
+      "Red": 3,
+      "Yellow": 2
+    },
+    "totalCards": 53,
+    "unitCount": 29
+  },
+  "updated_at": "2026-09-04T01:50:47.900Z",
+  "visibility": "public",
+  "zones": [
+    {
+      "card_count": 3,
+      "cards": [
+        {
+          "card_entity_id": "3b3f941d-aa58-4337-99dc-4af3fd3ccd47",
+          "card_slug": "dum-dum-maelstrom-triggerman",
+          "preferred_printing_id": "aaac486c-dbfd-4137-b373-24a2df29522c",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "81a8dec7-9541-4020-93e1-7d798a57dcbc",
+          "card_slug": "v-streetkid",
+          "preferred_printing_id": "3fc63c58-5954-4744-a5af-047bfc5cb159",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "9e681d3e-cbfd-4c7b-a69a-72a83dc8b847",
+          "card_slug": "royce-psycho-on-the-edge",
+          "preferred_printing_id": "3e2e228b-dbfb-484b-b82d-6972ff184aab",
+          "quantity": 1
+        }
+      ],
+      "display_name": "Legends",
+      "id": "2917",
+      "zone_code": "legends"
+    },
+    {
+      "card_count": 50,
+      "cards": [
+        {
+          "card_entity_id": "e8b0432c-4d2d-4464-9a00-f3626917a7f0",
+          "card_slug": "japantown-jonin",
+          "preferred_printing_id": "30619097-d9d7-42fe-bf4c-cd4ae822792d",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "fee335a7-2546-48a5-9bb8-b0886014ce66",
+          "card_slug": "ruthless-lowlife",
+          "preferred_printing_id": "e1b674d0-4ac7-4523-be19-809308871d49",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "b05cb065-309e-45a3-bbe0-20f4b6ea71aa",
+          "card_slug": "secondhand-bombus",
+          "preferred_printing_id": "fcbb6d58-6666-4bd3-8ff0-64930fb0f422",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "b3b40c68-705b-41ff-ae10-4132497c4a39",
+          "card_slug": "sketchy-ripper",
+          "preferred_printing_id": "12f0398c-bcc3-4944-af72-ac2ae9f36761",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "f61b944a-32e3-4085-894b-7bd498325156",
+          "card_slug": "dexter-deshawn-one-last-chance",
+          "preferred_printing_id": "e2f38541-ecc9-41dc-ae15-164171391bff",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "f57094f7-0720-4ba5-9a71-aafbc714d65a",
+          "card_slug": "maelstrom-goons",
+          "preferred_printing_id": "e14bdd12-1214-4104-bfdd-ae023c21527c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "3c4e7fcb-933d-4712-9ce7-6052a14f8e94",
+          "card_slug": "swordwise-huscle",
+          "preferred_printing_id": "1c053198-187e-49ab-a9e0-0661b4c3b337",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "21f68be2-c664-4ae0-a7ef-965a3a5a14c8",
+          "card_slug": "meredith-stout-stone-cold-corpo",
+          "preferred_printing_id": "5939771d-bdcc-4b42-aea4-376311189e93",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "0273f402-94fb-4b59-90ec-a1057c2d1284",
+          "card_slug": "caliber-totentanz-s-top-dog",
+          "preferred_printing_id": "4b5dc479-0db1-46dd-859f-e7dc34d50f03",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "95840ebd-d00a-49ff-b4e5-e2064cfc13a9",
+          "card_slug": "maxtac-suppression-team",
+          "preferred_printing_id": "47f55164-e5da-494e-9d55-02bd0b7f97c1",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "9e465b11-9743-4275-a71d-d701b059eef0",
+          "card_slug": "royce-don-t-call-me-simon",
+          "preferred_printing_id": "b749ce16-1b44-47d8-bce4-4fd373007a5c",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "7a62beca-ac54-4c0d-847d-ed85838c5093",
+          "card_slug": "screw-lovelorn-fool",
+          "preferred_printing_id": "a7117b0f-74ab-44b5-87fb-de267d0f2164",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "9ed58d18-df78-4689-b28f-77260243c522",
+          "card_slug": "v-roamer-of-the-badlands",
+          "preferred_printing_id": "c1747b7d-de5c-43eb-a4ed-b632f1861712",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "e8aa7757-e5e3-4137-8970-4fa546b9bed9",
+          "card_slug": "animals-wrecker",
+          "preferred_printing_id": "7514dd38-6e2d-43dd-9715-6b3a32615382",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "654f2289-5d75-4f8b-bd35-702031fbb214",
+          "card_slug": "kiroshi-optics",
+          "preferred_printing_id": "ec3368a9-79f1-4dfc-9cf7-1cb464ec1c88",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "28198e04-60e2-4f81-9786-903a9a947d7a",
+          "card_slug": "mantis-blades",
+          "preferred_printing_id": "7ffa8ba4-f187-4ba0-a719-fa8ebf45a03b",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "4670d02b-b97a-4771-bb7e-65bdc012530e",
+          "card_slug": "satori-sword-of-saburo",
+          "preferred_printing_id": "11a8fed4-5401-4cfc-901b-ab9b5b94d0ab",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "1d8f611c-dd08-48d1-82eb-451d56dcf651",
+          "card_slug": "deadman-transmitter",
+          "preferred_printing_id": "32957075-42ff-47e3-8252-e78877ef61f7",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "2697ed9d-72fc-4658-9c94-977668911a67",
+          "card_slug": "detonate",
+          "preferred_printing_id": "bec995b7-b76b-4605-9c36-3d7697cdd4f5",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "3eb0f8bf-afb9-42a7-a4fa-710e2eb5c89c",
+          "card_slug": "bonnie-and-clyde",
+          "preferred_printing_id": "26d60270-1b43-4af3-a8b7-1c3db9675cfa",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "87e001dd-8604-4523-af6e-d768118ccf98",
+          "card_slug": "cyberpsychosis",
+          "preferred_printing_id": "5aafe80b-7c7d-4060-8677-a2881a21dd72",
+          "quantity": 3
+        },
+        {
+          "card_entity_id": "144c3559-3518-4c01-b9e6-af42b7166661",
+          "card_slug": "over-the-edge",
+          "preferred_printing_id": "f1cf4133-45ef-4de5-abfc-757de1613731",
+          "quantity": 2
+        },
+        {
+          "card_entity_id": "27c01b18-2a9c-4d66-ad21-b75869fba666",
+          "card_slug": "gunpoint-diplomacy",
+          "preferred_printing_id": "efc5dfdd-f393-4bbe-a7bc-ac959ba1e6bc",
+          "quantity": 1
+        },
+        {
+          "card_entity_id": "81fb66ee-b054-4f78-b0c9-7d2c9ff53435",
+          "card_slug": "carnage-at-the-colosseum",
+          "preferred_printing_id": "36128749-4cb1-440d-b4de-4fd463cc2f5c",
+          "quantity": 2
+        }
+      ],
+      "display_name": "Deck",
+      "id": "2918",
+      "zone_code": "deck"
+    }
+  ]
+}

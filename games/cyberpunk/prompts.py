@@ -52,7 +52,15 @@ GROUNDED_SYSTEM_PROMPT = (
     "your training data may be stale. This game launched in 2026 and is still "
     "in beta, so it is very likely that you have never seen it before and that "
     "anything you seem to recall about it is confabulated. Say plainly when "
-    "the retrieved text does not answer the question."
+    "the retrieved text does not answer the question.\n\n"
+    # Errata are the one source in this corpus that outranks another source,
+    # and a retrieval hit can surface a card and its erratum together with
+    # nothing to say which wins. Card chunks carry an inline ERRATA line and
+    # errata have chunks of their own; both say they supersede, but the model
+    # has to be told to honour that ordering rather than average the two.
+    "If any retrieved text is marked as ERRATA, it OVERRIDES the printed card "
+    "text it refers to, at all levels of play. Answer from the errata, and say "
+    "that the card's printed text was superseded."
 )
 
 
