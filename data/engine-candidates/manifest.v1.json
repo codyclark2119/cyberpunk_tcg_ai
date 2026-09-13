@@ -1,0 +1,23 @@
+{
+  "authority": "SOURCE_CANDIDATES_ONLY",
+  "catalogSha256": "b96ca8d583ab087148c9ed3563379e6c42fd9e729188a042215bb503a8879c3d",
+  "errataCount": 4,
+  "forbiddenAuthority": [
+    "revision",
+    "mechanics",
+    "execution",
+    "reviewed",
+    "status"
+  ],
+  "kind": "CYBERPUNK_ENGINE_CANDIDATES_V1",
+  "recordCount": 151,
+  "schemaVersion": 1,
+  "source": {
+    "cardDatabasePath": "data/processed/card_database.jsonl",
+    "cardDatabaseSha256": "73cfaedc59d73168779179292b04cd9362f2b48df8d8d95e8d37c4db4863ec72",
+    "cardIndexPath": "data/raw/cards/_index.json",
+    "cardIndexSha256": "26b58ee62786a832cf6107a75e720d30767dd4750dc2dcd0ed456a667754594c",
+    "errataPath": "data/processed/errata.jsonl",
+    "errataSha256": "16304146074363480e2c22639c9799b9d4302118c669e85e9f475b4a1bf6a340"
+  }
+}
